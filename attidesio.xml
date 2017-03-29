@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-16"?>
 <rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 		<title>RSS Atti Desio</title>
-		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/</link>
+		<link>https://www.ipersoft.it/</link>
 		<description>Feed Atti Desio by Ipersoft</description>
-		<lastBuildDate>Wed, 29 Mar 2017 10:54:08 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 29 Mar 2017 15:42:50 +0200</lastBuildDate>
 		<a10:id>AttiDesioIpersoft</a10:id>
 		<item>
 			<guid isPermaLink="false">3150339</guid>
