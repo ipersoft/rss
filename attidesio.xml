@@ -5,7 +5,14 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 03 Apr 2017 12:30:34 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 03 Apr 2017 13:00:32 +0200</lastBuildDate>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3168100</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3168100</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>AVVISO PUBBLICO ESPLORATIVO PER MANIFESTAZIONE D’INTERESSE ALLA PROCEDURA DI GARA PER L’AFFIDAMENTO DEL SERVIZIO : FORNITURA DEL SERVIZIO DI STREAMING ON LINE E ON DEMAND DELLE SEDUTE DI CONSIGLIO COMUNALE SU PIATTAFORMA CLOUD, INCLUSI I SERVIZI DI ASSISTENZA, AGGIORNAMENTO E MANUTENZIONE PER 3 ANNI</description>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3166276</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3166276</link>
@@ -138,13 +145,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>SERVIZI DI MANUTENZIONE HARDWARE PERIFERICHE PLOTTER STAMPANTI TRAMITE MEPA PERIODO DAL 1-4-2017 AL 31-12-2017 - IMPEGNO DI SPESA € 4.203,36 –CODICE CIG ZDB1E02991 </description>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3162966</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3162966</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>FORNITURA TRAMITE MEPA DELLA MANUTENZIONE DELLE STAMPANTI AD AGHI SPORTELLI DEMOGRAFICI DITTA SIMI ANNO 2017 – IMPEGNO DI SPESA EURO 3.147,6 – CODICE CIG Z7E1E04477 .</description>
 		</item>
 	</channel>
 </rss>
