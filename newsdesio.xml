@@ -5,8 +5,25 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 06 Apr 2017 12:30:15 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 06 Apr 2017 13:00:25 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43811</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43811</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Mostra "La materia e il colore"</title>
+			<description>La Donazione Scalvini presenta in Villa Tittoni sabato 8 aprile alle ore 18 gli artisti spagnoli Alberto Gomez Ascaso, scultore e Luis Hinojosa, pittore. Mostra aperta fino al 7 maggio
+</description>
+			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43804</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43804</link>
+			<category></category>
+			<title>Concerto del pianista Maurizio Baglini </title>
+			<description>Uno dei musicisti più brillanti e apprezzati sulla scena internazionale in concerto presso il Circolo Pro Desio domenica 9 aprile alle ore 15.30 </description>
+			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43784</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43784</link>
@@ -159,22 +176,6 @@ I mondi fantastici - Sabato 1 aprile ore 17 Biblioteca Civica Area Sostare </des
 			<category>- Promozione culturale e sportiva</category>
 			<title>CNIGHT – Le mille e una Tanda</title>
 			<description>Villa Tittoni  domenica 26 marzo a partire dalle ore 19 apre le sue regali sale al Tango Argentino, un evento unico e speciale davvero da non perdere.</description>
-			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43557</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43557</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Villa Tittoni "accoglie" Papa Francesco</title>
-			<description>Apertura straordinaria di Villa Tittoni e della Casa natale di Pio XI in occasione della visita del Papa a Monza nell'ambito di Ville aperte in Brianza</description>
-			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43549</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43549</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Un Poster per la Pace</title>
-			<description>Domenica 26 marzo ore 10 in Villa Tittoni inaugurazione della mostra e premiazione dei migliori disegni di "Un poster per la Pace" promosso dall'associazione  Lions Club di Desio </description>
 			<a10:updated>2017-03-16T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
