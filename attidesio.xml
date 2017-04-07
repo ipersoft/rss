@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 07 Apr 2017 11:00:50 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 07 Apr 2017 11:30:15 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3180058</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3180058</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>SERVIZIO DI MANUTENZIONE ORDINARIA OROLOGIO TORRE CAMPANARIA. AFFIDAMENTO ALLA DITTA CAPANNI CAV. UFF. PAOLO SNC. E ASSUNZIONE IMPEGNO DI SPESA € 810,00 + IVA 22% BIENNIO 2017- 2018 - CIG ZDA1DEA40D</description>
+			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3180056</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3180056</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PRESA D'ATTO PROCEDURA AVVISO MANIFESTAZIONE DI INTERESSE E SUCCESSIVA RDO SU SINTEL DESERTA E AFFIDAMENTO DIRETTO ALLA DITTA PROMOTION MERATE S.R.L. DELLA FORNITURA SERVIZI NECESSARI ALLA REALIZZAZIONE DEL PROGETTO “INFORMATORE COMUNALE DESIOCITTA’ ” MEDIANTE PROCEDURA AUTONOMA (LIBERO MERCATO)</description>
+			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3179967</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3179967</link>
@@ -150,22 +166,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>CONVENZIONE CON AGENZIA DELLE ENTRATE – TERRITORIO PER LA PROSECUZIONE DEL SERVIZIO DI VISURE CATASTALI – IMPEGNO DI SPESA DI DIRITTI CATASTALI DI COMPETENZA DELL’AGENZIA DELLE ENTRATE – TERRITORIO E ACCERTAMENTO INTROITI ANNO 2017 </description>
 			<a10:updated>2017-04-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3166037</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3166037</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>MANUTENZIONE APPARATI ELETTRONICI DI NETWORKING DI RETE INFORMATICA TRAMITE MEPA – IMPEGNO DI SPESA EURO 6.100 IVA COMPRESA, CIG Z981E0D1CC </description>
-			<a10:updated>2017-04-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3162991</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3162991</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>LAVORI DI MANUTENZIONE SEGNALETICA STRADALE (CAT. OS10) – ANNI 2017-2018 – PROCEDURA DI ACCORDO QUADRO CON UN SOLO OPERATORE ECONOMICO AI SENSI DELL’ART. 54 DEL D.LGS. 50/2016 – APPROVAZIONE PROGETTO</description>
-			<a10:updated>2017-03-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
