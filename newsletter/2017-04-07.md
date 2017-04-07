@@ -1,4 +1,4 @@
-html><body><DIV>
+<html><body><DIV>
 <DIV>
 <DIV>
 <DIV>
@@ -113,4 +113,4 @@ html><body><DIV>
 <DIV><STRONG></STRONG></DIV>
 <DIV><STRONG><IMG style="WIDTH: 31px; HEIGHT: 28px" alt="logo facebook" src="https://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=18791" width=95 height=56></STRONG><A title="" href="https://it-it.facebook.com/pages/Comune-Di-Desio/103441483073684" target=_self><FONT color=#990066><STRONG>Facebook</STRONG></FONT></A><FONT color=#990066><STRONG> <IMG style="WIDTH: 32px; HEIGHT: 31px" alt="logo twitter" src="https://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?ID=18792" width=38 height=44> </STRONG></FONT><A title="" href="https://mobile.twitter.com/comunedidesio" target=_self><FONT color=#990066><STRONG>Twitter</STRONG></FONT></A><STRONG> </STRONG></DIV>
 <DIV></DIV></DIV>
-<DIV><STRONG><IMG style="WIDTH: 622px; HEIGHT: 60px" border=0 alt="piè di pagina dic 2010" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=6565" width=993 height=74></STRONG></DIV></DIV></DIV></DIV></FONT></FONT></FONT></FONT></FONT></FONT><STRONG></STRONG></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></body></html>
+<DIV><STRONG><IMG style="WIDTH: 622px; HEIGHT: 60px" border=0 alt="piè di pagina dic 2010" src="http://www.comune.desio.mb.it/servizi/gestionedocumentale/visualizzadocumento.aspx?id=6565" width=993 height=74></STRONG></DIV></DIV></DIV></DIV></FONT></FONT></FONT></FONT></FONT></FONT><STRONG></STRONG></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></DIV></body></html
