@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 10 Apr 2017 13:30:17 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 10 Apr 2017 14:00:25 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43904</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43904</link>
+			<category>- Scuola e Formazione</category>
+			<title>Centri estivi per bambini dai 6 agli 11 anni:"Lo specchio di Alice"</title>
+			<description>Dal 02 al 13 Maggio le iscrizioni all'edizione 2017 dei Centri Estivi comunali per bambini dai 6 agli 11 anni. Tema "Lo specchio di Alice".</description>
+			<a10:updated>2017-04-11T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43894</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43894</link>
@@ -167,15 +175,6 @@ I mondi fantastici - Sabato 1 aprile ore 17 Biblioteca Civica Area Sostare </des
 			<category>- Promozione culturale e sportiva</category>
 			<title>Mostra "La materia e il colore"</title>
 			<description>La Donazione Scalvini presenta in Villa Tittoni sabato 8 aprile alle ore 18 gli artisti spagnoli Alberto Gomez Ascaso, scultore e Luis Hinojosa, pittore. Mostra aperta fino al 7 maggio
-</description>
-			<a10:updated>2017-03-23T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43647</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43647</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Gara di Kata individuale e a squadra</title>
-			<description>Evento benefico in memoria di Mario Ferrucci. Domenica 26 marzo Palabancodesio dalle ore 9 - ingresso libero
 </description>
 			<a10:updated>2017-03-23T00:00:00+01:00</a10:updated>
 		</item>
