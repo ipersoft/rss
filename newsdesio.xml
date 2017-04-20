@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 20 Apr 2017 12:30:23 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 20 Apr 2017 13:00:19 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44051</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44051</link>
+			<category>- Ecologia e Tutela Ambientale</category>
+			<title>Festività  1° maggio: sospensione del servizio di raccolta differenziata</title>
+			<description>Ricordiamo che in occasione della festività del  1° maggio la raccolta porta a porta dei rifiuti verrà sospesa.</description>
+			<a10:updated>2017-04-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44043</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44043</link>
@@ -171,16 +179,6 @@ della Fondazione Scuola Civica di Musica e Danza - Polo delle Arti. </descriptio
 			<title>Giovedì 6 aprile  e giovedì 13 aprile 2017 sedute straordinarie di Consiglio Comunale</title>
 			<description>Le sedute sono convocate per le ore 20.30. </description>
 			<a10:updated>2017-04-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43732</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43732</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Area SoStare - Fracture e Nacheera - "I mondi fantastici"</title>
-			<description>Barbara Bolzan e Valentina Di Caro
-presentano i loro libri Fracture e Nacheera
-I mondi fantastici - Sabato 1 aprile ore 17 Biblioteca Civica Area Sostare </description>
-			<a10:updated>2017-03-31T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
