@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 27 Apr 2017 18:00:22 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 27 Apr 2017 18:30:23 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44104</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44104</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Corso di Murales in biblioteca</title>
+			<description>Vieni a imparare a progettare e dipingere un murales</description>
+			<a10:updated>2017-04-27T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44100</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44100</link>
@@ -167,15 +175,6 @@ Cambio orario di apertura al pubblico per l'ufficio Messi comunali.</description
 			<category></category>
 			<title>Concerto del pianista Maurizio Baglini </title>
 			<description>Uno dei musicisti più brillanti e apprezzati sulla scena internazionale in concerto presso il Circolo Pro Desio domenica 9 aprile alle ore 15.30 </description>
-			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43784</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43784</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Tittoni 4 Kids </title>
-			<description>Libri, tecnologie e dintorni
-Luoghi dove incontrare, conoscere, giocare con la tecnologia e i suoi dintorni Attività per bambini da 0 a 12 anni  Domenica 9 aprile Villa Tittoni dalle 15.00 alle 19.00</description>
 			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
