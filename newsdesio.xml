@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 28 Apr 2017 08:30:21 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 28 Apr 2017 09:00:25 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44105</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44105</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Concerto di Primavera</title>
+			<description>Tradizionale appuntamento con il Corpo Musicale Pio XI sabato 29 aprile alle ore 21 presso il teatro il Centro </description>
+			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44104</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44104</link>
@@ -167,14 +175,6 @@ Cambio orario di apertura al pubblico per l'ufficio Messi comunali.</description
 			<title>Mostra "La materia e il colore"</title>
 			<description>La Donazione Scalvini presenta in Villa Tittoni gli artisti spagnoli Alberto Gomez Ascaso, scultore e Luis Hinojosa, pittore. Mostra aperta fino al 7 maggio.
 </description>
-			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43804</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43804</link>
-			<category></category>
-			<title>Concerto del pianista Maurizio Baglini </title>
-			<description>Uno dei musicisti più brillanti e apprezzati sulla scena internazionale in concerto presso il Circolo Pro Desio domenica 9 aprile alle ore 15.30 </description>
 			<a10:updated>2017-04-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
