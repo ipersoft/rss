@@ -5,8 +5,25 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 28 Apr 2017 10:30:23 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 28 Apr 2017 11:00:24 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44124</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44124</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Culturando maggio 2017: Vita sostenibile</title>
+			<description>Tutti gli appuntamenti con la cultura a Desio per il mese di maggio</description>
+			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44116</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44116</link>
+			<category>- Anagrafe, Elettorale, Statistica, Leva</category>
+			<title>Aggiornamento degli albi dei giudici popolari</title>
+			<description>per le Corti di Assise e per le Corti di Assise di Appello
+</description>
+			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44110</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44110</link>
@@ -158,23 +175,6 @@ della Fondazione Scuola Civica di Musica. In Villa Tittoni, Domenica 30 aprile o
 			<category></category>
 			<title>Manutenzione stradale</title>
 			<description>programma delle opere di manutenzione straordinaria dell'asfaltatura di strade e dei marciapiedi cittadini.</description>
-			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43866</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43866</link>
-			<category></category>
-			<title>La Pro Loco si presenta</title>
-			<description>Presentazione della Pro Loco Desio  venerdì 7 aprile ore 21 Sala Pertini</description>
-			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43829</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43829</link>
-			<category>- Lavori Pubblici</category>
-			<title>Nuove modalità di apertura al pubblico da lunedì 10 aprile</title>
-			<description>Dal 10 aprile gli uffici Lavori Pubblici, Catasto, Ecologia e Patrimonio Demanio osserveranno in via sperimentale un nuovo orario di apertura al pubblico.
-Cambio orario di apertura al pubblico per l'ufficio Messi comunali.</description>
 			<a10:updated>2017-04-07T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
