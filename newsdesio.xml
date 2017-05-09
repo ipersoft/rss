@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 09 May 2017 13:00:26 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 09 May 2017 13:30:25 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44182</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44182</link>
+			<category></category>
+			<title>Manutenzione stradale</title>
+			<description>programma delle opere di manutenzione straordinaria dell'asfaltatura di strade  cittadine.</description>
+			<a10:updated>2017-05-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44175</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44175</link>
@@ -166,15 +174,6 @@ della Fondazione Scuola Civica di Musica. In Villa Tittoni, Domenica 30 aprile o
 			<title>Concessione temporanea per un punto di ristoro all'interno del Parco storico di Villa Tittoni </title>
 			<description>aperto l'avviso pubblico per la stagione estiva 2017. Scade il 15 maggio.
 
-</description>
-			<a10:updated>2017-04-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43940</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=43940</link>
-			<category>- Scuola e Formazione</category>
-			<title>Dote Scuola 2017 </title>
-			<description>dal 19 aprile al 15 giugno 2017 si possono presentare le domande per ottenere la “Dote Scuola” 
 </description>
 			<a10:updated>2017-04-13T00:00:00+02:00</a10:updated>
 		</item>
