@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 May 2017 12:00:25 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 19 May 2017 12:30:21 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44267</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44267</link>
+			<category>- Lavori Pubblici</category>
+			<title>Allerta Meteo : Chiusura Parco dalle ore 12</title>
+			<description>Per motivi di sicurezza dalle ore 12 chiusura Parco di Villa Tittoni</description>
+			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44255</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44255</link>
@@ -162,14 +170,6 @@ presentano il libro Self Service -24h- delitto a tradimento - Sabato 6 maggio or
 			<title>Concerto di Primavera</title>
 			<description>Tradizionale appuntamento con il Corpo Musicale Pio XI sabato 29 aprile alle ore 21 presso il teatro il Centro </description>
 			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44104</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44104</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Corso di Murales in biblioteca</title>
-			<description>Vieni a imparare a progettare e dipingere un murales</description>
-			<a10:updated>2017-05-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
