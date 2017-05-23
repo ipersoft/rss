@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 23 May 2017 12:00:25 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 23 May 2017 12:30:20 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44296</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44296</link>
+			<category></category>
+			<title>One Day in Desio</title>
+			<description>Domenica 28 Maggio una festa lunga un giorno proposta da Parco Tittoni,  Commercianti di Via Lampugnani e Comune di Desio. Dalle 10 alle 23 in Via Lampugnani:
+negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibizioni, mostre, giochi, food e concerti.</description>
+			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44289</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44289</link>
@@ -159,15 +168,6 @@
 			<category>- Promozione culturale e sportiva</category>
 			<title>Culturando maggio 2017: Vita sostenibile</title>
 			<description>Tutti gli appuntamenti con la cultura a Desio per il mese di maggio</description>
-			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44116</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44116</link>
-			<category>- Anagrafe, Elettorale, Statistica, Leva</category>
-			<title>Aggiornamento degli albi dei giudici popolari</title>
-			<description>per le Corti di Assise e per le Corti di Assise di Appello
-</description>
 			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
