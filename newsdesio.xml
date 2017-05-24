@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 May 2017 12:00:28 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 24 May 2017 12:30:21 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44320</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44320</link>
+			<category>- Servizi Sociali</category>
+			<title>Le attività in programma a Giugno  al Centro ricreativo 'Il Girasole'</title>
+			<description>Un programma ricco di appuntamenti al Centro Ricreativo 'Il Girasole' di Via San Pietro.</description>
+			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44312</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44312</link>
@@ -160,14 +168,6 @@ negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibiz
 			<category>- Segreteria Generale</category>
 			<title>Giovedì 4 e venerdì 5 maggio 2017 sedute ordinarie di Consiglio Comunale</title>
 			<description>Le sedute sono convocate per le ore 20.30. </description>
-			<a10:updated>2017-05-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44144</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44144</link>
-			<category>- Partecipazione e Cittadinanza Attiva</category>
-			<title>PORTO &amp; SCAMBIO </title>
-			<description>Mercatino di scambio vestiti e oggetti usati in buono stato, sabato 6 maggio 2017.</description>
 			<a10:updated>2017-05-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
