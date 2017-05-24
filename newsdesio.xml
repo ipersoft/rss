@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 May 2017 14:30:26 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 24 May 2017 15:00:25 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44340</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44340</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>We share books</title>
+			<description>Premiazione del concorso booktrailer dedicato ai giovani lettori- Sabato 27 maggio ore 17.30 Biblioteca civica Area SoStare</description>
+			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44320</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44320</link>
@@ -161,14 +169,6 @@ negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibiz
 			<description>Stand di coltivatori diretti, giochi, animazioni, curiosità, danze, esposizioni, prodotti da scoprire. 13 - 14 -maggio 2017 Bocciofila Parco - Villa Tittoni - Via Lampugnani
 </description>
 			<a10:updated>2017-05-05T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44145</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44145</link>
-			<category>- Segreteria Generale</category>
-			<title>Giovedì 4 e venerdì 5 maggio 2017 sedute ordinarie di Consiglio Comunale</title>
-			<description>Le sedute sono convocate per le ore 20.30. </description>
-			<a10:updated>2017-05-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
