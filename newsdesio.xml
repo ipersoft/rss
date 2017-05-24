@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 May 2017 11:30:27 +0200</lastBuildDate>
+		<lastBuildDate>Wed, 24 May 2017 12:00:28 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44312</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44312</link>
+			<category>- Ufficio di Piano</category>
+			<title>Pubblicazione Graduatorie D.G.R. X/5940 del 5.12.2016 – Fondo non Autosufficienza</title>
+			<description>Avviso pubblico per l’ erogazione delle misure a favore delle persone con disabilità grave e anziani non autosufficienti MISURA B2  anno  2017</description>
+			<a10:updated>2017-05-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44307</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44307</link>
@@ -161,14 +169,6 @@ negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibiz
 			<title>PORTO &amp; SCAMBIO </title>
 			<description>Mercatino di scambio vestiti e oggetti usati in buono stato, sabato 6 maggio 2017.</description>
 			<a10:updated>2017-05-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44137</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44137</link>
-			<category>- Ragioneria</category>
-			<title>Approvato dal Consiglio Comunale il Rendiconto di Gestione 2016</title>
-			<description>il Rendiconto rappresenta un documento fondamentale per la gestione finanziaria del Comune e illustra in che modo sono state consumate le risorse autorizzate nel corso dell'anno.</description>
-			<a10:updated>2017-04-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
