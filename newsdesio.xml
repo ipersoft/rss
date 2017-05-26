@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 26 May 2017 14:30:25 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 26 May 2017 15:00:26 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44360</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44360</link>
+			<category></category>
+			<title>The School of Street Art</title>
+			<description> Sabato 27 maggio in Piazza Giovanni XXIII i bambini della scuola elementare di Via Tolstoj si cimentano nella street art, trasformando l'edicola della Piazza in un'opera d'arte. </description>
+			<a10:updated>2017-05-26T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44350</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44350</link>
@@ -159,15 +167,6 @@ negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibiz
 			<category></category>
 			<title>avviso di mobilità per un posto di funzionario esperto D3 addetto stampa</title>
 			<description>avviso di mobilità per un posto di funzionario esperto D3 addetto stampa</description>
-			<a10:updated>2017-05-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44198</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44198</link>
-			<category></category>
-			<title>GRADUATORIA FINALE  CONCORSO PUBBLICO PER N. 1 FUNZIONARIO INFORMATICO - CAT. D1</title>
-			<description>GRADUATORIA FINALE BANDO DI CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO DI FUNZIONARIO INFORMATICO - CAT. D1-
-</description>
 			<a10:updated>2017-05-09T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
