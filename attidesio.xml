@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 29 May 2017 10:00:27 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 29 May 2017 10:30:33 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3284228</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3284228</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PRESA D’ATTO DIMISSIONI PRESENTATE DALLA DOTT. SSA NICOLINA BASTA – SEGRETARIO COMUNALE</description>
+			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3284226</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3284226</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>ASSEGNAZIONE POSTO AUTO IN VIA COLOMBO 27 AL SIG. B.S.</description>
+			<a10:updated>2017-05-29T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3282512</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3282512</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>CENTRO SPORTIVO DESIANO - RICHIESTA DEL PATROCINIO COMUNALE PER LA MANIFESTAZIONE DENOMINATA “43° FIACCOLA VOTIVA” IN PROGRAMMA DAL 28 APRILE 2016 E CON ARRIVO IN PIAZZA CONCILIAZIONE IL 1 MAGGIO 2017 </description>
-			<a10:updated>2017-05-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3239864</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3239864</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ASSOCIAZIONE CULTURALE AMICI DELLA MUSICA - RICHIESTA PATROCINIO COMUNALE E CONCESSIONE CONTRIBUTO PER LO SVOLGIMENTO DELLA MANIFESTAZIONE DAL TITOLO “CARLO BOCCADORO – LE SETTE NOTE”, IN PROGRAMMA IL GIORNO 22 APRILE 2017 PRESSO LA SEDE DELLA ASSOCIAZIONE SITA IN DESIO – VIA LAMPUGNANI 80</description>
-			<a10:updated>2017-05-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3239862</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3239862</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PARROCCHIA DI S. GIORGIO – RICHIESTA DEL PATROCINIO COMUNALE PER EDIZIONE FESTA PATRONALE DEL 22 E 23 APRILE 2017. </description>
 			<a10:updated>2017-05-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
