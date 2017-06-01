@@ -5,8 +5,32 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 01 Jun 2017 15:00:24 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 01 Jun 2017 15:30:22 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44421</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44421</link>
+			<category></category>
+			<title>Alla scoperta della Battaglia di Desio</title>
+			<description>Un viaggio tra storia e mito. Passeggiata alla scoperta dei luoghi dove si è svolta la battaglia di Desio. Domenica 11 giugno piazzetta S. Maria. Partenze ore 15 e 16.30. A cura della Pro Loco Desio</description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44417</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44417</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>I diversi volti dell'infanzia</title>
+			<description>Mostra collettiva di pittura dell'associazione Dipingere Insieme. Villa Tittoni 10 - 11 giugno 2017. Inaugurazione sabato 10 giugno ore 17</description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44406</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44406</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Palio degli Zoccoli: l'appuntamento della Città con la sua storia</title>
+			<description>L'evento che vedrà affrontarsi anche quest'anno gli atleti delle 11 contrade cittadine. Giunta alla sua 29^ edizione, la gara del Palio si disputerà  il 4 giugno 2017 con partenza da Villa Tittoni</description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44402</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44402</link>
@@ -144,30 +168,6 @@ negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibiz
 			<title>Allerta Meteo: chiusura del Parco di Villa Tittoni dalle ore 12</title>
 			<description>Per motivi di sicurezza dalle ore 12 chiusura Parco di Villa Tittoni</description>
 			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44255</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44255</link>
-			<category></category>
-			<title>Graduatoria provvisoria del bando pubblico per i posteggi nei mercati cittadini</title>
-			<description>Il bando riguardava i mercati Nord e Sud e posteggi isolati.</description>
-			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44246</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44246</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Rassegna "Libri su Misura" in Biblioteca</title>
-			<description>"A est della tangenziale Ovest", incontro con l'autore Mario Frighi - Sabato 20 maggio ore 17 Biblioteca Civica Sala Sostare </description>
-			<a10:updated>2017-05-16T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44226</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44226</link>
-			<category>- Servizi Sociali</category>
-			<title>Bonus Idrico </title>
-			<description>Anche Desio ha aderito alla misura “Bonus Idrico” deliberato da BrianzAcque S.r.l. a favore delle famiglie in difficoltà.</description>
-			<a10:updated>2017-05-12T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
