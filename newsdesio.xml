@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 01 Jun 2017 15:30:22 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 01 Jun 2017 16:00:25 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44429</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44429</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Serate danzanti al Parco </title>
+			<description>Dal 1 giugno riprendono anche quest'anno le serate danzanti presso Bocciofila del Parco di Villa Tittoni tutti e giovedì e domenica. Inizio delle danze ore 21</description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44423</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44423</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Desio dal Vivo - Shopping, Eventi, Tempo Libero </title>
+			<description>Al via Desio Estate dal Vivo: Festa per tutta l'estate nel cuore di Desio! Mercoledì 7 giugno ore 21 in piazza Conciliazione Concerto tributo ai Pink Flyd del gruppo Publius Enigma</description>
+			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44421</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44421</link>
@@ -152,22 +168,6 @@ negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibiz
 			<title>DesioCittà torna nelle case dei desiani.</title>
 			<description>E' in distribuzione l'edizione di maggio dell'informatore comunale DesioCittà. Pubblichiamo qui la versione online. Buona lettura! </description>
 			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44271</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44271</link>
-			<category>- Anagrafe, Elettorale, Statistica, Leva</category>
-			<title>Stop alle code!</title>
-			<description>Al via presso i Servizi Demografici del Comune, una campagna per favorire l'accesso ai servizi di certificazione online. A partire dal mese di giugno, ogni martedì, gli operatori saranno a disposizione dei cittadini per illustrare il servizio.</description>
-			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44267</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44267</link>
-			<category>- Lavori Pubblici</category>
-			<title>Allerta Meteo: chiusura del Parco di Villa Tittoni dalle ore 12</title>
-			<description>Per motivi di sicurezza dalle ore 12 chiusura Parco di Villa Tittoni</description>
-			<a10:updated>2017-05-19T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
