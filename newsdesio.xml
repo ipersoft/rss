@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 06 Jun 2017 12:30:29 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 06 Jun 2017 13:00:08 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44436</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44436</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Dés par Dés by night</title>
+			<description>Gara podistica competitiva in notturna a cura del Gruppo Marciatori Desio sabato 10 giugno 2017 dalle ore 18.30. Ritrovo presso il Centro Sportivo Comunale</description>
+			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44429</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44429</link>
@@ -160,14 +168,6 @@ Sabato 10 e 17 giugno ore 17.30 Biblioteca Civica Area Sostare </description>
 			<description>Domenica 28 Maggio una festa lunga un giorno proposta da Parco Tittoni,  Commercianti di Via Lampugnani e Comune di Desio. Dalle 10 alle 23 in Via Lampugnani:
 negozi aperti, laboratori, bancarelle, 100 Strade per Giocare, cosplayer, esibizioni, mostre, giochi, food e concerti.</description>
 			<a10:updated>2017-05-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44289</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44289</link>
-			<category>- Ufficio Stampa</category>
-			<title>DesioCittà torna nelle case dei desiani.</title>
-			<description>E' in distribuzione l'edizione di maggio dell'informatore comunale DesioCittà. Pubblichiamo qui la versione online. Buona lettura! </description>
-			<a10:updated>2017-05-22T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
