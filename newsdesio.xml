@@ -5,11 +5,27 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 23 Jun 2017 10:30:26 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 23 Jun 2017 11:00:29 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
 		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44504</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44504</link>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44523</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44523</link>
+			<category>- Risorse Umane</category>
+			<title>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</title>
+			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44519</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44519</link>
+			<category>- Risorse Umane</category>
+			<title>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</title>
+			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
+			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44515</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44515</link>
 			<category>- Risorse Umane</category>
 			<title>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</title>
 			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
@@ -153,22 +169,6 @@ per partecipazione a lutto, potrebbero verificarsi disguidi nella normale attivi
 			<category>- Promozione culturale e sportiva</category>
 			<title>La Famiglia che cammina</title>
 			<description>Manifestazione podistica ludico motoria a passo libero aperta a tutti giunta alla sua 40 ^ edizione a cura del Gruppo sportivo S. Giuseppe. Venerdì 2 giugno partenze dalle ore 8 alle ore 9 presso  Palabancodesio</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44392</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44392</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Festa della Repubblica </title>
-			<description>Concerto del Corpo Musicale Pio XI Città di Desio in occasione del 71° anniversario Festa della Repubblica venerdì 2 giugno alle ore 21 in Piazzale condominio Bianchi - via Volta, 98</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44381</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44381</link>
-			<category>- Partecipazione e Cittadinanza Attiva</category>
-			<title>"Conosciamo il nostro parco"</title>
-			<description>Domenica 11 giugno due iniziative presso il parco di Villa Tittoni</description>
 			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
