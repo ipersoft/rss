@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 30 Jun 2017 11:00:24 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jun 2017 11:30:22 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44587</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44587</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>9^ Festa Alpina </title>
+			<description>Dal 30 giugno presso Oratorio San Francesco - ingresso da via Giusti angolo via Roma e nei giorni l -  2 - 7 -  8 - 9 luglio 2017 a cura del Gruppo Alpini di Desio
+</description>
+			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44578</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44578</link>
@@ -160,17 +169,9 @@ per partecipazione a lutto, potrebbero verificarsi disguidi nella normale attivi
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44423</link>
 			<category>- Promozione culturale e sportiva</category>
 			<title>Desio dal Vivo - Shopping, Eventi, Tempo Libero </title>
-			<description>Al via Desio Estate dal Vivo: Festa per tutta l'estate nel cuore di Desio! Mercoledì 28 giugno ore 21 in Via Garibaldi e Corso Italia, 'Desio Busker Festival Artisti di strada'.
+			<description>Al via Desio Estate dal Vivo: Festa per tutta l'estate nel cuore di Desio! Sabato 1 luglio spettacolo musicale in piazza Don Giussani con Cover Band Syntonia
 </description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44421</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44421</link>
-			<category></category>
-			<title>Alla scoperta della Battaglia di Desio</title>
-			<description>Un viaggio tra storia e mito. Passeggiata alla scoperta dei luoghi dove si è svolta la battaglia di Desio. Domenica 11 giugno piazzetta S. Maria. Partenze ore 15 e 16.30. A cura della Pro Loco Desio</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
