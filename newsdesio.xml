@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 30 Jun 2017 09:00:26 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 30 Jun 2017 09:30:23 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44571</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44571</link>
+			<category>- Economato e partecipate</category>
+			<title>Esito designazione  Amministratore Unico e del Sindaco Unico-Revisore della Societa' controll</title>
+			<description>Esito di designazione dell'Amministratore Unico e del Sindaco Unico-Revisore della Societa' controllata "Gestione Servizi Desio S.r.l.".</description>
+			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44531</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44531</link>
@@ -162,14 +170,6 @@ per partecipazione a lutto, potrebbero verificarsi disguidi nella normale attivi
 			<category>- Promozione culturale e sportiva</category>
 			<title>I diversi volti dell'infanzia</title>
 			<description>Mostra collettiva di pittura dell'associazione Dipingere Insieme. Villa Tittoni 10 - 11 giugno 2017. Inaugurazione sabato 10 giugno ore 17</description>
-			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44406</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44406</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Palio degli Zoccoli: l'appuntamento della Città con la sua storia</title>
-			<description>L'evento che vedrà affrontarsi anche quest'anno gli atleti delle 11 contrade cittadine. Giunta alla sua 29^ edizione, la gara del Palio si disputerà  il 4 giugno 2017 con partenza da Villa Tittoni</description>
 			<a10:updated>2017-06-01T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
