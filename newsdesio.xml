@@ -5,8 +5,20 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 04 Jul 2017 14:30:25 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 04 Jul 2017 15:00:28 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44637</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44637</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Concorso letterario "Pro Loco Desio"</title>
+			<description>Con il patrocinio del comune di Desio l’Associazione «Pro Loco Desio» istituisce un Concorso Letterario a tema libero diviso in tre sezioni:
+Premio «Stendhal» (racconti);
+Premio «Angelo Mutti» (poesie);
+Premio «Giuseppe Rusnigo» (poesie in lingua locale: dialetto brianzolo e/o milanese).
+</description>
+			<a10:updated>2017-07-04T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44621</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44621</link>
@@ -163,14 +175,6 @@ per partecipazione a lutto, potrebbero verificarsi disguidi nella normale attivi
 			<title>Festa de Spacun</title>
 			<description>Dal 9 all'11 giugno appuntamento al 'Parco Mauri' con sport, musica, buon cibo e tanta voglia di stare insieme. Organizza il Comitato di Quartiere San Vincenzo-Spaccone.</description>
 			<a10:updated>2017-06-08T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44436</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44436</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Dés par Dés by night</title>
-			<description>Gara podistica competitiva in notturna a cura del Gruppo Marciatori Desio sabato 10 giugno 2017 dalle ore 18.30. Ritrovo presso il Centro Sportivo Comunale</description>
-			<a10:updated>2017-06-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
