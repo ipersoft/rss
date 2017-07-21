@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 21 Jul 2017 12:30:22 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 21 Jul 2017 13:00:23 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44794</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44794</link>
+			<category>- Partecipazione e Cittadinanza Attiva</category>
+			<title>Bilancio Partecipativo 2017: in corso la prima fase di voto.</title>
+			<description>Si vota fino al 25 luglio per scegliere i 10 progetti senior da mandare in studio di fattibilità e poi al voto finale.</description>
+			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44748</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44748</link>
@@ -165,14 +173,6 @@ Premio «Giuseppe Rusnigo» (poesie in lingua locale: dialetto brianzolo e/o mil
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44523</link>
 			<category>- Risorse Umane</category>
 			<title>Avviso di mobilità volontaria - Cat. C - Sistemi Informativi ICT</title>
-			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44519</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44519</link>
-			<category>- Risorse Umane</category>
-			<title>Avviso di mobilità volontaria - Cat. D1 - Servizio Bilancio e Programmazione</title>
 			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
