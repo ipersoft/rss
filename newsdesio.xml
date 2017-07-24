@@ -5,13 +5,21 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 11:30:22 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 12:00:23 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44811</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44811</link>
+			<category>- Partecipazione e Cittadinanza Attiva</category>
+			<title>Bilancio Partecipativo 2017: ultime ore per accreditarsi ed esprimere il proprio voto.</title>
+			<description>Fino a martedì 25 luglio ore 17 la possibilità di accreditarsi e fino alle 23.59 per votare !!</description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44794</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44794</link>
 			<category>- Partecipazione e Cittadinanza Attiva</category>
-			<title>Bilancio Partecipativo 2017</title>
+			<title>Bilancio Partecipativo 2017 : Inconveniente  tecnico risolto.</title>
 			<description>Nei giorni scorsi riscontrato un inconveniente tecnico nella piattaforma di accredito. La problematica è stata immediatamente individuata e risolta in brevissimo tempo. </description>
 			<a10:updated>2017-07-21T00:00:00+02:00</a10:updated>
 		</item>
@@ -166,14 +174,6 @@ Premio «Giuseppe Rusnigo» (poesie in lingua locale: dialetto brianzolo e/o mil
 			<category>- Politiche della Casa</category>
 			<title>Pubblicata la graduatoria provvisoria ERP/SAP </title>
 			<description>pubblicata la graduatoria provvisoria Edilizia Residenziale Pubblica (oggi Servizi Abitativi Pubblici) </description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44523</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44523</link>
-			<category>- Risorse Umane</category>
-			<title>Avviso di mobilità volontaria - Cat. C - Sistemi Informativi ICT</title>
-			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
 			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
