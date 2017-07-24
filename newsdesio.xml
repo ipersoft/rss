@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 24 Jul 2017 12:30:21 +0200</lastBuildDate>
+		<lastBuildDate>Mon, 24 Jul 2017 13:00:29 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44821</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44821</link>
+			<category>- Segreteria Generale</category>
+			<title>Giovedì 27 e venerdì 28 luglio 2017 sedute ordinarie di Consiglio Comunale</title>
+			<description>Le sedute sono convocate: giovedì alle 19.30  e venerdì alle 20.30. </description>
+			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44811</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44811</link>
@@ -167,14 +175,6 @@ Premio «Giuseppe Rusnigo» (poesie in lingua locale: dialetto brianzolo e/o mil
 			<title>Esito designazione  Amministratore Unico e  Sindaco Unico-Revisore Societa' controllata GSD S.r.l.</title>
 			<description>Esito di designazione dell'Amministratore Unico e del Sindaco Unico-Revisore della Societa' controllata "Gestione Servizi Desio S.r.l.".</description>
 			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44531</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44531</link>
-			<category>- Politiche della Casa</category>
-			<title>Pubblicata la graduatoria provvisoria ERP/SAP </title>
-			<description>pubblicata la graduatoria provvisoria Edilizia Residenziale Pubblica (oggi Servizi Abitativi Pubblici) </description>
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
