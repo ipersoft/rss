@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 10 Aug 2017 15:00:28 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 10 Aug 2017 15:30:21 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45059</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45059</link>
+			<category>- Edilizia Privata</category>
+			<title>Variazione orario apertura al pubblico uffici Edilizia Privata e Suap in via sperimentale </title>
+			<description>Nuovi orari di apertura degli uffici Edilizia Privata e Suap  dal 1 settembre 2017</description>
+			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45056</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45056</link>
@@ -162,14 +170,6 @@ Scadenza 1 agosto 2017 </description>
 			<category></category>
 			<title>Zanzare: proseguono le operazioni di disinfestazione e monitoraggio</title>
 			<description>Prosegue con il 4° e 5° ciclo, il trattamento antilarvale in esecuzione da aprile in tutte le zone della Città. In calendario nei prossimi giorni anche alcuni interventi adulticidi .</description>
-			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44693</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44693</link>
-			<category>- Servizi Sociali</category>
-			<title>ATS Brianza lancia una rilevazione civica sulla qualità delle dimissioni protette</title>
-			<description>La rilevazione è condotta in collaborazione con l'associazione Cittadinanzattiva ed è rivolta a chi è stato dimesso in regime di dimissione protetta da un ospedale del territorio dell'ATS Brianza</description>
 			<a10:updated>2017-07-11T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
