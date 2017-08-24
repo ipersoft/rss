@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 24 Aug 2017 10:30:31 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 24 Aug 2017 11:00:34 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3462726</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3462726</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>LAVORI DI BONIFICA MATERIALI CONTENENTI AMIANTO PRESSO EDIFICI SCOLASTICI DIVERSI” (B/1581). APPROVAZIONE DELLA SPESA PER ESECUZIONE INDAGINI SUPPLEMENTARI E AFFIDAMENTO ALLA DITTA COMAFE’ SRL DI CAMPAGNANO DI ROMA (RM). CIG: Z571F9FB9B</description>
+			<a10:updated>2017-08-24T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3452071</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3452071</link>
@@ -797,14 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>IMPEGNO DI SPESA PER LA FORNITURA DI CARTA RICICLATA IN RISME PER GLI UFFICI E SERVIZI COMUNALI MEDIANTE ADESIONE ALLA CONVENZIONE DI ARCA LOMBARDIA. EURO 7.463,90 I.V.A. COMPRESA. CODICE CIG ZE51F667E2.</description>
-			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3403807</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3403807</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>RENDICONTO DELLE SPESE ECONOMALI SOSTENUTE DAL 01.04.2017 AL 30.06.2017. CHIUSURA DEL II TRIMESTRE 2017. EURO 6.871,44.- I.V.A. COMPRESA.</description>
 			<a10:updated>2017-07-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
