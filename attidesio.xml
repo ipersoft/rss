@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 01 Sep 2017 10:30:33 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 01 Sep 2017 11:00:31 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3474216</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3474216</link>
+			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
+			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
+			<description>VERBALE DELLE COMUNICAZIONI RESE DAI CONSIGLIERI COMUNALI IN SEDUTA</description>
+			<a10:updated>2017-09-01T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3473198</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3473198</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>ASSOCIAZIONE “REGALA UN SORRISO” – RICHIESTA PATROCINIO COMUNALE PER LA MANIFESTAZIONE “PENTOLA DELLA SOLIDARIETA’ – TRIPPA IN PIAZZA 2017” IN PROGRAMMA DAL 15 SETTEMBRE AL 16 SETTEMBRE 2017 IN PIAZZA CONCILIAZIONE </description>
-			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3407643</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3407643</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ATTO DI CITAZIONE AVANTI IL GIUDICE DI PACE DI MILANO DA PARTE DEL SIG. MAZZI NORIS – PRESA D’ATTO DELL’AVVENUTA TRANSAZIONE E REVOCA DELLA DELIBERA G.C. N. 105/1.06.2017.</description>
 			<a10:updated>2017-07-24T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
