@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 07 Sep 2017 13:00:33 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 07 Sep 2017 13:30:27 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45268</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45268</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Avviso di ricevimento di una proposta di sponsorizzzione tecnica del Palazzetto aldo Moro</title>
+			<description>Avviso di ricevimento di una proposta di sponsorizzazione tecnica del Palazzetto Aldo Moro. 
+Scadenza 22 settembre 2017</description>
+			<a10:updated>2017-09-07T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45229</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45229</link>
@@ -162,14 +171,6 @@ progettazione insieme ai cittadini degli spazi pubblici della Città .</descript
 			<category>- Servizi Sociali</category>
 			<title>Le attività in programma ad Agosto al Centro Ricreativo 'Il Girasole'</title>
 			<description>Un programma ricco di appuntamenti al Centro Ricreativo 'Il Girasole' di Via San Pietro.</description>
-			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44996</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=44996</link>
-			<category>- Risorse Umane</category>
-			<title>Avviso di mobilità per un posto di funzionario esperto D3 per Area Governo del Territorio</title>
-			<description>Avviso di mobilità per un posto di funzionario esperto cat. D3 - Area Governo del Territorio</description>
 			<a10:updated>2017-08-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
