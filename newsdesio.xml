@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 08 Sep 2017 14:00:29 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 08 Sep 2017 14:30:22 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45289</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45289</link>
+			<category></category>
+			<title>proroga termini avviso di ricevimento proposta sponsorizzazione tecnica Villa Tittoni e suo Parco</title>
+			<description>proroga termini scadenza avviso di ricevimento di una proposta di sponsorizzazione tecnica approvato con determinazione n° 589 del 11/8/2017 avente oggetto: “approvazione di avviso di ricevimento di una proposta di sponsorizzazione tecnica della villa Cusani Traversi Tittoni e del suo Parco”</description>
+			<a10:updated>2017-09-08T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45272</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45272</link>
@@ -136,8 +144,8 @@ Scadenza 20 settembre 2017
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45074</link>
 			<category></category>
 			<title>Designing Desio - Workshop di disegno urbano</title>
-			<description>Dal 1° al 13 settembre, in programma un Workshop di disegno urbano per la
-progettazione insieme ai cittadini degli spazi pubblici della Città .</description>
+			<description>A settembre, in programma un Workshop di disegno urbano per la
+progettazione degli spazi pubblici della Città insieme ai cittadini  .</description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 		<item>
@@ -163,15 +171,6 @@ progettazione insieme ai cittadini degli spazi pubblici della Città .</descript
 			<title>Avviso di ricevimento di una proposta di sponsorizzazione del Palazzetto dello Sport</title>
 			<description>Bando  pubblico per la ricerca di sponsor per l'intitolazione del Palazzetto dello Sport </description>
 			<a10:updated>2017-08-07T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45017</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45017</link>
-			<category>- Ecologia e Tutela Ambientale</category>
-			<title>Superamento del limite del livello di Ozono nell'aria</title>
-			<description>Da Arpa e Regione Lombardia i dati aggiornati relativi al livello di inquinamento da Ozono e informazioni sui comportamenti da adottare in caso di superamento della soglia di allarme.
-</description>
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
