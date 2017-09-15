@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Sep 2017 09:30:27 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 15 Sep 2017 10:00:31 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45324</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45324</link>
+			<category>- Segreteria Generale</category>
+			<title>Giovedì 21 e giovedì 28 settembre 2017 sedute straordinarie di Consiglio Comunale</title>
+			<description>Le sedute sono convocate per le ore 20.30. </description>
+			<a10:updated>2017-09-15T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45314</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45314</link>
@@ -162,14 +170,6 @@ Scadenza 20 settembre 2017
 			<title>Designing Desio - Workshop di disegno urbano</title>
 			<description>A settembre, in programma un Workshop di disegno urbano per la
 progettazione degli spazi pubblici della Città insieme ai cittadini  .</description>
-			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45059</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45059</link>
-			<category>- Edilizia Privata</category>
-			<title>Variazione dell'orario di apertura al pubblico Uffici Edilizia Privata e Suap, in via sperimentale </title>
-			<description>Nuovi orari di apertura degli Uffici Edilizia Privata e Suap  dal 1 settembre 2017</description>
 			<a10:updated>2017-08-10T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
