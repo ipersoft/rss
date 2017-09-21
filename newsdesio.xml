@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 21 Sep 2017 11:00:27 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 21 Sep 2017 11:30:28 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45403</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45403</link>
+			<category></category>
+			<title>Un nuovo spazio studio in Biblioteca: costruiamolo insieme!</title>
+			<description>avviso pubblico per la ricerca di
+studenti cittadini attivi che vogliano collaborare con l’Amministrazione per l’apertura e la gestione, fuori dagli orari di apertura della Biblioteca Civica, di un nuovo spazio per lo studio .</description>
+			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45384</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45384</link>
@@ -163,14 +172,6 @@ Scadenza 20 settembre 2017
 			<title>37° Torneo di Tennis Master della Brianza</title>
 			<description>Tappa a Desio della 37^ edizione Torneo di Tennis maschile e femminile del circuito 2017 </description>
 			<a10:updated>2017-08-31T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45169</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45169</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Culturando settembre 2017: Ville Aperte</title>
-			<description>il cartellone degli eventi artistici e culturali proposti dall'Assessorato alla Cultura in collaborazione con le associazioni del territorio.</description>
-			<a10:updated>2017-08-30T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
