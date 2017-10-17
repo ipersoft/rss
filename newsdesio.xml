@@ -5,8 +5,25 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 16:00:20 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 16:30:27 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45758</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45758</link>
+			<category></category>
+			<title>Bilancio Partecipativo Senior</title>
+			<description>Ecco i quattro progetti vincenti!</description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45734</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45734</link>
+			<category>- Scuola e Formazione</category>
+			<title>Dote Scuola 2017 /2018 componente "Merito" </title>
+			<description>Dal 16 Ottobre aperti i  termini per la richiesta della Dote Merito per  anno scolastico 2017/2018.
+ La presentazione delle domande va effettuata entro il 15 novembre 2017</description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45721</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45721</link>
@@ -153,24 +170,6 @@
 			<title>Ricordi da un passato contadino </title>
 			<description>una proposta del Comitato di Quartiere Prati in collaborazione con l'assessorato ai Rapporti con i Quartieri. Appuntamento domenica 24 settembre in piazza Martiri di Fossoli </description>
 			<a10:updated>2017-09-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45445</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45445</link>
-			<category>- Segreteria Generale</category>
-			<title>Prosegue anche giovedì 28 settembre 2017 la seduta straordinaria di Consiglio Comunale</title>
-			<description>La seduta è convocata per le ore 20.30. </description>
-			<a10:updated>2017-09-22T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45428</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45428</link>
-			<category>- Partecipazione e Cittadinanza Attiva</category>
-			<title>Concorso Retipiù - Le Reti del Cuore</title>
-			<description>Votiamo entro il 15 novembre per far vincere il nostro progetto!
-
-</description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
