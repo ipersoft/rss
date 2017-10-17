@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 13:00:30 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 13:30:26 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45721</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45721</link>
+			<category>- Scuola e Formazione</category>
+			<title>Campus 2017 Salone dell'Orientamento </title>
+			<description>27 e 28 Ottobre. Un occasione per scoprire l'offerta formativa del tuo territorio. Domande online dal 16 ottobre</description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45702</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45702</link>
@@ -162,14 +170,6 @@
 			<description>Votiamo entro il 15 novembre per far vincere il nostro progetto!
 
 </description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45427</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45427</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Bibliopride 2017</title>
-			<description>6^ Giornata delle Biblioteche: mini-maratona di lettura in biblioteca venerdì 29 settembre alle ore 17:30</description>
 			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
