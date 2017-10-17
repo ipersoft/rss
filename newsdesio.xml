@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 11:30:27 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 12:00:27 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45702</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45702</link>
+			<category>- Scuola e Formazione</category>
+			<title>Open Day all'asilo nido di Via Diaz </title>
+			<description>Un'occasione per conoscere l'asilo nido di Via Diaz della tua Città.</description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45690</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45690</link>
@@ -162,15 +170,6 @@
 			<category>- Promozione culturale e sportiva</category>
 			<title>Bibliopride 2017</title>
 			<description>6^ Giornata delle Biblioteche: mini-maratona di lettura in biblioteca venerdì 29 settembre alle ore 17:30</description>
-			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45403</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45403</link>
-			<category></category>
-			<title>Un nuovo spazio studio in Biblioteca: costruiamolo insieme!</title>
-			<description>avviso pubblico per la ricerca di
-studenti cittadini attivi che vogliano collaborare con l’Amministrazione per l’apertura e la gestione, fuori dagli orari di apertura della Biblioteca Civica, di un nuovo spazio per lo studio .</description>
 			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
