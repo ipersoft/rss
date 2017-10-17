@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Oct 2017 11:00:28 +0200</lastBuildDate>
+		<lastBuildDate>Tue, 17 Oct 2017 11:30:27 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45690</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45690</link>
+			<category>- Scuola e Formazione</category>
+			<title>Riapre lo Spazio Gioco!</title>
+			<description>Iscrizioni  da venerdì 20 ottobre presso la scuola per l'Infanzia comunale di Via Novara </description>
+			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45685</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45685</link>
@@ -164,14 +172,6 @@
 			<description>avviso pubblico per la ricerca di
 studenti cittadini attivi che vogliano collaborare con l’Amministrazione per l’apertura e la gestione, fuori dagli orari di apertura della Biblioteca Civica, di un nuovo spazio per lo studio .</description>
 			<a10:updated>2017-09-21T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45384</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45384</link>
-			<category>- Servizi Sociali</category>
-			<title>Il 3 ottobre al via i corsi di ginnastica per adulti </title>
-			<description>Iscrizioni a partire  da lunedì 18 settembre presso il Centro Ricreativo Il Girasole.</description>
-			<a10:updated>2017-09-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
