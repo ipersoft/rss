@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 19 Oct 2017 17:00:29 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 19 Oct 2017 17:30:28 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45787</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45787</link>
+			<category></category>
+			<title>Incontro pubblico sul nuovo regolamento edilizio </title>
+			<description>Martedì 24 ottobre 2017 alle ore 18, presso la sede comunale di Piazza Giovanni Paolo II - Sala Pertini,  l'Amministrazione Comunale invita i professionisti e gli operatori del settore ad un incontro sul tema "Nuovo Regolamento Edilizio". 
+</description>
+			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45785</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45785</link>
@@ -161,14 +170,6 @@
 			<category></category>
 			<title>Domenica 1° ottobre a Desio la 7a tappa del Giro d'Italia HandBike</title>
 			<description>In occasione della Festa di Desio - Festa del Madunin 2017, Desio dà il benvenuto agli atleti della disciplina paralimpica dell'HandBike.</description>
-			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45488</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45488</link>
-			<category></category>
-			<title>Aggiornamento periodico Albo delle persone idonee all'ufficio di Presidente di seggio elettorale   </title>
-			<description>Aggiornamento periodico Albo delle persone idonee all'ufficio di Presidente di seggio elettorale</description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
