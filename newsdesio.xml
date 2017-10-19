@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 19 Oct 2017 16:30:27 +0200</lastBuildDate>
+		<lastBuildDate>Thu, 19 Oct 2017 17:00:29 +0200</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45785</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45785</link>
+			<category>- Risorse Umane</category>
+			<title>Avviso di mobilità volontaria - Cat. C - Area Gestione Risorse/Servizio Politiche della casa.</title>
+			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
+			<a10:updated>2017-10-19T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45767</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45767</link>
@@ -162,15 +170,6 @@
 			<title>Aggiornamento periodico Albo delle persone idonee all'ufficio di Presidente di seggio elettorale   </title>
 			<description>Aggiornamento periodico Albo delle persone idonee all'ufficio di Presidente di seggio elettorale</description>
 			<a10:updated>2017-09-28T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45473</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45473</link>
-			<category>- URP Ufficio Relazioni con il Pubblico e Comunicazione</category>
-			<title>Festa della Patrona della Città - Uffici chiusi Lunedì 2 Ottobre </title>
-			<description>Lunedì 2 ottobre 2017, in occasione della ricorrenza della Madonna del Rosario, patrona della Città, gli uffici comunali rimarranno chiusi al pubblico. Modalità di accesso specifiche per Ufficio di Stato Civile e Polizia Locale.
-</description>
-			<a10:updated>2017-09-26T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
