@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 12:00:31 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 12:30:17 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45898</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45898</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Avviso di ricerca di proposte iniziative culturali sportive e di aggregazione</title>
+			<description>Il Comune di Desio invita a presentare idee e proposte di azioni, iniziative ed eventi culturali, sportivi e di aggregazione, da raccogliere in un programma condiviso, da svolgersi sul territorio della città nell’anno 2018.</description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45896</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45896</link>
+			<category>- Ufficio di Piano</category>
+			<title>Bando di selezione pubblica per assunzione personale presso Consorzio Desio Brianza </title>
+			<description>Assunzione a tempo determinato e a tempo parziale (18 ore sett.li) di n. 1 Specialista dei Servizi Giuridici </description>
+			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45885</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45885</link>
@@ -154,22 +170,6 @@
 			<title>Open Day all'asilo nido di Via Diaz </title>
 			<description>Un'occasione per conoscere l'asilo nido di Via Diaz della tua Città.</description>
 			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45690</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45690</link>
-			<category>- Scuola e Formazione</category>
-			<title>Riapre lo Spazio Gioco!</title>
-			<description>Iscrizioni  da venerdì 20 ottobre presso la scuola per l'Infanzia comunale di Via Novara </description>
-			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45685</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45685</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Food Festival d'Autunno</title>
-			<description>1^ sagra enogastronomica presso l'Oratorio di San Giorgio nei giorni 21 e 22 ottobre</description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
