@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 02 Nov 2017 17:00:32 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 02 Nov 2017 17:30:30 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3620674</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3620674</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>SERVIZIO DI IGIENE URBANA. GARA A DOPPIO OGGETTO PER LA SCELTA DEL SOCIO PRIVATO DI GELSIA AMBIENTE S.R.L. ESPLETAMENTO NUOVA PROCEDURA DI GARA AD EVIDENZA PUBBLICA PER IL TRAMITE DELLA CENTRALE UNICA DI COMMITTENZA DELLA PROVINCIA DI MONZA E DELLA BRIANZA, PROROGA DELL’ATTUALE CONTRATTO </description>
+			<a10:updated>2017-11-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3620415</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3620415</link>
@@ -797,14 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>DETERMINAZIONE A CONTRATTARE PER L’AFFIDAMENTO DEL SERVIZIO DI MANUTENZIONE ORDINARIA DEL VERDE PUBBLICO COMUNALE (2018/2020) F/176 E ASSUNZIONE DEI RELATIVI IMPEGNI DI SPESA. RIAPPROVAZIONE DEL CAPITOLATO SPECIALE DI APPALTO. CIG 7185973483 </description>
-			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3541032</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3541032</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>BIBLIOTECA CIVICA - RICONOSCIMENTO DEI DIRITTI D'AUTORE ALLA SIAE - IMPEGNO DI SPESA DI €. 330,22 PER L'ANNO 2017 </description>
 			<a10:updated>2017-10-03T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
