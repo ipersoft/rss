@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 03 Nov 2017 13:30:33 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 03 Nov 2017 14:00:32 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3623030</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3623030</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>LAVORI DI SCAVO E RIPRISTINO PER ALLACCIAMENTI ELETTRICI POSTAZIONI DI VIDEO SORVEGLIANZA NELLA CITTA’ DI DESIO. AFFIDAMENTO ALLA DITTA I.R.A.S DI ANTONIO RECALCATI S.A.S. IMPORTO € 13.875,00 OLTRE I.V.A. – CIG ZB62081BB0 </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3623028</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3623028</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>RESTITUZIONE DI SOMME VERSATE PER OBLAZIONE SANZIONI AMMINISTRATIVE AL CODICE DELLA STRADA. </description>
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3622694</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3622694</link>
@@ -790,22 +806,6 @@
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>ASSOCIAZIONE MICOLOGICA “G. BRESADOLA” – RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DELLA “MOSTRA MICOLOGICA 2017” IN PROGRAMMA DAL 5 OTTOBRE AL 9 OTTOBRE 2017 PRESSO LE SALE DEL PIANO TERRENO DI VILLA TITTONI </description>
 			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3551195</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3551195</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>INTERVENTI DI RESTAURO CONSERVATIVO DEL MANUFATTO DENOMINATO “EX TETTOIA GAVAZZI”. APPROVAZIONE DELLO STUDIO DI FATTIBILITA’ TECNICA ED ECONOMICA. CUP G42C17000080007 </description>
-			<a10:updated>2017-10-09T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3548006</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3548006</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>AFFIDAMENTO DI INCARICO PROFESSIONALE PER LA DIREZIONE LAVORI, COORDINAMENTO PER LA SICUREZZA IN FASE DI ESECUZIONE E PRESTAZIONI FINALIZZATE AL RILASCIO DEL CERTIFICATO DI PREVENZIONE INCENDI RELATIVAMENTE ALL’INTERVENTO DI RIFUNZIONALIZZAZIONE DEL CORPO OVEST DI VILLA TITTONI (A69VT) – AGGIUDICAZIONE AL RTP ADRIANO COLLEONI (MANDATARIO) DIGIERRE 3 SRL – S. LUCA RESTAURI SNC (MANDANTI). € 43.758,88 OLTRE CNPAIA E IVA C.U.P. G42C15000180004- CIG. 7122660CF6 </description>
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
