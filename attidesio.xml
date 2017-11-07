@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 07 Nov 2017 18:00:32 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 07 Nov 2017 18:30:33 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629862</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629862</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>“PALLACANESTRO CANTÙ SPA”. ESERCIZIO ABUSIVO DI PUBBLICO TRATTENIMENTO. ORDINE DI CESSAZIONE. </description>
+			<a10:updated>2017-11-07T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629812</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3629812</link>
@@ -798,14 +806,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>ATTIVAZIONE TIROCINIO PROFESSIONALIZZANTE PER L’AMMISSIONE ALL’ESAME DI STATO DI ABILITAZIONE ALLA PROFESSIONE DI PSICOLOGO DELLA DOTT.SSA GUELI MARTINA </description>
 			<a10:updated>2017-10-17T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3573117</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3573117</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>INTEGRAZIONE DELL’IMPEGNO DI SPESA PER LA FORNITURA DEL SERVIZIO SOSTITUTIVO DI MENSA AZIENDALE AL PERSONALE DIPENDENTE. EURO 8.694,40 I.V.A COMPRESA. CODICE CIG 6641031027. </description>
-			<a10:updated>2017-10-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
