@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 09 Nov 2017 11:30:26 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 09 Nov 2017 12:00:30 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46019</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46019</link>
+			<category></category>
+			<title>FestivalACT 2017: raccontarsi per incontrare mondi possibili</title>
+			<description>Una giornata ricca di workshop e molto altro dedicata alla narrazione e alla comunicazione domenica 26 novembre presso ARDEN Spazio33 in via Borghetto 33  </description>
+			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46006</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46006</link>
@@ -166,14 +174,6 @@ Ingresso libero</description>
 			<title>Sostieni la tua biblioteca</title>
 			<description>Mercatino del libro usato sabato 28 ottobre 2017 dalle 15,00 alle 17,00 nel cortile della Villa Tittoni  (In caso di maltempo in biblioteca: Sala SoStare)
 </description>
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45790</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45790</link>
-			<category>- Ufficio Stampa</category>
-			<title>In distribuzione DesioCittà edizione di ottobre 2017</title>
-			<description>l'informatore comunale è in distribuzione. In questa edizione, le immagini delle energie strordinarie liberate dalla Città durante la Festa di Desio  </description>
 			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
