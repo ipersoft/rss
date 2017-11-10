@@ -5,8 +5,24 @@
 		<link>https://github.com/comune-desio/newsletter/blob/master/README.md</link>
 		<description>Feed Newsletter Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 27 Oct 2017 14:30:38 +0200</lastBuildDate>
+		<lastBuildDate>Fri, 10 Nov 2017 14:30:35 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsletterdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-10.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-10.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 10 novembre 2017</title>
+			<description />
+			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-03.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-03.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 03 novembre 2017</title>
+			<description />
+			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-27.md</guid>
 			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-27.md</link>
@@ -150,22 +166,6 @@
 			<title>Notizie dalla tua Città - Desio 30 giugno 2017</title>
 			<description />
 			<a10:updated>2017-06-30T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-06-23.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-06-23.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 23 giugno 2017</title>
-			<description />
-			<a10:updated>2017-06-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-06-16.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-06-16.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 16 giugno 2017</title>
-			<description />
-			<a10:updated>2017-06-16T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
