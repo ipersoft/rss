@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 14 Nov 2017 14:30:32 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 14 Nov 2017 15:00:35 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643654</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643654</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA NAZARIO SAURO </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643652</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643652</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA CARAVAGGIO ANGOLO MILANO </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643650</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3643650</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA XXV APRILE </description>
+			<a10:updated>2017-11-14T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640904</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3640904</link>
@@ -781,30 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>VARIAZIONE DI COMPETENZA E CASSA AL BILANCIO DI PREVISIONE 2017-2019 - VARIAZIONE DI PEG </description>
-			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586729</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586729</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ATTO DI CITAZIONE IN OPPOSIZIONE AD INGIUNZIONE DI PAGAMENTO AVANTI IL TRIBUNALE ORDINARIO DI MONZA DA PARTE DELL’ASSOCIAZIONE BASKET SCHOOL BRIANZA CON ISTANZA DI SOSPENSIVA – AUTORIZZAZIONE ALLA COSTITUZIONE IN GIUDIZIO </description>
-			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586727</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586727</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>1^ RILEVAZIONE E VARIAZIONE PIANO ESECUTIVO DI GESTIONE E VARIAZIONE PIANO PERFORMANCE 2017/2019 </description>
-			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586725</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3586725</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PRESA D’ATTO DELLE LINEE OPERATIVE LOCALI IN ATTUAZIONE DELLA DGR 6674 DEL 7 GIUGNO 2017: “PROGRAMMA OPERATIVO REGIONALE PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE DOPO DI NOI L. 112/2017” APPROVATE DALL’ASSEMBLEA DEI SINDACI DEL 27.09.2017 E APPROVAZIONE DELL’AVVISO PUBBLICO PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE “DOPO DI NOI” </description>
 			<a10:updated>2017-10-23T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
