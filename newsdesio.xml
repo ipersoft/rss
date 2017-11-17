@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 17 Nov 2017 09:30:28 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 17 Nov 2017 10:00:28 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46111</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46111</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Libri su Misura</title>
+			<description>Appuntamento in Biblioteca giovedì  23 novembre alle 21, incontro con Daniele Biacchessi  autore di "La fabbrica dei profumi Seveso 40 anni fa"" .</description>
+			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46078</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46078</link>
@@ -167,14 +175,6 @@ Ingresso libero</description>
 			<title>Tra cielo e terra</title>
 			<description>Mostra promossa dalla Coop sociale Il Seme in collaborazione con l'associazione Amici Museo Scalvini sabato 4 novembre alle ore 18 in Villa Tittoni</description>
 			<a10:updated>2017-10-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45859</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=45859</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Incontri Fotografici d'Autunno 2017</title>
-			<description>Prosegue fino al 26 novembre in Villa Tittoni la 32^ edizione degli Incontri Fotografici d'Autunno - promossa dal Circolo Fotografico Desiano</description>
-			<a10:updated>2017-11-09T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
