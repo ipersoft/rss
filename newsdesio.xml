@@ -5,12 +5,12 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 05 Dec 2017 15:30:28 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 05 Dec 2017 16:00:29 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46345</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46345</link>
-			<category></category>
+			<category>- Tributi</category>
 			<title>Lunedì 18 dicembre  scadenza termini versamento a saldo per IMU e TASI </title>
 			<description>Scade il 18 dicembre il termine per i contribuenti per effettuare il versamento a saldo  dell’Imposta Municipale Propria (IMU), e della Tassa sui servizi indivisibili   (TASI)</description>
 			<a10:updated>2017-12-05T00:00:00+01:00</a10:updated>
