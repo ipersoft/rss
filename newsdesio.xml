@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 14:00:27 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 14:30:27 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46416</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46416</link>
+			<category></category>
+			<title>Truffe, raggiri e sicurezza residenziale</title>
+			<description>Due incontri pubblici con la Polizia Locale, dedicati ai cittadini e alle loro domande</description>
+			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46399</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46399</link>
@@ -159,15 +167,6 @@
 			<title>TARI: a Desio tutto regolare</title>
 			<description>La normativa di riferimento in materia è stata applicata correttamente.</description>
 			<a10:updated>2017-11-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46153</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46153</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Desio per il Cuore con AVIS </title>
-			<description>Test di prevenzione e gratuiti a cura dell'AVIS  e della Croce Rossa di Desio domenica 26 novembre 2017 presso la sede dell'AVIS in via Gramsci, 12 e in Sala Pertini dalle ore 9.30 alle 12.30
-</description>
-			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
