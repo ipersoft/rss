@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 13 Dec 2017 12:00:31 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2017 13:00:34 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46399</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46399</link>
+			<category>- SUAP Sportello Unico Attività Produttive</category>
+			<title>Turni distributori di carburante anno 2018</title>
+			<description>calendario dei turni di apertura festiva e domenicale e dei turni di chiusura per ferie estive degli impianti stradali di distribuzione carburanti per l'anno 2018.</description>
+			<a10:updated>2018-01-01T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46391</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46391</link>
@@ -27,8 +35,8 @@
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46366</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46366</link>
 			<category>- Ufficio di Piano</category>
-			<title>Campus Natalizio gratuito per i bambini delle scuole primarie</title>
-			<description>Nel periodo di chiusura delle scuole per le festività natalizie, l'ufficio di Piano propone attività di supporto compiti di gruppo e spazi educativi per i bambini e le bambine della Scuola Primaria e Secondaria di 1° grado.</description>
+			<title>Campus Natalizio gratuito per bambini</title>
+			<description>Nel periodo di chiusura delle scuole per le festività natalizie, l'Ufficio di Piano propone attività di supporto compiti di gruppo e spazi educativi per i bambini e le bambine della Scuola Primaria e Secondaria di 1° grado.</description>
 			<a10:updated>2017-12-07T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
@@ -160,14 +168,6 @@
 			<description>Test di prevenzione e gratuiti a cura dell'AVIS  e della Croce Rossa di Desio domenica 26 novembre 2017 presso la sede dell'AVIS in via Gramsci, 12 e in Sala Pertini dalle ore 9.30 alle 12.30
 </description>
 			<a10:updated>2017-11-20T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46140</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46140</link>
-			<category></category>
-			<title>Rifiuti: arriva il Sacco Blu</title>
-			<description>A partire dal prossimo 11 gennaio 2018, il rifiuto secco indifferenziato dovrà essere esposto nei nuovi sacchi di colore blu muniti di microchip (tag rfid) e non più nei sacchi grigi. </description>
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
