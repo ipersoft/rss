@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 21 Dec 2017 15:00:27 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 21 Dec 2017 15:30:32 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46433</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46433</link>
+			<category>- URP Ufficio Relazioni con il Pubblico e Comunicazione</category>
+			<title>Variazioni giorni e orari di apertura degli uffici comunali nel periodo natalizio</title>
+			<description>tutte le informazioni riguardanti il periodo dicembre 2017 - gennaio 2018.
+</description>
+			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46423</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46423</link>
@@ -158,14 +167,6 @@
 			<category>- Economato e partecipate</category>
 			<title>Avviso Pubblico manifestazione interesse candidatura incarico presso G.S.D. S.r.l.</title>
 			<description>Avviso pubblico per manifestazione di interesse a presentare la candidatura per l'individuazione della figura professionale cui affidare l'incarico della gestione paghe e contributi - Gestione Servizi Desio s.r.l.</description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46185</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46185</link>
-			<category>- Sistemi Informativi</category>
-			<title>Avviso di riqualificazione immobile ex Casa di Riposo Gavazzi e attivazione servizi socio-sanitari</title>
-			<description>Avviso di riqualificazione immobile ex Casa di Riposo Gavazzi e attivazione servizi di assistenza socio-sanitaria</description>
 			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
