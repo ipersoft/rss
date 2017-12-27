@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 Dec 2017 09:00:33 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 27 Dec 2017 09:30:30 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46490</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46490</link>
+			<category>- Servizi Sociali</category>
+			<title>Le attività in programma a Gennaio al Centro Ricreativo 'Il Girasole'</title>
+			<description>Un programma ricco di appuntamenti al Centro Ricreativo 'Il Girasole' di Via San Pietro.</description>
+			<a10:updated>2017-12-27T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46489</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46489</link>
@@ -159,14 +167,6 @@
 			<category>- Servizi Sociali</category>
 			<title>Giornata Internazionale dei Diritti delle Persone con Disabilità</title>
 			<description>il 2 dicembre un pomeriggio per stare insieme e fare rete. </description>
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46220</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46220</link>
-			<category></category>
-			<title>Le mafie nella gestione di impresa e nell'economia</title>
-			<description>Incontro pubblico venerdì 1° dicembre alle 21 in Sala Pertini, promosso dall'Amministrazione Comunale in collaborazione con BrianzaSiCura.</description>
 			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
