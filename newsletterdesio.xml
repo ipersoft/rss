@@ -5,8 +5,24 @@
 		<link>https://github.com/comune-desio/newsletter/blob/master/README.md</link>
 		<description>Feed Newsletter Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Dec 2017 15:00:35 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 15:00:37 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsletterdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-29.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-29.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 29 dicembre 2017</title>
+			<description />
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-22.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-22.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 22 dicembre 2017</title>
+			<description />
+			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-15.md</guid>
 			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-15.md</link>
@@ -150,22 +166,6 @@
 			<title>Notizie dalla tua Città - Desio 11 agosto 2017</title>
 			<description />
 			<a10:updated>2017-08-11T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-08-04.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-08-04.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 04 agosto 2017</title>
-			<description />
-			<a10:updated>2017-08-04T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-07-28.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-07-28.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 28 luglio 2017</title>
-			<description />
-			<a10:updated>2017-07-28T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
