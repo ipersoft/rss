@@ -5,8 +5,18 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 29 Dec 2017 14:00:29 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 29 Dec 2017 14:30:29 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46536</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46536</link>
+			<category>- Servizi Sociali</category>
+			<title>IL CAMMINO DELL'ACCOGLIENZA - Voci ed immagini per raccontare</title>
+			<description>In occasione della
+il 13 gennaio, in occasione della GIORNATA MONDIALE DEL MIGRANTE E DEL RIFUGIATO, un evento organizzato dall'Assessorato alle Politiche Sociali, insieme al Consorzio Comunità Brianza e al Tavolo Migranti Desio.
+</description>
+			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46530</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46530</link>
@@ -160,14 +170,6 @@
 			<title>Natale a Desio 2017</title>
 			<description>Il programma completo degli appuntamenti, culturali, sportivi e per il tempo libero proposti nell'ambito di Culturando e DesiodalVivo, in collaborazione con le associazioni e i commercianti di Desio.</description>
 			<a10:updated>2017-11-30T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46262</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46262</link>
-			<category>- Risorse Umane</category>
-			<title>Avviso di mobilità volontaria - Cat. B1 - Area Lavori Pubblici      </title>
-			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
-			<a10:updated>2017-11-27T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
