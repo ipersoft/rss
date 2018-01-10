@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 10 Jan 2018 08:00:35 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jan 2018 08:30:31 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3786327</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3786327</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA NINO BIXIO IL RESPONSABILE DEL SETTORE </description>
+			<a10:updated>2018-01-10T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3786253</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3786253</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>APPROVAZIONE DELLO SCHEMA DI CONTRATTO DI SERVIZIO TRA L’AZIENDA SPECIALE CONSORTILE “CONSORZIO DESIO-BRIANZA” E IL COMUNE DI DESIO PER LA GESTIONE DEGLI INTERVENTI E DEI SERVIZI DA EROGARE SUL TERRITORIO ED AI RESIDENTI DEL COMUNE DI DESIO </description>
-			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3753111</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3753111</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>APPROVAZIONE DEL BILANCIO DI PREVISIONE 2018/2020 </description>
 			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
