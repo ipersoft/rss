@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 15 Jan 2018 09:30:27 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2018 10:00:29 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46646</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46646</link>
+			<category></category>
+			<title>Elezioni politiche e regionali del 3 Marzo 2018 </title>
+			<description>Tutte le informazioni sulle elezioni  della Camera dei Deputati, del Senato della Repubblica, del Consiglio Regionale  e del Presidente della Regione Lombardia
+</description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46635</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46635</link>
@@ -164,14 +173,6 @@ Biblioteca civica 20 e 21 gennaio 2018 dalle ore 15 alle ore 21
 			<title>Truffe, raggiri e sicurezza residenziale</title>
 			<description>Due incontri pubblici con la Polizia Locale, dedicati ai cittadini e alle loro domande</description>
 			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46399</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46399</link>
-			<category>- SUAP Sportello Unico Attività Produttive</category>
-			<title>Turni distributori di carburante anno 2018</title>
-			<description>calendario dei turni di apertura festiva e domenicale e dei turni di chiusura per ferie estive degli impianti stradali di distribuzione carburanti per l'anno 2018.</description>
-			<a10:updated>2018-01-01T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
