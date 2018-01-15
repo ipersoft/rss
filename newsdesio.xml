@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 15 Jan 2018 15:00:27 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jan 2018 15:30:25 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46677</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46677</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Mari'</title>
+			<description>PER NON DIMENTICARE. Sabato 27 gennaio ore 21 - Villa Tittoni Marí - 
+spettacolo teatrale a cura di Teatrando.</description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46646</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46646</link>
@@ -165,14 +174,6 @@ Biblioteca civica 20 e 21 gennaio 2018 dalle ore 15 alle ore 21
 			<title>AVVISO D'ASTA PUBBLICA ALIENAZIONE DI MOTOCICLO HONDA TRANSALP XL600V DI PROPRIETA' COMUNALE.</title>
 			<description>AVVISO D'ASTA PUBBLICA ALIENAZIONE DI MOTOCICLO HONDA TRANSALP XL600V DI PROPRIETA' COMUNALE.</description>
 			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46416</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46416</link>
-			<category></category>
-			<title>Truffe, raggiri e sicurezza residenziale</title>
-			<description>Due incontri pubblici con la Polizia Locale, dedicati ai cittadini e alle loro domande</description>
-			<a10:updated>2017-12-12T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
