@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 17 Jan 2018 11:30:28 +0100</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jan 2018 12:00:27 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46696</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46696</link>
+			<category>- Risorse Umane</category>
+			<title>Avviso di mobilità volontaria - Cat. B3 - Area Affari Generali/Servizi Demografici - SEC</title>
+			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
+			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46692</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46692</link>
@@ -165,15 +173,6 @@ Biblioteca civica 20 e 21 gennaio 2018 dalle ore 15 alle ore 21
 			<title>Modifiche alla raccolta rifiuti domestici porta a porta</title>
 			<description>In considerazione degli eventi festivi del Natale e del 1° Gennaio, Gelsia Ambiente comunica alcune informazioni relative alla raccolta dei rifiuti.</description>
 			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46433</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46433</link>
-			<category>- URP Ufficio Relazioni con il Pubblico e Comunicazione</category>
-			<title>Variazioni ai giorni e orari di apertura degli uffici comunali nel periodo natalizio</title>
-			<description>tutte le informazioni riguardanti il periodo dicembre 2017 - gennaio 2018.
-</description>
-			<a10:updated>2017-12-21T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
