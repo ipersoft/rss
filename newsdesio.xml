@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 25 Jan 2018 12:30:27 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jan 2018 13:00:26 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46763</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46763</link>
+			<category>- Servizi Sociali</category>
+			<title>Centro Ricreativo “Il Girasole”</title>
+			<description>Il 31 gennaio un'assemblea pubblica per raccontare le attività dell'anno appena trascorso e presentare le attività in programma per il 2018.</description>
+			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46748</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46748</link>
@@ -165,14 +173,6 @@ Biblioteca civica 20 e 21 gennaio 2018 dalle ore 15 alle ore 21
 			<title>IL CAMMINO DELL'ACCOGLIENZA - Voci ed immagini per raccontare</title>
 			<description>Il 13 gennaio, in occasione della GIORNATA MONDIALE DEL MIGRANTE E DEL RIFUGIATO, un evento organizzato dall'Assessorato alle Politiche Sociali, insieme al Consorzio Comunità Brianza e al Tavolo Migranti Desio.
 </description>
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46530</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46530</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Befana a Desio</title>
-			<description>tutti gli appuntamenti in programma a Desio il 6 Gennaio 2018, in occasione della Festa della Befana.</description>
 			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
