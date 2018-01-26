@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 26 Jan 2018 13:00:27 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2018 13:30:27 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46791</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46791</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Punti di luce: essere una donna nella Shoah</title>
+			<description>PER NON DIMENTICARE. Mostra a cura dello Yad Vashem di Gerusalemme, Yad Vashem Italia, dell'Assemblea Legislativa Regione Emilia Romagna presso il Liceo "E. Majorana". Inaugurazione lunedì 29 gennaio alle ore 9.  Aperta fino all'8 marzo 2018.</description>
+			<a10:updated>2018-01-15T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46769</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46769</link>
@@ -165,14 +173,6 @@ Biblioteca civica 20 e 21 gennaio 2018 dalle ore 15 alle ore 21
 			<title>Culturando gennaio e febbraio 2018</title>
 			<description>Tutti gli appuntamenti in programma  a Desio per i mesi di  gennaio e febbraio 2018</description>
 			<a10:updated>2018-01-11T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46552</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46552</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Esibizione di pattinaggio sul ghiaccio</title>
-			<description>Giovani atlete della scuola Club del Ghiaccio Desio in pista domenica 7 gennaio alle ore 16.30 in piazza Conciliazione</description>
-			<a10:updated>2018-01-03T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
 </rss>
