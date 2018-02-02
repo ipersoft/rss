@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 02 Feb 2018 13:00:32 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 02 Feb 2018 14:00:32 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3842734</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3842734</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO - PROROGA VALIDITA' - DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE IN VIA GOITO </description>
+			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3842732</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3842732</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO - PROROGA VALIDITA' - DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE TEMPORANEA DI SPAZI ED AREE PUBBLICHE C/O IL CIVICO N°35 DI VIA MAZZINI (CONTROVIALE) </description>
+			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3839668</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3839668</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>CONCESSIONE PATROCINIO E CONTRIBUTO ALL'A.S.D. CANNISTI MUGGIO' IN COLLABORAZIONE CON LE ASSOCIAZIONI GRUPPO NUOVA AMICIZIA E UNIONE SOCIETA' MUGGIORESE PER L'ORGANIZZAZIONE DELLA 15° EDIZIONE DELLA MANIFESTAZIONE "CAPODANNO INSIEME" - ANNO 2017 </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807319</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807319</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>INTERVENTI DI ATTUAZIONE BILANCIO PARTECIPATIVO: PROGETTO “UNA BICIPOLITANA PER DESIO” (A/1641). APPROVAZIONE PROGETTO DI FATTIBILITA’ TECNICA ED ECONOMICA. </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807317</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807317</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ASSOCIAZIONE CULTURALE “CORO CITTA’ DI DESIO” – RICHIESTA PATROCINIO COMUNALE PER SVOLGIMENTO DELLA MANIFESTAZIONE “NATALE CON IL CORO CITTA' DI DESIO” IN PROGRAMMA PRESSO LA BASILICA DEI SS. SIRO E MATERNO IL GIORNO 22 DICEMBRE 2017 </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
