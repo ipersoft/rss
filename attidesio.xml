@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 08 Feb 2018 10:00:36 +0100</lastBuildDate>
+		<lastBuildDate>Thu, 08 Feb 2018 11:00:36 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3853482</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3853482</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>AFFIDAMENTO DI INCARICO PROFESSIONALE PER LA DIREZIONE LAVORI, COORDINAMENTO PER LA SICUREZZA IN FASE DI ESECUZIONE E PRESTAZIONI FINALIZZATE AL RILASCIO DEL CERTIFICATO DI PREVENZIONE INCENDI RELATIVAMENTE AI LAVORI DI REALIZZAZIONE NUOVA PALESTRA SCUOLA PRIMARIA U. TAGLIABUE 2° LOTTO FUNZIONALE – REALIZZAZIONE NUOVA PALESTRA E ADEGUAMENTO NORMATIVO PLESSO ESISTENTE (B/1567_LOTTO_2). - DETERMINAZIONE A CONTRATTARE. € 98.585,49 OLTRE CNPAIA E IVA C.U.P. G45E17000030004- CIG. 737826835E </description>
+			<a10:updated>2018-02-08T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3853480</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3853480</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PRESA D’ATTO DEL CAMBIAMENTO DEL DISTRIBUTORE COMMERCIALE DEI PRODOTTI E SERVIZI EDITORIALI DEL GRUPPO EDITORIALE CEL. </description>
+			<a10:updated>2018-02-08T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3851177</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3851177</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>SCUOLA CIVICA DI MUSICA E DANZA - POLO DELLE ARTI - PROGRAMMAZIONE E ORGANIZZAZIONE FESTIVAL JAZZ </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807347</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807347</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ASSOCIAZIONE AUTOAMICA - RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DEL CORSO DI AGGIORNAMENTO DEI VOLONTARI PRESSO LA SALA “SANDRO PERTINI“ DEL PALAZZO MUNICIPALE NEL PERIODO COMPRESO TRA IL 18 GENNAIO 2018 ED IL 1 MARZO 2018 </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807345</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807345</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PROGETTO DI BILANCIO PARTECIPATIVO 2017 “NOI PER VOI” - APPROVAZIONE CONVENZIONE CON A.S.D. BOCCIOFILA AURORA PARCO E BANDO DI PARTECIPAZIONE </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
