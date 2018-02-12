@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 12 Feb 2018 13:31:13 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 12 Feb 2018 14:00:36 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3861368</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3861368</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA F.LLI ROSSELLI IL RESPONSABILE DEL SETTORE </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3861366</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3861366</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA CONCILIAZIONE IL RESPONSABILE DEL SETTORE </description>
+			<a10:updated>2018-02-12T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3858236</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3858236</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>CONCESSIONE IN USO LOCALI DI PROPRIETA' COMUNALE SITI NELLO STABILE DI VIA LAMPUGNANI 80 ALL'ASSOCIAZIONE CULTURALE "AMICI DELLA MUSICA H. VON KARAJAN" - PROROGA DEL CONTRATTO FINO AL 14.01.2020 - </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807731</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807731</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>RINNOVO DELL'AFFIDAMENTO DEL SERVIZIO DI EROGAZIONE DELLE DOMANDE PER MATERNITA', FAMIGLIE NUMEROSE, BONUS ENERGIA ELETTRICA (SGATE) E BONUS GAS AL CAF ITALIA SRL PER IL PERIODO DAL 01 GENNAIO 2018 AL 31 DICEMBRE 2018 - IMPEGNO DI SPESA DI EURO 2.000,00 E APPROVAZIONE CONVENZIONI </description>
-			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807729</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3807729</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>COMITATO DI VOLONTARIATO DESIO E SPORT - PROGETTO PER LA PROGETTAZIONE E REALIZZAZIONE DI UN MURALES PRESSO IL CENTRO SPORTIVO COMUNALE A DESIO </description>
 			<a10:updated>2018-01-18T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
