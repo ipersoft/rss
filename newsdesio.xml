@@ -5,13 +5,21 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 13 Feb 2018 13:30:24 +0100</lastBuildDate>
+		<lastBuildDate>Tue, 13 Feb 2018 14:00:24 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47163</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47163</link>
+			<category>- Servizi Sociali</category>
+			<title>Centro Ricreativo “Il Girasole”</title>
+			<description>Il 22 febbraio la seconda convocazione dell'assemblea pubblica per raccontare le attività dell'anno appena trascorso e presentare le attività in programma per il 2018.</description>
+			<a10:updated>2018-02-13T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47145</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47145</link>
 			<category></category>
-			<title>Assegnazione degli spazi di propaganda elettorale per le elezioni del prossimo 4 marzo</title>
+			<title>Assegnazione degli spazi di propaganda elettorale per le elezioni del 4 marzo 2018</title>
 			<description>Spazi di propaganda delimitati ed assegnati ai partiti e movimenti politici ammessi alla competizione elettorale del 4 marzo.</description>
 			<a10:updated>2018-02-10T00:00:00+01:00</a10:updated>
 		</item>
@@ -159,14 +167,6 @@ L'iniziativa, giunge quest'anno alla sua ventottesima edizione
 			<category>- Promozione culturale e sportiva</category>
 			<title>Viaggio nella musica contemporanea da Debussy a Stockhausen</title>
 			<description>Michele Marelli, clarinettista in concerto al Circolo Culturale Pro Desio domenica 4 febbraio ore 15</description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46731</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46731</link>
-			<category></category>
-			<title>Un nuovo centro anti-violenza in città</title>
-			<description>Apre il prossimo 27 gennaio a Desio lo sportello di aiuto contro la violenza sulle donne creato dalla Rete Artemide.</description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
