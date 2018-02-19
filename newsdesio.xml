@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 19 Feb 2018 13:30:26 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2018 14:00:26 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47176</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47176</link>
+			<category>- Segreteria Generale</category>
+			<title>Giovedì 22  e venerdì 23 febbraio 2018 sedute straordinarie di Consiglio Comunale</title>
+			<description>Le sedute sono convocate per le ore 20.30 </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47170</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47170</link>
@@ -159,14 +167,6 @@ L'iniziativa, giunge quest'anno alla sua ventottesima edizione
 			<category></category>
 			<title>Verso il  Biciplan Cittadino: avviso di ricerca cittadini attivi </title>
 			<description>Usi la bicicletta per spostarti in città? Vuoi mappare con noi lo stato delle ciclabili e ciclopedonali esistenti e rilevare le vicinali e le sezioni stradali? Collabora al progetto. </description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46763</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46763</link>
-			<category>- Servizi Sociali</category>
-			<title>Centro Ricreativo “Il Girasole”</title>
-			<description>Il 31 gennaio un'assemblea pubblica per raccontare le attività dell'anno appena trascorso e presentare le attività in programma per il 2018.</description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
