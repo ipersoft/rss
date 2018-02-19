@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 19 Feb 2018 13:30:29 +0100</lastBuildDate>
+		<lastBuildDate>Mon, 19 Feb 2018 14:00:29 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3876856</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3876856</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>INGIUNZIONE DI DEMOLIZIONE E RIMESSA IN PRISTINO DI OPERE ESEGUITE IN ASSENZA DI TITOLO </description>
+			<a10:updated>2018-02-19T00:00:00+01:00</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3876390</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3876390</link>
@@ -797,14 +805,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA ORTIGARA IL RESPONSABILE DEL SETTORE </description>
-			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3820538</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3820538</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PALLAVICINI IL RESPONSABILE DEL SETTORE </description>
 			<a10:updated>2018-01-25T00:00:00+01:00</a10:updated>
 		</item>
 	</channel>
