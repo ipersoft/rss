@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 28 Feb 2018 13:30:30 Z</lastBuildDate>
+		<lastBuildDate>Wed, 28 Feb 2018 14:00:28 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47281</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47281</link>
+			<category></category>
+			<title>Allerta meteo codice giallo per rischio neve</title>
+			<description>A Desio prevista neve debole e nevischio dalla notte del 28 febbraio, fino al pomeriggio di giovedì 1° marzo e dal mattino al pomeriggio di venerdì 2 marzo.</description>
+			<a10:updated>2018-02-27T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47278</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47278</link>
+			<category></category>
+			<title>Sai cos'è il voto di scambio? Informati, scegli, vota</title>
+			<description>Il Comune di Desio aderisce alla campagna di educazione civica contro le mafie e per la cultura della legalità </description>
+			<a10:updated>2018-02-27T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47265</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47265</link>
@@ -154,22 +170,6 @@ L'iniziativa, giunge quest'anno alla sua ventottesima edizione
 			<title>HubDesio Giovani: un nuovo spazio espositivo </title>
 			<description>HubDesio Giovani, servizio dell'Assessorato alle Politiche Giovanili, inaugura un nuovo spazio espositivo con la mostra "Spomenik, la Jugoslavia che resta".</description>
 			<a10:updated>2018-01-30T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46925</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46925</link>
-			<category></category>
-			<title>"La Strage Dimenticata"</title>
-			<description>Sabato 10 Febbraio, in occasione del Giorno del Ricordo, un recital teatrale per rinnovare la memoria della tragedia degli italiani e di tutte le vittime delle foibe, dell'esodo degli istriani, fiumani e dalmati nel secondo dopoguerra.</description>
-			<a10:updated>2018-02-01T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46854</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=46854</link>
-			<category>- Risorse Umane</category>
-			<title>Avviso di mobilità volontaria - Cat. C - Area Gestione Risorse/Settore Bilancio e Programmazione</title>
-			<description>Avviso di mobilità volontaria - ex art. 30 d.lgs. n. 165/01</description>
-			<a10:updated>2018-01-31T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
