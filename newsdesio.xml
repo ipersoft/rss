@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 02 Mar 2018 13:00:30 Z</lastBuildDate>
+		<lastBuildDate>Fri, 02 Mar 2018 13:30:28 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47400</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47400</link>
+			<category></category>
+			<title>Lunedì 5 marzo chiusi i Servizi Demografici e il Servizio Messi Comunali</title>
+			<description>Sportelli chiusi al pubblico, al fine di permettere le operazioni collegate all'organizzazione della tornata elettorale dei 4 marzo 2018.</description>
+			<a10:updated>2018-03-01T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47373</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47373</link>
@@ -160,14 +168,6 @@ e assegnazione degli spazi di propaganda ai partiti e movimenti politici ammessi
 			<title>Nomina degli scrutatori per il voto del 4 marzo</title>
 			<description>Il 9 febbraio alle ore 18:00 convocazione in adunanza pubblica della Commissione Elettorale.</description>
 			<a10:updated>2018-02-05T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47037</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47037</link>
-			<category></category>
-			<title>Detrazione spese per la mensa scolastica dei figli</title>
-			<description>tutte le informazioni per poter effettuare la detrazione dalla dichiarazione dei redditi 2018</description>
-			<a10:updated>2018-02-01T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
