@@ -5,15 +5,23 @@
 		<link>https://github.com/comune-desio/newsletter/blob/master/README.md</link>
 		<description>Feed Newsletter Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 23 Feb 2018 16:54:49 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 02 Mar 2018 14:26:25 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsletterdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-03-02.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-03-02.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 02 marzo 2018</title>
+			<description />
+			<a10:updated>2018-03-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-02-23.md</guid>
 			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-02-23.md</link>
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 23 febbraio 2018</title>
 			<description />
-			<a10:updated>2018-02-23T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-02-23T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-02-16.md</guid>
@@ -21,7 +29,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 16 febbraio 2018</title>
 			<description />
-			<a10:updated>2018-02-16T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-02-16T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-02-09.md</guid>
@@ -29,7 +37,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 09 febbraio 2018</title>
 			<description />
-			<a10:updated>2018-02-09T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-02-09T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-02-02.md</guid>
@@ -37,7 +45,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 02 febbraio 2018</title>
 			<description />
-			<a10:updated>2018-02-02T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-02-02T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-01-26.md</guid>
@@ -45,7 +53,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 26 gennaio 2018</title>
 			<description />
-			<a10:updated>2018-01-26T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-01-26T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-01-19.md</guid>
@@ -53,7 +61,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 19 gennaio 2018</title>
 			<description />
-			<a10:updated>2018-01-19T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-01-19T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-01-12.md</guid>
@@ -61,7 +69,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 12 gennaio 2018</title>
 			<description />
-			<a10:updated>2018-01-12T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-01-12T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-01-05.md</guid>
@@ -69,7 +77,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 05 gennaio 2018</title>
 			<description />
-			<a10:updated>2018-01-05T00:00:00+01:00</a10:updated>
+			<a10:updated>2018-01-05T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-29.md</guid>
@@ -77,7 +85,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 29 dicembre 2017</title>
 			<description />
-			<a10:updated>2017-12-29T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-12-29T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-22.md</guid>
@@ -85,7 +93,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 22 dicembre 2017</title>
 			<description />
-			<a10:updated>2017-12-22T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-12-22T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-15.md</guid>
@@ -93,7 +101,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 15 dicembre 2017</title>
 			<description />
-			<a10:updated>2017-12-15T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-12-15T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-12-01.md</guid>
@@ -101,7 +109,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 01 dicembre 2017</title>
 			<description />
-			<a10:updated>2017-12-01T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-12-01T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-24.md</guid>
@@ -109,7 +117,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 24 novembre 2017</title>
 			<description />
-			<a10:updated>2017-11-24T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-11-24T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-17.md</guid>
@@ -117,7 +125,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 17 novembre 2017</title>
 			<description />
-			<a10:updated>2017-11-17T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-11-17T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-10.md</guid>
@@ -125,7 +133,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 10 novembre 2017</title>
 			<description />
-			<a10:updated>2017-11-10T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-11-10T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-11-03.md</guid>
@@ -133,7 +141,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 03 novembre 2017</title>
 			<description />
-			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
+			<a10:updated>2017-11-03T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-27.md</guid>
@@ -141,7 +149,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 27 ottobre 2017</title>
 			<description />
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
+			<a10:updated>2017-10-27T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-20.md</guid>
@@ -149,7 +157,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 20 ottobre 2017</title>
 			<description />
-			<a10:updated>2017-10-20T00:00:00+02:00</a10:updated>
+			<a10:updated>2017-10-20T00:00:00Z</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-13.md</guid>
@@ -157,15 +165,7 @@
 			<category>Newsletter</category>
 			<title>Notizie dalla tua Città - Desio 13 ottobre 2017</title>
 			<description />
-			<a10:updated>2017-10-13T00:00:00+02:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-06.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-06.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 06 ottobre 2017</title>
-			<description />
-			<a10:updated>2017-10-06T00:00:00+02:00</a10:updated>
+			<a10:updated>2017-10-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
