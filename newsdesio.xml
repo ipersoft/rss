@@ -5,8 +5,18 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 07 Mar 2018 08:30:33 Z</lastBuildDate>
+		<lastBuildDate>Wed, 07 Mar 2018 09:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47413</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47413</link>
+			<category></category>
+			<title>Giornata Internazionale della Donna</title>
+			<description>Tutti gli eventi a Desio promossi dall'Amministrazione Comunale in collaborazione con le associazioni desiane. Domenica 11 marzo ore 16 in Villa Tittoni "Accogli la mia meraviglia"
+Pomeriggio dedicato alla poetessa milanese Antonia Pozzi 
+</description>
+			<a10:updated>2018-03-06T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47409</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47409</link>
@@ -160,14 +170,6 @@ e assegnazione degli spazi di propaganda ai partiti e movimenti politici ammessi
 			<title>"Arlecchino smemorato"</title>
 			<description>Spettacolo teatrale per bambini in sala Pertini venerdì 16 febbraio ore 16.30 a cura di Teatrando</description>
 			<a10:updated>2018-02-08T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47124</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47124</link>
-			<category>- Segreteria Generale</category>
-			<title>Lunedì 12  e martedì 13 febbraio 2018 sedute straordinarie di Consiglio Comunale</title>
-			<description>Le sedute sono convocate per le ore 20.30 </description>
-			<a10:updated>2018-02-07T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
