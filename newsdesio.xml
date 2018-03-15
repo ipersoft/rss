@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 15 Mar 2018 14:00:36 Z</lastBuildDate>
+		<lastBuildDate>Thu, 15 Mar 2018 14:30:34 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47472</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47472</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>CicloDesio - Felici di stare insieme </title>
+			<description>Biciclettata per le vie di Desio promossa dall'associazione Bocciofila Parco in occasione della giornata internazionale della Felicità domenica 25 marzo partenza ore 9 da Piazza Don Giussani</description>
+			<a10:updated>2018-03-14T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47467</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47467</link>
@@ -161,14 +169,6 @@ Biblioteca Civica - Area So-Stare sabato 3 marzo alle ore 17 </description>
 			<category>- Promozione culturale e sportiva</category>
 			<title>Il Coraggio della Pace</title>
 			<description>"Finchè c'è guerra c'è speranza - la logica delle armi e delle spese militari",  incontro con Francesco Vignarca,  coordinatore Rete Italiana Disarmo - Sabato 24 febbraio ore 16.00. Desio - Casa Missionari Saveriani, Via Don Milani 2</description>
-			<a10:updated>2018-02-18T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47190</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47190</link>
-			<category>- Biblioteca e Mediateca civica</category>
-			<title>Ma-Pa mondo</title>
-			<description>Incontri per i genitori,  attività ludica per bambini con letture e animate e laboratori per bambini da 0 a 3 anni in biblioteca. Sabato 17 marzo LETTURA ANIMATA E LABORATORIO CREATIVO a cura di Monica Gianfreda e Elena De Prezzo</description>
 			<a10:updated>2018-02-18T23:00:00Z</a10:updated>
 		</item>
 	</channel>
