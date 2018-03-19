@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 19 Mar 2018 09:00:39 Z</lastBuildDate>
+		<lastBuildDate>Mon, 19 Mar 2018 11:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3951050</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3951050</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>AMBITO TERRITORIALE DI CARATE BRIANZA – RICHIESTA DEL PATROCINIO COMUNALE PER LO SVOLGIMENTO DEL CONVEGNO DAL TITOLO “WORKINPROGRESS”, IN PROGRAMMA NEL PERIODO DAL 12 MARZO AL 18 MARZO 2018 PRESSO LE SALE DEL PIANO TERRENO E DEL PIANO PRIMO DI VILLA TITTONI TRAVERSI </description>
+			<a10:updated>2018-03-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3951048</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3951048</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>APPROVAZIONE DEL “PIANO DI RIPARTO DEL FONDO NAZIONALE POLITICHE SOCIALI DI CUI ALLA D.G.R. DI REGIONE LOMBARDIA N. X/7775 DEL 17.1.2018” ED ACCERTAMENTO RISORSE DELL’AMBITO TERRITORIALE DI DESIO (€.694.095,00) </description>
+			<a10:updated>2018-03-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3950124</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3950124</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>APPROVAZIONE PIANO PER LA PREVENZIONE DELLA CORRUZIONE E PER LA TRASPARENZA PER IL TRIENNIO 2018/2020 E RELATIVI ALLEGATI </description>
-			<a10:updated>2018-03-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3906166</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3906166</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>D.G.R. X/6674 DEL 7 GIUGNO 2017: “PROGRAMMA OPERATIVO REGIONALE PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE DOPO DI NOI L. 112/2017” AVVISO PUBBLICO PER LA REALIZZAZIONE DEGLI INTERVENTI A FAVORE DI PERSONE CON DISABILITÀ GRAVE PRIVE DEL SOSTEGNO FAMILIARE “DOPO DI NOI”- APERTURA SECONDA FINESTRA CON SCADENZA 31 MARZO 2018 ED ACCERTAMENTO RISORSE (€ 158.874,00) </description>
-			<a10:updated>2018-03-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3906164</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3906164</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>FORNITURA TRAMITE MERCATO MEPA DEL SERVIZIO DI ASSISTENZA STRAORDINARIA SOFTWARE,REPERIBILITÀ TELEFONICA/TELEMATICA PER L’UFFICIO ELETTORALE E SERVIZIO DI ASSISTENZA SISTEMI PER LE ELEZIONI POLITICHE E REGIONALI DI DOMENICA 4 MARZO 2018 – IMPEGNO DI SPESA EURO 2.647,40 IVA COMPRESA; </description>
 			<a10:updated>2018-03-01T00:00:00Z</a10:updated>
 		</item>
 	</channel>
