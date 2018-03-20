@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 20 Mar 2018 17:00:37 Z</lastBuildDate>
+		<lastBuildDate>Tue, 20 Mar 2018 17:30:37 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47496</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47496</link>
+			<category></category>
+			<title>Bilancio Partecipativo: avviso indagine di mercato per affidamento servizio</title>
+			<description>Ricerca di un soggetto giuridico cui affidare il servizio di supporto progettazione esecutiva e realizzazione di tutte le fasi del Bilancio Partecipativo 2018.</description>
+			<a10:updated>2018-03-19T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47482</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47482</link>
@@ -161,14 +169,6 @@ Domenica 25 marzo ore 16 in Villa Tittoni  "La Donna e il vero" - concerto e let
 			<title>La Natura del Parco </title>
 			<description>Il 9 marzo in Sala Pertini a Desio una serata dedicata alla storia e al futuro del Parco Grugnotorto Villoresi con immagini dei suoi campi, filari e percorsi</description>
 			<a10:updated>2018-02-26T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47234</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47234</link>
-			<category>- Biblioteca e Mediateca civica</category>
-			<title>Nuovo portale e nuovi servizi online in Biblioteca</title>
-			<description>Dal 28 febbraio on line il nuovo portale di Brianza Biblioteche  con nuove modalità di accesso e nuovi servizi.</description>
-			<a10:updated>2018-02-21T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
