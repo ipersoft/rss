@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 22 Mar 2018 13:00:37 Z</lastBuildDate>
+		<lastBuildDate>Thu, 22 Mar 2018 17:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3961169</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3961169</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA DIAZ </description>
+			<a10:updated>2018-03-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3961167</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3961167</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SAURO </description>
+			<a10:updated>2018-03-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3956989</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3956989</link>
@@ -789,22 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>INTERVENTI DI ATTUAZIONE PGTU DELLE VIE TITTONI, BOLIVIA, FILIPPO DA DESIO, DONATELLO, OLTRE AL Q.RE BOSCHETTO (A/1638). APPROVAZIONE S.A.L. FINALE, RELAZIONE DEL DIRETTORE DEI LAVORI SUL CONTO FINALE E CERTIFICATO DI REGOLARE ESECUZIONE. - C.I.G. ZAB1F27513 </description>
-			<a10:updated>2018-03-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3912883</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3912883</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>LAVORI DI MANUTENZIONE STRAORDINARIA EDIFICI PUBBLICI (B/1589). PRESA D’ATTO DELL’EFFICACIA DELL’AGGIUDICAZIONE ALL’O.E. IMPRESA CAMPANA DOMENICO DI CUI ALLA DETERMINAZIONE DIRIGENZIALE N. 60 DEL 25/01/2018 - CIG 7312171266 </description>
-			<a10:updated>2018-03-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3912811</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3912811</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>LAVORI DI RIFUNZIONALIZZAZIONE ALA OVEST VILLA TITTONI TRAVERSI (A69VT) - AUTORIZZAZIONE EROGAZIONE ANTICIPAZIONE CONTRATTUALE EX ART. 35 D.LGS 50/2016 AL CONSORZIO STABILE MEDIL S.C.A.R.L. - CUP G42C15000180004 – CIG 70258391C2 </description>
 			<a10:updated>2018-03-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
