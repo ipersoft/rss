@@ -5,7 +5,7 @@
 		<link>https://github.com/comune-desio/newsletter/blob/master/README.md</link>
 		<description>Feed Newsletter Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 23 Mar 2018 17:09:18 +0100</lastBuildDate>
+		<lastBuildDate>Fri, 23 Mar 2018 17:16:01 +0100</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsletterdesio</a10:id>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-03-23.md</guid>
@@ -14,6 +14,14 @@
 			<title>Notizie dalla tua Città - Desio 23 marzo 2018</title>
 			<description />
 			<a10:updated>2018-03-23T00:00:00+01:00</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-03-16.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-03-16.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 16 marzo 2018</title>
+			<description />
+			<a10:updated>2018-03-16T00:00:00+01:00</a10:updated>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-03-09.md</guid>
@@ -158,14 +166,6 @@
 			<title>Notizie dalla tua Città - Desio 03 novembre 2017</title>
 			<description />
 			<a10:updated>2017-11-03T00:00:00+01:00</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-27.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2017-10-27.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 27 ottobre 2017</title>
-			<description />
-			<a10:updated>2017-10-27T00:00:00+02:00</a10:updated>
 		</item>
 	</channel>
 </rss>
