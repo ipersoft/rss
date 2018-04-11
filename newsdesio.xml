@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 11 Apr 2018 09:00:37 Z</lastBuildDate>
+		<lastBuildDate>Wed, 11 Apr 2018 09:30:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47588</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47588</link>
+			<category></category>
+			<title>Anniversario della Liberazione</title>
+			<description>Ricordando il 25 Aprile a Desio</description>
+			<a10:updated>2018-04-10T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47558</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47558</link>
@@ -164,14 +172,6 @@ Domenica 25 marzo ore 16 in Villa Tittoni  "La Donna e il vero" - concerto e let
 			<title>AVVISO sciopero Gelsia Ambiente</title>
 			<description>Giovedì 8 marzo proclamato uno sciopero generale per l'intera giornata, pertanto potrebbero verificarsi incongruenze o disservizi nella raccolta dei rifiuti, nei servizi di pulizia strade e nell'apertura della Piattaforma Ecologica di Via Einaudi. </description>
 			<a10:updated>2018-03-05T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47400</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47400</link>
-			<category></category>
-			<title>Lunedì 5 marzo chiusi i Servizi Demografici e il Servizio Messi Comunali</title>
-			<description>Sportelli chiusi al pubblico, al fine di permettere le operazioni collegate all'organizzazione della tornata elettorale dei 4 marzo 2018.</description>
-			<a10:updated>2018-03-01T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
