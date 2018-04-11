@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 11 Apr 2018 07:30:39 Z</lastBuildDate>
+		<lastBuildDate>Wed, 11 Apr 2018 08:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47558</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47558</link>
+			<category>- Scuola e Formazione</category>
+			<title>Dote Scuola 2018</title>
+			<description>dal 16 aprile al 18 giugno 2018 si possono presentare le domande per ottenere la “Dote Scuola” 
+</description>
+			<a10:updated>2018-04-10T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47555</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47555</link>
@@ -162,14 +171,6 @@ Domenica 25 marzo ore 16 in Villa Tittoni  "La Donna e il vero" - concerto e let
 			<category></category>
 			<title>Lunedì 5 marzo chiusi i Servizi Demografici e il Servizio Messi Comunali</title>
 			<description>Sportelli chiusi al pubblico, al fine di permettere le operazioni collegate all'organizzazione della tornata elettorale dei 4 marzo 2018.</description>
-			<a10:updated>2018-03-01T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47373</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47373</link>
-			<category></category>
-			<title>Risultati delle elezioni politiche e regionali 2018</title>
-			<description>A partire dalle 22:30 di domenica 4 marzo e dalle 14 di lunedì 5 marzo, tutti i risultati della tornata elettorale accessibili in tempo reale sia online che in Sala Consiglio.</description>
 			<a10:updated>2018-03-01T23:00:00Z</a10:updated>
 		</item>
 	</channel>
