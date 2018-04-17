@@ -5,8 +5,18 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Apr 2018 08:00:39 Z</lastBuildDate>
+		<lastBuildDate>Tue, 17 Apr 2018 08:30:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47706</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47706</link>
+			<category></category>
+			<title>Favoliamo</title>
+			<description>Laboratorio per bambini dai 4 ai 7 anni.
+Inventiamo una fiaba con disegni, parole e suoni con Alex Miozzi.
+Incontro a cura di Abbracciebaci in collaborazione con la Biblioteca Civica di Desio sabato 21 aprile dalle ore 16 alle ore 17.30 </description>
+			<a10:updated>2018-04-16T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47691</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47691</link>
@@ -162,14 +172,6 @@ Incontro con gli autori sabato 7 aprile alle ore 17 in Biblioteca</description>
 			<category>- Promozione culturale e sportiva</category>
 			<title>Mostra "Frammenti"</title>
 			<description>Inaugurazione della personale di Silvana Castellucchio in Villa Tittoni sabato 24 marzo ore 16. Mostra aperta fino al 8 aprile 2018</description>
-			<a10:updated>2018-03-14T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47479</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47479</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>La Felicità… Fiabe &amp; Canti</title>
-			<description>Musica e letture presso la Chiesa Santuario del Crocifisso sabato 24 marzo ore 21 a cura della Corale San Pio X</description>
 			<a10:updated>2018-03-14T23:00:00Z</a10:updated>
 		</item>
 	</channel>
