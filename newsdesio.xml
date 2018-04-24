@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 24 Apr 2018 13:30:39 Z</lastBuildDate>
+		<lastBuildDate>Tue, 24 Apr 2018 14:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47755</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47755</link>
+			<category></category>
+			<title>La "Gavazzi" Testimonianza del lavoro desiano</title>
+			<description>Mostra fotografica a cura della Pro Loco Desio in Piazza Don Giussani dal 4 al 6 magggio. Fotografie di Mario Taito.
+Inaugurazione venerdì 4 maggio ore 18.30</description>
+			<a10:updated>2018-04-23T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47749</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47749</link>
@@ -165,15 +174,6 @@ sono aperti i termini per la presentazione delle domande.</description>
 			<title>Il Pescatore di Libri</title>
 			<description>Teatro in sala Sostare in Biblioteca con Teatrando sabato 14 aprile ore 16</description>
 			<a10:updated>2018-04-04T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47537</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47537</link>
-			<category>- URP Ufficio Relazioni con il Pubblico e Comunicazione</category>
-			<title>Giornata 'Nidi Aperti'</title>
-			<description>Sabato 21 Aprile 2018
-Visita agli Asili Nido comunali </description>
-			<a10:updated>2018-04-03T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
