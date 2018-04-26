@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 26 Apr 2018 13:00:40 Z</lastBuildDate>
+		<lastBuildDate>Thu, 26 Apr 2018 13:30:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47786</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47786</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Un tavolo di lavoro sulla Milano - Chiasso»</title>
+			<description>I Primi cittadini chiedono un «coordinamento». I sindaci di Lissone, Desio e Muggiò scrivono a Regione Lombardia.</description>
+			<a10:updated>2018-04-25T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47775</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47775</link>
@@ -165,15 +173,6 @@ sono aperti i termini per la presentazione delle domande.</description>
 			<category></category>
 			<title>Anniversario della Liberazione</title>
 			<description>Ricordando il 25 Aprile a Desio</description>
-			<a10:updated>2018-04-10T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47558</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47558</link>
-			<category>- Scuola e Formazione</category>
-			<title>Dote Scuola 2018</title>
-			<description>dal 16 aprile al 18 giugno 2018 si possono presentare le domande per ottenere la “Dote Scuola” 
-</description>
 			<a10:updated>2018-04-10T22:00:00Z</a10:updated>
 		</item>
 	</channel>
