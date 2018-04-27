@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 27 Apr 2018 10:30:40 Z</lastBuildDate>
+		<lastBuildDate>Fri, 27 Apr 2018 11:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47796</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47796</link>
+			<category>- Ufficio Stampa</category>
+			<title>Rendiconto, i conti tornano</title>
+			<description>Approvato dal Consiglio comunale nella seduta di giovedì 26 aprile. Presentato il documento contabile relativo alla gestione 2017: sette milioni e mezzo di investimenti. L’assessore Jennifer Moro: «Gestione sana e progetti innovativi: abbiamo utilizzato tutti gli spazi finanziari possibili, garantendo tutti i servizi di cui i cittadini hanno bisogno»</description>
+			<a10:updated>2018-04-26T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47786</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47786</link>
@@ -166,14 +174,6 @@ sono aperti i termini per la presentazione delle domande.</description>
 			<category>- Ufficio di Piano</category>
 			<title>Campus Ponte del 30 aprile - gratuito</title>
 			<description>Nel periodo di chiusura delle scuole per il 30 aprile, l'Ufficio di Piano propone attività di supporto compiti di gruppo e spazi educativi per i bambini e le bambine della Scuola Primaria e Secondaria di primo grado.</description>
-			<a10:updated>2018-04-10T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47588</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47588</link>
-			<category></category>
-			<title>Anniversario della Liberazione</title>
-			<description>Ricordando il 25 Aprile a Desio</description>
 			<a10:updated>2018-04-10T22:00:00Z</a10:updated>
 		</item>
 	</channel>
