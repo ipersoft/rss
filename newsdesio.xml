@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 08 May 2018 15:00:33 Z</lastBuildDate>
+		<lastBuildDate>Tue, 08 May 2018 15:30:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47889</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47889</link>
+			<category></category>
+			<title>Inquinamento acustico</title>
+			<description>in attuazione del Decreto Legislativo 194/2005, viene pubblicato il Piano d'Aziona e si apre la fase di consultazione pubblica.</description>
+			<a10:updated>2018-05-07T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47888</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47888</link>
+			<category></category>
+			<title>Impressionisti a Milano: proroga isscrizioni</title>
+			<description>Sabato 26 maggio visita guidata. ino a mercoledì 23 maggio sarà possibile iscriversi per visitare la mostra «Impressionismo e avanguardie».</description>
+			<a10:updated>2018-05-07T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47877</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47877</link>
@@ -156,23 +172,6 @@ Termine presentazione opere 31/10/2018
 			<description>Mostra fotografica a cura della Pro Loco Desio in Piazza Don Giussani dal 4 al 6 magggio. Fotografie di Mario Taito.
 Inaugurazione venerdì 4 maggio ore 18.30</description>
 			<a10:updated>2018-04-23T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47749</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47749</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Storie di Jazz</title>
-			<description>Concerto jazz con brevi letture di brani a tema in Villa Tittoni venerdì 4 maggio alle ore 21 a cura dell'associazione musicale Coro Sing a Song e del Gruppo Teatro Sonia Bonacina</description>
-			<a10:updated>2018-04-23T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47741</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47741</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Visita guidata alla mostra "Impressionismo e Avanguardie"</title>
-			<description>Visita guidata a Palazzo Reale a Milano sabato 26 maggio organizzata dall'Assessorato alla Cultura in collaborazione con la Bocciofila Parco. Iscrizioni dal 23 aprile all'11 maggio.
-</description>
-			<a10:updated>2018-04-18T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
