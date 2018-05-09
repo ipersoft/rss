@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 09 May 2018 08:00:36 Z</lastBuildDate>
+		<lastBuildDate>Wed, 09 May 2018 14:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4050258</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4050258</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE FINALIZZATA ALL'ESECUZIONE DI TRATTAMENTI FITOSANITARI SULLA PIANTUMAZIONE STRADALE LUNGO LE SEGUENTI VIE : TAGLIABUE - GOITO - VARESE - DOLOMITI </description>
+			<a10:updated>2018-05-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4050255</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4050255</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE FINALIZZATA ALLA POTATURA E AL TAGLIO DI PIANTE AD ALTO FUSTO LUNGO LE SEGUENTI VIE : MAZZINI - NIZZA - SILONE - UGO BASSI </description>
+			<a10:updated>2018-05-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4048313</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4048313</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>APPROVAZIONE SCHEMA DI CONVENZIONE TRA CENTRO ANTIVIOLENZA DI MONZA C.A.DO.M. E GLI AMBITI TERRITORIALI FACENTI PARTE DELLA RETE TERRITORIALE ARTEMIDE – D.G.R. N. 6714 DEL 14/06/2017 </description>
-			<a10:updated>2018-04-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4002016</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4002016</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PROTOCOLLO DI INTESA TRA IL COMUNE DI DESIO, CAPOFILA DELL’AMBITO TERRITORIALE DI DESIO E L’ENTE NAZIONALE SORDI – SEZIONE DI MONZA E BRIANZA - PER L’ATTIVAZIONE DI INTERVENTI DI INTERPRETARIATO LINGUA DEI SEGNI PRESSO I SERVIZI COMUNALI DELL’AMBITO TERRITORIALE” ANNUALITÀ 2018-2019 ED IMPEGNO DI SPESA ANNO 2018 (€1.000,00) </description>
-			<a10:updated>2018-04-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4002014</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4002014</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PROGETTO DI BILANCIO PARTECIPATIVO 2017 "NOI PER VOI" - NUOVI REQUISITI BANDO DI PARTECIPAZIONE E RIAPERTURA TERMINI </description>
 			<a10:updated>2018-04-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
