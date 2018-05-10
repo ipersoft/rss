@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 10 May 2018 15:00:35 Z</lastBuildDate>
+		<lastBuildDate>Thu, 10 May 2018 15:30:34 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47959</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47959</link>
+			<category></category>
+			<title>Sport e laboratori al Centro estivo</title>
+			<description>L’assessore Giorgio Gerosa: «Rafforzata la dimensione sportiva e ambientale». Cambia la «location», le Scuole di via Agnesi, in collaborazione con alcune società sportive. Martedì 15 maggio la presentazione del progetto didattico.</description>
+			<a10:updated>2018-05-09T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47957</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47957</link>
@@ -164,14 +172,6 @@ sabato 5 maggio 2018 - ore 14.30</description>
 			<title>Avviso pubblico per la ricerca di un partner con cui partecipare al bando cariplo “Beni aperti”</title>
 			<description>La Fondazione Cariplo ha pubblicato il bando “Beni aperti” con scadenza 31 maggio 2018, il cui obiettivo principale è quello di favorire l’adozione di scelte strategiche sul patrimonio culturale che consentano di conservare e valorizzare i beni storico-architettonici. Scadenza 17 maggio 2018</description>
 			<a10:updated>2018-05-01T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47796</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47796</link>
-			<category>- Ufficio Stampa</category>
-			<title>Rendiconto, i conti tornano</title>
-			<description>Approvato dal Consiglio comunale nella seduta di giovedì 26 aprile. Presentato il documento contabile relativo alla gestione 2017: sette milioni e mezzo di investimenti. L’assessore Jennifer Moro: «Gestione sana e progetti innovativi: abbiamo utilizzato tutti gli spazi finanziari possibili, garantendo tutti i servizi di cui i cittadini hanno bisogno»</description>
-			<a10:updated>2018-04-26T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
