@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 16 May 2018 12:30:30 Z</lastBuildDate>
+		<lastBuildDate>Wed, 16 May 2018 13:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48010</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48010</link>
+			<category></category>
+			<title>Disabilità sensoriali: i servizi per l’inclusione</title>
+			<description>I servizi di supporto per studenti disabili sensoriali. Domande entro l’8 giugno.</description>
+			<a10:updated>2018-05-15T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48009</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48009</link>
@@ -161,14 +169,6 @@ e commemorazione dei Ragazzi del ‘99 mercoledì 9 maggio ore 15.30 presso la s
 			<category></category>
 			<title>un bando per l'assegnazione di immobili confiscati alla mafia</title>
 			<description>avviso pubblico di selezione per l'assegnazione in concessione d'uso a titolo gratuito di tre immobili con pertinenze confiscati alla criminalità organizzata e trasferiti al patrimonio indisponibile del Comune di Desio</description>
-			<a10:updated>2018-05-03T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47849</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47849</link>
-			<category></category>
-			<title>Segui la costellazione di «Parco Tittoni»</title>
-			<description>Fino al 10 settembre musica, teatro, cinema e eventi per bambini. Il 17 maggio ricomincia a brillare. L’assessore Cristina Redi: «Nella programmazione culturale la continuità, più che sui singoli progetti, vale sul piano strategico» </description>
 			<a10:updated>2018-05-03T22:00:00Z</a10:updated>
 		</item>
 	</channel>
