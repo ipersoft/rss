@@ -5,7 +5,7 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 17 May 2018 07:30:31 Z</lastBuildDate>
+		<lastBuildDate>Thu, 17 May 2018 08:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48011</guid>
@@ -21,14 +21,6 @@
 			<category></category>
 			<title>Disabilità sensoriali: i servizi per l’inclusione</title>
 			<description>I servizi di supporto per studenti disabili sensoriali. Domande entro l’8 giugno.</description>
-			<a10:updated>2018-05-15T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48009</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48009</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Chernobyl - Istantanee dalla zona di esclusione</title>
-			<description>Inaugurazione venerdì 25 maggio ore 21 della mostra fotografica presso HubDesio Giovani. Foto di  Mattia Pozzi e Monica Consonni.  Aperta fino al 24 giugno</description>
 			<a10:updated>2018-05-15T22:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -170,6 +162,14 @@ Libri di ogni genere attendono nuovi lettori</description>
 			<description>Adozione del monumento al Milite Ignoto
 e commemorazione dei Ragazzi del ‘99 mercoledì 9 maggio ore 15.30 presso la scuola "G. Gavazzi" di via Diaz in occasione della Giornata Nazionale A.M.A. (Atlante Monumenti Adottati)</description>
 			<a10:updated>2018-05-06T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47859</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47859</link>
+			<category></category>
+			<title>un bando per l'assegnazione di immobili confiscati alla mafia</title>
+			<description>avviso pubblico di selezione per l'assegnazione in concessione d'uso a titolo gratuito di tre immobili con pertinenze confiscati alla criminalità organizzata e trasferiti al patrimonio indisponibile del Comune di Desio</description>
+			<a10:updated>2018-05-03T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
