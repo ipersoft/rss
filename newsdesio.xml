@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 18 May 2018 11:00:33 Z</lastBuildDate>
+		<lastBuildDate>Fri, 18 May 2018 11:30:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48055</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48055</link>
+			<category>- Segreteria Generale</category>
+			<title>Giovedì 24 e venerdì 25 maggio 2018 sedute straordinarie di Consiglio Comunale</title>
+			<description>Le sedute sono convocate per le ore 20.30 .</description>
+			<a10:updated>2018-05-17T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48045</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48045</link>
@@ -108,7 +116,7 @@
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47982</link>
 			<category>- Promozione culturale e sportiva</category>
 			<title>One Day in Tittoni</title>
-			<description>Una festa lunga un giorno in Villa Tittoni  domenica 20 maggio 2018: visite guidate, incontri culturali, laboratori per bambini e molto altro. </description>
+			<description>Una festa lunga un giorno in Villa Tittoni  domenica 20 maggio 2018: visite guidate, incontri culturali, laboratori per bambini e molto altro. Causa maltempo annullate le attività esterne.</description>
 			<a10:updated>2018-05-13T22:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -161,14 +169,6 @@ profuma di storia, arte, tradizioni e buon cibo sabato 19 maggio con partenza al
 nel cortile della Villa Tittoni (rinviato in caso di maltempo).
 Libri di ogni genere attendono nuovi lettori</description>
 			<a10:updated>2018-05-09T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47926</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47926</link>
-			<category></category>
-			<title>MANUTENZIONE VERDE: AVVIATI I TAGLI DELL'ERBA</title>
-			<description>L’assessore Emanuela Rocco: «Interventi iniziati in aprile, in ritardo a causa del maltempo». Priorità a scuole e centro storico. Da questa settimana quattro squadre al lavoro su rotatorie e spartitraffico per garantire la massima sicurezza stradale.</description>
-			<a10:updated>2018-05-08T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
