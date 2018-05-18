@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 18 May 2018 10:30:31 Z</lastBuildDate>
+		<lastBuildDate>Fri, 18 May 2018 11:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48045</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48045</link>
+			<category></category>
+			<title>«Jazz e dintorni», la grande musica in città</title>
+			<description>Dal 6 giugno al 10 luglio il grande jazz sbarca a Desio. Vie, piazze, spazi pubblici e aree private con un calendario di proposte di grande livello. Protagonisti alcuni fra i nomi più importanti del jazz italiano e prestigiosi ospiti stranieri.</description>
+			<a10:updated>2018-05-17T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48042</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48042</link>
@@ -161,14 +169,6 @@ Libri di ogni genere attendono nuovi lettori</description>
 			<title>MANUTENZIONE VERDE: AVVIATI I TAGLI DELL'ERBA</title>
 			<description>L’assessore Emanuela Rocco: «Interventi iniziati in aprile, in ritardo a causa del maltempo». Priorità a scuole e centro storico. Da questa settimana quattro squadre al lavoro su rotatorie e spartitraffico per garantire la massima sicurezza stradale.</description>
 			<a10:updated>2018-05-08T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47889</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47889</link>
-			<category></category>
-			<title>Inquinamento acustico</title>
-			<description>in attuazione del Decreto Legislativo 194/2005, viene pubblicato il Piano d'Aziona e si apre la fase di consultazione pubblica.</description>
-			<a10:updated>2018-05-07T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
