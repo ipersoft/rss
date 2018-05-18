@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 18 May 2018 10:00:35 Z</lastBuildDate>
+		<lastBuildDate>Fri, 18 May 2018 10:30:31 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48042</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48042</link>
+			<category></category>
+			<title>La sicurezza in strada</title>
+			<description>Roberto Corti: «Miglioriamo il lavoro degli agenti sul territorio». La Polizia Locale ha acquistato una nuova autovettura, un’Alfa Romeo Giulietta. Entro fine anno in arrivo anche un’auto ibrida.</description>
+			<a10:updated>2018-05-17T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48020</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48020</link>
@@ -91,8 +99,8 @@
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47982</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47982</link>
 			<category>- Promozione culturale e sportiva</category>
-			<title>One Day in Desio</title>
-			<description>Una festa lunga un giorno in via Lampugnani domenica 20 maggio 2018 con negozi aperti, bancarelle e molto altro </description>
+			<title>One Day in Tittoni</title>
+			<description>Una festa lunga un giorno in Villa Tittoni  domenica 20 maggio 2018: visite guidate, incontri culturali, laboratori per bambini e molto altro. </description>
 			<a10:updated>2018-05-13T22:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -160,14 +168,6 @@ Libri di ogni genere attendono nuovi lettori</description>
 			<category></category>
 			<title>Inquinamento acustico</title>
 			<description>in attuazione del Decreto Legislativo 194/2005, viene pubblicato il Piano d'Aziona e si apre la fase di consultazione pubblica.</description>
-			<a10:updated>2018-05-07T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47888</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47888</link>
-			<category></category>
-			<title>Impressionisti a Milano: proroga iscrizioni</title>
-			<description>Sabato 26 maggio visita guidata. Fino a mercoledì 23 maggio sarà possibile iscriversi per visitare la mostra «Impressionismo e avanguardie».</description>
 			<a10:updated>2018-05-07T22:00:00Z</a10:updated>
 		</item>
 	</channel>
