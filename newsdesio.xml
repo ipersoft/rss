@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 21 May 2018 15:00:34 Z</lastBuildDate>
+		<lastBuildDate>Mon, 21 May 2018 15:30:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48074</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48074</link>
+			<category>- Biblioteca e Mediateca civica</category>
+			<title>Parole e Disegni</title>
+			<description>Piccolo laboratorio di fumetto per bambini da 8 a 11 anni sabato 26 maggio alle ore 16 in biblioteca a cura di #abbracciebaci</description>
+			<a10:updated>2018-05-20T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48072</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48072</link>
@@ -157,14 +165,6 @@
 			<category></category>
 			<title>Sport e laboratori al Centro estivo</title>
 			<description>L’assessore Giorgio Gerosa: «Rafforzata la dimensione sportiva e ambientale». Cambia la «location», le Scuole di via Agnesi, in collaborazione con alcune società sportive. Martedì 15 maggio la presentazione del progetto didattico.</description>
-			<a10:updated>2018-05-09T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47957</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47957</link>
-			<category></category>
-			<title>Parcheggi, un'ora gratuita per i disabili</title>
-			<description>È necessario richiedere una «card» al Comando di Polizia Locale. Al via una campagna di comunicazione mirata. Il sindaco Roberto Corti: «Facciamo chiarezza: il punto fermo è che è garantita l’ora di sosta gratuita su tutti i parcheggi a pagamento della città».</description>
 			<a10:updated>2018-05-09T22:00:00Z</a10:updated>
 		</item>
 	</channel>
