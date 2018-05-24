@@ -5,8 +5,25 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 24 May 2018 14:00:33 Z</lastBuildDate>
+		<lastBuildDate>Thu, 24 May 2018 14:30:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48085</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48085</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Visita guidata a Villa Litta a Lainate</title>
+			<description>Visita guidata ai Palazzi e al Ninfeo
+venerdì 15 giugno. Partenza da Piazza Giovanni Paolo II - Desio ore 19,15 (rientro previsto ore 23). Iscrizioni fino ad esaurimento posti dal 28 maggio</description>
+			<a10:updated>2018-05-23T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48081</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48081</link>
+			<category></category>
+			<title>Centro sportivo, ecco le «linee guida»</title>
+			<description>Nel 2018 investimenti per cento mila euro. Presentato ieri sera in Commissione consigliare l’ipotesi di intervento sulla struttura sportiva di via Agnesi. L’assessore Giorgio Gerosa: «L’obiettivo è tutelare lo sport di base, garantendo tariffe agevolate».</description>
+			<a10:updated>2018-05-23T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48077</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48077</link>
@@ -28,7 +45,7 @@
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48072</link>
 			<category></category>
 			<title>La «riflessione» di Chiara Cesana</title>
-			<description>ino al 30 maggio «Tratti di riflessione». Pittura e fotografia: in Villa «Tittoni» in mostra l’intero percorso pittorico dell’artista caratese, dall’astratto al figurativo fino all’unione dei due stili.</description>
+			<description>Fino al 30 maggio «Tratti di riflessione». Pittura e fotografia: in Villa «Tittoni» in mostra l’intero percorso pittorico dell’artista caratese, dall’astratto al figurativo fino all’unione dei due stili.</description>
 			<a10:updated>2018-05-20T22:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -150,22 +167,6 @@
 			<title>Al PalaBancoDesio «Bimbi Sicuri»</title>
 			<description>L’appuntamento sabato 19 maggio alle ore 9.45. Un'iniziativa promossa dal Dipartimento Materno Infantile dell’ospedale di Desio ASST di Monza, in collaborazione con Mustela e Salvagente Italia e con il patrocinio del Comune di desio. Iscrizioni gratuite.</description>
 			<a10:updated>2018-05-13T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47982</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47982</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>One Day in Tittoni</title>
-			<description>Una festa lunga un giorno in Villa Tittoni  domenica 20 maggio 2018: visite guidate, incontri culturali, laboratori per bambini e molto altro. Causa maltempo annullate le attività esterne.</description>
-			<a10:updated>2018-05-13T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47961</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47961</link>
-			<category></category>
-			<title>«Parco Tittoni», torna l'estate</title>
-			<description>Dal 17 maggio al 9 settembre. Oltre 250 spettacoli: dalla musica live alla danza, dalle feste a tema al cinema, fino agli spazi per i bambini. Tra i «big» Tonino Carotone, Cristina D’Avena, Sabrina Salerno e Morgan.</description>
-			<a10:updated>2018-05-10T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
