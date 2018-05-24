@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 24 May 2018 14:30:32 Z</lastBuildDate>
+		<lastBuildDate>Thu, 24 May 2018 15:00:34 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48090</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48090</link>
+			<category></category>
+			<title>Verde, al lavoro per recuperare</title>
+			<description>Settimana scorsa interventi su più di trenta strade per oltre 130 mila mq. Sono quattro le squadre sul territorio. L’assessore Emanuela Rocco: «Abbiamo aumentato le forze in campo per riportare la situazione sotto controllo».</description>
+			<a10:updated>2018-05-23T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48085</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48085</link>
@@ -158,14 +166,6 @@ venerdì 15 giugno. Partenza da Piazza Giovanni Paolo II - Desio ore 19,15 (rien
 			<category></category>
 			<title>«Il Girasole», il Comitato di coordinamento al rinnovo</title>
 			<description>Dal 16 al 24 maggio la presentazione delle candidature. Il 30 e il 31 maggio le elezioni</description>
-			<a10:updated>2018-05-13T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47983</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=47983</link>
-			<category></category>
-			<title>Al PalaBancoDesio «Bimbi Sicuri»</title>
-			<description>L’appuntamento sabato 19 maggio alle ore 9.45. Un'iniziativa promossa dal Dipartimento Materno Infantile dell’ospedale di Desio ASST di Monza, in collaborazione con Mustela e Salvagente Italia e con il patrocinio del Comune di desio. Iscrizioni gratuite.</description>
 			<a10:updated>2018-05-13T22:00:00Z</a10:updated>
 		</item>
 	</channel>
