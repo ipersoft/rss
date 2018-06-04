@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 04 Jun 2018 14:30:35 Z</lastBuildDate>
+		<lastBuildDate>Mon, 04 Jun 2018 15:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48197</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48197</link>
+			<category>- Ufficio Stampa</category>
+			<title>Giochi, d’acqua, fontane, serre: alla scoperta di Villa Litta</title>
+			<description>Iscrizioni fino a esaurimento posti. Venerdì 15 giugno visita guidata a una delle più belle «ville di delizia» lombarde.</description>
+			<a10:updated>2018-06-03T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48190</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48190</link>
@@ -158,14 +166,6 @@ venerdì 15 giugno. Partenza da Piazza Giovanni Paolo II - Desio ore 19,15 (rien
 			<category>- Biblioteca e Mediateca civica</category>
 			<title>Parole e Disegni</title>
 			<description>Piccolo laboratorio di fumetto per bambini da 8 a 11 anni sabato 26 maggio alle ore 16 in biblioteca a cura di #abbracciebaci</description>
-			<a10:updated>2018-05-20T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48072</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48072</link>
-			<category></category>
-			<title>La «riflessione» di Chiara Cesana</title>
-			<description>Fino al 30 maggio «Tratti di riflessione». Pittura e fotografia: in Villa «Tittoni» in mostra l’intero percorso pittorico dell’artista caratese, dall’astratto al figurativo fino all’unione dei due stili.</description>
 			<a10:updated>2018-05-20T22:00:00Z</a10:updated>
 		</item>
 	</channel>
