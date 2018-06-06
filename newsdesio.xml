@@ -5,8 +5,25 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 06 Jun 2018 10:00:41 Z</lastBuildDate>
+		<lastBuildDate>Wed, 06 Jun 2018 10:30:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48207</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48207</link>
+			<category></category>
+			<title>Aperitivi letterari</title>
+			<description>Due appuntamenti con Barbara Arosio alla «Casa delle Donne»: il 9 e il 30 giugno.
+</description>
+			<a10:updated>2018-06-05T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48202</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48202</link>
+			<category>- Ufficio Stampa</category>
+			<title>Mercoledì, su il sipario</title>
+			<description>Parte la stagione estiva di «Desio dal Vivo». Shopping, esordio del festival «Jazz e Dintorni» e «Something», show acrobatico in piazza Conciliazione.</description>
+			<a10:updated>2018-06-05T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48197</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48197</link>
@@ -151,22 +168,6 @@ venerdì 15 giugno. Partenza da Piazza Giovanni Paolo II - Desio ore 19,15 (rien
 			<title>Centro sportivo, ecco le «linee guida»</title>
 			<description>Nel 2018 investimenti per cento mila euro. Presentato ieri sera in Commissione consigliare l’ipotesi di intervento sulla struttura sportiva di via Agnesi. L’assessore Giorgio Gerosa: «L’obiettivo è tutelare lo sport di base, garantendo tariffe agevolate».</description>
 			<a10:updated>2018-05-23T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48077</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48077</link>
-			<category>- Biblioteca e Mediateca civica</category>
-			<title>Orari apertura Sala Studio Biblioteca</title>
-			<description>Nuovi orari per il mese di giugno</description>
-			<a10:updated>2018-05-23T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48074</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48074</link>
-			<category>- Biblioteca e Mediateca civica</category>
-			<title>Parole e Disegni</title>
-			<description>Piccolo laboratorio di fumetto per bambini da 8 a 11 anni sabato 26 maggio alle ore 16 in biblioteca a cura di #abbracciebaci</description>
-			<a10:updated>2018-05-20T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
