@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 08 Jun 2018 11:00:35 Z</lastBuildDate>
+		<lastBuildDate>Fri, 08 Jun 2018 11:30:30 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48237</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48237</link>
+			<category>- Ufficio Stampa</category>
+			<title>Mercoledì, lo sport si mette in mostra</title>
+			<description>Il 13 giugno secondo appuntamento con lo shopping by night. Dimostrazioni e stand per conoscere le società sportive del territorio e il «baskin» per permettere a atleti con disabilità e  normodotati di giocare nella stessa squadra.</description>
+			<a10:updated>2018-06-07T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48228</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48228</link>
@@ -167,14 +175,6 @@ Festa degli Alpini nei giorni 29 - 30 giugno 1 - 6 - 7 - 8 luglio presso l'Orato
 			<category>- Servizi Sociali</category>
 			<title>Le attività in programma a Giugno al Centro Ricreativo 'Il Girasole'</title>
 			<description>Un programma ricco di appuntamenti al Centro Ricreativo 'Il Girasole' e "Giugno in forma" con ginnastica al parco. 	</description>
-			<a10:updated>2018-05-24T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48107</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48107</link>
-			<category></category>
-			<title>Coworking a Nova Milanese, bando per l’assegnazione di postazioni</title>
-			<description>Iniziativa di Regione Lombardia a supporto degli interventi di conciliazione famiglia – lavoro. Riaperti i termini: domande entro giovedì 7 giugno.</description>
 			<a10:updated>2018-05-24T22:00:00Z</a10:updated>
 		</item>
 	</channel>
