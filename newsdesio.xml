@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Jun 2018 09:30:28 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 Jun 2018 10:00:30 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48318</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48318</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Le Maddalene</title>
+			<description>A venticinque anni dalla morte, deSidera Monza e Brianza ricorda Giovanni Testori con Walter Malosti che porta in scena giovedì 21 giugno ore 21.30“Le Maddalene. Da Giotto a Bacon” nella suggestiva cornice di Villa Tittoni. Giovedì 21 giugno ore 21,30 </description>
+			<a10:updated>2018-06-14T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48317</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48317</link>
@@ -161,23 +169,6 @@ Mancata aggiudicazione</description>
 			<category>- Ufficio Stampa</category>
 			<title>«Jazz e Dintorni», il festival «diffuso»</title>
 			<description>Stasera torna, dopo vent’anni dalla prima edizione, la kermesse dedicata al jazz. Protagonisti alcuni fra i nomi più importanti del jazz italiano e prestigiosi ospiti stranieri.</description>
-			<a10:updated>2018-06-05T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48214</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48214</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Quartieri in Festa</title>
-			<description>Desio: la città che si diverte.
-Festa de Spacun dal 15 al 17 giugno;
-2° Festa d'Estate presso il Quartiere S. Giorgio dal 29 giugno al 1 luglio;
-Viva il Boschetto dal 29 giugno al 1 luglio - Area Verde Via Risorgimento;
-Festa degli Alpini nei giorni 29 - 30 giugno 1 - 6 - 7 - 8 luglio presso l'Oratorio San Francesco 
-
-
-
-
-</description>
 			<a10:updated>2018-06-05T22:00:00Z</a10:updated>
 		</item>
 	</channel>
