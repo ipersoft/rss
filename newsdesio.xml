@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 18 Jun 2018 08:00:29 Z</lastBuildDate>
+		<lastBuildDate>Mon, 18 Jun 2018 08:30:28 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48337</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48337</link>
+			<category>- Ufficio Stampa</category>
+			<title>Biglietterie, Trenord incontra i sindaci</title>
+			<description>Mercoledì 20 giugno. I Primi cittadini di Desio, Seveso e Arcore incontreranno la società che gestisce il trasporto ferroviario in merito alla questione della chiusura degli «sportelli» nelle tre stazioni.
+</description>
+			<a10:updated>2018-06-17T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48336</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48336</link>
@@ -162,14 +171,6 @@ Mancata aggiudicazione</description>
 			<title>Manifestazione interesse servizio civile</title>
 			<description>Pagina dedicata ai giovani attraverso la quale possono già manifestare il proprio interesse</description>
 			<a10:updated>2018-06-11T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48254</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48254</link>
-			<category>- Ufficio Stampa</category>
-			<title>Palio, «San Pietro al Dosso» nella storia</title>
-			<description>Settima vittoria consecutiva per la contrada neroverde. Ieri la trentesima edizione della rievocazione della battaglia di Desio del 1277 tra Torriani e Visconti.  Lucas Tallone e Luca Ferrario sul gradino più alto del podio.</description>
-			<a10:updated>2018-06-10T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
