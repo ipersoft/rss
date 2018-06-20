@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 20 Jun 2018 15:00:30 Z</lastBuildDate>
+		<lastBuildDate>Wed, 20 Jun 2018 15:30:29 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48352</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48352</link>
+			<category>- Ufficio Stampa</category>
+			<title>I girasoli colorano la città</title>
+			<description>Partnership tra Unione del Commercio, «Il Seme Onlus» e il Comune. Centosessanta fiori sono «spuntati» in centro: li hanno disegnati e fatti gli utenti della cooperativa sociale. L’assessore agli Eventi Giorgio Gerosa: «Un progetto che mette insieme il sociale con il commercio, asse portante del centro città»</description>
+			<a10:updated>2018-06-19T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48347</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48347</link>
+			<category>- Ufficio Stampa</category>
+			<title>Valter Malosti «legge» Giovanni Testori</title>
+			<description>Giovedì 21 giugno. In Villa «Tittoni» va in scena «Le Maddalene. Da Giotto a Bacon», un viaggio della Maddalena raccontata da i grandi dell’arte.</description>
+			<a10:updated>2018-06-19T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48339</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48339</link>
@@ -152,23 +168,6 @@
 			<description>Stasera in piazza Conciliazione. Sport integrato per atleti normodotati e disabili: si ispira al basket, ma con regole adattate agli atleti in campo. 
 
 </description>
-			<a10:updated>2018-06-12T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48269</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48269</link>
-			<category>- Ufficio Stampa</category>
-			<title>Andrea Pozza all’«Hangar Audi Pirola»</title>
-			<description>Prosegue «Jazz e Dintorni» con un concerto (su invito) del grande talento ligure giovedì 14 giugno e due appuntamenti in Biblioteca civica sabato 16 giugno.
-</description>
-			<a10:updated>2018-06-12T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48264</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48264</link>
-			<category>- Ufficio Stampa</category>
-			<title>«La via del tamarindo»</title>
-			<description>Sabato 16 giugno al Teatro «Il Centro». Il racconto del viaggio avventuroso di un gruppo di profughi dall’Africa alle coste italiane messo in scena da «ARDEN - Luogo del possibile».</description>
 			<a10:updated>2018-06-12T22:00:00Z</a10:updated>
 		</item>
 	</channel>
