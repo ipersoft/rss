@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 29 Jun 2018 09:30:30 Z</lastBuildDate>
+		<lastBuildDate>Fri, 29 Jun 2018 10:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48410</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48410</link>
+			<category>- Ufficio Stampa</category>
+			<title>Demografici, c'è il «ticket virtuale»</title>
+			<description>Un servizio per staccare virtualmente il «numerino» allo sportello. Attraverso un servizio online è possibile prenotare il proprio turno con il telefonino e non perdere tempo ad aspettare. L’assessore Stefano Bruno Guidotti: «I Servizi demografici sono sempre più a portata di cittadino».</description>
+			<a10:updated>2018-06-28T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48409</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48409</link>
@@ -163,14 +171,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>«Tavolo di lavoro Milano-Chiasso»: passi avanti</title>
 			<description>I sindaci dall’assessore regionale Terzi. I sindaci di desio, Lissone e Muggiò mantengono alta l’attenzione: «I problemi del trasporto ferroviario incidono, ogni giorno, sulla vita di migliaia di persone. Il canale di confronto aperto con Regione Lombardia è positivo».</description>
-			<a10:updated>2018-06-14T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48325</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48325</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Jazz e dintorni» fa tappa in biblioteca</title>
-			<description>Sabato 16 giugno doppio appuntamento nel pomeriggio: storie di jazz per bambini e il duo Maurizio Aliffi, chitarra, Marco Bianchi, vibrafono.</description>
 			<a10:updated>2018-06-14T22:00:00Z</a10:updated>
 		</item>
 	</channel>
