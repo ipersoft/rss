@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 29 Jun 2018 11:30:31 Z</lastBuildDate>
+		<lastBuildDate>Fri, 29 Jun 2018 12:30:30 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48416</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48416</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Oriente Day», festival di arte e benessere</title>
+			<description>Sabato 7 e domenica 8 luglio «Parco Tittoni» dedica due giorni alle discipline olistiche, alle arti marziali, all'alimentazione sana. Sabato sera concerto di Panjabi MC e in Biblioteca laboratori e attività per bambini</description>
+			<a10:updated>2018-06-28T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48410</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48410</link>
@@ -163,14 +171,6 @@
 			<category></category>
 			<title>Graduatoria educatore - riapertuta termini</title>
 			<description>Selezione per la formazione di una graduatoria per assunzioni a tempo determinato di educatore - cat. C.</description>
-			<a10:updated>2018-06-14T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48327</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48327</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Tavolo di lavoro Milano-Chiasso»: passi avanti</title>
-			<description>I sindaci dall’assessore regionale Terzi. I sindaci di desio, Lissone e Muggiò mantengono alta l’attenzione: «I problemi del trasporto ferroviario incidono, ogni giorno, sulla vita di migliaia di persone. Il canale di confronto aperto con Regione Lombardia è positivo».</description>
 			<a10:updated>2018-06-14T22:00:00Z</a10:updated>
 		</item>
 	</channel>
