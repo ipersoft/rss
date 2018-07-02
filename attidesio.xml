@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 29 Jun 2018 16:00:34 Z</lastBuildDate>
+		<lastBuildDate>Mon, 02 Jul 2018 10:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4158678</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4158678</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA MONTE CIMONE </description>
+			<a10:updated>2018-07-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4157096</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4157096</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>GRUPPO ALPINI DESIO – RICHIESTA PATROCINIO COMUNALE PER “10° EDIZIONE FESTA ALPINA” IN PROGRAMMA DAL 29 GIUGNO AL 8 LUGLIO 2018 PRESSO L’ORATORIO DELLA CHIESA DI S. FRANCESCO DI VIA GIUSTI </description>
-			<a10:updated>2018-06-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4123323</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4123323</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ISTANZA DI PROROGA DEI TERMINI DI VALIDITÀ DEL PIANO ATTUATIVO INDIVIDUATO NEL PRG PREVIGENTE CON LA SIGLA “C5”. </description>
 			<a10:updated>2018-06-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
