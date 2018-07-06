@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 06 Jul 2018 17:00:30 Z</lastBuildDate>
+		<lastBuildDate>Fri, 06 Jul 2018 17:30:30 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48480</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48480</link>
+			<category></category>
+			<title>Biblioteca, «Aula Studio» aperta anche a luglio</title>
+			<description>Dal 14 luglio Sala studio aperta anche al pomeriggio. Chiusa per pausa estiva dal 23 luglio al 19 agosto.
+</description>
+			<a10:updated>2018-07-05T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48474</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48474</link>
@@ -158,14 +167,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>«Jazz e Dintorni» a «Cantallops Island» </title>
 			<description>Giovedì 5 luglio . All’Auditorium della «Fondazione Civica Scuola di Musica e Danza» protagonista il pianista francese  Víctor Gordo Cantallops.</description>
-			<a10:updated>2018-07-01T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48422</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48422</link>
-			<category>- Ufficio Stampa</category>
-			<title>Jason Rebello a «Jazz e Dintorni»</title>
-			<description>Martedì 3 luglio. Il pianista di Sting e  Jeff Back protagonista sul palco di «Parco Tittoni».</description>
 			<a10:updated>2018-07-01T22:00:00Z</a10:updated>
 		</item>
 	</channel>
