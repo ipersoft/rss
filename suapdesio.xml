@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 09 Jul 2018 08:00:35 Z</lastBuildDate>
+		<lastBuildDate>Mon, 09 Jul 2018 12:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0123229/9-7-2018</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0123229/9-7-2018</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0123229/9-7-2018%0ARagione sociale:BUSNELLI FERNANDO MARIO%0AUbicazione:%0AOggetto:Installazione temporanea LUNA PARK in occasione festa di Desio ottobre 2018</description>
+			<a10:updated>2018-07-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0122764/8-7-2018</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0082412/7-5-2018</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0082412/7-5-2018%0ARagione sociale:VE.DO S.N.C. DI VECCHIO ANTONIO &amp; C.%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:variazione compagine sociale</description>
-			<a10:updated>2018-05-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0081644/7-5-2018</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0081644/7-5-2018</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0081644/7-5-2018%0ARagione sociale:PETRAZZUOLO SALVATORE%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA' INTERMEDIAZIONE CREDITIZIA</description>
 			<a10:updated>2018-05-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
