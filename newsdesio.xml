@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 18 Jul 2018 14:30:30 Z</lastBuildDate>
+		<lastBuildDate>Wed, 18 Jul 2018 15:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48564</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48564</link>
+			<category>- Ufficio Stampa</category>
+			<title>A Desio arriva il sacco arancione</title>
+			<description>Un altro passo avanti nella raccolta differenziata: dal 30 luglio i cittadini interessati potranno usufruire del nuovo servizio di raccolta dedicato ai pannolini, pannoloni e tessili sanitari.</description>
+			<a10:updated>2018-07-18T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48560</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48560</link>
@@ -160,14 +168,6 @@
 			<title>Una Consigliera di fiducia per il benessere dei dipendenti</title>
 			<description>L’assessore Paola Buonvicino: «L’obiettivo è investire in cultura del rispetto reciproco tra le persone». La dottoressa Rita Gnuva offrirà supporto e assistenza al personale del Comune di Desio.</description>
 			<a10:updated>2018-07-09T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48451</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48451</link>
-			<category>- Ufficio Stampa</category>
-			<title>Agosto, Desio «aperta» per ferie</title>
-			<description>Una «rete» di artigiani per garantire i servizi anche durante il mese delle vacanze. Roberto Corti: «Un servizio per i cittadini e per chi ha deciso di tenere aperto ad agosto».</description>
-			<a10:updated>2018-07-08T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
