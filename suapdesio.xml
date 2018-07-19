@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 18 Jul 2018 12:12:46 Z</lastBuildDate>
+		<lastBuildDate>Thu, 19 Jul 2018 10:29:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0129274/18-7-2018</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0129274/18-7-2018</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0129274/18-7-2018%0ARagione sociale:STUDIO RASINI DI RASINI GIORGIO ANGELO%0AUbicazione:VIA ALESSANDRO VOLTA%0AOggetto:trasferimento ufficio</description>
+			<a10:updated>2018-07-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0128671/18-7-2018</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0090479/18-5-2018</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0090479/18-5-2018%0ARagione sociale:CABIATI AURELIO%0AUbicazione:VIA ALESSANDRO VOLTA%0AOggetto:SUBENTRO ATTIVITA' TABACCHERIA</description>
 			<a10:updated>2018-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0090150/17-5-2018</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0090150/17-5-2018</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0090150/17-5-2018%0ARagione sociale:MIXLAB ITALIA S.R.L.%0AUbicazione:VIA LAMPUGNANI%0AOggetto:SOMMINISTRAZIONE DI PRODOTTI DI GELATERIA, CREPERIA E PASTICCERIA NELL'AMBITO DI MANIFESTAZIONE TEMPORANEA</description>
-			<a10:updated>2018-05-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
