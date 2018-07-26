@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 26 Jul 2018 14:30:32 Z</lastBuildDate>
+		<lastBuildDate>Thu, 26 Jul 2018 15:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48642</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48642</link>
+			<category>- Ufficio Stampa</category>
+			<title>Ferragosto in città</title>
+			<description>Mercoledì 15 agosto. Appuntamento all’«Eurotaverna» con il «Pranzo di Ferragosto». L’assessore Giorgio Gerosa: «Un evento aperto a tutti coloro che restano in città».</description>
+			<a10:updated>2018-07-25T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48635</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48635</link>
@@ -158,14 +166,6 @@
 			<category></category>
 			<title>Chiusura estiva Centro sportivo</title>
 			<description>La struttura di via Agnesi resterà chiusa dall'11 al 22 agosto</description>
-			<a10:updated>2018-07-15T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48502</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48502</link>
-			<category>- Ufficio Stampa</category>
-			<title>Acqua, ordinanza del sindaco: solo per lavarsi e bere</title>
-			<description>Fino al 15 settembre scatta il divieto di utilizzo della risorsa idrica per irrigare orti e giardini, riempire piscine o lavare le auto.</description>
 			<a10:updated>2018-07-15T22:00:00Z</a10:updated>
 		</item>
 	</channel>
