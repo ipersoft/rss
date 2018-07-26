@@ -5,8 +5,25 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 26 Jul 2018 10:30:31 Z</lastBuildDate>
+		<lastBuildDate>Thu, 26 Jul 2018 11:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48635</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48635</link>
+			<category>- Ufficio Stampa</category>
+			<title>PGT, parte il confronto</title>
+			<description>Poco più di un mese per presentare le osservazioni. L’assessore Giovanni Borgonovo: «La partecipazione dei professionisti e degli operatori del settore è uno strumento indispensabile per contribuire allo sviluppo e al miglioramento della città».
+</description>
+			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48629</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48629</link>
+			<category>- Ufficio Stampa</category>
+			<title>Manutenzione straordinaria delle strade, si parte</title>
+			<description>L’investimento di 283 mila euro. Posa di nuovo asfalto in sei vie. Da mercoledì 8 agosto cantiere in via Palestro. Giovanni Borgonovo: «Proseguiamo con l’attuazione del PGTU e la riqualificazione dello spazio pubblico, intervenendo sulla viabilità per ridurre la velocità dei veicoli e aumentare la sicurezza».</description>
+			<a10:updated>2018-07-25T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48621</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48621</link>
@@ -150,23 +167,6 @@
 			<title>Acqua, ordinanza del sindaco: solo per lavarsi e bere</title>
 			<description>Fino al 15 settembre scatta il divieto di utilizzo della risorsa idrica per irrigare orti e giardini, riempire piscine o lavare le auto.</description>
 			<a10:updated>2018-07-15T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48497</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48497</link>
-			<category>- Ufficio Stampa</category>
-			<title>Desio in TV nella «Piccola Grande Italia»</title>
-			<description>Martedì 17, mercoledì 18 e sabato 21 luglio su due canali della piattaforma Sky.</description>
-			<a10:updated>2018-07-15T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48480</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48480</link>
-			<category></category>
-			<title>Biblioteca, «Aula Studio» aperta anche a luglio</title>
-			<description>Dal 14 luglio Sala studio aperta anche al pomeriggio. Chiusa per pausa estiva dal 23 luglio al 19 agosto.
-</description>
-			<a10:updated>2018-07-05T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
