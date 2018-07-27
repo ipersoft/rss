@@ -5,8 +5,32 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 27 Jul 2018 08:30:33 Z</lastBuildDate>
+		<lastBuildDate>Fri, 27 Jul 2018 09:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48659</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48659</link>
+			<category></category>
+			<title>Sportello «REI» – chiusura estiva</title>
+			<description>Lo sportello del «Reddito di Inclusione» resterà chiuso da dal 12 al 19.</description>
+			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48658</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48658</link>
+			<category></category>
+			<title>«Gelsia Point» - chiusura estiva</title>
+			<description>Lo sportello di piazza Don Giussani resterà chiuso dal 4 al 27 agosto.</description>
+			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48654</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48654</link>
+			<category></category>
+			<title>Il fine settimana di «Parco Tittoni»</title>
+			<description>Venerdì tante feste diverse in una sola notte, sabato il celtic punk dei «The Real McKenzies» e domenica spazio a bambini e famiglie.</description>
+			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48650</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48650</link>
@@ -144,30 +168,6 @@ in streaming online on demand.</description>
 			<title>Il mercoledì è moda, musica e food&amp;drink</title>
 			<description>Il 18 luglio nuovo appuntamento con la stagione estiva di «Desio dal Vivo». Guest star Natali Grunska, artista internazionale di body painting.</description>
 			<a10:updated>2018-07-17T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48537</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48537</link>
-			<category>- Segreteria Generale</category>
-			<title>Martedì 24 e mercoledì 25 luglio 2018 Consiglio Comunale</title>
-			<description>Le due sedute straordinarie sono convocate per le ore 20.30 .</description>
-			<a10:updated>2018-07-17T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48528</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48528</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Braceria argentina» a «Parco Tittoni»</title>
-			<description>Da venerdì 20 a domenica 22 luglio il festival dedicato al mondo del grill condito da birra e concerti.</description>
-			<a10:updated>2018-07-17T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48509</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48509</link>
-			<category>- Ufficio Stampa</category>
-			<title>All’Arena per l’Aida</title>
-			<description>Venerdì 27 luglio. A Verona con gli «Amici della Musica HvK» per assistere all’opera di Giuseppe Verdi nell’imponente messa in scena firmata da Franco Zeffirelli.</description>
-			<a10:updated>2018-07-18T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
