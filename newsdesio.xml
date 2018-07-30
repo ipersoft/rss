@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 30 Jul 2018 08:30:31 Z</lastBuildDate>
+		<lastBuildDate>Mon, 30 Jul 2018 09:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48663</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48663</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Parco Tittoni»: reggae, funk-jazz e omaggio ai Radiohead </title>
+			<description>Un weekend di grande musica: Awa Fall, la voce di riferimento della black music italiana, il mix di funk, jazz e psichedelia dei «Calibro 35» e «Androidi Paranoici», tributo alla band capitanata da Thom Yorke.</description>
+			<a10:updated>2018-07-29T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48662</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48662</link>
+			<category></category>
+			<title>«Parco Tittoni»: reggae, funk-jazz e omaggio ai Radiohead </title>
+			<description>Un weekend di grande musica: Awa Fall, la voce di riferimento della black music italiana, il mix di funk, jazz e psichedelia dei «Calibro 35» e «Androidi Paranoici», tributo alla band capitanata da Thom Yorke.</description>
+			<a10:updated>2018-07-29T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48660</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48660</link>
@@ -152,22 +168,6 @@ in streaming online on demand.</description>
 			<title>Parco inclusivo, avanti tutta</title>
 			<description>L’assessore: «Consegna entro la fine dell’estate». Emanuela Rocco fa il punto sul cantiere: «i lavori stanno procedendo secondo programma».</description>
 			<a10:updated>2018-07-19T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48564</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48564</link>
-			<category>- Ufficio Stampa</category>
-			<title>A Desio arriva il sacco arancione</title>
-			<description>Un altro passo avanti nella raccolta differenziata: dal 30 luglio i cittadini interessati potranno usufruire del nuovo servizio di raccolta dedicato ai pannolini, pannoloni e tessili sanitari.</description>
-			<a10:updated>2018-07-18T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48560</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48560</link>
-			<category>- Ufficio Stampa</category>
-			<title>Pannolini, al via il riciclo</title>
-			<description>Novità nella raccolta differenziata dal 30 luglio. Costituiscono il 20 per cento dei rifiuti nei termovalorizzatori e hanno un tempo di decomposizione tra i 200 e i 500 anni. Ecco il sacco arancione. L’assessore Stefano Guidotti: «Servizio specifico per le famiglie».</description>
-			<a10:updated>2018-07-17T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
