@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 30 Jul 2018 09:30:34 Z</lastBuildDate>
+		<lastBuildDate>Mon, 30 Jul 2018 10:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48665</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48665</link>
+			<category>- Ufficio Stampa</category>
+			<title>San Lorenzo, la notte delle stelle</title>
+			<description>Plaid e binocolo a «Parco Tittoni» per osservare lo sciame di comete accompagnati dal glam rock di Dj Cyccio.</description>
+			<a10:updated>2018-08-07T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48663</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48663</link>
@@ -159,14 +167,6 @@ in streaming online on demand.</description>
 			<category>- Ufficio Stampa</category>
 			<title>Verde, l’assessore batte i pugni</title>
 			<description>«Abbiamo lavorato per contenere i disagi. Adesso non c’è più tempo». Emanuela Rocco torna sulla questione del taglio dell’erba: «Pronti ad applicare tutte le penali previste dal contratto».</description>
-			<a10:updated>2018-07-19T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48567</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48567</link>
-			<category>- Ufficio Stampa</category>
-			<title>Parco inclusivo, avanti tutta</title>
-			<description>L’assessore: «Consegna entro la fine dell’estate». Emanuela Rocco fa il punto sul cantiere: «i lavori stanno procedendo secondo programma».</description>
 			<a10:updated>2018-07-19T22:00:00Z</a10:updated>
 		</item>
 	</channel>
