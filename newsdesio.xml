@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 31 Jul 2018 15:00:33 Z</lastBuildDate>
+		<lastBuildDate>Tue, 31 Jul 2018 15:30:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48697</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48697</link>
+			<category>- Ufficio Stampa</category>
+			<title>La Giamaica a «Parco Tittoni»</title>
+			<description>enerdì 31 agosto sale sul palco Alborosie, il primo artista italo-gamaicano e bianco a vincere il prestigioso «Mobo Award» dedicato alla black music.</description>
+			<a10:updated>2018-08-26T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48694</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48694</link>
@@ -160,14 +168,6 @@ in streaming online on demand.</description>
 			<description>Poco più di un mese per presentare le osservazioni. L’assessore Giovanni Borgonovo: «La partecipazione dei professionisti e degli operatori del settore è uno strumento indispensabile per contribuire allo sviluppo e al miglioramento della città».
 </description>
 			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48629</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48629</link>
-			<category>- Ufficio Stampa</category>
-			<title>Manutenzione straordinaria delle strade, si parte</title>
-			<description>L’investimento di 283 mila euro. Posa di nuovo asfalto in sei vie. Da mercoledì 8 agosto cantiere in via Palestro. Giovanni Borgonovo: «Proseguiamo con l’attuazione del PGTU e la riqualificazione dello spazio pubblico, intervenendo sulla viabilità per ridurre la velocità dei veicoli e aumentare la sicurezza».</description>
-			<a10:updated>2018-07-25T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
