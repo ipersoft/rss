@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 02 Aug 2018 15:00:40 Z</lastBuildDate>
+		<lastBuildDate>Thu, 02 Aug 2018 15:30:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48728</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48728</link>
+			<category>- Ufficio Stampa</category>
+			<title>Asilo, investimento per la sicurezza</title>
+			<description>Lavori per 190 mila euro. Nuovi controsoffitti, sostituzione del linoleum, porte tagliafuoco, nuove lampade e nuovo impianto antincendio: in corso i lavori in via Adamello.</description>
+			<a10:updated>2018-08-07T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48721</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48721</link>
+			<category>- Ufficio Stampa</category>
+			<title>Una centralina per la qualità dell’aria</title>
+			<description>In piazza Carendon da oggi al 13 settembre. L’«impianto mobile» dell’Arpa sarà «parcheggiato» a San Giorgio. L’assessore Emanuela Rocco: «Uno strumento per misurare l'inquinamento da ozono», che in questi giorni di caldo ha sforato la «soglia di informazione». Invito del Comune a limitare le attività all’aperto. A novembre la campagna invernale.</description>
+			<a10:updated>2018-08-08T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48714</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48714</link>
@@ -149,22 +165,6 @@
 			<category></category>
 			<title>Sportello «REI» – chiusura estiva</title>
 			<description>Lo sportello del «Reddito di Inclusione» resterà chiuso da dal 12 al 19.</description>
-			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48658</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48658</link>
-			<category></category>
-			<title>«Gelsia Point» - chiusura estiva</title>
-			<description>Lo sportello di piazza Don Giussani resterà chiuso dal 4 al 27 agosto.</description>
-			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48654</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48654</link>
-			<category></category>
-			<title>Il fine settimana di «Parco Tittoni»</title>
-			<description>Venerdì tante feste diverse in una sola notte, sabato il celtic punk dei «The Real McKenzies» e domenica spazio a bambini e famiglie.</description>
 			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
 		</item>
 	</channel>
