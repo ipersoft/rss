@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 03 Aug 2018 10:00:35 Z</lastBuildDate>
+		<lastBuildDate>Fri, 03 Aug 2018 10:30:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48752</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48752</link>
+			<category>- Ufficio Stampa</category>
+			<title>Case comunali di via per Bovisio, lavori in corso</title>
+			<description>Aperto il cantiere. Investimento di quasi 750 mila euro per migliorare l’efficienza energetica dell’edificio d’edilizia residenziale pubblica. L’assessore Stefano Guidotti: «Riduzione dei consumi e aumento della qualità della vita dei residenti».</description>
+			<a10:updated>2018-08-02T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48744</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48744</link>
@@ -158,14 +166,6 @@
 			<title>«Parco Tittoni»: reggae, funk-jazz e omaggio ai Radiohead </title>
 			<description>Un weekend di grande musica: Awa Fall, la voce di riferimento della black music italiana, il mix di funk, jazz e psichedelia dei «Calibro 35» e «Androidi Paranoici», tributo alla band capitanata da Thom Yorke.</description>
 			<a10:updated>2018-07-29T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48660</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48660</link>
-			<category>- Ufficio Stampa</category>
-			<title>Luce al «Centro Sportivo»</title>
-			<description>Sette «nuovi» pali di illuminazione pubblica. L’assessore ai Lavori pubblici Emanuela Rocco: «Intervento necessario per garantire la sicurezza dell’area».</description>
-			<a10:updated>2018-07-26T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
