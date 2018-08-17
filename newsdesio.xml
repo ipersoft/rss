@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 17 Aug 2018 13:00:33 Z</lastBuildDate>
+		<lastBuildDate>Fri, 17 Aug 2018 13:30:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48836</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48836</link>
+			<category></category>
+			<title>Via Palestro, incontro pubblico</title>
+			<description>Venerdì 24 agosto in Sala Pertini incontro pubblico per i residenti di via Custoza, Palestro e dei Cacciatori.</description>
+			<a10:updated>2018-08-16T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48820</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48820</link>
@@ -159,14 +167,6 @@ crollo del ponte Morandi</description>
 			<title>Chitarristi da spiaggia a «Parco Tittoni»</title>
 			<description>Domenica 12 agosto una chitarra al tramonto: l’idea stessa di estate nel verde del parco di Villa Tittoni.</description>
 			<a10:updated>2018-08-10T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48678</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48678</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Trail Of Dead» a «Parco Tittoni»</title>
-			<description>Sabato 11 agosto una delle formazioni di riferimento del panorama alternative rock americano nell’unica data live in Italia.</description>
-			<a10:updated>2018-08-06T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
