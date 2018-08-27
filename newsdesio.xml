@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 27 Aug 2018 14:00:36 Z</lastBuildDate>
+		<lastBuildDate>Mon, 27 Aug 2018 14:30:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49850</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49850</link>
+			<category>- Ufficio Stampa</category>
+			<title>Coworking, nasce «Officina Giovani»</title>
+			<description>Nasce un nuovo spazio per la formazione e l’orientamento al lavoro con 15 postazioni destinate a giovani under 30. Domande entro il 10 settembre.</description>
+			<a10:updated>2018-08-26T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48854</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48854</link>
@@ -159,14 +167,6 @@ crollo del ponte Morandi</description>
 			<title>«Parco Tittoni», sul palco i «Punkreas» </title>
 			<description>Sabato 25 agosto live degli alfieri del punk italiano con il loro ultimo album, «Inequilibrio».</description>
 			<a10:updated>2018-08-20T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48683</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48683</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Parco Tittoni», tempo di «saudade»</title>
-			<description>Venerdì 24 agosto live il folk rock brasiliano, con forti contaminazioni milanesi, dei «Selton».</description>
-			<a10:updated>2018-08-21T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
