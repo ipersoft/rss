@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 31 Aug 2018 10:00:39 Z</lastBuildDate>
+		<lastBuildDate>Fri, 31 Aug 2018 10:30:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49884</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49884</link>
+			<category>- Ufficio Stampa</category>
+			<title>La «Nona» della libertà</title>
+			<description>Lunedì 3 settembre a «Parco Tittoni» proiezione della «Sinfonia n°9» di Beethoven nella storica esecuzione diretta da Leonard Bernstein pochi giorni dopo la caduta del Muro di Berlino.
+</description>
+			<a10:updated>2018-08-30T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49877</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49877</link>
@@ -158,14 +167,6 @@ crollo del ponte Morandi</description>
 			<category></category>
 			<title>Fondo non autosufficienza - Approvazione graduatorie</title>
 			<description>Approvate le graduatorie sulla base dei criteri di valutazione approvati dall’Assemblea dei Sindaci dell’Ambito di Desio.</description>
-			<a10:updated>2018-07-31T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48699</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48699</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Rilascio tesserini venatori per la stagione 2018-2019</title>
-			<description>Rilascio tesserini venatori nei giorni di lunedì e giovedì dalle ore 9.30 alle ore 12</description>
 			<a10:updated>2018-07-31T22:00:00Z</a10:updated>
 		</item>
 	</channel>
