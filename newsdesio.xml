@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 04 Sep 2018 15:30:35 Z</lastBuildDate>
+		<lastBuildDate>Tue, 04 Sep 2018 16:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49897</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49897</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Parco Tittoni», weekend a tutta musica</title>
+			<description>«Africa Unite», «Eiffel 65» e «Babbutzi Orkestar»: dal reggae al beat balcanico passando per la dance anni Novanta.</description>
+			<a10:updated>2018-09-03T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49895</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49895</link>
@@ -160,14 +168,6 @@ crollo del ponte Morandi</description>
 			<title>Asilo, investimento per la sicurezza</title>
 			<description>Lavori per 190 mila euro. Nuovi controsoffitti, sostituzione del linoleum, porte tagliafuoco, nuove lampade e nuovo impianto antincendio: in corso i lavori in via Adamello.</description>
 			<a10:updated>2018-08-07T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48721</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48721</link>
-			<category>- Ufficio Stampa</category>
-			<title>Una centralina per la qualità dell’aria</title>
-			<description>In piazza Carendon da oggi al 13 settembre. L’«impianto mobile» dell’Arpa sarà «parcheggiato» a San Giorgio. L’assessore Emanuela Rocco: «Uno strumento per misurare l'inquinamento da ozono», che in questi giorni di caldo ha sforato la «soglia di informazione». Invito del Comune a limitare le attività all’aperto. A novembre la campagna invernale.</description>
-			<a10:updated>2018-08-08T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
