@@ -5,8 +5,32 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 06 Sep 2018 12:00:41 Z</lastBuildDate>
+		<lastBuildDate>Thu, 06 Sep 2018 17:30:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49914</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49914</link>
+			<category>- Ufficio Stampa</category>
+			<title>Le Farfalle trovano casa</title>
+			<description>naugurata ieri mattina l'«Accademia internazionale di ginnastica ritmica», che ospiterà gli allenamenti  della Nazionale di ritmica. Roberto Corti: «Un percorso impegnativo, ma adesso il risultato è sotto gli occhi di tutti». Lunedì sera ultimo test prima dei mondiali bulgari.</description>
+			<a10:updated>2018-09-05T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49907</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49907</link>
+			<category>- Ufficio Stampa</category>
+			<title>Villa «Tittoni», porte aperte</title>
+			<description>Dal 15 al 30 settembre.Al via l’edizione numero sedici di «Ville Aperte». Oltre 150 spazi pubblici e privati, ville, palazzi, parchi, giardini, chiese e musei, aperti al pubblico, con un’attenzione particolare all’inclusione. Cristina Redi: «Fare rete per fare economia».</description>
+			<a10:updated>2018-09-05T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49904</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49904</link>
+			<category>- Ufficio Stampa</category>
+			<title>Tre giorni di sport</title>
+			<description>14, 15 e 16 settembre. Oltre venti società sportive «in campo»: dimostrazioni e stand per conoscere l’offerta sportiva del territorio. L’assessore Giorgio Gerosa: «Al centro i valori più autentici dello sport: divertimento, impegno e rispetto delle regole. Un’opportunità per le famiglie».</description>
+			<a10:updated>2018-09-05T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49897</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49897</link>
@@ -143,30 +167,6 @@ crollo del ponte Morandi</description>
 			<category>- Promozione culturale e sportiva</category>
 			<title>Avviso ricevimento proposta di sponsorizzazione del palazzetto dello Sport</title>
 			<description>Un nuovo sponsor e un nuovo nome per il Pala ... Desio</description>
-			<a10:updated>2018-08-07T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48752</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48752</link>
-			<category>- Ufficio Stampa</category>
-			<title>Case comunali di via per Bovisio, lavori in corso</title>
-			<description>Aperto il cantiere. Investimento di quasi 750 mila euro per migliorare l’efficienza energetica dell’edificio d’edilizia residenziale pubblica. L’assessore Stefano Guidotti: «Riduzione dei consumi e aumento della qualità della vita dei residenti».</description>
-			<a10:updated>2018-08-02T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48744</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48744</link>
-			<category></category>
-			<title>Alla scoperta della città</title>
-			<description>Fotografie entro lunedì 15 ottobre. «Camminando per Desio»: il concorso fotografico per il calendario 2019 della «Pro Loco Desio». Al massimo cinque foto, per partecipare alla prima edizione di una selezioni di immagini che racconterà attraverso i click, i luoghi più suggestivi della città.</description>
-			<a10:updated>2018-08-02T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48728</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48728</link>
-			<category>- Ufficio Stampa</category>
-			<title>Asilo, investimento per la sicurezza</title>
-			<description>Lavori per 190 mila euro. Nuovi controsoffitti, sostituzione del linoleum, porte tagliafuoco, nuove lampade e nuovo impianto antincendio: in corso i lavori in via Adamello.</description>
 			<a10:updated>2018-08-07T22:00:00Z</a10:updated>
 		</item>
 	</channel>
