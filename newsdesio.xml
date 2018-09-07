@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 07 Sep 2018 12:00:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 07 Sep 2018 12:30:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49927</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49927</link>
+			<category></category>
+			<title>Diserbo Cimiteri – chiusura pomeridiana</title>
+			<description>Dall’11 al 14 settembre chiusura pomeridiana anticipata per le aree cimiteriali.</description>
+			<a10:updated>2018-09-06T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49924</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49924</link>
@@ -36,7 +44,7 @@
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49914</link>
 			<category>- Ufficio Stampa</category>
 			<title>Le Farfalle trovano casa</title>
-			<description>naugurata ieri mattina l'«Accademia internazionale di ginnastica ritmica», che ospiterà gli allenamenti  della Nazionale di ritmica. Roberto Corti: «Un percorso impegnativo, ma adesso il risultato è sotto gli occhi di tutti». Lunedì sera ultimo test prima dei mondiali bulgari.</description>
+			<description>Inaugurata ieri mattina l'«Accademia internazionale di ginnastica ritmica», che ospiterà gli allenamenti  della Nazionale di ritmica. Roberto Corti: «Un percorso impegnativo, ma adesso il risultato è sotto gli occhi di tutti». Lunedì sera ultimo test prima dei mondiali bulgari.</description>
 			<a10:updated>2018-09-05T22:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -158,15 +166,6 @@
 			<category></category>
 			<title>Via Palestro, incontro pubblico</title>
 			<description>Venerdì 24 agosto in Sala Pertini incontro pubblico per i residenti di via Custoza, Palestro e dei Cacciatori.</description>
-			<a10:updated>2018-08-16T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48820</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=48820</link>
-			<category></category>
-			<title>Genova, il cordoglio dell'Amministrazione comunale</title>
-			<description>Il Sindaco, l'Amministrazione e la città si stringono intorno alle famiglie delle vittime del 
-crollo del ponte Morandi</description>
 			<a10:updated>2018-08-16T22:00:00Z</a10:updated>
 		</item>
 	</channel>
