@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 11 Sep 2018 12:30:42 Z</lastBuildDate>
+		<lastBuildDate>Tue, 11 Sep 2018 13:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50934</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50934</link>
+			<category>- Ufficio Stampa</category>
+			<title>Alla scoperta della Pinacoteca di Brera</title>
+			<description>Aperte le iscrizioni. Sabato 13 ottobre visita guidata a uno dei più importanti musei europei che ospita una collezione straordinaria, dai capolavori del XIV secolo ai «big» del Novecento.</description>
+			<a10:updated>2018-09-10T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50930</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50930</link>
@@ -159,14 +167,6 @@
 			<title>Le «Farfalle» volano a Sofia</title>
 			<description>Domenica 2 settembre alle ore 21 a al «PalaBancoDesio» esibizione della Nazionale di ginnastica ritmica prima della partenza per i Mondiali in Bulgaria. Roberto Corti: «Sport significa allenarsi alla vita. Queste atlete sono un esempio».</description>
 			<a10:updated>2018-08-29T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49862</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49862</link>
-			<category>- Ufficio Stampa</category>
-			<title>Asilo via Adamello, lavori okay</title>
-			<description>Investimento di 190 mila euro. Nuova linea antincendio, sostituzione del linoleum, nuovi controsoffitti, nuove lampade. Roberto Corti: «Impegno con le famiglie e i bambini rispettato.</description>
-			<a10:updated>2018-08-27T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
