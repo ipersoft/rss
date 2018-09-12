@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 12 Sep 2018 14:00:46 Z</lastBuildDate>
+		<lastBuildDate>Wed, 12 Sep 2018 14:30:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50952</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50952</link>
+			<category>- Ufficio Stampa</category>
+			<title>Fumetti in Villa</title>
+			<description>«Brianza Comics» è tornato: la fiera dedicata al mondo del fumetto, dei cosplay e dei games è l’ultimo appuntamento con la stagione estiva di «Parco Tittoni» il 15 e 16 settembre. </description>
+			<a10:updated>2018-09-13T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50944</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50944</link>
@@ -159,14 +167,6 @@
 			<title>Disabili, in centro a disco orario</title>
 			<description>L’assessore Jennifer Moro: «Per le persone con disabilità sarà più facile trovare parcheggio nell’area centrale». Confermata l’ora gratuita sulle strisce blu</description>
 			<a10:updated>2018-08-30T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49872</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49872</link>
-			<category>- Ufficio Stampa</category>
-			<title>Weekend, la musica a «Parco Tittoni»</title>
-			<description>Il raggae di Alborosie, gli anni Novanta con un tributo agli «883» e il rock demenziale di Ruggero de I Timidi.</description>
-			<a10:updated>2018-08-29T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
