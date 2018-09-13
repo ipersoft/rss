@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 13 Sep 2018 15:30:45 Z</lastBuildDate>
+		<lastBuildDate>Thu, 13 Sep 2018 16:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50964</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50964</link>
+			<category>- Risorse Umane</category>
+			<title>Avviso mobilità volontaria Area Persona e Famiglia</title>
+			<description>Copertura a tempo indeterminato di un collaboratore ai servizi di supporto - Cat. B3 o di un assistente servizi operativi - Cat. C.</description>
+			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50963</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50963</link>
+			<category>- Risorse Umane</category>
+			<title>Concorso pubblico Servizio Ecologia e Mobilità</title>
+			<description>Copertura a tempo indeterminato di un posto di Assistente Servizi Tecnici - Cat. C.</description>
+			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50960</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50960</link>
@@ -149,22 +165,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>«Parco Tittoni», weekend a tutta musica</title>
 			<description>«Africa Unite», «Eiffel 65» e «Babbutzi Orkestar»: dal reggae al beat balcanico passando per la dance anni Novanta.</description>
-			<a10:updated>2018-09-03T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49895</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49895</link>
-			<category>- Ufficio Stampa</category>
-			<title>Le attività in programma a settembre al Centro Ricreativo “Il Girasole”</title>
-			<description>Un programma ricco di appuntamenti al Centro Ricreativo "Il Girasole".</description>
-			<a10:updated>2018-09-03T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49892</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49892</link>
-			<category>- Ufficio Stampa</category>
-			<title>Teatro, si prova</title>
-			<description>Lunedì 17 settembre lezione gratuita promossa da «Arden – Luogo del possibile APS».</description>
 			<a10:updated>2018-09-03T22:00:00Z</a10:updated>
 		</item>
 	</channel>
