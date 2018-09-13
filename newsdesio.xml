@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 13 Sep 2018 14:00:44 Z</lastBuildDate>
+		<lastBuildDate>Thu, 13 Sep 2018 14:30:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50960</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50960</link>
+			<category>- Ufficio Stampa</category>
+			<title>Corso Italia, sosta 15 minuti</title>
+			<description>L’assessore Jennifer Moro: «Accolta una proposta dei commercianti». Introdotto il disco orario per rendere più scorrevole il traffico con evidenti vantaggi per gli automobilisti e i negozi.</description>
+			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50957</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50957</link>
+			<category>- Ufficio Stampa</category>
+			<title>«TruBox» per una maggiore sicurezza</title>
+			<description>Stanziati 19 mila euro. Collocate due colonnine arancioni in via Mascagni e via Agnesi per ridurre la velocità delle auto in città e il numero degli incidenti.</description>
+			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50955</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50955</link>
@@ -150,23 +166,6 @@
 			<title>Teatro, si prova</title>
 			<description>Lunedì 17 settembre lezione gratuita promossa da «Arden – Luogo del possibile APS».</description>
 			<a10:updated>2018-09-03T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49887</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49887</link>
-			<category>- Ufficio Stampa</category>
-			<title>The Andrè, il fenomeno del web che «imita» Faber</title>
-			<description>Mercoledì 5 settembre a «Parco Tittoni» le maggiori hit della «trap» con la voce di Fabrizio De André.</description>
-			<a10:updated>2018-09-03T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49884</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49884</link>
-			<category>- Ufficio Stampa</category>
-			<title>La «Nona» della libertà</title>
-			<description>Lunedì 3 settembre a «Parco Tittoni» proiezione della «Sinfonia n°9» di Beethoven nella storica esecuzione diretta da Leonard Bernstein pochi giorni dopo la caduta del Muro di Berlino.
-</description>
-			<a10:updated>2018-08-30T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
