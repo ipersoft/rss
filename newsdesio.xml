@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 14 Sep 2018 09:30:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 14 Sep 2018 10:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50966</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50966</link>
+			<category>- Ufficio Stampa</category>
+			<title>Nuovi sensi di marcia in centro</title>
+			<description>Venerdì 21 settembre alle ore 21. Nel centro storico iniziate le modifiche al traffico in vista del nuovo disegno urbanistico. Se ne parlerà in un incontro pubblico in Villa Tittoni. L’assessore Giovanni Borgonovo: «Interventi diversi per una strategia più ampia».</description>
+			<a10:updated>2018-09-13T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50965</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50965</link>
@@ -157,14 +165,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Villa «Tittoni», porte aperte</title>
 			<description>Dal 15 al 30 settembre.Al via l’edizione numero sedici di «Ville Aperte». Oltre 150 spazi pubblici e privati, ville, palazzi, parchi, giardini, chiese e musei, aperti al pubblico, con un’attenzione particolare all’inclusione. Cristina Redi: «Fare rete per fare economia».</description>
-			<a10:updated>2018-09-05T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49904</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49904</link>
-			<category>- Ufficio Stampa</category>
-			<title>Tre giorni di sport</title>
-			<description>14, 15 e 16 settembre. Oltre venti società sportive «in campo»: dimostrazioni e stand per conoscere l’offerta sportiva del territorio. L’assessore Giorgio Gerosa: «Al centro i valori più autentici dello sport: divertimento, impegno e rispetto delle regole. Un’opportunità per le famiglie».</description>
 			<a10:updated>2018-09-05T22:00:00Z</a10:updated>
 		</item>
 	</channel>
