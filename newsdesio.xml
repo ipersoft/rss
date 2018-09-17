@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 17 Sep 2018 08:00:49 Z</lastBuildDate>
+		<lastBuildDate>Mon, 17 Sep 2018 08:30:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50979</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50979</link>
+			<category>- Ufficio Stampa</category>
+			<title>Milano – Meda e Valassina, lavori in corso</title>
+			<description>Tra settembre e ottobre chiusure notturne e cantieri per monitoraggio ponti e nuovo asfalto. </description>
+			<a10:updated>2018-09-16T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50972</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50972</link>
@@ -158,14 +166,6 @@
 			<title>Farfalle, ultimo test</title>
 			<description>Lunedì 10 settembre al «PalaBancoDesio» esibizione della Nazionale italiana di ritmica prima della partenza per i mondiali in Bulgaria.</description>
 			<a10:updated>2018-09-06T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49914</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49914</link>
-			<category>- Ufficio Stampa</category>
-			<title>Le Farfalle trovano casa</title>
-			<description>Inaugurata ieri mattina l'«Accademia internazionale di ginnastica ritmica», che ospiterà gli allenamenti  della Nazionale di ritmica. Roberto Corti: «Un percorso impegnativo, ma adesso il risultato è sotto gli occhi di tutti». Lunedì sera ultimo test prima dei mondiali bulgari.</description>
-			<a10:updated>2018-09-05T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
