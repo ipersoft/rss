@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 17 Sep 2018 13:30:42 Z</lastBuildDate>
+		<lastBuildDate>Mon, 17 Sep 2018 14:00:47 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50994</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50994</link>
+			<category>- Ufficio Stampa</category>
+			<title>«In Castel»</title>
+			<description>Domenica 23 settembre in piazza Martiri dei Fossoli dalle 10 alle 18 un «viaggio» nelle tradizioni desiane.</description>
+			<a10:updated>2018-09-16T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50979</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50979</link>
@@ -157,14 +165,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>«Trofeo Lombardia 2018», il «clásico» del basket estivo</title>
 			<description>Dal 7 al 9 settembre al «PalaBacoDesio» va in scena la decima edizione dell’appuntamento fisso del precampionato. Sul parquet Cantù, Varese, Cremona e Trento</description>
-			<a10:updated>2018-09-06T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49917</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=49917</link>
-			<category>- Ufficio Stampa</category>
-			<title>Farfalle, ultimo test</title>
-			<description>Lunedì 10 settembre al «PalaBancoDesio» esibizione della Nazionale italiana di ritmica prima della partenza per i mondiali in Bulgaria.</description>
 			<a10:updated>2018-09-06T22:00:00Z</a10:updated>
 		</item>
 	</channel>
