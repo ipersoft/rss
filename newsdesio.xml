@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 27 Sep 2018 10:30:41 Z</lastBuildDate>
+		<lastBuildDate>Thu, 27 Sep 2018 11:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51075</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51075</link>
+			<category>- Ufficio Stampa</category>
+			<title>Il diario dei ricordi della Biblioteca</title>
+			<description>Un disegno, una poesia o una frase per ricordare i vent’anni in Villa «Tittoni». C’è tempo fino al 13 ottobre.</description>
+			<a10:updated>2018-09-26T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51068</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51068</link>
@@ -157,14 +165,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Corso Italia, sosta 15 minuti</title>
 			<description>L’assessore Jennifer Moro: «Accolta una proposta dei commercianti». Introdotto il disco orario per rendere più scorrevole il traffico con evidenti vantaggi per gli automobilisti e i negozi.</description>
-			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50957</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50957</link>
-			<category>- Ufficio Stampa</category>
-			<title>«TruBox» per una maggiore sicurezza</title>
-			<description>Stanziati 19 mila euro. Collocate due colonnine arancioni in via Mascagni e via Agnesi per ridurre la velocità delle auto in città e il numero degli incidenti.</description>
 			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
 		</item>
 	</channel>
