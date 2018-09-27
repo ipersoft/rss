@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 27 Sep 2018 12:00:44 Z</lastBuildDate>
+		<lastBuildDate>Thu, 27 Sep 2018 12:30:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51082</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51082</link>
+			<category>- Ufficio Stampa</category>
+			<title>Presidenti di seggio, al via le domande al Comune</title>
+			<description>Dal 1 al 31 ottobre. Bisogna essere elettore a Desio e non aver superato il settantesimo anno di età.</description>
+			<a10:updated>2018-09-26T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51078</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51078</link>
@@ -157,14 +165,6 @@
 			<category>- Risorse Umane</category>
 			<title>Avviso mobilità volontaria Area Persona e Famiglia</title>
 			<description>Copertura a tempo indeterminato di un collaboratore ai servizi di supporto - Cat. B3 o di un assistente servizi operativi - Cat. C.</description>
-			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50963</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50963</link>
-			<category>- Risorse Umane</category>
-			<title>Concorso pubblico Servizio Ecologia e Mobilità</title>
-			<description>Copertura a tempo indeterminato di un posto di Assistente Servizi Tecnici - Cat. C.</description>
 			<a10:updated>2018-09-12T22:00:00Z</a10:updated>
 		</item>
 	</channel>
