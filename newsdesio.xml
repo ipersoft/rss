@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 01 Oct 2018 11:30:42 Z</lastBuildDate>
+		<lastBuildDate>Mon, 01 Oct 2018 12:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51102</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51102</link>
+			<category></category>
+			<title>Le attività in programma a ottobre al Centro Ricreativo “Il Girasole”</title>
+			<description>Un programma ricco di appuntamenti al Centro Ricreativo "Il Girasole".</description>
+			<a10:updated>2018-09-30T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51093</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51093</link>
@@ -158,14 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Bilancio partecipativo, la terza stagione</title>
 			<description>Iniziato il percorso di co-progettazione con le associazioni e i cittadini attivi. Al via gli incontri con tutte le realtà civiche di Desio ed i partecipanti delle precedenti edizioni del bilancio partecipativo per condividere l’organizzazione della terza edizione e lanciare un nuovo corso del progetto. Roberto Corti: «Iniziamo una nuova storia sempre con l’impegno di trasformare in cose concrete i sogni di chi si sente parte di una comunità».</description>
-			<a10:updated>2018-09-13T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50966</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50966</link>
-			<category>- Ufficio Stampa</category>
-			<title>Nuovi sensi di marcia in centro</title>
-			<description>Venerdì 21 settembre alle ore 21. Nel centro storico iniziate le modifiche al traffico in vista del nuovo disegno urbanistico. Se ne parlerà in un incontro pubblico in Villa Tittoni. L’assessore Giovanni Borgonovo: «Interventi diversi per una strategia più ampia».</description>
 			<a10:updated>2018-09-13T22:00:00Z</a10:updated>
 		</item>
 	</channel>
