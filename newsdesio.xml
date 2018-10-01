@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 01 Oct 2018 12:30:42 Z</lastBuildDate>
+		<lastBuildDate>Mon, 01 Oct 2018 13:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51112</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51112</link>
+			<category>- Ufficio Stampa</category>
+			<title>La «Messa dell'Incoronazione» per la festa di Desio</title>
+			<description>Sabato 6 ottobre in Basilica il Coro «Città di Desio», insieme al «San Biagio» di Monza e al «Laudamus Dominum» di Sovico per l’opera in Do Maggiore di Mozart.</description>
+			<a10:updated>2018-09-30T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51102</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51102</link>
@@ -159,14 +167,6 @@
 			<title>Milano – Meda e Valassina, lavori in corso</title>
 			<description>Tra settembre e ottobre chiusure notturne e cantieri per monitoraggio ponti e nuovo asfalto. </description>
 			<a10:updated>2018-09-16T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50972</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50972</link>
-			<category>- Ufficio Stampa</category>
-			<title>Bilancio partecipativo, la terza stagione</title>
-			<description>Iniziato il percorso di co-progettazione con le associazioni e i cittadini attivi. Al via gli incontri con tutte le realtà civiche di Desio ed i partecipanti delle precedenti edizioni del bilancio partecipativo per condividere l’organizzazione della terza edizione e lanciare un nuovo corso del progetto. Roberto Corti: «Iniziamo una nuova storia sempre con l’impegno di trasformare in cose concrete i sogni di chi si sente parte di una comunità».</description>
-			<a10:updated>2018-09-13T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
