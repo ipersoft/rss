@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 01 Oct 2018 10:30:43 Z</lastBuildDate>
+		<lastBuildDate>Mon, 01 Oct 2018 11:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51093</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51093</link>
+			<category>- URP Ufficio Relazioni con il Pubblico e Comunicazione</category>
+			<title>Festa della Patrona della Città - Uffici chiusi Lunedì 8 Ottobre </title>
+			<description>Lunedì 8 ottobre 2017, in occasione della ricorrenza della Madonna del Rosario, patrona della Città, gli uffici comunali rimarranno chiusi al pubblico. Modalità di accesso specifiche per Ufficio di Stato Civile e Polizia Locale.
+</description>
+			<a10:updated>2018-09-30T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51088</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51088</link>
@@ -157,14 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Nuovi sensi di marcia in centro</title>
 			<description>Venerdì 21 settembre alle ore 21. Nel centro storico iniziate le modifiche al traffico in vista del nuovo disegno urbanistico. Se ne parlerà in un incontro pubblico in Villa Tittoni. L’assessore Giovanni Borgonovo: «Interventi diversi per una strategia più ampia».</description>
-			<a10:updated>2018-09-13T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50965</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=50965</link>
-			<category>- Ufficio Stampa</category>
-			<title>In arrivo la «Pentola della Solidarietà»</title>
-			<description>Sabato 15 settembre. Un piatto di «busecca» per sostenere i progetti dell’associazione «Regala un Sorriso» per i bambini di Chernobyl. </description>
 			<a10:updated>2018-09-13T22:00:00Z</a10:updated>
 		</item>
 	</channel>
