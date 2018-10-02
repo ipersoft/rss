@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 02 Oct 2018 14:00:49 Z</lastBuildDate>
+		<lastBuildDate>Tue, 02 Oct 2018 16:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4331424</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4331424</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA XX APRILE, VIA BUOZZI, VIA DOLCI. </description>
+			<a10:updated>2018-10-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4331171</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4331171</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>RIDEFINIZIONE RIPARTO SPESA STRAORDINARIA RELATIVA ALL'INSTALLAZIONE DI VALVOLE DI TERMOREGOLAZIONE CON SISTEMA DI CONTABILIZZATORE CALORE PER GLI ALLOGGI SAP DEL CONDOMINIO "VIGNA DEI FIORI A" E "VIGNA DEI FIORI B" - INDIRIZZI DELLA GIUNTA COMUNALE PER I RELATIVI CONGUAGLI </description>
-			<a10:updated>2018-09-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4291475</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4291475</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ATTO DI CITAZIONE AVANTI IL TRIBUNALE DI MONZA - COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE. </description>
 			<a10:updated>2018-09-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
