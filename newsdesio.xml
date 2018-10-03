@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 03 Oct 2018 08:00:41 Z</lastBuildDate>
+		<lastBuildDate>Wed, 03 Oct 2018 08:30:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51142</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51142</link>
+			<category>- Ufficio Stampa</category>
+			<title>A Montecchio Nord con gli alpini</title>
+			<description>Il Forte «Aldo Lusardi» a Colico è la fortezza della prima guerra mondiale meglio conservata in Europa. Patrimonio culturale, simbolo della guerra bianca. Visita guidata sabato 3 novembre.</description>
+			<a10:updated>2018-10-07T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51136</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51136</link>
@@ -160,14 +168,6 @@
 			<title>Giovedì 27 e venerdì 28 settembre 2018 Consiglio Comunale</title>
 			<description>Le due sedute ordinarie sono convocate per le ore 20.30 .</description>
 			<a10:updated>2018-09-20T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51027</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51027</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Nidi gratis», al via le domande</title>
-			<description> C’è tempo fino al 20 novembre. Per poter presentare la domanda occorre avere un reddito «Isee» inferiore o uguale a 20 mila euro e i genitori devono lavorare entrambi ed essere residenti in Lombardia.</description>
-			<a10:updated>2018-09-19T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
