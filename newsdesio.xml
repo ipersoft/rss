@@ -5,19 +5,19 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 04 Oct 2018 09:30:39 Z</lastBuildDate>
+		<lastBuildDate>Thu, 04 Oct 2018 10:00:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51159</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51159</link>
+			<category>- Ufficio Stampa</category>
+			<title>Tutti sulla tavola</title>
+			<description>Sabato 6 ottobre in via Agnesi l’inaugurazione di «SkateTiamo», lo skatepark vincitore del Bilancio partecipativo «junior», «apre» la Festa di Desio.</description>
+			<a10:updated>2018-10-03T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51156</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51156</link>
-			<category>- Ufficio Stampa</category>
-			<title>Villa «Tittoni» diventa «Potterland»</title>
-			<description>Maghi, pozioni, lezioni di magia e giochi: sabato 13 e domenica 14 il contest dedicato al fantasy.</description>
-			<a10:updated>2018-10-10T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51155</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51155</link>
 			<category>- Ufficio Stampa</category>
 			<title>Villa «Tittoni» diventa «Potterland»</title>
 			<description>Maghi, pozioni, lezioni di magia e giochi: sabato 13 e domenica 14 il contest dedicato al fantasy.</description>
