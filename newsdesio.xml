@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 05 Oct 2018 12:00:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 05 Oct 2018 12:30:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51183</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51183</link>
+			<category>- Ufficio Stampa</category>
+			<title>In arrivo nuovi ossari</title>
+			<description>Investimento da 35 mila euro. Lavori in corso nel «cimitero nuovo» di piazza della Divina Misericordia. L’assessore Stefano Guidotti: «Intervento necessario per rispondere alle esigenze della comunità».</description>
+			<a10:updated>2018-10-08T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51178</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51178</link>
@@ -159,14 +167,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Presidenti di seggio, al via le domande al Comune</title>
 			<description>Dal 1 al 31 ottobre. Bisogna essere elettore a Desio e non aver superato il settantesimo anno di età.</description>
-			<a10:updated>2018-09-26T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51078</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51078</link>
-			<category>- Ufficio Stampa</category>
-			<title>Le pere di «ABIO» per i bambini in ospedale </title>
-			<description>Sabato 29 settembre dalle ore 9 alle ore 18.30 in piazza Conciliazione.</description>
 			<a10:updated>2018-09-26T22:00:00Z</a10:updated>
 		</item>
 	</channel>
