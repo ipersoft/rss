@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 09 Oct 2018 09:00:42 Z</lastBuildDate>
+		<lastBuildDate>Tue, 09 Oct 2018 09:30:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51188</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51188</link>
+			<category>- Ufficio Stampa</category>
+			<title>Matite, colori e fantasia</title>
+			<description>Venerdì 12 lezione presentazione dei corsi di fumetto per ragazzi e adulti da «Arden -Luogo del possibile APS». Lunedì 15 ottobre in scena per la lezione di prova di teatro.</description>
+			<a10:updated>2018-10-08T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51183</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51183</link>
@@ -159,14 +167,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>«Diamoci una scossa!»</title>
 			<description>Domenica 30 settembre Protezione civile in piazza Conciliazione per la prima «Giornata Nazionale della Prevenzione Sismica».</description>
-			<a10:updated>2018-09-26T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51082</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51082</link>
-			<category>- Ufficio Stampa</category>
-			<title>Presidenti di seggio, al via le domande al Comune</title>
-			<description>Dal 1 al 31 ottobre. Bisogna essere elettore a Desio e non aver superato il settantesimo anno di età.</description>
 			<a10:updated>2018-09-26T22:00:00Z</a10:updated>
 		</item>
 	</channel>
