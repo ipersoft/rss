@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 11 Oct 2018 14:00:48 Z</lastBuildDate>
+		<lastBuildDate>Thu, 11 Oct 2018 16:00:47 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4351492</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4351492</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>APPROVAZIONE SCHEMA DI CONVENZIONE-CONTRATTO PER L'UTILIZZO TEMPORANEO DEL PALABANCODESIO DA PARTE DELLA SOCIETA' PALLACANESTRO CANTU' PER GLI INCONTRI DI CAMPIONATO DI SERIE A1 - STAGIONE SPORTIVA 2018-19. </description>
+			<a10:updated>2018-10-11T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4349225</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4349225</link>
@@ -797,14 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>SELEZIONE INTERNA RISERVATA AL PERSONALE DI CATEGORIA “D” PER L’ASSEGNAZIONE DELLA POSIZIONE ORGANIZZATIVA: - RESPONSABILE DEL SETTORE BILANCIO E PROGRAMMAZIONE ECONOMICA DI CUI ALL’AVVISO PROT. N 34677 DEL 23.08.2018 ATTRIBUZIONE DELL’INCARICO. </description>
-			<a10:updated>2018-09-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4295675</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4295675</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>APPROVAZIONE PATTO LOCALE SICUREZZA URBANA E CONVENZIONE TRA I COMUNI DI DESIO E DI LISSONE PER IL POTENZIAMENTO DEI COMANDI E LA GESTIONE ASSOCIATA DI UN SERVIZIO DI PRESIDIO SERALE DI POLIZIA LOCALE – ATTIVITA’ RESE NEL COMUNE DI LISSONE FINO A LUGLIO 2018 – ACCERTAMENTO IN ENTRATA E IMPEGNI DI SPESA (€3.057,27). </description>
 			<a10:updated>2018-09-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
