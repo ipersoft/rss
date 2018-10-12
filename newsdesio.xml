@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 12 Oct 2018 10:30:43 Z</lastBuildDate>
+		<lastBuildDate>Fri, 12 Oct 2018 11:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52194</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52194</link>
+			<category>- Anagrafe, Elettorale, Statistica, Leva</category>
+			<title>Il Comune di Desio nell’«Anagrafe nazionale della popolazione residente»</title>
+			<description>Parte l’«Anpr», ovvero l’anagrafe unica per tutto il territorio nazionale. Per la migrazione nel nuovo sistema i Servizi demografici resteranno chiusi al pubblico martedì 16 ottobre dalle 10 alle ore 12.30.</description>
+			<a10:updated>2018-10-11T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52191</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52191</link>
@@ -158,14 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>La «Messa dell'Incoronazione» per la festa di Desio</title>
 			<description>Sabato 6 ottobre in Basilica il Coro «Città di Desio», insieme al «San Biagio» di Monza e al «Laudamus Dominum» di Sovico per l’opera in Do Maggiore di Mozart.</description>
-			<a10:updated>2018-09-30T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51102</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51102</link>
-			<category></category>
-			<title>Le attività in programma a ottobre al Centro Ricreativo “Il Girasole”</title>
-			<description>Un programma ricco di appuntamenti al Centro Ricreativo "Il Girasole".</description>
 			<a10:updated>2018-09-30T22:00:00Z</a10:updated>
 		</item>
 	</channel>
