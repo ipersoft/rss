@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 15 Oct 2018 09:30:41 Z</lastBuildDate>
+		<lastBuildDate>Mon, 15 Oct 2018 10:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52200</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52200</link>
+			<category>- Ufficio Stampa</category>
+			<title>Via San Vincenzo, divieto di sosta</title>
+			<description>Mercoledì 17 ottobre, dalle 6 alle 8 del mattino, per intervento di fitosanitario per debellare infestazione di «Hyphantria cunea».</description>
+			<a10:updated>2018-10-14T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52194</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52194</link>
@@ -36,7 +44,7 @@
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51188</link>
 			<category>- Ufficio Stampa</category>
 			<title>Matite, colori e fantasia</title>
-			<description>Venerdì 12 lezione presentazione dei corsi di fumetto per ragazzi e adulti da «Arden -Luogo del possibile APS». Lunedì 15 ottobre in scena per la lezione di prova di teatro.</description>
+			<description>Venerdì 12 ottobre lezione presentazione dei corsi di fumetto per ragazzi e adulti da «Arden -Luogo del possibile APS». Lunedì 15 ottobre in scena per la lezione di prova di teatro.</description>
 			<a10:updated>2018-10-08T22:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -158,14 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>«La città infinita» dei bambini.</title>
 			<description>Un laboratorio per bambini che utilizza materiale di recupero o scarto industriale per creare e ricreare paesaggi urbani. Domenica alla Scuola dell’infanzia «San Giuseppe» e lunedì in piazza Conciliazione. </description>
-			<a10:updated>2018-09-30T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51112</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51112</link>
-			<category>- Ufficio Stampa</category>
-			<title>La «Messa dell'Incoronazione» per la festa di Desio</title>
-			<description>Sabato 6 ottobre in Basilica il Coro «Città di Desio», insieme al «San Biagio» di Monza e al «Laudamus Dominum» di Sovico per l’opera in Do Maggiore di Mozart.</description>
 			<a10:updated>2018-09-30T22:00:00Z</a10:updated>
 		</item>
 	</channel>
