@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 16 Oct 2018 14:30:40 Z</lastBuildDate>
+		<lastBuildDate>Tue, 16 Oct 2018 15:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52217</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52217</link>
+			<category>- Ufficio Stampa</category>
+			<title>Il Quattro Novembre, 100 anni dopo</title>
+			<description>Appuntamento sabato 3 novembre al «Parco della Resistenza». La «Marcia della Vittoria» attraverso i Comuni della Brianza: l’itinerario ideale percorso dai «ragazzi del ‘99» dalle loro case e dalle piazze dei loro paesi al fronte.</description>
+			<a10:updated>2018-10-15T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52213</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52213</link>
@@ -157,15 +165,6 @@
 			<category></category>
 			<title>«Ville Aperte», Villa «Tittoni» fa il pieno</title>
 			<description>Due weekend da record: registrate oltre mille presenze nelle quattro giornate di apertura. E poi un’offerta culturale diversificata che ha raccolto grande interesse da parte del pubblico, dal «Gran Ballo Risorgimentale» a agli eventi di «Perfoming Arts».</description>
-			<a10:updated>2018-10-01T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51122</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51122</link>
-			<category>- Ufficio Stampa</category>
-			<title>Le «Perle di Martini»</title>
-			<description>Venerdì 5 ottobre all’Auditorium del «BancoDesio» presentazione del libro curato da Marco Vergottini che raccoglie i commenti di illustri esponenti della cultura alle pagine del Cardinale. 
-</description>
 			<a10:updated>2018-10-01T22:00:00Z</a10:updated>
 		</item>
 	</channel>
