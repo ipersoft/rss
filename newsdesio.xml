@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 Oct 2018 13:00:39 Z</lastBuildDate>
+		<lastBuildDate>Fri, 19 Oct 2018 13:30:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52269</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52269</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Imparare» a progettare</title>
+			<description>Il 5, il 14 e il 21 novembre. Un corso di progettazione «green» per tecnici, professionisti e operatori del verde nell’ambito del progetto «Nexus».</description>
+			<a10:updated>2018-10-18T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52264</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52264</link>
@@ -158,14 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Centro storico, su il sipario </title>
 			<description>Sabato e domenica, in occasione della «Festa di Desio», saranno esposti i «rendering» del nuovo disegno urbanistico. Parte anche il progetto del nuovo «Bilancio Partecipativo».</description>
-			<a10:updated>2018-10-04T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51168</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51168</link>
-			<category>- Ufficio Stampa</category>
-			<title>Lo «Sportello Lavoro» contro la disoccupazione</title>
-			<description>Aperto il nuovo «info point» per favorire l’incontro tra domanda e offerta. Roberto Corti: «Il lavoro è la vera emergenza di questo Paese. La condizione di disoccupazione colpisce al cuore la dignità delle persone».</description>
 			<a10:updated>2018-10-04T22:00:00Z</a10:updated>
 		</item>
 	</channel>
