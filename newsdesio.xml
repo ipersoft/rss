@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 Oct 2018 08:00:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 19 Oct 2018 08:30:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52253</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52253</link>
+			<category>- Ufficio Stampa</category>
+			<title>Fattura elettronica, partito il countdown</title>
+			<description>Da gennaio sarà obbligatori la «e-fattura». Se ne parlerà martedì 23 ottobre in Sala «Pertini».</description>
+			<a10:updated>2018-10-18T22:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52246</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52246</link>
@@ -44,7 +52,7 @@
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52231</link>
 			<category>- Ufficio Stampa</category>
 			<title>L’aperitivo è su due ruote</title>
-			<description>Venerdì 17 ottobre dalle 17 alle 19 «Aperibici» in Stazione.</description>
+			<description>Venerdì 19 ottobre dalle 17 alle 19 «Aperibici» in Stazione.</description>
 			<a10:updated>2018-10-17T22:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -159,14 +167,6 @@
 			<title>Villa «Tittoni» diventa «Potterland»</title>
 			<description>Maghi, pozioni, lezioni di magia e giochi: sabato 13 e domenica 14 il contest dedicato al fantasy.</description>
 			<a10:updated>2018-10-10T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51150</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51150</link>
-			<category>- Ufficio Stampa</category>
-			<title>Sciura Fumagalli e Sciur Mariani in scena</title>
-			<description>Lunedì 8 ottobre in Sala «Pertini» un «viaggio» teatrale tra le origini del dialetto lombardo.</description>
-			<a10:updated>2018-10-03T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
