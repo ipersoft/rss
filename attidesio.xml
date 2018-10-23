@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 23 Oct 2018 12:00:46 Z</lastBuildDate>
+		<lastBuildDate>Tue, 23 Oct 2018 16:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4375134</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4375134</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>IMPIANTI TERMICI PERICOLOSI INSTALLATI PRESSO IL CONDOMINIO DI VIA FORLANINI N° 25 – DESIO (AMMINISTRATORE PRO-TEMPORE SIG.RA GIUSY ROCCO). ORDINE DI DIVIETO DI UTILIZZO ED INGIUNZIONE DI ADEGUAMENTO PRIMA DI EVENTUALE NUOVO UTILIZZO. </description>
+			<a10:updated>2018-10-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4374553</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4374553</link>
@@ -797,14 +805,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE NELLE VIE SAN VINCENZO - TRE VENEZIE - MARSALA </description>
-			<a10:updated>2018-10-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4335741</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4335741</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA MILANO </description>
 			<a10:updated>2018-10-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
