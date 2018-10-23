@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 23 Oct 2018 07:30:42 Z</lastBuildDate>
+		<lastBuildDate>Tue, 23 Oct 2018 08:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52283</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52283</link>
+			<category></category>
+			<title>Le attività in programma a novembre al Centro Ricreativo “Il Girasole”</title>
+			<description>Un programma ricco di appuntamenti al Centro Ricreativo "Il Girasole".</description>
+			<a10:updated>2018-10-31T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52281</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52281</link>
@@ -158,14 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Vent’anni di Biblioteca tra Pinocchio e pirati</title>
 			<description>Il 13, il 20 e il 21 ottobre: una «tre giorni» di laboratori, giochi, letture animate, teatro, arte e musica.</description>
-			<a10:updated>2018-10-08T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51188</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=51188</link>
-			<category>- Ufficio Stampa</category>
-			<title>Matite, colori e fantasia</title>
-			<description>Venerdì 12 ottobre lezione presentazione dei corsi di fumetto per ragazzi e adulti da «Arden -Luogo del possibile APS». Lunedì 15 ottobre in scena per la lezione di prova di teatro.</description>
 			<a10:updated>2018-10-08T22:00:00Z</a10:updated>
 		</item>
 	</channel>
