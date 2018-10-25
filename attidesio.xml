@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 Oct 2018 14:00:50 Z</lastBuildDate>
+		<lastBuildDate>Thu, 25 Oct 2018 10:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4379266</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4379266</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>BIRRIFICIO IRRENHAUS S.R.L.. ESERCIZIO DI SOMMINISTRAZIONE ALIMENTI E BEVANDE SITO IN VIALE EUROPA, 84. REVOCA ORDINANZA N. 393 DEL 2/11/2016. </description>
+			<a10:updated>2018-10-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4377507</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4377507</link>
@@ -797,14 +805,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE LUNGO VIA BELINGERI, VIA COMPAGNI DINO, VIA DOLCI, VIA GUARENTI (TRATTO DA VIA VOLTA A VIA XXV APRILE), VIA LAGHETTO, VIA LAMPUGNANI (TRATTO DA VIA ROMA A VIA XXV APRILE), PIAZZA MARTIRI DI FOSSOLI (CORSIA NORD), VIA ROMA (TRATTO DA P.ZZA MARTIRI DI FOSSOLI A VIA LAMPUGNANI), VIA STAMPA, VIA SOVICANA, VIA VOLTA (TRATTO DA VIA LOMBARDIA A VIA LAMPUGNANI) </description>
-			<a10:updated>2018-10-09T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4342650</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4342650</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA MILANO E VIA MAZZINI (LAVORI EDILIMPIANTI) </description>
 			<a10:updated>2018-10-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
