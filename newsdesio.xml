@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 29 Oct 2018 14:30:42 Z</lastBuildDate>
+		<lastBuildDate>Mon, 29 Oct 2018 15:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52316</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52316</link>
+			<category>- Ufficio Stampa</category>
+			<title>Scala, visita guidata al Museo Teatrale</title>
+			<description>Domenica 13 gennaio alla scoperta del Museo che da oltre un secolo custodisce le tracce del passaggio di artisti immortali, grandi compositori, cantanti e direttori d’orchestra indimenticabili.</description>
+			<a10:updated>2018-11-04T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52311</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52311</link>
@@ -159,14 +167,6 @@
 			<description>Bando di Gestione Servizi Desio Srl – Scadenza giovedì 18 ottobre.
 </description>
 			<a10:updated>2018-10-16T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52217</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52217</link>
-			<category>- Ufficio Stampa</category>
-			<title>Il Quattro Novembre, 100 anni dopo</title>
-			<description>Appuntamento sabato 3 novembre al «Parco della Resistenza». La «Marcia della Vittoria» attraverso i Comuni della Brianza: l’itinerario ideale percorso dai «ragazzi del ‘99» dalle loro case e dalle piazze dei loro paesi al fronte.</description>
-			<a10:updated>2018-10-15T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
