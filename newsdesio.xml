@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 30 Oct 2018 16:00:41 Z</lastBuildDate>
+		<lastBuildDate>Tue, 30 Oct 2018 16:30:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52344</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52344</link>
+			<category>- Ufficio Stampa</category>
+			<title>Villa «Tittoni» ospita i «Suoni del mondo»</title>
+			<description>Sabato 3 novembre dalle 16 alle 23 un viaggio musicale nei cinque continenti.</description>
+			<a10:updated>2018-10-29T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52337</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52337</link>
@@ -159,14 +167,6 @@
 			<title>Dimissioni Rocco: il sindaco guarda avanti</title>
 			<description>L’ex assessore ha lasciato ieri. Roberto Corti: «Dimissioni e rimpasti sono normali nella vita politica di un’Amministrazione. I programmi prescindono dalle persone. Per questo continuiamo a lavorare con impegno e passione nell’interesse dei cittadini. Gli unici a cui rispondiamo».</description>
 			<a10:updated>2018-10-17T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52244</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52244</link>
-			<category>- Ufficio Stampa</category>
-			<title>Cimitero nuovo, area per i musulmani</title>
-			<description>Approvata la convenzione con l’associazione culturale «Centro Minhaj ul Quaran». Il sindaco Roberto Corti: «Desio è una città dell’integrazione: nel rispetto delle regole, certo, ma aperta all'accoglienza. Anche nella morte».</description>
-			<a10:updated>2018-10-18T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
