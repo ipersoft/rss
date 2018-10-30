@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 30 Oct 2018 13:30:39 Z</lastBuildDate>
+		<lastBuildDate>Tue, 30 Oct 2018 14:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52337</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52337</link>
+			<category>- Ufficio Stampa</category>
+			<title>Dal 31 ottobre chiusa via Ferravilla</title>
+			<description>Conclusa la prima fase del cantiere di «BrianzAcque» per l’estensione della rete fognaria tra Desio e Bovisio.</description>
+			<a10:updated>2018-10-29T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52331</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52331</link>
@@ -158,14 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Cimitero nuovo, area per i musulmani</title>
 			<description>Approvata la convenzione con l’associazione culturale «Centro Minhaj ul Quaran». Il sindaco Roberto Corti: «Desio è una città dell’integrazione: nel rispetto delle regole, certo, ma aperta all'accoglienza. Anche nella morte».</description>
-			<a10:updated>2018-10-18T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52241</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52241</link>
-			<category>- Ufficio Stampa</category>
-			<title>«PTB», il Consiglio di Stato ci mette una pietra sopra</title>
-			<description>La sentenza «adottata» dalla Giunta. La Sezione Quarta, in sede giurisdizionale, dichiara impossibile procedere nel giudizio per assenza dei ricorrenti. Roberto Corti: «Risolti problemi creati da altri».</description>
 			<a10:updated>2018-10-18T22:00:00Z</a10:updated>
 		</item>
 	</channel>
