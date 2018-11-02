@@ -5,8 +5,24 @@
 		<link>https://github.com/comune-desio/newsletter/blob/master/README.md</link>
 		<description>Feed Newsletter Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 Oct 2018 12:00:52 Z</lastBuildDate>
+		<lastBuildDate>Fri, 02 Nov 2018 13:00:50 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsletterdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-11-02.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-11-02.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 02 novembre 2018</title>
+			<description />
+			<a10:updated>2018-11-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-10-26.md</guid>
+			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-10-26.md</link>
+			<category>Newsletter</category>
+			<title>Notizie dalla tua Città - Desio 26 ottobre 2018</title>
+			<description />
+			<a10:updated>2018-10-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-10-19.md</guid>
 			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-10-19.md</link>
@@ -150,22 +166,6 @@
 			<title>Notizie dalla tua Città - Desio 25 maggio 2018</title>
 			<description />
 			<a10:updated>2018-05-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-05-18.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-05-18.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 18 maggio 2018</title>
-			<description />
-			<a10:updated>2018-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">https://github.com/comune-desio/newsletter/blob/master/archivio/2018-05-04.md</guid>
-			<link>https://github.com/comune-desio/newsletter/blob/master/archivio/2018-05-04.md</link>
-			<category>Newsletter</category>
-			<title>Notizie dalla tua Città - Desio 04 maggio 2018</title>
-			<description />
-			<a10:updated>2018-05-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
