@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 09 Nov 2018 10:30:39 Z</lastBuildDate>
+		<lastBuildDate>Fri, 09 Nov 2018 11:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52430</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52430</link>
+			<category></category>
+			<title>Aggiornamento e revisione Albo avvocati</title>
+			<description>Avviso pubblico per l’aggiornamento e la revisione dell’Albo degli avvocati di fiducia del Comune di Desio. Scademza domande: 30 novembre.</description>
+			<a10:updated>2018-11-08T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52419</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52419</link>
@@ -160,14 +168,6 @@
 			<title>Temporali, «codice arancione»</title>
 			<description>La Sala operativa della Protezione civile della Regione Lombardia ha emesso una comunicazione di allerta meteo.</description>
 			<a10:updated>2018-10-27T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52302</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52302</link>
-			<category>- Ufficio Stampa</category>
-			<title>Martiri di Fossoli, nuova viabilità</title>
-			<description>Completati i cambi di sensi di marcia nel primo «comparto». Nei prossimi gironi i lavori su via Lampugnani. Giovanni Borgonovo: «È il primo passo di una strategia più ampia che consegnerà alla città un centro storico a misura di bambino». Il sindaco: «I disagi di ieri causati dai lavori sulla SS 36»</description>
-			<a10:updated>2018-10-25T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
