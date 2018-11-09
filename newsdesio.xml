@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 09 Nov 2018 09:30:43 Z</lastBuildDate>
+		<lastBuildDate>Fri, 09 Nov 2018 10:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52413</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52413</link>
+			<category>- Ufficio Stampa</category>
+			<title>Apre il «Christmas Campus» </title>
+			<description>Attività di supporto compiti per bambini delle scuole elementari e medie durante le feste di Natale. Iscrizioni dal 13 al 30 novembre.</description>
+			<a10:updated>2018-11-08T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52404</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52404</link>
@@ -160,14 +168,6 @@
 			<title>Halloween in Villa «Tittoni»</title>
 			<description>Mercoledì 31 e giovedì 1 novembre: un evento dedicato alle famiglie all’insegna della «paura»: laboratori, giochi e letture animate. E, per i più grandi, una notte in villa.</description>
 			<a10:updated>2018-10-24T22:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52292</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52292</link>
-			<category>- Ufficio Stampa</category>
-			<title>Lo sguardo musicale di Stanley Kubrick</title>
-			<description>Tutto quello che non sapevi sulle colonne sonore del regista di «Shining» (e altri capolavori). Mercoledì 31 ottobre alla «Civica».</description>
-			<a10:updated>2018-10-23T22:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
