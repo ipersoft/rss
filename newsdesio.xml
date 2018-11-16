@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 16 Nov 2018 12:30:37 Z</lastBuildDate>
+		<lastBuildDate>Fri, 16 Nov 2018 13:00:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52503</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52503</link>
+			<category></category>
+			<title>Progetto realizzazione metanodotto Desio – Biassono </title>
+			<description>Pubblicato l'avviso di avvio del procedimento. Scadenza: 16 dicembre. </description>
+			<a10:updated>2018-11-15T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52496</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52496</link>
@@ -158,15 +166,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Variazione, 600 mila euro per il centro</title>
 			<description>Finanziato il progetto su Largo degli Alpini. L’Aula ha approvato l’intervento sul Bilancio. Jennifer Moro: «Investiamo sulla città».</description>
-			<a10:updated>2018-11-01T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52370</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52370</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Tagliabue», nuova palestra per il prossimo anno scolastico</title>
-			<description>Lo ha detto il sindaco venerdì scorso durante un incontro con i piccoli alunni. Accompagnato dall’assessore Giorgio Gerosa, ha consegnato alla scuola la bandiera italiana e quella europea donate dal Comitato di Quartiere «San Giorgio».
-</description>
 			<a10:updated>2018-11-01T23:00:00Z</a10:updated>
 		</item>
 	</channel>
