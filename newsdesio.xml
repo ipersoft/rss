@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 16 Nov 2018 10:00:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 16 Nov 2018 10:30:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52491</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52491</link>
+			<category>- Ufficio Stampa</category>
+			<title>Natale, le luci della città</title>
+			<description>Giorgio Gerosa: «Lavoriamo insieme per una città sempre più bella e attrattiva». Appuntamento giovedì 22 novembre con l’accensione dell’albero in piazza Conciliazione e lo shopping serale con «Aspettando il Black Friday».</description>
+			<a10:updated>2018-11-15T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52486</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52486</link>
+			<category>- Ufficio Stampa</category>
+			<title>Violenza sulle donne, il Comune dice «No»</title>
+			<description>Dalla sedia vuota alle panchine rosse: l’Amministrazione aderisce alla «Giornata internazionale per l’eliminazione della violenza contro le donne» in programma domenica 25 novembre. Paola Buonvicino: «È necessario educare al rispetto delle donne e denunciare ogni atto di violenza».</description>
+			<a10:updated>2018-11-15T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52479</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52479</link>
@@ -152,22 +168,6 @@
 			<title>Abio, in campo per i bambini</title>
 			<description>Sabato 10 novembre al Centro sportivo quadrangolare di calcio promosso dalla «ASST» di Monza. Giorgio Gerosa: «Sostenere il “lavoro” dei volontari è il nostro impegno».</description>
 			<a10:updated>2018-11-01T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52354</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52354</link>
-			<category>- Ufficio Stampa</category>
-			<title>Diesel «Euro 3», okay alle deroghe</title>
-			<description>Via libera a over70 e associazioni sportive. Le nuove disposizioni hanno validità immediata e si applicano per la stagione invernale 2018-2019.</description>
-			<a10:updated>2018-10-30T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52348</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52348</link>
-			<category>- Ufficio Stampa</category>
-			<title>Giunta, «modello» per obiettivi</title>
-			<description>Il Sindaco: «Le nuove deleghe organizzate per processi». Cambia lo schema organizzativo. Il coordinamento dei Lavori pubblici a Jennifer Moro. Roberto Corti: «Stiamo lavorando per individuare il settimo assessore».</description>
-			<a10:updated>2018-10-30T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
