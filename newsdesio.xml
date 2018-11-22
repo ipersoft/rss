@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 22 Nov 2018 09:30:45 Z</lastBuildDate>
+		<lastBuildDate>Thu, 22 Nov 2018 10:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52527</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52527</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Room», una stanza contro l’odio</title>
+			<description>Domenica 25 novembre alle ore 17 la «Casa delle Donne» propone il film di Lenny Abrahamson in occasione della «Giornata internazionale per l’eliminazione della violenza contro le donne».
+</description>
+			<a10:updated>2018-11-21T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52523</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52523</link>
@@ -159,14 +168,6 @@
 			<title>Apre il «Christmas Campus» </title>
 			<description>Attività di supporto compiti per bambini delle scuole elementari e medie durante le feste di Natale. Iscrizioni dal 13 al 30 novembre.</description>
 			<a10:updated>2018-11-08T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52404</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52404</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Open Day» delle Scuole dell’Infanzia</title>
-			<description>Dal 24 novembre «porte aperte» in dieci scuole.</description>
-			<a10:updated>2018-11-07T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
