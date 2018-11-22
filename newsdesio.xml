@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 22 Nov 2018 13:30:45 Z</lastBuildDate>
+		<lastBuildDate>Thu, 22 Nov 2018 14:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52537</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52537</link>
+			<category>- Ufficio Stampa</category>
+			<title>Il buon viaggio</title>
+			<description>Sabato 24 novembre in Biblioteca Civica un pomeriggio dedicato a bambini e genitori.</description>
+			<a10:updated>2018-11-21T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52531</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52531</link>
@@ -159,14 +167,6 @@
 			<category></category>
 			<title>Aggiornamento e revisione Albo avvocati</title>
 			<description>Avviso pubblico per l’aggiornamento e la revisione dell’Albo degli avvocati di fiducia del Comune di Desio. Scademza domande: 30 novembre.</description>
-			<a10:updated>2018-11-08T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52419</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52419</link>
-			<category></category>
-			<title>Avviso pubblico per amministratori di sostegno/tutori/curatori</title>
-			<description>Il «Consorzio Desio-Brianza» ha pubblicato per la formazione di un elenco di soggetti per il conferimento di incarichi individuali esterni. Scadenza lunedì 12 novembre.</description>
 			<a10:updated>2018-11-08T23:00:00Z</a10:updated>
 		</item>
 	</channel>
