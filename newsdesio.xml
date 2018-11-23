@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 23 Nov 2018 08:30:45 Z</lastBuildDate>
+		<lastBuildDate>Fri, 23 Nov 2018 09:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52543</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52543</link>
+			<category>- Ufficio Stampa</category>
+			<title>Il «Bilancio Partecipativo» al rush finale</title>
+			<description>Sabato 24 novembre in Biblioteca Civica ultima Assemblea deliberativa: si parlerà di sociale.</description>
+			<a10:updated>2018-11-22T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52539</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52539</link>
+			<category>- Ufficio Stampa</category>
+			<title>L’albero accende la città</title>
+			<description>Il Sindaco: «Abbiamo lavorato in sinergia con associazioni e commercianti». In piazza Conciliazione un abete vivo di circa sette metri. Al via un calendario di eventi di valore culturale e sociale diffusi su tutto il territorio. Giorgio Gerosa: «Sarà un Natale intenso per eventi e solidarietà».</description>
+			<a10:updated>2018-11-22T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52537</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52537</link>
@@ -152,22 +168,6 @@
 			<title>Comune, le chiusure di Natale</title>
 			<description>Lunedì 24 e lunedì 31 dicembre gli uffici comunali resteranno chiusi al pubblico.</description>
 			<a10:updated>2018-12-16T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52437</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52437</link>
-			<category>- Ufficio Stampa</category>
-			<title>Cinema e affido</title>
-			<description>Mercoledì 21 novembre all’«Excelsior» di Cesano «A testa alta» per affrontare i temi dell’adozione e dell’affido famigliare su grande schermo. Un’iniziativa dell’«Ambito di Desio».</description>
-			<a10:updated>2018-11-08T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52430</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52430</link>
-			<category></category>
-			<title>Aggiornamento e revisione Albo avvocati</title>
-			<description>Avviso pubblico per l’aggiornamento e la revisione dell’Albo degli avvocati di fiducia del Comune di Desio. Scademza domande: 30 novembre.</description>
-			<a10:updated>2018-11-08T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
