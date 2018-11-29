@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 29 Nov 2018 09:00:45 Z</lastBuildDate>
+		<lastBuildDate>Thu, 29 Nov 2018 09:30:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52609</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52609</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Case dell'acqua»: «salvano» 5 mila alberi</title>
+			<description>Il sindaco: «Promuovere l’acqua pubblica fa parte di un processo educativo». In poco più di due anni tagliati più di 110 mila chilogrammi di emissioni di CO2 e risparmiate 741 mila bottiglie di plastica: molti i vantaggi per l’ambiente, ma anche per il portafoglio.</description>
+			<a10:updated>2018-11-28T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52607</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52607</link>
+			<category>- Ufficio Stampa</category>
+			<title>Basilica, l’orologio tornerà a battere l’ora</title>
+			<description>L’Amministrazione comunale ha finanziato l’intervento di riparazione. Stanziati 23 mila euro. Serviranno anche per lavori di manutenzione sulla Chiesa di Santa Maria </description>
+			<a10:updated>2018-11-28T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52602</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52602</link>
@@ -151,22 +167,6 @@
 			<title>«Bilancio Partecipativo»: si parla di innovazione e digitale</title>
 			<description>Martedì 20 novembre terza Assemblea deliberativa alla «Birreria Italiana».</description>
 			<a10:updated>2018-11-18T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52503</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52503</link>
-			<category></category>
-			<title>Progetto realizzazione metanodotto Desio – Biassono </title>
-			<description>Pubblicato l'avviso di avvio del procedimento. Scadenza: 16 dicembre. </description>
-			<a10:updated>2018-11-15T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52496</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52496</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Bilancio partecipativo», seconda «tappa»</title>
-			<description>Sabato 17 novembre alle ore 10 in Biblioteca seconda Assemblea deliberative per discutere dei progetti per il «Tempo Libero».</description>
-			<a10:updated>2018-11-15T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
