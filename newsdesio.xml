@@ -5,8 +5,18 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 04 Dec 2018 15:00:43 Z</lastBuildDate>
+		<lastBuildDate>Tue, 04 Dec 2018 15:30:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52649</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52649</link>
+			<category></category>
+			<title>Avviso di asta pubblica per l'alienazione di attrezzature per autocarrozziere</title>
+			<description>scadenza per la presentazione delle offerte: 4 febbraio 2019 - ore 12
+
+</description>
+			<a10:updated>2018-12-03T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52642</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52642</link>
@@ -157,14 +167,6 @@
 			<category>- Ufficio Stampa</category>
 			<title>Il buon viaggio</title>
 			<description>Sabato 24 novembre in Biblioteca Civica un pomeriggio dedicato a bambini e genitori.</description>
-			<a10:updated>2018-11-21T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52531</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52531</link>
-			<category>- Ufficio Stampa</category>
-			<title>Stop alle «macchinette»</title>
-			<description>Per sei ore al giorno le «slot machine» dovranno essere spente. Roberto Corti: «Siamo stati uno dei precursori in materia di lotta al gioco d’azzardo. Continuiamo una battaglia iniziata sette anni fa». A Desio un giro d’affari di diciotto milioni di euro.</description>
 			<a10:updated>2018-11-21T23:00:00Z</a10:updated>
 		</item>
 	</channel>
