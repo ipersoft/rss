@@ -5,13 +5,29 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 06 Dec 2018 14:00:43 Z</lastBuildDate>
+		<lastBuildDate>Thu, 06 Dec 2018 14:30:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52686</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52686</link>
+			<category>- Ufficio Stampa</category>
+			<title>Aperto il «Centro ricreativo» </title>
+			<description>Uno spazio gestito dal «Comitato di quartiere San Giovanni» e dalla «Bocciofila di Parco Tittoni». Giorgio Gerosa: «È un contenitore da riempire».</description>
+			<a10:updated>2018-12-05T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52680</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52680</link>
+			<category></category>
+			<title>Disservizi tratte ferroviarie, 13 Sindaci della Brianza uniti nella mobilitazione</title>
+			<description>In programma due azioni concrete: «Abbiamo in mente un trasporto su ferro che si integri con quello su gomma, visioni che non intravediamo nelle scelte sin qui intraprese».</description>
+			<a10:updated>2018-12-05T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52671</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52671</link>
 			<category></category>
-			<title>Aggiornamento Piano triennale per la prevenzione della corruzione e la trasparenza </title>
+			<title>Aggiornamento del Piano triennale per la prevenzione della corruzione e la trasparenza </title>
 			<description>Avviso di apertura della consultazione pubblica.</description>
 			<a10:updated>2018-12-05T23:00:00Z</a10:updated>
 		</item>
@@ -152,22 +168,6 @@
 			<title>Censimento, ultima fase</title>
 			<description>Le operazioni di rilevazione si concluderanno il 20 dicembre. Coinvolte quasi 700 famiglie selezionate dall’Istat. I canali aperti per chi non ha ancora compilato il questionario.</description>
 			<a10:updated>2018-11-26T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52581</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52581</link>
-			<category>- Ufficio Stampa</category>
-			<title>Anagrafe, la rivoluzione digitale</title>
-			<description>Jenny Arienti: «Un passaggio strategico per Desio». «Migrata» nell’«Anagrafe nazionale popolazione residente» l’intera banca dati anagrafica.  Ora più semplici e veloci i cambi di residenza e altri certificati anagrafici.</description>
-			<a10:updated>2018-11-26T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52575</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52575</link>
-			<category>- Ufficio Stampa</category>
-			<title>Trovare un lavoro si può</title>
-			<description>Lunedì 3 dicembre un seminario promosso da «Afol Monza Brianza» su strumenti e servizi a disposizione di chi è alla ricerca di un lavoro.</description>
-			<a10:updated>2018-11-25T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
