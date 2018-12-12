@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 12 Dec 2018 13:00:50 Z</lastBuildDate>
+		<lastBuildDate>Wed, 12 Dec 2018 13:30:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52709</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52709</link>
+			<category>- Ufficio Stampa</category>
+			<title>«Natale a Desio», terzo weekend</title>
+			<description>Sarà un fine settimana all’insegna della musica e della solidarietà.</description>
+			<a10:updated>2018-12-11T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52703</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52703</link>
@@ -160,14 +168,6 @@
 			<title>Basilica, l’orologio tornerà a battere l’ora</title>
 			<description>L’Amministrazione comunale ha finanziato l’intervento di riparazione. Stanziati 23 mila euro. Serviranno anche per lavori di manutenzione sulla Chiesa di Santa Maria </description>
 			<a10:updated>2018-11-28T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52602</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52602</link>
-			<category></category>
-			<title>«CE.SI.S.» - Chiusura periodo natalizio</title>
-			<description>Le chiusure degli sportelli stranieri dell'ambito di Desio a dicembre.</description>
-			<a10:updated>2018-11-27T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
