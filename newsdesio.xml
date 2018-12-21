@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 21 Dec 2018 13:00:49 Z</lastBuildDate>
+		<lastBuildDate>Fri, 21 Dec 2018 13:30:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52776</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52776</link>
+			<category></category>
+			<title>Modifiche al servizio di raccolta rifiuti durante le festività</title>
+			<description>Gelsia Ambiente comunica i ritiri sostitutivi per le giornate del 25 dicembre e 1° gennaio.
+</description>
+			<a10:updated>2018-12-20T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52774</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52774</link>
@@ -157,16 +166,6 @@
 			<category></category>
 			<title>AFOL MB - Chiusura periodo natalizio</title>
 			<description>Sportello chiuso il 7 dicembre e dal 24 dicembre al 4 gennaio.</description>
-			<a10:updated>2018-12-03T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52649</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52649</link>
-			<category></category>
-			<title>Avviso di asta pubblica per l'alienazione di attrezzature per autocarrozziere</title>
-			<description>scadenza per la presentazione delle offerte: 4 febbraio 2019 - ore 12
-
-</description>
 			<a10:updated>2018-12-03T23:00:00Z</a10:updated>
 		</item>
 	</channel>
