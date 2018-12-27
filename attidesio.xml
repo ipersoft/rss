@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 26 Dec 2018 17:00:51 Z</lastBuildDate>
+		<lastBuildDate>Thu, 27 Dec 2018 09:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4520954</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4520954</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE NELLE VIE GALLI, GABELLINI, RIMEMBRANZE </description>
+			<a10:updated>2018-12-27T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4520952</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4520952</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GOITO </description>
+			<a10:updated>2018-12-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4513936</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4513936</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>“NEXUS ULTIMA FRONTIERA - INTERVENTI DI REALIZZAZIONE DELLA RETE ECOLOGICA TRA PARCO VALLE LAMBRO E PARCO DELLE GROANE”: LOTTO 1 “REALIZZAZIONE ELEMENTI LINEARI (CORRIDOI) E ELEMENTI PUNTUALI (NODI)” - (F/194). APPROVAZIONE PROGETTO DEFINITIVO-ESECUTIVO. CUP G45H18000180004 </description>
-			<a10:updated>2018-12-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4489306</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4489306</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>LAVORI DI ATTUAZIONE DEL P.G.T.U. E PER LA RIQUALIFICAZIONE URBANA DEL CENTRO DEL COMUNE DI DESIO (A/1646_LOTTO 2). APPROVAZIONE DEL PROGETTO DEFINITIVO - C.U.P. G49J18000870004 </description>
-			<a10:updated>2018-12-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4489304</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/4489304</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PROGETTO MOBILITÀ PER L’INTEGRAZIONE E L’AUTONOMIA DI PERSONE IN SITUAZIONE DI PARTICOLARE DISAGIO E NECESSITA’ – CONVENZIONE CON LA CRI - COMITATO DI LENTATE - € 3.273,00 </description>
 			<a10:updated>2018-12-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
