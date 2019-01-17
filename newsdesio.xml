@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 17 Jan 2019 14:30:44 Z</lastBuildDate>
+		<lastBuildDate>Thu, 17 Jan 2019 15:00:47 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53841</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53841</link>
+			<category></category>
+			<title>Esito pre-selezione e data delle prove scritte  concorso pubblico Area Tecnica Servizio Ecologia C1 </title>
+			<description>Esito pre-selezione e data delle prove scritte del concorso pubblico, per soli esami, per la copertura di n. 1 posto a tempo indeterminato di Assistente Servizi Tecnici - cat. C </description>
+			<a10:updated>2019-01-16T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53836</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53836</link>
@@ -159,14 +167,6 @@
 			<title>«Market in Villa»: un Natale handmade</title>
 			<description>Domenica 16 dicembre in Villa «Tittoni»  oltre trenta artigiani selezionati presentano pezzi unici e originali, tutti rigorosamente fatti a mano.</description>
 			<a10:updated>2018-12-13T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52716</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52716</link>
-			<category>- Ufficio Stampa</category>
-			<title>Beni confiscati, la risposta dell’Amministrazione</title>
-			<description>La villa di via Adamello sarà trasformata in una «casa» per i papà separati, mentre quella in via Prati sarà uno «spazio» per minori e famiglie in difficoltà. Roberto Corti: «La confisca è la risposta culturale e sociale di una comunità sana a ogni forma di illegalità»</description>
-			<a10:updated>2018-12-12T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
