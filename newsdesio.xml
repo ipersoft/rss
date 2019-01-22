@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 22 Jan 2019 10:00:54 Z</lastBuildDate>
+		<lastBuildDate>Tue, 22 Jan 2019 10:30:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53863</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53863</link>
+			<category></category>
+			<title>Le attività in programma al Centro Ricreativo “Il Girasole”</title>
+			<description>Per il mese di febbraio, un programma ricco di appuntamenti al Centro Ricreativo "Il Girasole".</description>
+			<a10:updated>2019-01-31T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53854</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53854</link>
+			<category>- Servizi Sociali</category>
+			<title>Assemblea Pubblica</title>
+			<description>La cittadinanza è invitata all'assemblea pubblica di presentazione delle attività del Centro Ricreativo "Il Girasole"</description>
+			<a10:updated>2019-01-21T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53841</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53841</link>
@@ -150,22 +166,6 @@
 			<category>- Partecipazione e Cittadinanza Attiva</category>
 			<title>Bilancio Partecipativo: immagina, proponi, decidi! </title>
 			<description>C’è tempo fino al 18 gennaio per presentare le proprie idee.</description>
-			<a10:updated>2018-12-13T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52723</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52723</link>
-			<category></category>
-			<title>Iscrizioni alle scuole dell’Infanzia</title>
-			<description>Dal 7 al 31 gennaio iscrizioni aperte per i bambini che compiono i tre anni di età entro il 31.12.2019.</description>
-			<a10:updated>2018-12-13T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52718</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52718</link>
-			<category>- Ufficio Stampa</category>
-			<title>«Market in Villa»: un Natale handmade</title>
-			<description>Domenica 16 dicembre in Villa «Tittoni»  oltre trenta artigiani selezionati presentano pezzi unici e originali, tutti rigorosamente fatti a mano.</description>
 			<a10:updated>2018-12-13T23:00:00Z</a10:updated>
 		</item>
 	</channel>
