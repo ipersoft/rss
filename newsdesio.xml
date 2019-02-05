@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 05 Feb 2019 14:31:02 Z</lastBuildDate>
+		<lastBuildDate>Tue, 05 Feb 2019 15:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53995</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53995</link>
+			<category>- Segreteria del Sindaco</category>
+			<title>Giorno del Ricordo </title>
+			<description>Domenica 10 febbraio ore 17 presso il Centro ricreativo di via C. Marx proiezione del documentario Trieste sotto. 1943-1954 - La storia tragica e straordinaria di una città in prima linea 
+</description>
+			<a10:updated>2019-02-04T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53992</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53992</link>
@@ -158,14 +167,6 @@
 			<title>Seduta ordinaria del Consiglio Comunale in programma il 17, 18 e 24 gennaio 2019 </title>
 			<description>In convocazione alle 20.30.</description>
 			<a10:updated>2019-01-10T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52810</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=52810</link>
-			<category></category>
-			<title>La Befana sul ghiaccio</title>
-			<description>Domenica 6 gennaio un’intera giornata sui pattini al «Centro sportivo».</description>
-			<a10:updated>2018-12-27T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
