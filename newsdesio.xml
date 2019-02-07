@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 07 Feb 2019 12:31:01 Z</lastBuildDate>
+		<lastBuildDate>Thu, 07 Feb 2019 13:01:01 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54011</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54011</link>
+			<category>- Biblioteca e Mediateca civica</category>
+			<title>Avviso pubblico per volontari per la gestione sala studio della biblioteca</title>
+			<description>Avviso pubblico per la ricerca di studenti cittadini attivi che vogliano collaborare con
+l’Amministrazione per la gestione della Sala studio sita al 1° piano della Biblioteca civica. Scadenza presentazione domande 28/2/2019</description>
+			<a10:updated>2019-02-06T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54006</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54006</link>
@@ -160,14 +169,6 @@
 			<title>Cambio orario per lo sportello catastale decentrato di Desio</title>
 			<description>Dal 21 gennaio sarà aperto il lunedì e mercoledì dalle 8:30 alle 12:30 e il martedì e giovedì dalle 15:30 alle 17:30. Online tutte le info e la modulistica per i servizi erogati.</description>
 			<a10:updated>2019-01-15T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53824</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53824</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>L'arte del buon vicinato</title>
-			<description>Testimonianza e dibattito a cura della Parrocchia SS Siro e Materno con il patrocinio del Comune di Desio domenica 27 gennaio ore 15.30 presso il teatro "Il Centro" .</description>
-			<a10:updated>2019-01-13T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
