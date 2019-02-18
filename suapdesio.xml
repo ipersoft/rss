@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Sun, 17 Feb 2019 16:56:34 Z</lastBuildDate>
+		<lastBuildDate>Mon, 18 Feb 2019 09:00:53 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0034209/18-2-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034209/18-2-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034209/18-2-2019%0ARagione sociale:ESSELUNGA SPA%0AUbicazione:VIA CARAVAGGIO%0AOggetto:SOTTOCOSTO ESSELUNGA DAL 07/03 AL 16/03/2019</description>
+			<a10:updated>2019-02-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0034163/17-2-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034163/17-2-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034163/17-2-2019%0ARagione sociale:MOHAMED MOUSTAOUI%0AUbicazione:%0AOggetto:Comunicazione di partecipazione alla spunta</description>
+			<a10:updated>2019-02-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0034121/16-2-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001841/4-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001841/4-1-2019%0ARagione sociale:VAZZOLER SILVIO SAS DI VAZZOLER GIOVANNI%0AUbicazione:VIA SAN VINCENZO%0AOggetto:TRASMISSIONE ANALISI EMISSIONI IN ATMOSFERA ANNO 2018</description>
-			<a10:updated>2019-01-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0001584/4-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001584/4-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001584/4-1-2019%0ARagione sociale:TRAMARIN RITA%0AUbicazione:VIA PRATI%0AOggetto:CHIUSURA ATTIVITA' DI COMMERCIO AMBULANTE PER DONAZIONE</description>
-			<a10:updated>2019-01-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0001392/4-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001392/4-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001392/4-1-2019%0ARagione sociale:CONSONNI ALICE%0AUbicazione:%0AOggetto:COMMERCIO AMBULANTE DI PRODOTTI PER L'IGIENE DELLA CASA E DELLA PERSONA</description>
 			<a10:updated>2019-01-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
