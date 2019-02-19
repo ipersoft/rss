@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 18 Feb 2019 13:00:58 Z</lastBuildDate>
+		<lastBuildDate>Tue, 19 Feb 2019 13:01:00 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035647/19-2-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0035647/19-2-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0035647/19-2-2019%0ARagione sociale:LAPP ITALIA SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Realizzazione di piattaforma elevatrice di collegamento tra il piano terra ed il piano soppalco adibito ad uffici, necessaria per garantire l'accesso anche alle persone disabili.</description>
+			<a10:updated>2019-02-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0034209/18-2-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001885/4-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001885/4-1-2019%0ARagione sociale:PANINOTECA DI MAX DI PIRRELLO MASSIMILIANO%0AUbicazione:VIA MATILDE SERAO%0AOggetto:CESSAZIONE ATTIVITA'</description>
-			<a10:updated>2019-01-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0001841/4-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001841/4-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001841/4-1-2019%0ARagione sociale:VAZZOLER SILVIO SAS DI VAZZOLER GIOVANNI%0AUbicazione:VIA SAN VINCENZO%0AOggetto:TRASMISSIONE ANALISI EMISSIONI IN ATMOSFERA ANNO 2018</description>
 			<a10:updated>2019-01-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
