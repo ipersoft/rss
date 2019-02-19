@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 19 Feb 2019 16:00:57 Z</lastBuildDate>
+		<lastBuildDate>Tue, 19 Feb 2019 16:30:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54026</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54026</link>
+			<category></category>
+			<title>Trofeo Scherma Città di Desio - 12° Memorial Stefanelli</title>
+			<description>Sabato 2 e domenica 3 marzo dalle 9 alle 18, al PalaBancoDesio. 
+L'iniziativa, giunge quest'anno alla sua ventinovesima edizione. </description>
+			<a10:updated>2019-02-18T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54015</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54015</link>
@@ -161,14 +170,6 @@ l’Amministrazione per la gestione della Sala studio sita al 1° piano della Bi
 			<title>Esito pre-selezione e data delle prove scritte  concorso pubblico Area Tecnica Servizio Ecologia C1 </title>
 			<description>Esito pre-selezione e data delle prove scritte del concorso pubblico, per soli esami, per la copertura di n. 1 posto a tempo indeterminato di Assistente Servizi Tecnici - cat. C </description>
 			<a10:updated>2019-01-16T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53836</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53836</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>Giornata della Memoria 2019</title>
-			<description>Il calendario completo delle iniziative culturali ed artistiche a Desio dedicate alla Giornata della Memoria</description>
-			<a10:updated>2019-01-15T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
