@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 19 Feb 2019 13:01:00 Z</lastBuildDate>
+		<lastBuildDate>Wed, 20 Feb 2019 16:01:00 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0036988/20-2-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0036988/20-2-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0036988/20-2-2019%0ARagione sociale:PC HUNTER SRL%0AUbicazione:VIA MILANO%0AOggetto:INIZIO ATTIVITA DI COMMERCIO COMPUTERS E DISPOSITIVI ELETTRONICI ATTRAVERSO ESERCIZIO DI VICINATO.</description>
+			<a10:updated>2019-02-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035647/19-2-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0002020/7-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0002020/7-1-2019%0ARagione sociale:LIDI S.N.C. DI GIORGIO DI BERARDINO &amp; C.%0AUbicazione:VIA MULINELLO%0AOggetto:COMUNICAZIONE DI MESSA IN ESERCIZIO DELL'IMPIANTO Autorizzazione della Provincia di Monza e della Brianza inviata in data 14/11/2018, ai sensi dell’art 272 c. 2,3 del D.Lgs 152/06 Allegati Tecnici 30 e 32/B La data di rilascio dell'autorizzazione indicata considera i 45 gg. di silenzio assenso</description>
 			<a10:updated>2019-01-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0001885/4-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001885/4-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001885/4-1-2019%0ARagione sociale:PANINOTECA DI MAX DI PIRRELLO MASSIMILIANO%0AUbicazione:VIA MATILDE SERAO%0AOggetto:CESSAZIONE ATTIVITA'</description>
-			<a10:updated>2019-01-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
