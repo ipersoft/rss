@@ -5,8 +5,17 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 21 Feb 2019 14:00:58 Z</lastBuildDate>
+		<lastBuildDate>Thu, 21 Feb 2019 14:30:57 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54032</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54032</link>
+			<category>- Promozione culturale e sportiva</category>
+			<title>Affidamento servizi di supporto al RUP per redazione atti per affidamento gestione Palabancodesio</title>
+			<description>Indagine di mercato, per l'individuazione di operatori economici interessati all’affidamento dell’appalto di servizi di supporto al RUP per redazione di atti per l'affidamento della gestione del Palabancodesio. Scadenza 6/3/2019
+</description>
+			<a10:updated>2019-02-20T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54026</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54026</link>
@@ -162,14 +171,6 @@ l’Amministrazione per la gestione della Sala studio sita al 1° piano della Bi
 			<title>Assemblea Pubblica</title>
 			<description>La cittadinanza è invitata all'assemblea pubblica di presentazione delle attività del Centro Ricreativo "Il Girasole".</description>
 			<a10:updated>2019-01-21T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53841</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53841</link>
-			<category></category>
-			<title>Esito pre-selezione e data delle prove scritte  concorso pubblico Area Tecnica Servizio Ecologia C1 </title>
-			<description>Esito pre-selezione e data delle prove scritte del concorso pubblico, per soli esami, per la copertura di n. 1 posto a tempo indeterminato di Assistente Servizi Tecnici - cat. C </description>
-			<a10:updated>2019-01-16T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
