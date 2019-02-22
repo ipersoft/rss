@@ -5,8 +5,18 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 22 Feb 2019 13:30:56 Z</lastBuildDate>
+		<lastBuildDate>Fri, 22 Feb 2019 14:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54048</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54048</link>
+			<category></category>
+			<title>Al via la campagna di ispezione degli impianti termici</title>
+			<description>La scelta degli impianti da ispezionare privilegia gli impianti più vecchi o per i quali si abbia un'indicazione di maggiore criticità o non sia stata trasmessa al Comune la dichiarazione di avvenuta manutenzione.
+
+</description>
+			<a10:updated>2019-02-21T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54042</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54042</link>
@@ -164,14 +174,6 @@ l’Amministrazione per la gestione della Sala studio sita al 1° piano della Bi
 			<title>Al via il servizio di Polizia Locale per le emergenze dedicato ai sordi</title>
 			<description>Dal 1° febbraio operativo, attraverso Telegram, il sistema di collegamento con la centrale operativa per i sordi.</description>
 			<a10:updated>2019-01-29T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53874</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53874</link>
-			<category>- Ufficio Stampa</category>
-			<title>Al via i lavori per l'efficientamento dell'illuminazione pubblica in alcune zone della Città</title>
-			<description>L'intervento riguarda circa 340 corpi illuminanti , per un investimento complessivo di circa 200.000 €.</description>
-			<a10:updated>2019-01-21T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
