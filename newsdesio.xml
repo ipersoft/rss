@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 22 Feb 2019 12:30:57 Z</lastBuildDate>
+		<lastBuildDate>Fri, 22 Feb 2019 13:00:57 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54042</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54042</link>
+			<category>- Ufficio Stampa</category>
+			<title>Servizi Demografici, a Desio c'è il «ticket virtuale»</title>
+			<description>Un servizio per staccare virtualmente il «numerino» allo sportello. Attraverso un servizio online è possibile prenotare il proprio turno con il telefonino e non perdere tempo ad aspettare. </description>
+			<a10:updated>2019-02-21T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54036</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54036</link>
@@ -164,14 +172,6 @@ l’Amministrazione per la gestione della Sala studio sita al 1° piano della Bi
 			<title>Al via i lavori per l'efficientamento dell'illuminazione pubblica in alcune zone della Città</title>
 			<description>L'intervento riguarda circa 340 corpi illuminanti , per un investimento complessivo di circa 200.000 €.</description>
 			<a10:updated>2019-01-21T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53868</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53868</link>
-			<category>- Ufficio Stampa</category>
-			<title>Avviso mobilità volontaria tempo indeterminato cat. C con funzioni anche di Addetto Stampa  </title>
-			<description>Avviso mobilità volontaria, ex art. 30 D.Lgs. n. 165/01, per la copertura a tempo indeterminato di un posto di Assistente Servizi Operativi – cat. C – con funzioni anche di Addetto Stampa da destinare al Settore di Staff/Servizio Urp e Comunicazione e Ufficio Stampa e Nuovi Media</description>
-			<a10:updated>2019-01-20T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
