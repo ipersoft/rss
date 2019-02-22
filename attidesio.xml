@@ -5,8 +5,40 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 21 Feb 2019 17:01:08 Z</lastBuildDate>
+		<lastBuildDate>Fri, 22 Feb 2019 09:01:09 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654268</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654268</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>CONTRATTO DI VENDITA DI ALLOGGIO A PARTE DEL FABBRICATO DI VIA PRATI N. 77 </description>
+			<a10:updated>2019-02-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654266</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654266</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>RICORSI AL TAR AVVERSO ORDINANZE SINDACALI N. 456 E 478/2018 – AUTORIZZAZIONE ALLA COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE. </description>
+			<a10:updated>2019-02-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654264</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654264</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>ATTO DI CITAZIONE AVANTI IL TRIBUNALE DI MONZA PER SINISTRO DEL 4.06.2017 RIF. 2017-61156 - COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE. </description>
+			<a10:updated>2019-02-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654262</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654262</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>CONCESSIONE PATROCINIO E CONTRIBUTO ALLA SCUOLA PRIMARIA "G. GAVAZZI" DI VIA VIAZ - ISTITUTO COMPRENSIVO AGNESI DI DESIO - PER PROGETTO "LE SCUOLE ADOTTANO I MONUMENTI DELLA NOSTRA ITALIA" </description>
+			<a10:updated>2019-02-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4653370</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4653370</link>
@@ -134,38 +166,6 @@
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA CALATAFIMI </description>
 			<a10:updated>2019-02-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4641539</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4641539</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA DIRCOLAZIONE STRADALE IN VIA ROVANI </description>
-			<a10:updated>2019-02-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4641537</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4641537</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA ALESSANDRO VOLTA </description>
-			<a10:updated>2019-02-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4639610</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4639610</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>COPERTURA DELLE QUOTE A CARICO DEGLI INQUILINI COMUNALI MOROSI PER LE SPESE DI CONDOMINIO DELLO STABILE "CONDOMINIO MATTEOTTI 32" - ESERCIZIO FINANZIARIO 2017/2018 </description>
-			<a10:updated>2019-02-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4639604</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4639604</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>FORNITURA TRAMITE CONVENZIONE CONSIP E MERCATO MEPA DI MATERIALE INFORMATICO PER UFFICI COMUNALI -DIVERSI FORNITORI </description>
-			<a10:updated>2019-02-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
