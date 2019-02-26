@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 25 Feb 2019 16:01:04 Z</lastBuildDate>
+		<lastBuildDate>Tue, 26 Feb 2019 13:01:07 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0041220/26-2-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0041220/26-2-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0041220/26-2-2019%0ARagione sociale:HU ZHENYAN%0AUbicazione:PIAZZA CAMILLO BENSO DI CAVOUR%0AOggetto:APERTURA SARTORIA ARTIGIANA</description>
+			<a10:updated>2019-02-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0040424/25-2-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004410/9-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004410/9-1-2019%0ARagione sociale:GARDA 1975 S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:COMMERCIO AL DETTAGLIO DI BIANCHERIA INTIMA, PIGIAMI, COSTUMI E ACCESSOI</description>
-			<a10:updated>2019-01-09T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0004062/9-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004062/9-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004062/9-1-2019%0ARagione sociale:VFG INTERIORS S.A.S. DI VIGANO' FABIO GIOVANNI E C.%0AUbicazione:VIA BERNINA%0AOggetto:Inizio attività</description>
 			<a10:updated>2019-01-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
