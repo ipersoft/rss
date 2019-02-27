@@ -5,8 +5,24 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 Feb 2019 13:01:04 Z</lastBuildDate>
+		<lastBuildDate>Wed, 27 Feb 2019 13:31:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54099</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54099</link>
+			<category></category>
+			<title>ESITO SELEZIONE mobilità volontaria cat.C servizi URP Comunicazione/Ufficio Stampa e Nuovi Media</title>
+			<description>Avviso mobilità volontaria, ex art. 30 D.Lgs. n. 165/01, per la copertura a tempo indeterminato di un posto di Assistente Servizi Operativi – cat. C – con funzioni anche di Addetto Stampa da destinare al Settore di Staff/Servizio Urp e Comunicazione e Ufficio Stampa e Nuovi Media - ESITO SELEZIONE</description>
+			<a10:updated>2019-02-26T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54093</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54093</link>
+			<category></category>
+			<title>AVVISO PUBBLICO incarico professionale addetto relazioni esterne organismi indirizzo politico</title>
+			<description>AVVISO PUBBLICO PER AFFIDAMENTO DI INCARICO PROFESSIONALE DI ADDETTO ALLE RELAZIONI ESTERNE DEGLI ORGANI DI INDIRIZZO POLITICO</description>
+			<a10:updated>2019-02-19T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54080</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54080</link>
@@ -158,22 +174,6 @@ l’Amministrazione per la gestione della Sala studio sita al 1° piano della Bi
 			<category></category>
 			<title>Data della prova orale concorso pubblico 1 posto cat. C servizio Ecologia e Mobilità </title>
 			<description>COMUNICAZIONE AI CANDIDATI DELLA DATA DELLA PROVA ORALE concorso pubblico, per soli esami, per la copertura di n. 1 posto a tempo indeterminato di Assistente Servizi Tecnici - Cat. C - da destinare all’Area Tecnica/Servizio Ecologia e Mobilità</description>
-			<a10:updated>2019-01-31T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53960</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53960</link>
-			<category>- Risorse Umane</category>
-			<title>AVVISI MOBILITA' IN CORSO  con scadenza 4 marzo 2019</title>
-			<description>AVVISI MOBILITA' IN CORSO  </description>
-			<a10:updated>2019-01-31T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53953</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53953</link>
-			<category></category>
-			<title>Agevolazioni e riduzioni TARI</title>
-			<description>Quali sono ed entro quando chiederle.</description>
 			<a10:updated>2019-01-31T23:00:00Z</a10:updated>
 		</item>
 	</channel>
