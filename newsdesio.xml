@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 Feb 2019 10:31:03 Z</lastBuildDate>
+		<lastBuildDate>Wed, 27 Feb 2019 11:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54080</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54080</link>
+			<category></category>
+			<title>Le attività in programma a marzo al Centro Ricreativo “Il Girasole”</title>
+			<description>Un programma ricco di appuntamenti al Centro Ricreativo "Il Girasole".</description>
+			<a10:updated>2019-02-26T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54070</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54070</link>
@@ -167,14 +175,6 @@ l’Amministrazione per la gestione della Sala studio sita al 1° piano della Bi
 			<title>Agevolazioni e riduzioni TARI</title>
 			<description>Quali sono ed entro quando chiederle.</description>
 			<a10:updated>2019-01-31T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53949</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53949</link>
-			<category></category>
-			<title>Bilancio Partecipativo: in corso la prima votazione</title>
-			<description>Il bilancio partecipativo è entrato nel vivo della sua seconda fase. In corso il voto per selezionare i progetti senior e junior che andranno in studio di fattibilità.</description>
-			<a10:updated>2019-01-27T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
