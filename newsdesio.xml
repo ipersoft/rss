@@ -5,8 +5,20 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 28 Feb 2019 12:31:07 Z</lastBuildDate>
+		<lastBuildDate>Thu, 28 Feb 2019 13:01:07 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54123</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54123</link>
+			<category>- Ufficio Stampa</category>
+			<title>Aggiornamento sul maxi intervento in corso per l’estensione della rete fognaria tra Desio e Bovisio </title>
+			<description>Prosegue il maxi intervento sul territorio da parte di Brianzacque  per l’estensione della rete fognaria tra Desio e Bovisio Masciago. Tutti i dettagli sulle necessarie modifiche viabilistiche .
+
+
+
+</description>
+			<a10:updated>2019-02-27T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54108</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54108</link>
@@ -168,14 +180,6 @@ l’Amministrazione per la gestione della Sala studio sita al 1° piano della Bi
 			<title>Desio ricorda papa Pio XI a 80 anni dalla morte</title>
 			<description>Il 9 febbraio un convegno e l'inaugurazione di una mostra nella casa natale di Achille Ratti.</description>
 			<a10:updated>2019-02-04T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53967</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=53967</link>
-			<category>- SUAP Sportello Unico Attività Produttive</category>
-			<title>Turni distributori di carburante anno 2019</title>
-			<description>calendario dei turni di apertura festiva e domenicale e dei turni di chiusura per ferie estive degli impianti stradali di distribuzione carburanti per l'anno 2019.</description>
-			<a10:updated>2018-12-30T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
