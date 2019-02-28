@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 Feb 2019 17:01:12 Z</lastBuildDate>
+		<lastBuildDate>Thu, 28 Feb 2019 11:01:13 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4665860</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4665860</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA DI CONFISCA IMPIANTO DI DISTRIBUZIONE CARBURANTI AD USO PRIVATO. </description>
+			<a10:updated>2019-02-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4660143</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4660143</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>CONTRATTO DI VENDITA DI ALLOGGIO A PARTE DEL FABBRICATO DI VIA PRATI N. 77 </description>
-			<a10:updated>2019-02-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654266</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4654266</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>RICORSI AL TAR AVVERSO ORDINANZE SINDACALI N. 456 E 478/2018 – AUTORIZZAZIONE ALLA COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE. </description>
 			<a10:updated>2019-02-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
