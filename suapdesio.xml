@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 26 Feb 2019 16:01:07 Z</lastBuildDate>
+		<lastBuildDate>Thu, 28 Feb 2019 11:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0042914/27-2-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0042914/27-2-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0042914/27-2-2019%0ARagione sociale:MAK. MEC. S.R.L.%0AUbicazione:VIA ORTIGARA%0AOggetto:INIZIO ATTIVITA' LAVORI DI PICCOLA CARPENTERIA METALLICA</description>
+			<a10:updated>2019-02-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0041753/26-2-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0005618/10-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0005618/10-1-2019%0ARagione sociale:STOCKMATTO DI PANZERI IVANA%0AUbicazione:%0AOggetto:COMMERCIO IN FORMA ITINERANTE ABBIGLIAMENTO INTIMO SCARPE ED ACCESSORI UOMO DONNA E BAMBINO</description>
-			<a10:updated>2019-01-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0005488/10-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0005488/10-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0005488/10-1-2019%0ARagione sociale:MAK. MEC. S.R.L.%0AUbicazione:VIA ORTIGARA%0AOggetto:Attivita' di piccola carpenteria in via Ortigara a Desio</description>
 			<a10:updated>2019-01-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
