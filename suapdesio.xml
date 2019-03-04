@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 01 Mar 2019 16:01:04 Z</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2019 11:01:03 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0045557/4-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0045557/4-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0045557/4-3-2019%0ARagione sociale:CVPLAST S.N.C. DI CITTERIO ALESSANDRO E VISMARA MIRKO%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:Nuova attività di produzione e trasformazione di imballaggi plastici</description>
+			<a10:updated>2019-03-04T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0045380/4-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0045380/4-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0045380/4-3-2019%0ARagione sociale:SDEGHEDE' DI GRAF RAFFAELA%0AUbicazione:CORSO ITALIA%0AOggetto:APERTURA INTERNET POINT E CED</description>
+			<a10:updated>2019-03-04T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0045168/1-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0045168/1-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0045168/1-3-2019%0ARagione sociale:LE LANTERNE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA%0AUbicazione:VIA BRENNERO%0AOggetto:SUBENTRO ATTIVITA' RISTORANTE</description>
+			<a10:updated>2019-03-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0044946/1-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006963/13-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006963/13-1-2019%0ARagione sociale:IL VILLICO DI FOTI GIANPAOLO%0AUbicazione:%0AOggetto:Comunicazione Partecipazione alla Spunta dei Mercati nel Comune di Desio</description>
 			<a10:updated>2019-01-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0006928/12-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006928/12-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006928/12-1-2019%0ARagione sociale:BUSNELLI ELISA%0AUbicazione:%0AOggetto:INSTALLAZIONE SNACK BAR IN OCCASIONE DELLA FESTA DI PRIMAVERA</description>
-			<a10:updated>2019-01-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0006921/12-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006921/12-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006921/12-1-2019%0ARagione sociale:BUSNELLI ANGELO%0AUbicazione:%0AOggetto:INSTALLAZIONE TEMPORANEA DI ATTRAZIONI LUNA PARK IN OCCASIONE DELLA FESTA DI PRIMAVERA</description>
-			<a10:updated>2019-01-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0006913/12-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006913/12-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006913/12-1-2019%0ARagione sociale:BUSNELLI ANDREA%0AUbicazione:%0AOggetto:INSTALLAZIONE TEMPORANEA DI ATTRAZIONI LUNA PARK IN OCCASIONE DELLA FESTA DI PRIMAVERA</description>
-			<a10:updated>2019-01-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
