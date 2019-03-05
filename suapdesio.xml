@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 04 Mar 2019 13:01:01 Z</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2019 11:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0046760/5-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0046760/5-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0046760/5-3-2019%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA PER SEREGNO%0AOggetto:COMUNICAZIONE DI VENDITA SOTTOCOSTO</description>
+			<a10:updated>2019-03-05T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0046751/5-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0046751/5-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0046751/5-3-2019%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA KARL MARX%0AOggetto:COMUNICAZIONE DI VENDITA SOTTOCOSTO</description>
+			<a10:updated>2019-03-05T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0045557/4-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006990/14-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006990/14-1-2019%0ARagione sociale:PASSIONE CASA E NON SOLO DI TAGLIABUE JVAN ENRICO WALTER%0AUbicazione:%0AOggetto:Partecipazione alla spunta dei mercati Desio Nord e Desio Sud</description>
 			<a10:updated>2019-01-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0006965/13-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006965/13-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006965/13-1-2019%0ARagione sociale:INTIMAMENTE DI ALESSANDRO SEDINI%0AUbicazione:%0AOggetto:RINNOVO SPUNTA SEDINI</description>
-			<a10:updated>2019-01-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0006963/13-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006963/13-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006963/13-1-2019%0ARagione sociale:IL VILLICO DI FOTI GIANPAOLO%0AUbicazione:%0AOggetto:Comunicazione Partecipazione alla Spunta dei Mercati nel Comune di Desio</description>
-			<a10:updated>2019-01-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
