@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 07 Mar 2019 09:01:04 Z</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2019 16:01:01 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0049457/7-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0049457/7-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0049457/7-3-2019%0ARagione sociale:BIANCHI MARCO%0AUbicazione:VIA PRATI%0AOggetto:VARIAZIONE INDIRIZZO SEDE LEGALE E RESIDENZA</description>
+			<a10:updated>2019-03-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0048524/6-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0007821/14-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0007821/14-1-2019%0ARagione sociale:MARIANI MONICA%0AUbicazione:VIA PRATI%0AOggetto:CESSAZIONE ATTIVITA' PER DEPOSITO AUTORIZZAZIONE AMBULANTE</description>
-			<a10:updated>2019-01-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0007491/14-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0007491/14-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0007491/14-1-2019%0ARagione sociale:GRIPX DI COMELLI MATTEO%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' PER COMMERCIO AL DETTAGLIO DI PRODOTTI VIA INTERNET DI ARTICOLI DI ELETTRONICA E ACCESSORI VARI</description>
 			<a10:updated>2019-01-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
