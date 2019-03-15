@@ -5,8 +5,16 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Mar 2019 14:31:03 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 Mar 2019 15:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54283</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54283</link>
+			<category></category>
+			<title>Iscrizioni agli asili nido comunali</title>
+			<description>da lunedì 1 a martedì 30 aprile sono aperte le iscrizioni agli asili nido comunali di via  Adamello e via Diaz.</description>
+			<a10:updated>2019-03-14T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54274</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54274</link>
@@ -166,14 +174,6 @@ Domenica 10 marzo ore 21 Sala Pertini</description>
 			<description>Vivian Maier: la "tata" fotografa raccontata con le parole di Francesca Diotallevi, autrice del bellissimo romanzo "Dai tuoi occhi solamente".
 Sabato 16 marzo 2019 ore 16 presso la Biblioteca civica di Desio.</description>
 			<a10:updated>2019-02-27T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54099</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54099</link>
-			<category></category>
-			<title>ESITO SELEZIONE mobilità volontaria cat.C servizi URP Comunicazione/Ufficio Stampa e Nuovi Media</title>
-			<description>Avviso mobilità volontaria, ex art. 30 D.Lgs. n. 165/01, per la copertura a tempo indeterminato di un posto di Assistente Servizi Operativi – cat. C – con funzioni anche di Addetto Stampa da destinare al Settore di Staff/Servizio Urp e Comunicazione e Ufficio Stampa e Nuovi Media - ESITO SELEZIONE</description>
-			<a10:updated>2019-02-26T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
