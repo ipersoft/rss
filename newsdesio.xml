@@ -5,14 +5,22 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Mar 2019 14:01:06 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 Mar 2019 14:31:03 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54274</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54274</link>
+			<category>- Lavori Pubblici</category>
+			<title>Con l'arrivo della primavera partono i restauri del monumento a Papa Pio XI</title>
+			<description>Il progetto di restauro del monumento bronzeo a Papa Ratti si era aggiudicato i 25mila euro di finanziamento previsti dalla scorsa edizione del concorso Art Bonus di RetiPiù.</description>
+			<a10:updated>2019-03-13T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54271</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54271</link>
 			<category></category>
-			<title>Partono gli interventi Nexus per la tutela rete ecologica tra tre parchi</title>
-			<description>Desio, al via nei prossimi giorni gli interventi di tutela della rete ecologica tra Parco Valle Lambro e Parco delle Groane, attraverso il Parco Grugnotorto Villoresi.</description>
+			<title>In corso gli interventi Nexus per la tutela della rete ecologica tra tre parchi</title>
+			<description>Si tratta degli interventi di piantumazione per la tutela della rete ecologica tra Parco Valle Lambro e Parco delle Groane, attraverso il Parco Grugnotorto Villoresi.</description>
 			<a10:updated>2019-03-11T23:00:00Z</a10:updated>
 		</item>
 		<item>
@@ -166,14 +174,6 @@ Sabato 16 marzo 2019 ore 16 presso la Biblioteca civica di Desio.</description>
 			<title>ESITO SELEZIONE mobilità volontaria cat.C servizi URP Comunicazione/Ufficio Stampa e Nuovi Media</title>
 			<description>Avviso mobilità volontaria, ex art. 30 D.Lgs. n. 165/01, per la copertura a tempo indeterminato di un posto di Assistente Servizi Operativi – cat. C – con funzioni anche di Addetto Stampa da destinare al Settore di Staff/Servizio Urp e Comunicazione e Ufficio Stampa e Nuovi Media - ESITO SELEZIONE</description>
 			<a10:updated>2019-02-26T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54093</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54093</link>
-			<category></category>
-			<title>AVVISO PUBBLICO incarico professionale addetto relazioni esterne organismi indirizzo politico</title>
-			<description>AVVISO PUBBLICO PER AFFIDAMENTO DI INCARICO PROFESSIONALE DI ADDETTO ALLE RELAZIONI ESTERNE DEGLI ORGANI DI INDIRIZZO POLITICO</description>
-			<a10:updated>2019-02-19T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
