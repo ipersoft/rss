@@ -5,8 +5,40 @@
 		<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase01.aspx</link>
 		<description>Feed News Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Mar 2019 13:31:03 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 Mar 2019 14:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/newsdesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54271</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54271</link>
+			<category></category>
+			<title>Partono gli interventi Nexus per la tutela rete ecologica tra tre parchi</title>
+			<description>Desio, al via nei prossimi giorni gli interventi di tutela della rete ecologica tra Parco Valle Lambro e Parco delle Groane, attraverso il Parco Grugnotorto Villoresi.</description>
+			<a10:updated>2019-03-11T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54268</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54268</link>
+			<category></category>
+			<title>Il Comune di Desio aderisce all'iniziativa "Sciopero Mondiale per il Futuro"</title>
+			<description>Condivide e sostiene l’azione delle nuove generazioni che oggi scioperano per fermare i cambiamenti climatici, chiedendo alla politica l’adozione, non solo di protocolli e proclami, ma sopratutto di azioni concrete e reali.</description>
+			<a10:updated>2019-03-14T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54258</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54258</link>
+			<category>- Messi Comunali</category>
+			<title>A Desio servizi demografici all'avanguardia e tempi di attesa ridotti con i messi dotati di tablet</title>
+			<description>I messi comunali di Desio sono stati dotati di tablet per effettuare digitalmente gli accertamenti anagrafici per le pratiche di iscrizione anagrafica ed i cambi d'indirizzo.</description>
+			<a10:updated>2019-03-14T23:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54248</guid>
+			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54248</link>
+			<category>- Servizi per l'Infanzia</category>
+			<title>Al PalaBancoDesio l'iniziativa "Bimbi Sicuri"</title>
+			<description>Sabato 23 marzo alle ore 9.45 l’iniziativa promossa dal Dipartimento Materno-Infantile dell’ospedale di Desio ASST Monza - Azienda Socio Sanitaria Territoriale Monza e San Giorgio '79 Desio, con il patrocinio del Comune di Desio.</description>
+			<a10:updated>2019-03-14T23:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54242</guid>
 			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54242</link>
@@ -142,41 +174,6 @@ Sabato 16 marzo 2019 ore 16 presso la Biblioteca civica di Desio.</description>
 			<title>AVVISO PUBBLICO incarico professionale addetto relazioni esterne organismi indirizzo politico</title>
 			<description>AVVISO PUBBLICO PER AFFIDAMENTO DI INCARICO PROFESSIONALE DI ADDETTO ALLE RELAZIONI ESTERNE DEGLI ORGANI DI INDIRIZZO POLITICO</description>
 			<a10:updated>2019-02-19T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54080</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54080</link>
-			<category></category>
-			<title>Le attività in programma a marzo al Centro Ricreativo “Il Girasole”</title>
-			<description>Un programma ricco di appuntamenti al Centro Ricreativo "Il Girasole".</description>
-			<a10:updated>2019-02-27T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54070</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54070</link>
-			<category></category>
-			<title>Rifiuti: dal 1° aprile 2019 nuove zone e nuovo calendario di raccolta</title>
-			<description>Novità nella raccolta differenziata in Città. Il territorio è stato suddiviso in 6 nuove zone. </description>
-			<a10:updated>2019-02-25T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54062</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54062</link>
-			<category>- Biblioteca e Mediateca civica</category>
-			<title>Ma-Pa mondo</title>
-			<description>Dal 2 marzo al 13 aprile, in Biblioteca Civica, una serie di incontri per i genitori,  attività ludiche con letture animate e laboratori per bambini da 0 a 3 anni . 
-
-</description>
-			<a10:updated>2019-02-25T23:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54057</guid>
-			<link>http://www.comune.desio.mb.it/servizi/notizie/notizie_fase02.aspx?ID=54057</link>
-			<category>- Promozione culturale e sportiva</category>
-			<title>6 Marzo Giornata Europea dei Giusti</title>
-			<description>Inaugurazione del Giardino dei Giusti presso il giardino della scuola primaria "Gavazzi" - ingresso via Vico
-ore 15.30 in memoria di Ernesto Cattaneo, Elvira colombo, Luigi Tagliabue e Angela Mariani</description>
-			<a10:updated>2019-02-24T23:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
