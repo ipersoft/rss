@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 18 Mar 2019 11:01:05 Z</lastBuildDate>
+		<lastBuildDate>Mon, 18 Mar 2019 16:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0057306/18-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0057306/18-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0057306/18-3-2019%0ARagione sociale:PETRAZZUOLO SALVATORE PETRAZZUOLO SALVATORE%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:inizio attività di servizi di intermediazione creditizia</description>
+			<a10:updated>2019-03-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0057177/18-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0057177/18-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0057177/18-3-2019%0ARagione sociale:COOPER TIRE E RUBBER COMPANY ITALIA S.R.L.%0AUbicazione:VIA DON LUIGI STURZO%0AOggetto:DEPOSITO MERCI</description>
+			<a10:updated>2019-03-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0055267/14-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0012880/21-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0012880/21-1-2019%0ARagione sociale:DA.FI.PALLETS DI FIGLIOLA ALESSIA%0AUbicazione:VIA MULINELLO%0AOggetto:COMUNICAZIONE DI CESSAZIONE ATTIVITA'.</description>
-			<a10:updated>2019-01-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0012819/21-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0012819/21-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0012819/21-1-2019%0ARagione sociale:CACIOPPO GIANLUCA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:PARTECIPAZIONE CARNEVALE 2019</description>
-			<a10:updated>2019-01-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0012799/21-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0012799/21-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0012799/21-1-2019%0ARagione sociale:Circo Kodanty di Clay Codanti%0AUbicazione:%0AOggetto:Istanza occupazione suolo pubblico e svolgimento attività circense temporanea per piccolo circo senza animali</description>
 			<a10:updated>2019-01-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
