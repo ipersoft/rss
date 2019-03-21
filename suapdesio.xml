@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 20 Mar 2019 16:01:07 Z</lastBuildDate>
+		<lastBuildDate>Thu, 21 Mar 2019 09:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0059770/21-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0059770/21-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0059770/21-3-2019%0ARagione sociale:MANCUSO PIU' SRL%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:SCIA SOMMINISTRAZIONE TEMPORANEA IN OCCASIONE DI MANIFESTAZIONI SPORTIVE PRESSO PALABANCODESIO</description>
+			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0059726/21-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0059726/21-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0059726/21-3-2019%0ARagione sociale:rafael bondanza%0AUbicazione:VIA ALESSANDRO MANZONI%0AOggetto:RICHIESTA DI AUTOVIDIMAZIONE REGISTRO BENI USATI</description>
+			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0058600/20-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0016718/24-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0016718/24-1-2019%0ARagione sociale:IARIA CARMELA%0AUbicazione:%0AOggetto:DOMANDA PARTECIPAZIONE ALLA SPUNTA MERCATO NORD</description>
-			<a10:updated>2019-01-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0016681/24-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0016681/24-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0016681/24-1-2019%0ARagione sociale:SCOBALIT ITALIA S.R.L.%0AUbicazione:VIA GAETANA AGNESI%0AOggetto:Domanda di adesione all'autorizzazione in via generale ai sensi dell'art. 272, comma 3, del D.Lgs 152/2006 per "Produzione di prodotti in vetroresine con utilzzo massimo complessivo di resina pronto all' uso non superiore a 70t/anno" (allegato tecnico n° 4 d.g.r. n.VIII/8832 del 30 dicembre 2008”)</description>
-			<a10:updated>2019-01-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0016110/24-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0016110/24-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0016110/24-1-2019%0ARagione sociale:VAZZOLER SILVIO SAS DI VAZZOLER GIOVANNI%0AUbicazione:VIA SAN VINCENZO DE` PAOLI%0AOggetto:TRASMISSIONE BILANCIO DI MASSA ANNO 2018 DITTA VAZZOLER SILVIO SAS DI VAZZOLER GIOVANNI</description>
 			<a10:updated>2019-01-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
