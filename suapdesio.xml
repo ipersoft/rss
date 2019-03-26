@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 26 Mar 2019 13:01:01 Z</lastBuildDate>
+		<lastBuildDate>Tue, 26 Mar 2019 16:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0064287/26-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0064287/26-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0064287/26-3-2019%0ARagione sociale:TRISCONI MARCO%0AUbicazione:%0AOggetto:RICHIESTA NULLA OSTA PER SOSTITUZIONE AUTO TAXI</description>
+			<a10:updated>2019-03-26T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0064042/26-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0064042/26-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0064042/26-3-2019%0ARagione sociale:ACCIAI BRIANZA S.P.A.%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:SCIA per variazione locali/impianti unità operativa in Via Filippo Da Desio nr. 81 b/c</description>
+			<a10:updated>2019-03-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0063412/26-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021178/30-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021178/30-1-2019%0ARagione sociale:algeri edoardo%0AUbicazione:CORSO ITALIA%0AOggetto:avvio attività unità locale desio</description>
-			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021059/30-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021059/30-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021059/30-1-2019%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione Festa di Carnevale in via Garibaldi nei giorni 8/9 Marzo anno 2019</description>
-			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021001/30-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021001/30-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021001/30-1-2019%0ARagione sociale:LAPP SISTEMI ITALIA S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Modifica autorizzazione per dismissione emissione E1 relativamente all'attività in deroga di cui all'allegato tecnico n.5.</description>
 			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
