@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 26 Mar 2019 16:01:02 Z</lastBuildDate>
+		<lastBuildDate>Wed, 27 Mar 2019 13:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0064715/27-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0064715/27-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0064715/27-3-2019%0ARagione sociale:VANITY STYLE S.R.L. SEMPLIFICATA%0AUbicazione:VIA BORGHETTO%0AOggetto:APERTURA ATTIVITA' DI ACCONCIATORE ED ESTETICA (NESSUN IMPIANTO DI ASPIRAZIONE PRESENTE, ALLEGATI PLANIMETRIA E CERTIFICATI IMPIANTI).</description>
+			<a10:updated>2019-03-27T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0064491/26-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0064491/26-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0064491/26-3-2019%0ARagione sociale:MACELLERIA HALAL ALIMENTARI AMIR DI ROUMAIDI SALAH%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:APERTURA ATTIVITA' VENDITA</description>
+			<a10:updated>2019-03-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0064287/26-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021309/30-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021309/30-1-2019%0ARagione sociale:SOLANI EMILIO%0AUbicazione:%0AOggetto:INSTALLAZIONE ATTRAZIONE DAL 24/03/2019 AL 07/04/2019</description>
-			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021242/30-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021242/30-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021242/30-1-2019%0ARagione sociale:ELEBY DI CERIZZI ELENA%0AUbicazione:VIA MONTE SANTO%0AOggetto:COMMERCIO ON LINE DI ABBIGLIAMENTO PER BAMBINI</description>
-			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021178/30-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021178/30-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021178/30-1-2019%0ARagione sociale:algeri edoardo%0AUbicazione:CORSO ITALIA%0AOggetto:avvio attività unità locale desio</description>
 			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
