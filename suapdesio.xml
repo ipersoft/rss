@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 28 Mar 2019 13:01:00 Z</lastBuildDate>
+		<lastBuildDate>Fri, 29 Mar 2019 09:01:00 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0066228/28-3-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0066228/28-3-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0066228/28-3-2019%0ARagione sociale:BERETTA GIANCARLO &amp; C. S.N.C.%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:INIZIO ATTIVITA' DI VENDITA AUTO E ACCESSORI: COMMERCIO ALL'INGROSSO ED IMPORT EXPORT, AL DETTAGLIO, DI AUTOVETTURE E DI AUTOVEICOLI LEGGERI NUOVI E USATI ED ACCESSORI.</description>
+			<a10:updated>2019-03-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0065417/27-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021352/30-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021352/30-1-2019%0ARagione sociale:VANITY STYLE S.R.L. SEMPLIFICATA%0AUbicazione:VIA BORGHETTO%0AOggetto:APERTURA ATTIVITA' DI ACCONCIATORE ED ESTETICA</description>
-			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021328/30-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021328/30-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021328/30-1-2019%0ARagione sociale:CICI MICHELANGELO%0AUbicazione:%0AOggetto:CHIEDO UN PERMESSO DI 2 X2 PER LA VENDITA DI PALLONCINI ED ARTICOLI CARNEVALESCHI NEI GIORNI DI VENERDI E SABATO DEL CARNEVALE 2019</description>
 			<a10:updated>2019-01-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
