@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 01 Apr 2019 10:01:25 Z</lastBuildDate>
+		<lastBuildDate>Mon, 01 Apr 2019 15:01:01 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068386/1-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068386/1-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068386/1-4-2019%0ARagione sociale:A &amp; J SAS DI GALIZIA ALESSANDRO GIUSEPPE%0AUbicazione:VIA MILANO%0AOggetto:COMUNICAZIONE FINE LAVORI RIFERITA A CILA PROT. 11839 DEL 12/03/2019 PER LAVORI DI SOSTITUZIONE PORTALE LAVAGGIO AUTO E POTENZIAMENTO IMPIANTO DI TRATTAMENTO, SECONDO MODIFICA SOSTANZIALE AUA RILASCIATA DA SUAP DESIO IN DATA 14/02/2019.</description>
+			<a10:updated>2019-04-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0067053/29-3-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021593/31-1-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021593/31-1-2019%0ARagione sociale:POLI.VER S.R.L.%0AUbicazione:VIA GUIDO ROSSA%0AOggetto:Istanza di autorizzazione alle emissioni in via generale ex art. 272 c.2</description>
-			<a10:updated>2019-01-31T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021529/31-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021529/31-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021529/31-1-2019%0ARagione sociale:STRAPIZZAMI DI STRAZZANTI SABRINA%0AUbicazione:VIA GIUSEPPE VERDI%0AOggetto:CESSAZIONE ATTIVITA'</description>
 			<a10:updated>2019-01-31T00:00:00Z</a10:updated>
 		</item>
 	</channel>
