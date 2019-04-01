@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 01 Apr 2019 10:01:02 Z</lastBuildDate>
+		<lastBuildDate>Mon, 01 Apr 2019 12:01:00 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4742139</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4742139</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA LOMBARDIA </description>
+			<a10:updated>2019-04-01T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4742137</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4742137</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GARIBALDI </description>
+			<a10:updated>2019-04-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4738560</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4738560</link>
@@ -149,22 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>AVVISI DI PAGAMENTO DELLA TASSA RIFIUTI (TARI) PER L’ANNO 2019 - DEFINIZIONE NUMERO E SCADENZA RATE. </description>
-			<a10:updated>2019-03-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4737786</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4737786</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>RIACCERTAMENTO ORDINARIO ANNO 2018 AI SENSI DELL’ART. 3 D.LGS 118/2011. DETERMINAZIONE DEL FONDO PLURIENNALE VINCOLATO E CONSEGUENTE VARIAZIONE AL BILANCIO DI PREVISIONE 2019-2021. </description>
-			<a10:updated>2019-03-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4737600</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/4737600</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>APPROVAZIONE ACCORDO DI COLLABORAZIONE TRA IL COMUNE DI DESIO ED IL COMUNE DI VILLASANTA PER L'UTILIZZO DI N. 2 OPERATORI DI POLIZIA LOCALE E DI N. 1 OPERATORE OCCASIONALE, QUALORA VI SIA LA NECESSITA’, AL FINE DI POTENZIARE IL SERVIZIO DI POLIZIA LOCALE – ANNUALITÀ 2019. </description>
 			<a10:updated>2019-03-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
