@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 03 Apr 2019 08:01:04 Z</lastBuildDate>
+		<lastBuildDate>Wed, 03 Apr 2019 10:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0070666/3-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0070666/3-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0070666/3-4-2019%0ARagione sociale:IARIA CARMELA%0AUbicazione:%0AOggetto:SUBINGRESSO</description>
+			<a10:updated>2019-04-03T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0070601/3-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0070601/3-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0070601/3-4-2019%0ARagione sociale:BRAMBILLA COMPANY DI BRAMBILLA MATTEO GIOVANNI%0AUbicazione:VIA XX SETTEMBRE%0AOggetto:Cessazione attività di commercio</description>
+			<a10:updated>2019-04-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068386/1-4-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0022526/1-2-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0022526/1-2-2019%0ARagione sociale:ALICE NAIL SPA DI LI JINGJING%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' ESTETICA</description>
 			<a10:updated>2019-02-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021791/31-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021791/31-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021791/31-1-2019%0ARagione sociale:TAGLIABUE ALFIO &amp; SERGIO SNC%0AUbicazione:VIA PER SEREGNO%0AOggetto:TRASMISSIONE BILANCIO DI MASSA ANNO 2018 DITTA TAGLIABUE ALFIO &amp; SERGIO SNC</description>
-			<a10:updated>2019-01-31T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021593/31-1-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021593/31-1-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021593/31-1-2019%0ARagione sociale:POLI.VER S.R.L.%0AUbicazione:VIA GUIDO ROSSA%0AOggetto:Istanza di autorizzazione alle emissioni in via generale ex art. 272 c.2</description>
-			<a10:updated>2019-01-31T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
