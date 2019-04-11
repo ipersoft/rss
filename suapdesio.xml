@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 11 Apr 2019 08:01:04 Z</lastBuildDate>
+		<lastBuildDate>Thu, 11 Apr 2019 10:01:07 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0078598/11-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0078598/11-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0078598/11-4-2019%0ARagione sociale:MIRAGLIO CINZIA%0AUbicazione:%0AOggetto:SICILIA VIVA IN FESTA MANIFESTAZIONE</description>
+			<a10:updated>2019-04-11T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0077947/10-4-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034209/18-2-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034209/18-2-2019%0ARagione sociale:ESSELUNGA SPA%0AUbicazione:VIA CARAVAGGIO%0AOggetto:SOTTOCOSTO ESSELUNGA DAL 07/03 AL 16/03/2019</description>
 			<a10:updated>2019-02-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0034163/17-2-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034163/17-2-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034163/17-2-2019%0ARagione sociale:MOHAMED MOUSTAOUI%0AUbicazione:%0AOggetto:Comunicazione di partecipazione alla spunta</description>
-			<a10:updated>2019-02-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
