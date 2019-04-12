@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 11 Apr 2019 15:01:04 Z</lastBuildDate>
+		<lastBuildDate>Fri, 12 Apr 2019 10:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0079786/12-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0079786/12-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0079786/12-4-2019%0ARagione sociale:ART DECOR LEGNO S.R.L.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:FINITURA DI MOBILI</description>
+			<a10:updated>2019-04-12T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0079570/12-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0079570/12-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0079570/12-4-2019%0ARagione sociale:N &amp; D E COLORI S.N.C. DI NICOLAE ANICULAESEI E DUMITRU ANICULAESEI%0AUbicazione:VIA GIACOMO ZANELLA%0AOggetto:COMUNICAZIONE DI AUTOVIDIMAZIONE REGISTRO DEL COMMERCIO</description>
+			<a10:updated>2019-04-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0078598/11-4-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0036988/20-2-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0036988/20-2-2019%0ARagione sociale:PC HUNTER SRL%0AUbicazione:VIA MILANO%0AOggetto:INIZIO ATTIVITA DI COMMERCIO COMPUTERS E DISPOSITIVI ELETTRONICI ATTRAVERSO ESERCIZIO DI VICINATO.</description>
 			<a10:updated>2019-02-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035647/19-2-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0035647/19-2-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0035647/19-2-2019%0ARagione sociale:LAPP ITALIA SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Realizzazione di piattaforma elevatrice di collegamento tra il piano terra ed il piano soppalco adibito ad uffici, necessaria per garantire l'accesso anche alle persone disabili.</description>
-			<a10:updated>2019-02-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0034209/18-2-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034209/18-2-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034209/18-2-2019%0ARagione sociale:ESSELUNGA SPA%0AUbicazione:VIA CARAVAGGIO%0AOggetto:SOTTOCOSTO ESSELUNGA DAL 07/03 AL 16/03/2019</description>
-			<a10:updated>2019-02-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
