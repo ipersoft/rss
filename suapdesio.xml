@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 Apr 2019 15:00:59 Z</lastBuildDate>
+		<lastBuildDate>Mon, 22 Apr 2019 08:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086758/22-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086758/22-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086758/22-4-2019%0ARagione sociale:I FAIELLA PROFESSIONAL SRLS%0AUbicazione:VIA PIO XI%0AOggetto:cessazione di ogni attività - cessazione acconciature ed estetica.</description>
+			<a10:updated>2019-04-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086757/22-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086757/22-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086757/22-4-2019%0ARagione sociale:I FAIELLA PROFESSIONAL SRLS%0AUbicazione:VIA CESARE D'ADDA%0AOggetto:cessazione di ogni attività - cessazione acconciature ed estetica.</description>
+			<a10:updated>2019-04-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086756/22-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086756/22-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086756/22-4-2019%0ARagione sociale:I FAIELLA PROFESSIONAL SRLS%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:cessazione di ogni attività - cessazione acconciature ed estetica.</description>
+			<a10:updated>2019-04-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0085771/19-4-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0044468/1-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0044468/1-3-2019%0ARagione sociale:stripes coop. soc. onlus%0AUbicazione:VIA ADAMELLO%0AOggetto:preparazione e somministrazione pasti presso asilo nido via Adamello, Desio MB</description>
 			<a10:updated>2019-03-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0043924/28-2-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0043924/28-2-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0043924/28-2-2019%0ARagione sociale:Callegari Roberto%0AUbicazione:%0AOggetto:Domanda partecipazione luna park di marzo 2019</description>
-			<a10:updated>2019-02-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0042914/27-2-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0042914/27-2-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0042914/27-2-2019%0ARagione sociale:MAK. MEC. S.R.L.%0AUbicazione:VIA ORTIGARA%0AOggetto:INIZIO ATTIVITA' LAVORI DI PICCOLA CARPENTERIA METALLICA</description>
-			<a10:updated>2019-02-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0041753/26-2-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0041753/26-2-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0041753/26-2-2019%0ARagione sociale:CAFFE' GARIBALDI SNC DI ILARIA E ELENA GRUTTAD'AURIA%0AUbicazione:VIA OLMETTO%0AOggetto:COMUNICAZIONE VARIAZIONE ORARI DI APERTURA AL PUBBLICO</description>
-			<a10:updated>2019-02-26T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
