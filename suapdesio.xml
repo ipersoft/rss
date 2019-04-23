@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 23 Apr 2019 12:01:07 Z</lastBuildDate>
+		<lastBuildDate>Tue, 23 Apr 2019 15:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087479/23-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087479/23-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087479/23-4-2019%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE AL PALIO DEGLI ZOCCOLI, CHE SI TERRA' IN VIA GARIBALDI IL GIORNO 09/06/2019</description>
+			<a10:updated>2019-04-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087226/23-4-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0045380/4-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0045380/4-3-2019%0ARagione sociale:SDEGHEDE' DI GRAF RAFFAELA%0AUbicazione:CORSO ITALIA%0AOggetto:APERTURA INTERNET POINT E CED</description>
 			<a10:updated>2019-03-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0045168/1-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0045168/1-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0045168/1-3-2019%0ARagione sociale:LE LANTERNE SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA%0AUbicazione:VIA BRENNERO%0AOggetto:SUBENTRO ATTIVITA' RISTORANTE</description>
-			<a10:updated>2019-03-01T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
