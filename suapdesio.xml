@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 26 Apr 2019 08:01:03 Z</lastBuildDate>
+		<lastBuildDate>Fri, 26 Apr 2019 15:00:59 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0089005/26-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0089005/26-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0089005/26-4-2019%0ARagione sociale:ACCONCIATURE &amp; ESTETICA SRLS%0AUbicazione:VIA CESARE D'ADDA%0AOggetto:INIZIO ATTIVITA ESTETISTA</description>
+			<a10:updated>2019-04-26T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0089002/26-4-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0089002/26-4-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0089002/26-4-2019%0ARagione sociale:ACCONCIATURE &amp; ESTETICA SRLS%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:apertura attivita di acconciature</description>
+			<a10:updated>2019-04-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0088611/25-4-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0051913/11-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0051913/11-3-2019%0ARagione sociale:FIVE STARS DI MOUNIR MHAMED%0AUbicazione:VIA XXIV MAGGIO%0AOggetto:subentro attività di barbiere</description>
 			<a10:updated>2019-03-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0051829/11-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0051829/11-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0051829/11-3-2019%0ARagione sociale:MI-BA DI CUZZOLIN ROBERTO%0AUbicazione:VIA MULINELLO%0AOggetto:Adesione all'autorizzazione in via generale per esercizio di attività in deroga</description>
-			<a10:updated>2019-03-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0050606/8-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0050606/8-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0050606/8-3-2019%0ARagione sociale:OTTAVASTRADA S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Istanza di autorizzazione all'emissione in atmosfera ai sensi del Dlgs 152/06, art. 272 comma 2: Attività in deroga - allegato n. 30 Saldatura di oggetti e superfici metalliche per Ottavastrada srl</description>
-			<a10:updated>2019-03-08T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
