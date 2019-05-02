@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 01 May 2019 15:01:05 Z</lastBuildDate>
+		<lastBuildDate>Thu, 02 May 2019 15:01:01 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0092000/2-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0092000/2-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0092000/2-5-2019%0ARagione sociale:SCURATTI GIOVANNI SNC DI SCURATTI LORIS &amp; MARCO%0AUbicazione:VIA OTTONE VISCONTI%0AOggetto:CESSAZIONE ATTIVITA' PER SCIOGLIMENTO SNC, ATTO NOTAIO RONCORONI GIOVANNI DEL 04.04.2019</description>
+			<a10:updated>2019-05-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091456/2-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0091456/2-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0091456/2-5-2019%0ARagione sociale:ISGRO' DOMENICO%0AUbicazione:VIA SAN MARTINO%0AOggetto:COMMERCIO AL DETTAGLIO DI PEZZI DI RICAMBI DI MOTO ON LINE</description>
+			<a10:updated>2019-05-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091050/30-4-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0054999/14-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0054999/14-3-2019%0ARagione sociale:OASI DELL'ESPRESSO DI SALERNO MARIANNINA%0AUbicazione:VIA FRATELLI CERVI%0AOggetto:COMMERCIO AL DETTAGLIO DI CIALDE E CAPSULE CAFFE', THE, CAPPUCCINO E CIOCCOLATA</description>
 			<a10:updated>2019-03-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0054514/14-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0054514/14-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0054514/14-3-2019%0ARagione sociale:ONTHEROAD%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:Apertura attività locale di pubblico spettacolo fino a 300 persone presenti</description>
-			<a10:updated>2019-03-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0054162/13-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0054162/13-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0054162/13-3-2019%0ARagione sociale:ADDUCI NUNZIATA%0AUbicazione:VIA GIUSEPPE DI VITTORIO%0AOggetto:COMMERCIO ALL'INGROSSO DI PRODOTTI ED APPARECCHIATURE PER PARRUCCHIERE</description>
-			<a10:updated>2019-03-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
