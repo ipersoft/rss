@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 06 May 2019 12:01:04 Z</lastBuildDate>
+		<lastBuildDate>Mon, 06 May 2019 15:01:03 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0094604/6-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0094604/6-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0094604/6-5-2019%0ARagione sociale:Valente Romeo%0AUbicazione:%0AOggetto:SOSTITUZIONE AUTO DA NOLEGGIO CON CONDUCENTE</description>
+			<a10:updated>2019-05-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0094136/6-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0058169/19-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0058169/19-3-2019%0ARagione sociale:P4F S.R.L.%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:VENDITA SCARPE E ARTICOLI SPORTIVI DURANTE LA MANIFESTAZIONE SPORTIVA.</description>
-			<a10:updated>2019-03-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0058111/19-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0058111/19-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0058111/19-3-2019%0ARagione sociale:SARTORIA LILI DI HU JIANLI%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:CESSAZIONE ATTIVITA COMMERCIO DI VICINATO E SARTORIA</description>
 			<a10:updated>2019-03-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
