@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 08 May 2019 15:01:03 Z</lastBuildDate>
+		<lastBuildDate>Thu, 09 May 2019 15:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0097646/9-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0097646/9-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0097646/9-5-2019%0ARagione sociale:NOVA EVENTI%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:Evento con spettacoli, artisti di strada, musica live, dj set e band. Non ci sarà palco. All'interno dell'evento vi saranno anche alcuni operatori Street Food.</description>
+			<a10:updated>2019-05-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0097530/9-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0097530/9-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0097530/9-5-2019%0ARagione sociale:ISTITUTO SAVERIANI MISSIONI ESTERE%0AUbicazione:VIA DON LUIGI MILANI%0AOggetto:MANIFESTAZIONE TEMPORANEA A CARATTERE RELIGIOSO CON SOMMINISTRAZIONI DI ALIMENTI E BEVANDE</description>
+			<a10:updated>2019-05-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0096530/8-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060622/21-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060622/21-3-2019%0ARagione sociale:EMMEGI S.A.S. DI MARROCCU GIOVANNI%0AUbicazione:N.D. TOGLIATTI%0AOggetto:retrodatazione cessazione attività per inizio lavoro dipendente full time in data 27/4/2005</description>
-			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0060041/21-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060041/21-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060041/21-3-2019%0ARagione sociale:I NORCINI PER STRADA DI MARLETTA MARCO &amp; C. S.N.C.%0AUbicazione:%0AOggetto:domanda partecipazione palio degli zoccoli ( invii precedenti fatti su modulistica non corretta)</description>
-			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0059770/21-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0059770/21-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0059770/21-3-2019%0ARagione sociale:MANCUSO PIU' SRL%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:SCIA SOMMINISTRAZIONE TEMPORANEA IN OCCASIONE DI MANIFESTAZIONI SPORTIVE PRESSO PALABANCODESIO</description>
 			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
