@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 09 May 2019 15:01:06 Z</lastBuildDate>
+		<lastBuildDate>Fri, 10 May 2019 12:01:03 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0098739/10-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0098739/10-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0098739/10-5-2019%0ARagione sociale:antonelli andrea%0AUbicazione:N.D. della "agrifesta"%0AOggetto:domanda per richiesta di partecipazione, all'interno del parco di Desio nelle date 11/5/2019 e 12/08/2019, alla manifestazione "AGRIFESTA" con le attività degli spettacoli viaggianti quali SALTO TRAMPOLINO e GONFIABILI in seguito descritte con relativi collaudi e assicurazione in corso di validità</description>
+			<a10:updated>2019-05-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0097646/9-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060856/21-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060856/21-3-2019%0ARagione sociale:STOCKMATTO DI PANZERI IVANA%0AUbicazione:VIA BOVISIO%0AOggetto:COMMERCIO ONLINE DI ABBIGLIAMENTO, INTIMO, SCARPE ED ACCESSORI UOMO DONNA E BAMBINO</description>
-			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0060622/21-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060622/21-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060622/21-3-2019%0ARagione sociale:EMMEGI S.A.S. DI MARROCCU GIOVANNI%0AUbicazione:N.D. TOGLIATTI%0AOggetto:retrodatazione cessazione attività per inizio lavoro dipendente full time in data 27/4/2005</description>
 			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
