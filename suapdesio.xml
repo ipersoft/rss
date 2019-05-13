@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 10 May 2019 15:01:01 Z</lastBuildDate>
+		<lastBuildDate>Mon, 13 May 2019 08:01:01 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099498/13-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0099498/13-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0099498/13-5-2019%0ARagione sociale:D.E.S. SRL%0AUbicazione:VIA LUIGI EINAUDI%0AOggetto:inizio attività di commercio all'ingrosso di calzature</description>
+			<a10:updated>2019-05-13T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099456/11-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0099456/11-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0099456/11-5-2019%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione al Palio degli zoccoli in Via Garibaldi anno 2019</description>
+			<a10:updated>2019-05-11T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0098739/10-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0061430/22-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0061430/22-3-2019%0ARagione sociale:KAZI ZAKARIA%0AUbicazione:%0AOggetto:DOMANDA SPUNTA MERCATO DEL LUNEDI'</description>
 			<a10:updated>2019-03-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0060926/21-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060926/21-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060926/21-3-2019%0ARagione sociale:MARRONE SAMANTHA%0AUbicazione:VIA MILANO%0AOggetto:VIDIMAZIONE REGISTRO BENI USATI</description>
-			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0060856/21-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060856/21-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060856/21-3-2019%0ARagione sociale:STOCKMATTO DI PANZERI IVANA%0AUbicazione:VIA BOVISIO%0AOggetto:COMMERCIO ONLINE DI ABBIGLIAMENTO, INTIMO, SCARPE ED ACCESSORI UOMO DONNA E BAMBINO</description>
-			<a10:updated>2019-03-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
