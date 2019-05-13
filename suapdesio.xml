@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 13 May 2019 08:01:01 Z</lastBuildDate>
+		<lastBuildDate>Mon, 13 May 2019 10:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099811/13-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0099811/13-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0099811/13-5-2019%0ARagione sociale:IL PUNTO GOLOSO S.A.S. DI REGARBAGNATI ELENA FRANCESCA &amp; C.%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:CESSAZIONE ATTIVITà DEFINITIVA</description>
+			<a10:updated>2019-05-13T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099799/13-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0099799/13-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0099799/13-5-2019%0ARagione sociale:IL PUNTO GOLOSO S.A.S. DI REGARBAGNATI ELENA FRANCESCA &amp; C.%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:CESSAZIONE ATTIVITà DI BAR</description>
+			<a10:updated>2019-05-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099498/13-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0061840/22-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0061840/22-3-2019%0ARagione sociale:LA CAFFETTERIA DI GANGAROSSA FRANCA%0AUbicazione:VIA ALESSANDRO VOLTA%0AOggetto:AUMENTO SUPERFICIE DESTINATA ALLA SOMMINISTRAZIONE E VARIAZIONE ORARI DI APERTURA</description>
-			<a10:updated>2019-03-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0061817/22-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0061817/22-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0061817/22-3-2019%0ARagione sociale:mbacke sokhna amy%0AUbicazione:%0AOggetto:richiesta autorizzazione commercio ambulante itinerante non alimentare</description>
-			<a10:updated>2019-03-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0061430/22-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0061430/22-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0061430/22-3-2019%0ARagione sociale:KAZI ZAKARIA%0AUbicazione:%0AOggetto:DOMANDA SPUNTA MERCATO DEL LUNEDI'</description>
 			<a10:updated>2019-03-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
