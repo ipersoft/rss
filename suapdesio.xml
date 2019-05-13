@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 13 May 2019 10:01:05 Z</lastBuildDate>
+		<lastBuildDate>Mon, 13 May 2019 15:00:59 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0100091/13-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100091/13-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100091/13-5-2019%0ARagione sociale:ISOLA DEL PANINO DI GUARDA LINDA%0AUbicazione:N.D. GARIBALDI%0AOggetto:RICHIESTA DI OCCUPAZIONE DEL SUOLO DEL PUBBLICO PER MANIFESTAZIONE TEMPORANEA PER IL PALIO DI DESIO IL 9 GIUGNO 2019</description>
+			<a10:updated>2019-05-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099811/13-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0062159/25-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0062159/25-3-2019%0ARagione sociale:MARRO ALARICO%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE AL TRADIZIONALE LUNA PARK DI OTTOBRE 2019 - LE DATE INSERITE SONO INDICATIVE IN ATTESA DI CONFERMA DA PARTE DEL COMUNE</description>
 			<a10:updated>2019-03-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0061840/22-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0061840/22-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0061840/22-3-2019%0ARagione sociale:LA CAFFETTERIA DI GANGAROSSA FRANCA%0AUbicazione:VIA ALESSANDRO VOLTA%0AOggetto:AUMENTO SUPERFICIE DESTINATA ALLA SOMMINISTRAZIONE E VARIAZIONE ORARI DI APERTURA</description>
-			<a10:updated>2019-03-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
