@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 14 May 2019 12:01:02 Z</lastBuildDate>
+		<lastBuildDate>Tue, 14 May 2019 15:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0101460/14-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0101460/14-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0101460/14-5-2019%0ARagione sociale:ROSSO AMORE E FANTASIA DI DI STASIO RAFFAELE%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:APERTURA PIZZERIA D'ASPORTO VIA GIACOMO MATTEOTTI 32 CON SOMMINISTRAZIONE NON ASSISTITA</description>
+			<a10:updated>2019-05-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0100091/13-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0062232/25-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0062232/25-3-2019%0ARagione sociale:COMUNE DI DESIO%0AUbicazione:VIA NOVARA%0AOggetto:SOMMINISTRAZIONE ALIMENTI E BEVANDE PRESSO MENSA SCOLASTICA DELLA SCUOLA PER L'INFANZIA DI VIA NOVARA, SN.</description>
-			<a10:updated>2019-03-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0062159/25-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0062159/25-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0062159/25-3-2019%0ARagione sociale:MARRO ALARICO%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE AL TRADIZIONALE LUNA PARK DI OTTOBRE 2019 - LE DATE INSERITE SONO INDICATIVE IN ATTESA DI CONFERMA DA PARTE DEL COMUNE</description>
 			<a10:updated>2019-03-25T00:00:00Z</a10:updated>
 		</item>
 	</channel>
