@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 15 May 2019 10:01:01 Z</lastBuildDate>
+		<lastBuildDate>Wed, 15 May 2019 15:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0102262/15-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0102262/15-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0102262/15-5-2019%0ARagione sociale:SDEGHEDE' DI GRAF RAFFAELA%0AUbicazione:CORSO ITALIA%0AOggetto:APERTURA DI NEGOZIO CON ATTIVITA' PREVALENTE DI COPISTERIA E VENDITA TRAMITE DISTRIBUTORI AUTOMATICI E COME ATTIVITA' SECONDARIA INTERNET POINT E CED</description>
+			<a10:updated>2019-05-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0101460/14-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0063232/25-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0063232/25-3-2019%0ARagione sociale:S.C.E.F. S.p.a.%0AUbicazione:VIA DEL COMMERCIO%0AOggetto:Modifica non sostanziale relativa all' autorizzazione emissioni in atmosfera in possesso della ditta (Autorizzazione Dirigenziale Provincia Monza e Brianza n. 137 del 04/06/2010) Si veda relazione allegata</description>
-			<a10:updated>2019-03-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0062232/25-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0062232/25-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0062232/25-3-2019%0ARagione sociale:COMUNE DI DESIO%0AUbicazione:VIA NOVARA%0AOggetto:SOMMINISTRAZIONE ALIMENTI E BEVANDE PRESSO MENSA SCOLASTICA DELLA SCUOLA PER L'INFANZIA DI VIA NOVARA, SN.</description>
 			<a10:updated>2019-03-25T00:00:00Z</a10:updated>
 		</item>
 	</channel>
