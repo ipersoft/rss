@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 16 May 2019 12:01:00 Z</lastBuildDate>
+		<lastBuildDate>Thu, 16 May 2019 15:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103816/16-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0103816/16-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0103816/16-5-2019%0ARagione sociale:ISOLA DEL PANINO DI GUARDA LINDA%0AUbicazione:%0AOggetto:RICHIESTA DI OCCUPAZIONE DEL SUOLO DEL PUBBLICO PER MANIFESTAZIONE TEMPORANEA PER IL PALIO DI DESIO IL 9 GIUGNO 2019</description>
+			<a10:updated>2019-05-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103314/16-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0065385/27-3-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0065385/27-3-2019%0ARagione sociale:GFC LAVORAZIONI MATERIE PLASTICHE S.R.L.%0AUbicazione:VIA SALVO D'ACQUISTO%0AOggetto:SCIA Attività Produttiva - GFC S.r.l. Lavorazioni Materie Plastiche S.r.l.</description>
-			<a10:updated>2019-03-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0064715/27-3-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0064715/27-3-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0064715/27-3-2019%0ARagione sociale:VANITY STYLE S.R.L. SEMPLIFICATA%0AUbicazione:VIA BORGHETTO%0AOggetto:APERTURA ATTIVITA' DI ACCONCIATORE ED ESTETICA (NESSUN IMPIANTO DI ASPIRAZIONE PRESENTE, ALLEGATI PLANIMETRIA E CERTIFICATI IMPIANTI).</description>
 			<a10:updated>2019-03-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
