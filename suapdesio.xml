@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 17 May 2019 12:01:01 Z</lastBuildDate>
+		<lastBuildDate>Fri, 17 May 2019 15:00:58 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104726/17-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104726/17-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104726/17-5-2019%0ARagione sociale:FIVE STARS DI MOUNIR MHAMED%0AUbicazione:VIA XXIV MAGGIO%0AOggetto:subingresso in attività di acconciatore</description>
+			<a10:updated>2019-05-17T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104722/17-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104722/17-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104722/17-5-2019%0ARagione sociale:A.S.D. GINNASTICA SAN GIORGIO 79%0AUbicazione:%0AOggetto:SPETTACOLO SQUADRA NAZIONALE DI GINNASTICA RITMICA DENOMINATO " GOLDEN BUTTERFLAY GALÁ"</description>
+			<a10:updated>2019-05-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104531/17-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0072213/4-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0072213/4-4-2019%0ARagione sociale:EG ITALIA S.P.A.%0AUbicazione:%0AOggetto:Installazione mezzi pubblicitari</description>
 			<a10:updated>2019-04-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0071927/4-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0071927/4-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0071927/4-4-2019%0ARagione sociale:muscia roberto%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:bancarella libri 8mtx2 sotto i portici in Via Garibaldi 6 dal 25/05 al 09/06</description>
-			<a10:updated>2019-04-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0070666/3-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0070666/3-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0070666/3-4-2019%0ARagione sociale:IARIA CARMELA%0AUbicazione:%0AOggetto:SUBINGRESSO</description>
-			<a10:updated>2019-04-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
