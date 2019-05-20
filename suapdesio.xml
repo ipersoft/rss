@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 17 May 2019 15:00:58 Z</lastBuildDate>
+		<lastBuildDate>Mon, 20 May 2019 12:01:03 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0105275/20-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0105275/20-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0105275/20-5-2019%0ARagione sociale:ALICE NAIL SPA DI LI JINGJING%0AUbicazione:VIA GARIBALDI%0AOggetto:VARIAZIONE DIRETTORE TECNICO</description>
+			<a10:updated>2019-05-20T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0105227/20-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0105227/20-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0105227/20-5-2019%0ARagione sociale:HELP POINT MULTISERVIZI DI ULLAH AHSAN E C. S.A.S.%0AUbicazione:VIA BRAMANTE DA URBINO%0AOggetto:SCIA INIZIO ATTIVITA' MINIMARKET</description>
+			<a10:updated>2019-05-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104726/17-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0074056/5-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0074056/5-4-2019%0ARagione sociale:LA TEGLIA DI SABAH BOSHRA MASOUD SEDRA%0AUbicazione:VIA MONTE ROSA%0AOggetto:CANCELLAZIONE SCIA PIZZERIA D'ASPORTO E KEBAB PRATICA 1230 DEL 04-12-2014, A SEGUITO DI ATTO NOTARILE DEL 04-04-19</description>
 			<a10:updated>2019-04-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0073771/5-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0073771/5-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0073771/5-4-2019%0ARagione sociale:DL MOTORS DI DANIELE LIPPI%0AUbicazione:VIA VERDI ANGOLO VIA BENGASI%0AOggetto:SUBINGRESSO NELL'ATTIVITA' DI LAVANDERIA A GETTONI</description>
-			<a10:updated>2019-04-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0072213/4-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0072213/4-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0072213/4-4-2019%0ARagione sociale:EG ITALIA S.P.A.%0AUbicazione:%0AOggetto:Installazione mezzi pubblicitari</description>
-			<a10:updated>2019-04-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
