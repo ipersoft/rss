@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 20 May 2019 15:01:03 Z</lastBuildDate>
+		<lastBuildDate>Tue, 21 May 2019 12:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0106599/21-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0106599/21-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0106599/21-5-2019%0ARagione sociale:MY WAY DI LA ROSA MATTEO%0AUbicazione:%0AOggetto:domanda di partecipazione alla spunta per il mercato settimanale del LUNEDI' SUD</description>
+			<a10:updated>2019-05-21T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0106538/21-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0106538/21-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0106538/21-5-2019%0ARagione sociale:REKUPERA SRL%0AUbicazione:VIA AMATORE SCIESA%0AOggetto:VARIAZIONE SEDE UNITA' LOCALE: DA VIA GARIBALDI, 118 - DESIO A VIA A. SCIESA, 54 - DESIO</description>
+			<a10:updated>2019-05-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0105275/20-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0074166/5-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0074166/5-4-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA SAN GENNARO%0AOggetto:REALIZZAZIONE NUOVA SRB ILIAD DENOMINATA MB20832_010 DESIO BEREGGI</description>
-			<a10:updated>2019-04-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0074079/5-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0074079/5-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0074079/5-4-2019%0ARagione sociale:LA TEGLIA DI SABAH BOSHRA MASOUD SEDRA%0AUbicazione:VIA LOMBARDIA%0AOggetto:CANCELLAZIONME SCIA SOMMINISTRAZIONE DI BEVANDE PRATICA 1216 DEL 28-09-2015 A SEGUITO DI ATTO NOTARILE DEL 04-04-2019</description>
-			<a10:updated>2019-04-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0074056/5-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0074056/5-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0074056/5-4-2019%0ARagione sociale:LA TEGLIA DI SABAH BOSHRA MASOUD SEDRA%0AUbicazione:VIA MONTE ROSA%0AOggetto:CANCELLAZIONE SCIA PIZZERIA D'ASPORTO E KEBAB PRATICA 1230 DEL 04-12-2014, A SEGUITO DI ATTO NOTARILE DEL 04-04-19</description>
 			<a10:updated>2019-04-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
