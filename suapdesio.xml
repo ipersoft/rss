@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 22 May 2019 15:01:09 Z</lastBuildDate>
+		<lastBuildDate>Thu, 23 May 2019 12:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0108380/22-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0108380/22-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0108380/22-5-2019%0ARagione sociale:ZONCA ANTONIO%0AUbicazione:N.D. PALABANCODESIO%0AOggetto:SOMMINISTRAZIONE ALIMENTI E BEVANDE IN PALABANCO DESIO IN OCCASIONE DI MANIFESTAZIONE SPORTIVA</description>
+			<a10:updated>2019-05-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0108199/22-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0074316/5-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0074316/5-4-2019%0ARagione sociale:Mondovisione Soc. Coop. Sociale ONLUS%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:Licenza per festival estivo Parco Tittoni 2018 presso il parco di Villa Tittoni in Desio. Periodo dal 17 maggio al 16 settembre.Festival estivo con spettacoli di vario genere: concerti, feste a tema, cinema all'aperto, cabaret; con somministrazione bevande.</description>
-			<a10:updated>2019-04-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0074269/5-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0074269/5-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0074269/5-4-2019%0ARagione sociale:IL POETA DI MAHROUS BAHAA BARTY MAKRAM BOLEK%0AUbicazione:VIA MONTE ROSA%0AOggetto:SUBENTRO IN ATTIVITA' DI PIZZERIA D'ASPORTO E KEBAB COME DA SCIA 1230 DEL 04-12-2014 A SEGUITO DI ATTO NOTARILE DEL 04-04-2019 CON DECORRENZA A PARTIRE DAL 08-04-2019</description>
 			<a10:updated>2019-04-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
