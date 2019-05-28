@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 28 May 2019 08:01:05 Z</lastBuildDate>
+		<lastBuildDate>Tue, 28 May 2019 15:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0112186/28-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112186/28-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112186/28-5-2019%0ARagione sociale:CLEAF%0AUbicazione:N.D. giuseppe%0AOggetto:segnalazione certificata di inizio attività produttiva di una ditta che appartiene al settore legno per produzione di laminati in continuo (bobine) e in fogli</description>
+			<a10:updated>2019-05-28T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0112093/28-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112093/28-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112093/28-5-2019%0ARagione sociale:CIRISANO ALDO%0AUbicazione:%0AOggetto:RICHIESTA AUTORIZZAZIONE ITINERANTE PER COMMERCIO DI GENERI NON ALIMENTARI: FIORI E PIANTE</description>
+			<a10:updated>2019-05-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0110823/27-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0077947/10-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0077947/10-4-2019%0ARagione sociale:ONORANZE FUNEBRI PANZERI MANUEL SRL%0AUbicazione:VIA RUGGERO LEONCAVALLO%0AOggetto:Con verbale di assemblea del 23/01/2019 sono stati nominati due nuovi amministratori: POZZOLI MARIO e POZZOLI ALBERTO SIMONE</description>
-			<a10:updated>2019-04-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0077843/10-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0077843/10-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0077843/10-4-2019%0ARagione sociale:CALDAROLA GIAN FRANCO%0AUbicazione:VIA PRATI - MERCATO SUD%0AOggetto:RICHIESTA AMPLIAMENTO AREA OCCUPAZIONE SUOLO PUBBLICO - MERCATO SUD - POSTEGGIO 3 - AMPLIAMENTO DA 36,00 MT. (4.5 X 8) A 44,00 MT (5.5 X 8)</description>
-			<a10:updated>2019-04-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0077623/10-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0077623/10-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0077623/10-4-2019%0ARagione sociale:FI.MA.CO. AUTORIPARAZIONI DI MASSIMO COLOMBO, ALESSANDRO GUALENI E MAURIZIO RIGGIO &amp; C S.A.S.%0AUbicazione:VIA MULINELLO%0AOggetto:INIZIO ATTIVITA' DI GOMMISTA IN ATTIVITA' GIA' ESISTENTE DI AUTORIPARATORE</description>
 			<a10:updated>2019-04-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
