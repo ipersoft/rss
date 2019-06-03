@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 31 May 2019 15:01:04 Z</lastBuildDate>
+		<lastBuildDate>Mon, 03 Jun 2019 10:01:16 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0115897/1-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0115897/1-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0115897/1-6-2019%0ARagione sociale:CLEAF SPA%0AUbicazione:N.D. giuseppe%0AOggetto:comunicazione di messa in esercizio e messa a regime AUA 740/2019</description>
+			<a10:updated>2019-06-01T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0115694/31-5-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0115694/31-5-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0115694/31-5-2019%0ARagione sociale:A.G.S. AUTODEMOLIZIONI S.R.L.%0AUbicazione:VIALE SABOTINO%0AOggetto:COMMERCIO AL DETTAGLIO DI RICAMBI USATI DI AUTOVEICOLI ON LINE</description>
+			<a10:updated>2019-05-31T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0115674/31-5-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0080291/12-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0080291/12-4-2019%0ARagione sociale:GABRIELLI CRISTIAN%0AUbicazione:%0AOggetto:LUNA PARK AUTUNNALE 2019</description>
-			<a10:updated>2019-04-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0080269/12-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0080269/12-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0080269/12-4-2019%0ARagione sociale:VIA AUDIO S.R.L.%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:AMERICAN FOOD FESTIVAL 2019 3/4/5 MAGGIO 2019 - DESIO (MB) INGRESSO LIBERO | Piazza Don Giussani</description>
-			<a10:updated>2019-04-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0080061/12-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0080061/12-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0080061/12-4-2019%0ARagione sociale:ORTOFRUTTA DI CADAMURO FABIO%0AUbicazione:VIA PRATI - MERCATO SUD%0AOggetto:RICHIESTA AMPLIAMENTO AREA OCCUPAZIONE SUOLO PUBBLICO - MERCATO SUD - POSTEGGIO 4 - AMPLIAMENTO DA 33,75 MT. (4.5 X 7.5) A 41,25 MT (5.5 X 7.5)</description>
 			<a10:updated>2019-04-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
