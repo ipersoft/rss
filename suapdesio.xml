@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 05 Jun 2019 15:01:05 Z</lastBuildDate>
+		<lastBuildDate>Thu, 06 Jun 2019 10:01:10 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119613/6-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119613/6-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119613/6-6-2019%0ARagione sociale:SERRA LUIGI%0AUbicazione:VIA FRATELLI CERVI%0AOggetto:Scia temporanea</description>
+			<a10:updated>2019-06-06T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119389/6-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119389/6-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119389/6-6-2019%0ARagione sociale:CIRCO MILLENNIUM S.A.S. DI SOLE DOMENICO &amp; C."%0AUbicazione:%0AOggetto:Domanda di concessione temporanea per manifestazione circense e rilascio di licenza di P.S. Circo Millennium, per il periodo compreso 04 Ottobre - 04 Novembre 2019 area di Via Milano (Parcheggio Esselunga)</description>
+			<a10:updated>2019-06-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119132/5-6-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0083760/17-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0083760/17-4-2019%0ARagione sociale:TROPPO NAPOLETANI SRL%0AUbicazione:VIA CASE NUOVE%0AOggetto:APERTURA DI RISTORANTE PIZZERIA CON SOMMINISTRAZIONE</description>
 			<a10:updated>2019-04-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0083069/16-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0083069/16-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0083069/16-4-2019%0ARagione sociale:DIGITAL COMMERCE DI CATANIA SIMONE%0AUbicazione:VIA BAINSIZZA%0AOggetto:SCIA INIZIO ATTIVITA' PER COMMERCIO ELETTRONICO DI PRODOTTI NON ALIMENTARI</description>
-			<a10:updated>2019-04-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0082609/16-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0082609/16-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0082609/16-4-2019%0ARagione sociale:Smiraglia Paolo%0AUbicazione:VIA CALATAFIMI%0AOggetto:Festa del Quartiere S.Vincenzo-Spaccone</description>
-			<a10:updated>2019-04-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
