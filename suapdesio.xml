@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 07 Jun 2019 08:01:09 Z</lastBuildDate>
+		<lastBuildDate>Fri, 07 Jun 2019 12:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0120975/7-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0120975/7-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0120975/7-6-2019%0ARagione sociale:LEONE GIUSEPPE%0AUbicazione:%0AOggetto:PARTECIPAZIONE ALLA SPUNTA MERCATO DI DESIO NORD DEL LUNEDI</description>
+			<a10:updated>2019-06-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0120144/6-6-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086756/22-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086756/22-4-2019%0ARagione sociale:I FAIELLA PROFESSIONAL SRLS%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:cessazione di ogni attività - cessazione acconciature ed estetica.</description>
 			<a10:updated>2019-04-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0085771/19-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0085771/19-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0085771/19-4-2019%0ARagione sociale:SALUMI &amp; SAPORI DI STILLITANO CARMINE%0AUbicazione:%0AOggetto:DOMANDA DI SPUNTA PER IL MERCATO DESIO SUD DEL LUNEDI'</description>
-			<a10:updated>2019-04-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
