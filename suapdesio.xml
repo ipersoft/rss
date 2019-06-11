@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 11 Jun 2019 08:01:09 Z</lastBuildDate>
+		<lastBuildDate>Tue, 11 Jun 2019 15:01:13 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0123530/11-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0123530/11-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0123530/11-6-2019%0ARagione sociale:ADDUCI NUNZIATA%0AUbicazione:VIA GIUSEPPE DI VITTORIO%0AOggetto:INIZIO ATTIVITA' SECONDARIA DI COMMERCIO ALL'INGROSSO DI PRODOTTI, ATTREZZATURE E ARREDI PER PARRUCCHIERI</description>
+			<a10:updated>2019-06-11T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0123149/11-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0123149/11-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0123149/11-6-2019%0ARagione sociale:ADDUCI NUNZIATA%0AUbicazione:VIA GIUSEPPE DI VITTORIO%0AOggetto:INIZIO ATTIVITA' SERVIZI ACCONCIATORE</description>
+			<a10:updated>2019-06-11T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0122559/10-6-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087479/23-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087479/23-4-2019%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE AL PALIO DEGLI ZOCCOLI, CHE SI TERRA' IN VIA GARIBALDI IL GIORNO 09/06/2019</description>
-			<a10:updated>2019-04-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087226/23-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087226/23-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087226/23-4-2019%0ARagione sociale:MIRA SER. DI MIRABELLA FRANCESCO%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:CESSAZIONE NEGOZIO DI COMMERCIO AL DETTAGLIO DI SERRAMENTI CON RELATIVA ESPOSIZIONE</description>
-			<a10:updated>2019-04-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086998/23-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086998/23-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086998/23-4-2019%0ARagione sociale:FRATELLI PAGANO SNC DI PAGANO ANDREA E GIOVANNI%0AUbicazione:VIA MULINELLO%0AOggetto:Subentro attività. La società Fratelli Pagano Snc di Pagano Andrea e Giovanni subentra alla ditta Pagano Sebastiano.</description>
 			<a10:updated>2019-04-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
