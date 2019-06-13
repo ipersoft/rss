@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 13 Jun 2019 10:01:13 Z</lastBuildDate>
+		<lastBuildDate>Thu, 13 Jun 2019 15:01:09 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0125684/13-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0125684/13-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0125684/13-6-2019%0ARagione sociale:WIND TRE S.P.A.%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:Smantellamento dell’impianto di telefonia cellulare di proprietà Wind Tre s.p.a. sito nel Comune di DESIO (MB) Via Filippo da Desio 81</description>
+			<a10:updated>2019-06-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0125316/13-6-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088460/24-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088460/24-4-2019%0ARagione sociale:GUARDA DAVIDE%0AUbicazione:%0AOggetto:INSTALLAZIONE ATTRAZIONE IN OCCASIONE DELLA FESTA SPACCONE PRESSO PARCO MAURI VIA MAJORANA</description>
-			<a10:updated>2019-04-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0088398/24-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088398/24-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088398/24-4-2019%0ARagione sociale:NOVA EVENTI%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:Invio documenti operatori presenti all'evento Rolling Truck Street Food - Desio che avrà luogo a Desio in piazza Don Giussani il 7.8.9 giugno 2019.</description>
 			<a10:updated>2019-04-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
