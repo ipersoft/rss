@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 14 Jun 2019 12:01:09 Z</lastBuildDate>
+		<lastBuildDate>Fri, 14 Jun 2019 15:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0126752/14-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126752/14-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126752/14-6-2019%0ARagione sociale:HU HAIOU%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' COMMERCIO AL DETTAGLIO PRODOTTI DI ELETTRONICA E RELATIVA RIPARAZIONE</description>
+			<a10:updated>2019-06-14T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0126732/14-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126732/14-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126732/14-6-2019%0ARagione sociale:PARTY TRADE S.R.L.%0AUbicazione:%0AOggetto:domanda per la variazione di attrazioni dello spettacolo viaggiante in autorizzazione già rilasciata</description>
+			<a10:updated>2019-06-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0126004/13-6-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0089005/26-4-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0089005/26-4-2019%0ARagione sociale:ACCONCIATURE &amp; ESTETICA SRLS%0AUbicazione:VIA CESARE D'ADDA%0AOggetto:INIZIO ATTIVITA ESTETISTA</description>
 			<a10:updated>2019-04-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0089002/26-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0089002/26-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0089002/26-4-2019%0ARagione sociale:ACCONCIATURE &amp; ESTETICA SRLS%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:apertura attivita di acconciature</description>
-			<a10:updated>2019-04-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0088611/25-4-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088611/25-4-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088611/25-4-2019%0ARagione sociale:CLAUDI MICHELE%0AUbicazione:%0AOggetto:LUNA PARK OTTOBRE 2019</description>
-			<a10:updated>2019-04-25T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
