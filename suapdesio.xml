@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 27 Jun 2019 12:00:53 Z</lastBuildDate>
+		<lastBuildDate>Thu, 27 Jun 2019 15:00:50 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0135980/27-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0135980/27-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0135980/27-6-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIALE EUROPA%0AOggetto:REALIZZAZIONE NUOVA SRB ILIAD DENOMINATA MB20832_011 DESIO EUROPA</description>
+			<a10:updated>2019-06-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0135571/27-6-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0095012/7-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0095012/7-5-2019%0ARagione sociale:MACELLERIA HALAL ALIMENTARI AMIR DI ROUMADI SALAH%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:Segnalazione Certificata di Inizio Attività per l'esercizio di vicinato nel settore alimentare</description>
 			<a10:updated>2019-05-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0094786/6-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0094786/6-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0094786/6-5-2019%0ARagione sociale:REAL EVENTI%0AUbicazione:VIA GIOACCHINO ROSSINI%0AOggetto:MANIFESTAZIONE A CARATTERE TEMPORANEO CON CAPIENZA SUPERIORE A 200 PERSONE</description>
-			<a10:updated>2019-05-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
