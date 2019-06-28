@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 28 Jun 2019 12:01:01 Z</lastBuildDate>
+		<lastBuildDate>Fri, 28 Jun 2019 15:00:57 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0136990/28-6-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0136990/28-6-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0136990/28-6-2019%0ARagione sociale:PARROCCHIA DI SAN PIO X%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:FESTA PATRONALE DELLA PARROCCHIA DI SAN PIO X</description>
+			<a10:updated>2019-06-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0136315/28-6-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0095148/7-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0095148/7-5-2019%0ARagione sociale:AGAPA S.R.L.%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA' CENTRO ESTETICO</description>
-			<a10:updated>2019-05-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0095031/7-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0095031/7-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0095031/7-5-2019%0ARagione sociale:PRO DESIO SOCIETA' COOPERATIVA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:Licenza di Agibilità per Locali di Pubblico Spettacolo</description>
 			<a10:updated>2019-05-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
