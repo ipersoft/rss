@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 03 Jul 2019 15:00:58 Z</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jul 2019 08:00:59 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0140252/3-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0140252/3-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0140252/3-7-2019%0ARagione sociale:ICAM S.R.L.%0AUbicazione:VIA OSLAVIA%0AOggetto:DENUNCIA EMISSIONI IN ATMOSFERA</description>
+			<a10:updated>2019-07-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0139920/3-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100091/13-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100091/13-5-2019%0ARagione sociale:ISOLA DEL PANINO DI GUARDA LINDA%0AUbicazione:N.D. GARIBALDI%0AOggetto:RICHIESTA DI OCCUPAZIONE DEL SUOLO DEL PUBBLICO PER MANIFESTAZIONE TEMPORANEA PER IL PALIO DI DESIO IL 9 GIUGNO 2019</description>
-			<a10:updated>2019-05-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099811/13-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0099811/13-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0099811/13-5-2019%0ARagione sociale:IL PUNTO GOLOSO S.A.S. DI REGARBAGNATI ELENA FRANCESCA &amp; C.%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:CESSAZIONE ATTIVITà DEFINITIVA</description>
 			<a10:updated>2019-05-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
