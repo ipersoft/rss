@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 04 Jul 2019 08:00:59 Z</lastBuildDate>
+		<lastBuildDate>Thu, 04 Jul 2019 10:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0140574/4-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0140574/4-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0140574/4-7-2019%0ARagione sociale:BRILLAUTO - G&amp;D DI CARBONE IMMACOLATA%0AUbicazione:VIA DEI CACCIATORI%0AOggetto:Apertura attività di autolavaggio a secco, senza utilizzo di acqua. (Cod. Ateco 45.20.91). Si segnala che per l'impresa in oggetto viene inviata nello stesso giorno, con autonoma comunicazione, la pratica di cessazione attività di pizzeria da asporto (n° pratica CRBMCL59L60C879C-03072019-1212).</description>
+			<a10:updated>2019-07-04T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0140252/3-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0101460/14-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0101460/14-5-2019%0ARagione sociale:ROSSO AMORE E FANTASIA DI DI STASIO RAFFAELE%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:APERTURA PIZZERIA D'ASPORTO VIA GIACOMO MATTEOTTI 32 CON SOMMINISTRAZIONE NON ASSISTITA</description>
 			<a10:updated>2019-05-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0100091/13-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100091/13-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100091/13-5-2019%0ARagione sociale:ISOLA DEL PANINO DI GUARDA LINDA%0AUbicazione:N.D. GARIBALDI%0AOggetto:RICHIESTA DI OCCUPAZIONE DEL SUOLO DEL PUBBLICO PER MANIFESTAZIONE TEMPORANEA PER IL PALIO DI DESIO IL 9 GIUGNO 2019</description>
-			<a10:updated>2019-05-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
