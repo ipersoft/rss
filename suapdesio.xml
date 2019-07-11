@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 10 Jul 2019 15:00:58 Z</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jul 2019 08:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145471/11-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0145471/11-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0145471/11-7-2019%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER CESANO%0AOggetto:COMUNICAZIONE NUOVI ORARI APERTURA MESI LUGLIO-AGOSTO</description>
+			<a10:updated>2019-07-11T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145088/10-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104722/17-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104722/17-5-2019%0ARagione sociale:A.S.D. GINNASTICA SAN GIORGIO 79%0AUbicazione:%0AOggetto:SPETTACOLO SQUADRA NAZIONALE DI GINNASTICA RITMICA DENOMINATO " GOLDEN BUTTERFLAY GALÁ"</description>
-			<a10:updated>2019-05-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104531/17-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104531/17-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104531/17-5-2019%0ARagione sociale:ECOSMALT%0AUbicazione:VIALE SABOTINO%0AOggetto:Autorizzazione per installazione ed esercizio di un distributore di carburante ad uso privato</description>
 			<a10:updated>2019-05-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
