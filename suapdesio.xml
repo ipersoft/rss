@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 12 Jul 2019 08:00:58 Z</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jul 2019 15:00:59 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147131/12-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147131/12-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147131/12-7-2019%0ARagione sociale:STAFFIERO DAVIDE MARIA FEDERICO%0AUbicazione:%0AOggetto:SUBINGRESSO POSTEGGIO 12 - MERCATO SUD - DAL 08/07/2019</description>
+			<a10:updated>2019-07-12T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147100/12-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147100/12-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147100/12-7-2019%0ARagione sociale:MAN BAR DI MIRENDA NINO%0AUbicazione:VIA GARIBALDI%0AOggetto:ampliamento zona esterna con posizionamento tavoli e fioriere</description>
+			<a10:updated>2019-07-12T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0146730/12-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0146730/12-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0146730/12-7-2019%0ARagione sociale:GEMEAZ ELIOR%0AUbicazione:%0AOggetto:Servizio di Ristorazione presso A.S.P. GAVAZZI: Aggiornamento OSA riferimento protocollo SUAP 0064548 del 09/04/2018</description>
+			<a10:updated>2019-07-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145471/11-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0105275/20-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0105275/20-5-2019%0ARagione sociale:ALICE NAIL SPA DI LI JINGJING%0AUbicazione:VIA GARIBALDI%0AOggetto:VARIAZIONE DIRETTORE TECNICO</description>
 			<a10:updated>2019-05-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0105227/20-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0105227/20-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0105227/20-5-2019%0ARagione sociale:HELP POINT MULTISERVIZI DI ULLAH AHSAN E C. S.A.S.%0AUbicazione:VIA BRAMANTE DA URBINO%0AOggetto:SCIA INIZIO ATTIVITA' MINIMARKET</description>
-			<a10:updated>2019-05-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104726/17-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104726/17-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104726/17-5-2019%0ARagione sociale:FIVE STARS DI MOUNIR MHAMED%0AUbicazione:VIA XXIV MAGGIO%0AOggetto:subingresso in attività di acconciatore</description>
-			<a10:updated>2019-05-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104722/17-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104722/17-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104722/17-5-2019%0ARagione sociale:A.S.D. GINNASTICA SAN GIORGIO 79%0AUbicazione:%0AOggetto:SPETTACOLO SQUADRA NAZIONALE DI GINNASTICA RITMICA DENOMINATO " GOLDEN BUTTERFLAY GALÁ"</description>
-			<a10:updated>2019-05-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
