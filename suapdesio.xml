@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 16 Jul 2019 12:01:01 Z</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jul 2019 15:01:00 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0149243/16-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0149243/16-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0149243/16-7-2019%0ARagione sociale:MISCELA S.A.S. DI ANGELA POTENZA &amp; C.%0AUbicazione:VIA DEI CAVALIERI DI VITTORIO VENETO%0AOggetto:SCIA DI SOMMINISTRAZIONE TEMPORANEA PER FIERA</description>
+			<a10:updated>2019-07-16T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0149039/16-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0149039/16-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0149039/16-7-2019%0ARagione sociale:MARTANO GREGORIO%0AUbicazione:VIA PIO XI%0AOggetto:SCIA DI INIZIO ATTIVITA' DI ACCONCIATURE PER SIGNORA</description>
+			<a10:updated>2019-07-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147693/15-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0109245/23-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0109245/23-5-2019%0ARagione sociale:RICCI LUCA%0AUbicazione:%0AOggetto:INSTALLAZIONE ATTRAZIONI TUTTI MERCOLEDI' SERA DEI MESI DI GIUGNO 2019 E LUGLIO 2019, PER UN TOTALE DI 9 MERCOLEDI'.</description>
 			<a10:updated>2019-05-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0108996/23-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0108996/23-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0108996/23-5-2019%0ARagione sociale:IL FUMETTO DI TALAIA ENRICO%0AUbicazione:VIA ALESSANDRO MANZONI%0AOggetto:COMUNICAZIONE DI AUTOVIDIMAZIONE REGISTRO PER COMMERCIO AL DETTAGLIO DI LIBRI E FUMETTI USATI.</description>
-			<a10:updated>2019-05-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0108380/22-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0108380/22-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0108380/22-5-2019%0ARagione sociale:ZONCA ANTONIO%0AUbicazione:N.D. PALABANCODESIO%0AOggetto:SOMMINISTRAZIONE ALIMENTI E BEVANDE IN PALABANCO DESIO IN OCCASIONE DI MANIFESTAZIONE SPORTIVA</description>
-			<a10:updated>2019-05-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
