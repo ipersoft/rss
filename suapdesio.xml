@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 Jul 2019 08:01:11 Z</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jul 2019 15:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0151968/19-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0151968/19-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0151968/19-7-2019%0ARagione sociale:IL POETA DI MAHROUS BAHAA BARTY MAKRAM BOLEK%0AUbicazione:VIA LOMBARDIA%0AOggetto:APERTURA PIZZERIA DA ASPORTO CON VENDITA DI BEVANDE E CONSUMO IMMEDIATO SUL POSTO SENZA ASSISTENZA</description>
+			<a10:updated>2019-07-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0151831/19-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0151831/19-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0151831/19-7-2019%0ARagione sociale:CO.BRA. S.A S. DI CONTE GIANNI E C.%0AUbicazione:VIA MOLINARA%0AOggetto:nuovo insediamento produttivo</description>
+			<a10:updated>2019-07-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0151483/18-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112093/28-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112093/28-5-2019%0ARagione sociale:CIRISANO ALDO%0AUbicazione:%0AOggetto:RICHIESTA AUTORIZZAZIONE ITINERANTE PER COMMERCIO DI GENERI NON ALIMENTARI: FIORI E PIANTE</description>
 			<a10:updated>2019-05-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0110823/27-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0110823/27-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0110823/27-5-2019%0ARagione sociale:IL FUMETTO DI TALAIA ENRICO%0AUbicazione:VIA ALESSANDRO MANZONI%0AOggetto:AUTORIZZAZIONE PER SALA GIOCHI CON DISPONIBILITA' DI GIOCHI IN SCATOLA E CARTA DA GIOCO</description>
-			<a10:updated>2019-05-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0110280/24-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0110280/24-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0110280/24-5-2019%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione Vividesio anno 2019 per i mercoledì di Giugno e luglio in Via Garibaldi</description>
-			<a10:updated>2019-05-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
