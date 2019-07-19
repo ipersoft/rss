@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 18 Jul 2019 15:01:02 Z</lastBuildDate>
+		<lastBuildDate>Fri, 19 Jul 2019 08:01:11 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0151483/18-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0151483/18-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0151483/18-7-2019%0ARagione sociale:PIROTECNICA VERGA SRL%0AUbicazione:%0AOggetto:Allestimento ed esecuzione spettacolo pirotecnico nella serata del 02/09/2019 - Parrocchia San Giovanni Battista via D. Vittorio 18.</description>
+			<a10:updated>2019-07-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0151236/18-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0110280/24-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0110280/24-5-2019%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione Vividesio anno 2019 per i mercoledì di Giugno e luglio in Via Garibaldi</description>
-			<a10:updated>2019-05-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0110179/24-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0110179/24-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0110179/24-5-2019%0ARagione sociale:ALMEIDA SUELY%0AUbicazione:LARGO VOLONTARI DEL SANGUE%0AOggetto:CESSAZIONE ATTIVITA' PER RISOLUZIONE CONTRATTO AFFITTO AZIENDA DAL 30/04/2019</description>
 			<a10:updated>2019-05-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
