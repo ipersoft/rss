@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 Jul 2019 15:01:04 Z</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jul 2019 10:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0152836/22-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0152836/22-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0152836/22-7-2019%0ARagione sociale:KHARROUBI MOHAMED%0AUbicazione:%0AOggetto:COMUNICAZIONE PARTECIPAZIONE SPUNTA MERCATO SETTIMANALE DI DESIO NORD DEL LUNEDI'</description>
+			<a10:updated>2019-07-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0152497/19-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0152497/19-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0152497/19-7-2019%0ARagione sociale:CS-LAN S.R.L.%0AUbicazione:VIA DON LUIGI STURZO%0AOggetto:Inizio attività - Noleggio di autovetture ed autoveicoli leggeri senza conducente</description>
+			<a10:updated>2019-07-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0151968/19-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0113022/29-5-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0113022/29-5-2019%0ARagione sociale:TEKNOTIME SRL%0AUbicazione:%0AOggetto:RICHIESTA OCCUPAZIONE SUOLO PUBBLICO PER PARTECIPAZIONE A MANIFESTAZIONE DESIO APERTA CON ATTIVITA' DI SOMMINISTRAZIONE ALIMENTI E BEVANDE.</description>
 			<a10:updated>2019-05-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0112186/28-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112186/28-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112186/28-5-2019%0ARagione sociale:CLEAF%0AUbicazione:N.D. giuseppe%0AOggetto:segnalazione certificata di inizio attività produttiva di una ditta che appartiene al settore legno per produzione di laminati in continuo (bobine) e in fogli</description>
-			<a10:updated>2019-05-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0112093/28-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112093/28-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112093/28-5-2019%0ARagione sociale:CIRISANO ALDO%0AUbicazione:%0AOggetto:RICHIESTA AUTORIZZAZIONE ITINERANTE PER COMMERCIO DI GENERI NON ALIMENTARI: FIORI E PIANTE</description>
-			<a10:updated>2019-05-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
