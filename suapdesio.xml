@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 22 Jul 2019 15:01:04 Z</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jul 2019 12:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0153905/23-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0153905/23-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0153905/23-7-2019%0ARagione sociale:MONDOVISIONE SOCIETA' COOPERATIVA SOCIALE ONLUS%0AUbicazione:VIA DEI CAVALIERI DI VITTORIO VENETO%0AOggetto:servizio sommnistrazione bibite e bevande presso l'area esterna a bocciofila , presso Parco Tittoni Desio in occasione della 3 giorni dedicate alla Puglia street food organizzato da Via Audio srl</description>
+			<a10:updated>2019-07-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0153575/22-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0115897/1-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0115897/1-6-2019%0ARagione sociale:CLEAF SPA%0AUbicazione:N.D. giuseppe%0AOggetto:comunicazione di messa in esercizio e messa a regime AUA 740/2019</description>
 			<a10:updated>2019-06-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0115694/31-5-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0115694/31-5-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0115694/31-5-2019%0ARagione sociale:A.G.S. AUTODEMOLIZIONI S.R.L.%0AUbicazione:VIALE SABOTINO%0AOggetto:COMMERCIO AL DETTAGLIO DI RICAMBI USATI DI AUTOVEICOLI ON LINE</description>
-			<a10:updated>2019-05-31T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
