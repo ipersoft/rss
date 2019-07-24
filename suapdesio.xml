@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 23 Jul 2019 15:01:02 Z</lastBuildDate>
+		<lastBuildDate>Wed, 24 Jul 2019 15:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155245/24-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155245/24-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155245/24-7-2019%0ARagione sociale:HU HAIOU%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' RIPARAZIONE PRODOTTI ELETTRONICI</description>
+			<a10:updated>2019-07-24T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0154887/24-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0154887/24-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0154887/24-7-2019%0ARagione sociale:BRIDAROLLI SRL%0AUbicazione:VIA DEL GUADO%0AOggetto:INIZIO ATTIVITA' PRODUTTIVA DI MACCHINE PER ADESIVI A CALDO, COMPRESO I RELATIVI QUADRI ELETTRICI, SVOLTA SOLO MEDIANTE ASSEMBLAGGIO MANUALE DEI PEZZI.</description>
+			<a10:updated>2019-07-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0154178/23-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119389/6-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119389/6-6-2019%0ARagione sociale:CIRCO MILLENNIUM S.A.S. DI SOLE DOMENICO &amp; C."%0AUbicazione:%0AOggetto:Domanda di concessione temporanea per manifestazione circense e rilascio di licenza di P.S. Circo Millennium, per il periodo compreso 04 Ottobre - 04 Novembre 2019 area di Via Milano (Parcheggio Esselunga)</description>
 			<a10:updated>2019-06-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119132/5-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119132/5-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119132/5-6-2019%0ARagione sociale:GFC LAVORAZIONI MATERIE PLASTICHE S.R.L.%0AUbicazione:VIA SALVO D'ACQUISTO%0AOggetto:SCIA Attività Produttiva - GFC S.r.l. Lavorazioni Materie Plastiche S.r.l.</description>
-			<a10:updated>2019-06-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119083/5-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119083/5-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119083/5-6-2019%0ARagione sociale:PARISI PATRIZIO%0AUbicazione:%0AOggetto:istanza di partecipazione al lunapark 2019 istanza di occupazione suolo pubblico</description>
-			<a10:updated>2019-06-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
