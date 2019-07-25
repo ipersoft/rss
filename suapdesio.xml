@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 Jul 2019 15:01:04 Z</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jul 2019 08:01:01 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155392/24-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155392/24-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155392/24-7-2019%0ARagione sociale:IL POETA DI MAHROUS BAHAA BARTY MAKRAM BOLEK%0AUbicazione:VIA MONTE ROSA%0AOggetto:DICHIARAZIONE DI CONSUMO IMMEDIATO SUL POSTO A FRONTE DI SCIA DI SUBINGRESSO PROT. 1747 DEC. 08-04-2019</description>
+			<a10:updated>2019-07-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155245/24-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119613/6-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119613/6-6-2019%0ARagione sociale:SERRA LUIGI%0AUbicazione:VIA FRATELLI CERVI%0AOggetto:Scia temporanea</description>
-			<a10:updated>2019-06-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119389/6-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119389/6-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119389/6-6-2019%0ARagione sociale:CIRCO MILLENNIUM S.A.S. DI SOLE DOMENICO &amp; C."%0AUbicazione:%0AOggetto:Domanda di concessione temporanea per manifestazione circense e rilascio di licenza di P.S. Circo Millennium, per il periodo compreso 04 Ottobre - 04 Novembre 2019 area di Via Milano (Parcheggio Esselunga)</description>
 			<a10:updated>2019-06-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
