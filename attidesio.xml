@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 Jul 2019 16:01:04 Z</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jul 2019 14:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5025313</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5025313</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA BERNINA </description>
+			<a10:updated>2019-07-25T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5024744</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5024744</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE LUNGO LA VIA LAMPUGNANI (LAVORI BRIANZACQUE) </description>
+			<a10:updated>2019-07-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5024003</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5024003</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>NEXUS ULTIMA FRONTIERA – INTERVENTI DI REALIZZAZIONE DELLA RETE ECOLOGICA TRA PARCO VALLE LAMBRO E PARCO DELLE GROANE – LOTTO 1 “REALIZZAZIONE ELEMENTI LINEARI (CORRIDOIO) E ELEMENTI PUNTUALI (NODI) – F/194. APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE. CUP G45H18000180004 – CIG: Z522646881 </description>
-			<a10:updated>2019-07-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5017658</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5017658</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>EROGAZIONE DEL SERVIZIO DI ASSISTENZA DOMICILIARE PER ANZIANI E DISABILI MEDIANTE ACCREDITAMENTO DI SOGGETTI PROFIT E NON PROFIT: INTEGRAZIONE IMPEGNO DI SPESA ANNO 2019 EURO 12.000,00 </description>
-			<a10:updated>2019-07-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5017656</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5017656</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>REVOCA ORDINANZA INGIUNZIONE N 261/2019 ED INGIUNZIONE VERBALE N 4041/2017 PROT. 76/2017 </description>
 			<a10:updated>2019-07-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
