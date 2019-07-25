@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 25 Jul 2019 12:01:00 Z</lastBuildDate>
+		<lastBuildDate>Thu, 25 Jul 2019 15:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0156116/25-7-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0156116/25-7-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0156116/25-7-2019%0ARagione sociale:VOODOO CAR DI LEAHU NECULAI IONUT%0AUbicazione:VIA MULINELLO%0AOggetto:Richiesta autorizzazione scarico in atmosfera per attività di carrozzeria</description>
+			<a10:updated>2019-07-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155392/24-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0120144/6-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0120144/6-6-2019%0ARagione sociale:LEONE GIUSEPPE%0AUbicazione:VIA SANTA CATERINA%0AOggetto:PARTECIPAZIONE ALLA SPUNTA MERCATO DI DESIO NORD DEL LUNEDI</description>
-			<a10:updated>2019-06-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119613/6-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119613/6-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119613/6-6-2019%0ARagione sociale:SERRA LUIGI%0AUbicazione:VIA FRATELLI CERVI%0AOggetto:Scia temporanea</description>
 			<a10:updated>2019-06-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
