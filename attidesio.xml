@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 01 Aug 2019 12:01:03 Z</lastBuildDate>
+		<lastBuildDate>Thu, 01 Aug 2019 14:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5040442</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5040442</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA MILITE IGNOTO </description>
+			<a10:updated>2019-08-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5039748</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5039748</link>
@@ -158,14 +166,6 @@
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4060 DELL' 8 MARZO 2019 PROT. 102//2019 </description>
 			<a10:updated>2019-07-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5031867</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5031867</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>DISPOSITIVO PER LA "SOSPENSIONE TEMPORANEA ESTIVA" DELLE ORDINANZE SINDACALI RELATIVE ALLA ISTITUZIONE DEI DIVIETI DI SOSTA PER FACILITARE LE OPERAZIONI DI “PULIZIA STRADALE”. </description>
-			<a10:updated>2019-07-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
