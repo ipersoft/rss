@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 01 Aug 2019 14:01:04 Z</lastBuildDate>
+		<lastBuildDate>Thu, 01 Aug 2019 16:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5041212</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5041212</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA DI DICHIARAZIONE DI IMPROCEDIBILITA' RICORSO PER AVVENUTA CESSAZIONE MATERIA DEL CONTENDERE- VERBALE N 4310/2018 PROT.393/2018 </description>
+			<a10:updated>2019-08-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5040442</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5040442</link>
@@ -157,14 +165,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4025 DEL 26/01/2019 PROT. 49//2019 </description>
-			<a10:updated>2019-07-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5032590</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5032590</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4060 DELL' 8 MARZO 2019 PROT. 102//2019 </description>
 			<a10:updated>2019-07-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
