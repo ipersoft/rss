@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 05 Aug 2019 08:01:02 Z</lastBuildDate>
+		<lastBuildDate>Mon, 05 Aug 2019 12:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0163855/5-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163855/5-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163855/5-8-2019%0ARagione sociale:VITA AL GUSTO DI SOLIMANDO RUSSO MARIA ALESSANDRA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:DENUNCIA SECONDA ATTIVITA'</description>
+			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0163719/5-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163719/5-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163719/5-8-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA GAETANA AGNESI%0AOggetto:REALIZZAZIONE NUOVA SRB ILIAD DENOMINATA MB20832_012 DESIO AGNESI</description>
+			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0163484/5-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126004/13-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126004/13-6-2019%0ARagione sociale:Italiana Petroli S.p.A.%0AUbicazione:VIA AMBROGIO BERGOGNONE%0AOggetto:Trasferimento di titolarità di un impianto di distribuzione stradale di carburanti sito in Desio Via Bergognone.</description>
-			<a10:updated>2019-06-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0125684/13-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0125684/13-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0125684/13-6-2019%0ARagione sociale:WIND TRE S.P.A.%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:Smantellamento dell’impianto di telefonia cellulare di proprietà Wind Tre s.p.a. sito nel Comune di DESIO (MB) Via Filippo da Desio 81</description>
-			<a10:updated>2019-06-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0125316/13-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0125316/13-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0125316/13-6-2019%0ARagione sociale:EREDI DI GALDINO PRESOTTO S.D.F.%0AUbicazione:%0AOggetto:RICHIESTA DI OCCUPAZIONE DEL SUOLO PUBBLICO IN OCCASIONE DEI MERCOLEDI' DI DESIO DAL 19/06/2019 AL 17/07/2019</description>
 			<a10:updated>2019-06-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
