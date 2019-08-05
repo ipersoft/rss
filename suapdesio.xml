@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 02 Aug 2019 15:01:02 Z</lastBuildDate>
+		<lastBuildDate>Mon, 05 Aug 2019 08:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0163484/5-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163484/5-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163484/5-8-2019%0ARagione sociale:ACCI PIZZA DI ALLEGRO ANGELA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITÀ PIZZERIA D'ASPORTO</description>
+			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0160655/31-7-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0125316/13-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0125316/13-6-2019%0ARagione sociale:EREDI DI GALDINO PRESOTTO S.D.F.%0AUbicazione:%0AOggetto:RICHIESTA DI OCCUPAZIONE DEL SUOLO PUBBLICO IN OCCASIONE DEI MERCOLEDI' DI DESIO DAL 19/06/2019 AL 17/07/2019</description>
-			<a10:updated>2019-06-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0125293/13-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0125293/13-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0125293/13-6-2019%0ARagione sociale:CAR CLINIC S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:Scia Produttiva per apertura attività di autoriparazione veicoli</description>
 			<a10:updated>2019-06-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
