@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 05 Aug 2019 12:01:06 Z</lastBuildDate>
+		<lastBuildDate>Mon, 05 Aug 2019 15:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0164168/5-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164168/5-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164168/5-8-2019%0ARagione sociale:REAL CAR S.R.L.%0AUbicazione:VIA ARMANDO DIAZ%0AOggetto:Domanda di adesione all'autorizzazione in via generale ai sensi dell'art. 272, comma 3, del D.Lgs 152/2006 per l'esercizio della/delle attività in deroga di cui art. 272, comma 2, del D.Lgs 152/2006</description>
+			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0164094/5-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164094/5-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164094/5-8-2019%0ARagione sociale:CO.BRA SAS DI CONTE GIANNI E C.%0AUbicazione:VIA molinara%0AOggetto:domanda si adesione all' autorizzazione per emissioni in atmosfera art. 272 comma 2 del D.Lgs. 152/2006 per allegato n.32a</description>
+			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0163855/5-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126752/14-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126752/14-6-2019%0ARagione sociale:HU HAIOU%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' COMMERCIO AL DETTAGLIO PRODOTTI DI ELETTRONICA E RELATIVA RIPARAZIONE</description>
 			<a10:updated>2019-06-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0126732/14-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126732/14-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126732/14-6-2019%0ARagione sociale:PARTY TRADE S.R.L.%0AUbicazione:%0AOggetto:domanda per la variazione di attrazioni dello spettacolo viaggiante in autorizzazione già rilasciata</description>
-			<a10:updated>2019-06-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0126004/13-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126004/13-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126004/13-6-2019%0ARagione sociale:Italiana Petroli S.p.A.%0AUbicazione:VIA AMBROGIO BERGOGNONE%0AOggetto:Trasferimento di titolarità di un impianto di distribuzione stradale di carburanti sito in Desio Via Bergognone.</description>
-			<a10:updated>2019-06-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
