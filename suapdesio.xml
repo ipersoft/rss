@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 05 Aug 2019 15:01:02 Z</lastBuildDate>
+		<lastBuildDate>Tue, 06 Aug 2019 08:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0164554/6-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164554/6-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164554/6-8-2019%0ARagione sociale:PALMAD S.R.L.%0AUbicazione:VIA BENGASI%0AOggetto:VENDITA SOTTOCOSTO IN ESERCIZIO DI COMMERCIO AL DETTAGLIO DI VICINATO DAL 05 AL 14 SETTEMBRE 2019</description>
+			<a10:updated>2019-08-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0164168/5-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126942/14-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126942/14-6-2019%0ARagione sociale:CIVE S.P.A.%0AUbicazione:VIA RUGGERO LEONCAVALLO%0AOggetto:VARIAZIONE DELLA SUPERFICIE DI VENDITA</description>
-			<a10:updated>2019-06-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0126752/14-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126752/14-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126752/14-6-2019%0ARagione sociale:HU HAIOU%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' COMMERCIO AL DETTAGLIO PRODOTTI DI ELETTRONICA E RELATIVA RIPARAZIONE</description>
 			<a10:updated>2019-06-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
