@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 06 Aug 2019 15:01:02 Z</lastBuildDate>
+		<lastBuildDate>Wed, 07 Aug 2019 08:00:58 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0165670/6-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0165670/6-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0165670/6-8-2019%0ARagione sociale:A PICCOLI PASSI S.N.C. DI MARTINA MERCURI &amp; C.%0AUbicazione:VIA BRENNERO%0AOggetto:ATTIVAZIONE CUCINA PER SOLA PREPARAZIONE PORZIONI PER PASTI</description>
+			<a10:updated>2019-08-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0165483/6-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127957/17-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127957/17-6-2019%0ARagione sociale:BZ S.A.S. DI BARISON FRANCO GIOVANNI &amp; C.%0AUbicazione:VIA MULINELLO%0AOggetto:SEGNALAZIONE CERTIFICATA INIZIO ATTIVITA' PRODUTTIVA PRESSO LA SEDE DI VIA MULINELLO, 28 DESIO. ATTIVITA' DI PRODUZIONE, CONFEZIONAMENTO, MONTAGGIO DI SEDIE, SEDILI, POLTRONE E DIVANI PER UFFICI, NEGOZI, DISCOTECHE, COMUNITA', ALBERGHI</description>
 			<a10:updated>2019-06-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0127113/16-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127113/16-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127113/16-6-2019%0ARagione sociale:Circo Kodanty di Clay Codanti%0AUbicazione:%0AOggetto:Istanza occupazione suolo pubblico e svolgimento attività circense temporanea per piccolo circo senza animali denominato "Circo Kodanty"</description>
-			<a10:updated>2019-06-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
