@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 21 Aug 2019 12:00:54 Z</lastBuildDate>
+		<lastBuildDate>Wed, 21 Aug 2019 15:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0172095/21-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0172095/21-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0172095/21-8-2019%0ARagione sociale:SAVARESE CRISTINA%0AUbicazione:%0AOggetto:Richiesta di AGGIUNTA SETTORE MERCEOLOGICO sul mio posteggio del mercato Desio SUD n. 35 . ALIMENTARE</description>
+			<a10:updated>2019-08-21T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0172084/21-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0172084/21-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0172084/21-8-2019%0ARagione sociale:ILIAD ITALIA%0AUbicazione:VIA SAN GENNARO%0AOggetto:COMUNICAZIONE INIZIO LAVORI SRB ILIAD MB20832_010 DESIO BAREGGI</description>
+			<a10:updated>2019-08-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0171746/21-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0134577/26-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0134577/26-6-2019%0ARagione sociale:NICOTRA GIUSEPPE%0AUbicazione:VIA PRATI%0AOggetto:CESSAZIONE PER DISDETTA CONTRATTO AFFITTO POSTEGGIO SU MERCATO COMUNALE DESIO SUD</description>
 			<a10:updated>2019-06-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0133912/25-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0133912/25-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0133912/25-6-2019%0ARagione sociale:ZAPPA S.R.L.%0AUbicazione:VIA LUIGI EINAUDI%0AOggetto:TRASMISSIONE DELLE ANALISI IN EMISSIONE - ART. 272 C. 2, ALLEGATO TECNICO 32/A</description>
-			<a10:updated>2019-06-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0131958/21-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0131958/21-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0131958/21-6-2019%0ARagione sociale:WIND TRE SPA%0AUbicazione:VIA CARLO PORTA%0AOggetto:Si tratta di un intervento di adeguamento impianto esistente gestito da Wind Tre spa, per l’ implementazione della tecnologia LTE2100 e la disattivazione della tecnologia DCS1800. Saranno installati n.3 RRU on pole e le n.6 antenne esistenti non subiranno modifiche.</description>
-			<a10:updated>2019-06-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
