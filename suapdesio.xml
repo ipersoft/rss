@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 20 Aug 2019 15:00:56 Z</lastBuildDate>
+		<lastBuildDate>Wed, 21 Aug 2019 08:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0171746/21-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0171746/21-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0171746/21-8-2019%0ARagione sociale:La Spada Fabio%0AUbicazione:VIA FRATELLI CERVI%0AOggetto:Apertura attività casa vacanze in appartamento sito in Desio - Via Fratelli Cervi 29. Foglio 24 Mappale 148 subalterno 106</description>
+			<a10:updated>2019-08-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0170412/14-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0131958/21-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0131958/21-6-2019%0ARagione sociale:WIND TRE SPA%0AUbicazione:VIA CARLO PORTA%0AOggetto:Si tratta di un intervento di adeguamento impianto esistente gestito da Wind Tre spa, per l’ implementazione della tecnologia LTE2100 e la disattivazione della tecnologia DCS1800. Saranno installati n.3 RRU on pole e le n.6 antenne esistenti non subiranno modifiche.</description>
-			<a10:updated>2019-06-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0131830/21-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0131830/21-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0131830/21-6-2019%0ARagione sociale:GEMEAZ ELIOR S.P.A.%0AUbicazione:VIA GIUSEPPE MAZZINI c/o Ospedale di Desio%0AOggetto:Gestione servizio Ristorazione Ospedale di Desio. Aggiornamento Procuratore/OSA, rif. SCIA Prot. 8915 del 15/01/2019</description>
 			<a10:updated>2019-06-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
