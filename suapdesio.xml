@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 22 Aug 2019 12:00:54 Z</lastBuildDate>
+		<lastBuildDate>Thu, 22 Aug 2019 15:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0172819/22-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0172819/22-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0172819/22-8-2019%0ARagione sociale:GIROLAMI RONNIE%0AUbicazione:%0AOggetto:LUNA PARK OTTOBRE 2019</description>
+			<a10:updated>2019-08-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0172095/21-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0134840/26-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0134840/26-6-2019%0ARagione sociale:GSR TECHNOLOGY ITALY S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:INIZIO ATTIVITA' COMMERCIO ALL'INGROSSO DI APPARECCHIATURE E COMPONENTI MECCANICI ELETTRICI ED ELETTRONICI.</description>
-			<a10:updated>2019-06-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0134577/26-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0134577/26-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0134577/26-6-2019%0ARagione sociale:NICOTRA GIUSEPPE%0AUbicazione:VIA PRATI%0AOggetto:CESSAZIONE PER DISDETTA CONTRATTO AFFITTO POSTEGGIO SU MERCATO COMUNALE DESIO SUD</description>
 			<a10:updated>2019-06-26T00:00:00Z</a10:updated>
 		</item>
 	</channel>
