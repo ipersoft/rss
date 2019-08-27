@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 27 Aug 2019 12:00:54 Z</lastBuildDate>
+		<lastBuildDate>Tue, 27 Aug 2019 15:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0174578/27-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0174578/27-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0174578/27-8-2019%0ARagione sociale:LA BOTTEGA DEL CALABRESE S.N.C. DI PUGLIANO FRANCESCO E LEROSE TERESA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA' COMMERCIO AL DETTAGLIO DI GENERI ALIMENTARI</description>
+			<a10:updated>2019-08-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0174491/27-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0135571/27-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0135571/27-6-2019%0ARagione sociale:ANIMAL HOUSE SAS DI SARLO LUIGI &amp; C.%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:CESSAZONE ATTIVITA' CON DECORRENZA 28/02/2010</description>
 			<a10:updated>2019-06-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0135172/26-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0135172/26-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0135172/26-6-2019%0ARagione sociale:LOFT CAFE' DI ASMERI ANDREA%0AUbicazione:CORSO ITALIA%0AOggetto:SOMMINISTRAZIONE TEMPORANEA DEL GIORNO 26/06/2019 DALLE ORE 18.00 ALLE ORE 22.00</description>
-			<a10:updated>2019-06-26T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
