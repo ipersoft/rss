@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 29 Aug 2019 12:00:54 Z</lastBuildDate>
+		<lastBuildDate>Thu, 29 Aug 2019 15:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0175803/29-8-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0175803/29-8-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0175803/29-8-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA MILANO%0AOggetto:Autocertificazione di Attivazione di impianto di debole potenza e ridotte dimensioni ai sensi dell’art. 35 del D.L. 98/2001, convertito con modificazioni dalla L. 111/2011 e s.m.i.- ILIAD_MB20832_001</description>
+			<a10:updated>2019-08-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0175767/29-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0136990/28-6-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0136990/28-6-2019%0ARagione sociale:PARROCCHIA DI SAN PIO X%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:FESTA PATRONALE DELLA PARROCCHIA DI SAN PIO X</description>
-			<a10:updated>2019-06-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0136315/28-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0136315/28-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0136315/28-6-2019%0ARagione sociale:HU ZHENYAN%0AUbicazione:PIAZZA CAMILLO BENSO DI CAVOUR%0AOggetto:APERTURA NEBGOZIO ABBIGLIAMENTO</description>
 			<a10:updated>2019-06-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
