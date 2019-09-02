@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 30 Aug 2019 15:00:55 Z</lastBuildDate>
+		<lastBuildDate>Mon, 02 Sep 2019 08:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0176915/2-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0176915/2-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0176915/2-9-2019%0ARagione sociale:ART DECOR LEGNO S.R.L.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:RICHIESTA DI AUTORIZZAZIONE ALLE EMISSIONI IN ATMOSFERA</description>
+			<a10:updated>2019-09-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0176845/1-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0176845/1-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0176845/1-9-2019%0ARagione sociale:MADAGASCAR CIRCUS DI GRAVAGNA ORESTE%0AUbicazione:%0AOggetto:spettacoli circensi in area comunale</description>
+			<a10:updated>2019-09-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0175803/29-8-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138890/2-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138890/2-7-2019%0ARagione sociale:PENSOTTI FRANCO%0AUbicazione:VIA RUGGERO LEONCAVALLO%0AOggetto:SCIA INIZIO ATTIVITA'</description>
 			<a10:updated>2019-07-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138032/1-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138032/1-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138032/1-7-2019%0ARagione sociale:LAPESA ANTONIO%0AUbicazione:%0AOggetto:RICHIESTA AUTORIZZAZIONE ITINERANTE</description>
-			<a10:updated>2019-07-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0136990/28-6-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0136990/28-6-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0136990/28-6-2019%0ARagione sociale:PARROCCHIA DI SAN PIO X%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:FESTA PATRONALE DELLA PARROCCHIA DI SAN PIO X</description>
-			<a10:updated>2019-06-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
