@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 04 Sep 2019 15:00:58 Z</lastBuildDate>
+		<lastBuildDate>Thu, 05 Sep 2019 08:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0180090/4-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0180090/4-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0180090/4-9-2019%0ARagione sociale:BEDIN DIEGO%0AUbicazione:%0AOggetto:RICHIESTA AUTORIZZAZIONE ALLA SPUNTA MERCATO DEL LUNEDI' DI VIA PRATI DESIO SUD</description>
+			<a10:updated>2019-09-04T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0177308/2-9-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0139724/3-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0139724/3-7-2019%0ARagione sociale:ART DECOR LEGNO S.R.L.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:RICHIESTA DI AUTORIZZAZIONE ALLE EMISSIONI IN ATMOSFERA</description>
-			<a10:updated>2019-07-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0139636/3-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0139636/3-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0139636/3-7-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIALE EUROPA%0AOggetto:REALIZZAZIONE NUOVA SRB ILIAD DENOMINATA MB20832_011 DESIO EUROPA</description>
 			<a10:updated>2019-07-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
