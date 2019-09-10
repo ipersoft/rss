@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 10 Sep 2019 08:00:55 Z</lastBuildDate>
+		<lastBuildDate>Tue, 10 Sep 2019 10:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0183647/10-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0183647/10-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0183647/10-9-2019%0ARagione sociale:ALI FRUTTA DI ALI ELSAYED%0AUbicazione:%0AOggetto:DOMANDA SPUNTA MERCATO DEL LUNEDI DESIO NORD</description>
+			<a10:updated>2019-09-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0181987/6-9-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0142418/7-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0142418/7-7-2019%0ARagione sociale:BUSNELLI ELISA%0AUbicazione:%0AOggetto:INSTALLAZIONE DI SNACK BAR NELL'AMBITO DEL LUNA PARK FESTA PASTRONALE</description>
-			<a10:updated>2019-07-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0142416/7-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0142416/7-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0142416/7-7-2019%0ARagione sociale:BUSNELLI ANDREA%0AUbicazione:%0AOggetto:INSTALLAZIONE ATTRAZIONI TEMPORANEE LUNA PARK FESTA PATRONALE</description>
 			<a10:updated>2019-07-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
