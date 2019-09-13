@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 12 Sep 2019 15:00:58 Z</lastBuildDate>
+		<lastBuildDate>Fri, 13 Sep 2019 12:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0186303/12-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0186303/12-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0186303/12-9-2019%0ARagione sociale:REGALA UN SORRISO%0AUbicazione:PIAZZA CONCILIAZIONE%0AOggetto:MANIFESTAZIONE PENTOLA DELLA SOLIDARIETA' - TRIPPA IN PIAZZA</description>
+			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0186188/12-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0186188/12-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0186188/12-9-2019%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA KARL MARX%0AOggetto:COMUNICAZIONE DI VENDITA SOTTOCOSTO</description>
+			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0186180/12-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0186180/12-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0186180/12-9-2019%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA PER SEREGNO%0AOggetto:COMUNICAZIONE DI VENDITA SOTTOCOSTO</description>
+			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0185942/12-9-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147131/12-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147131/12-7-2019%0ARagione sociale:STAFFIERO DAVIDE MARIA FEDERICO%0AUbicazione:%0AOggetto:SUBINGRESSO POSTEGGIO 12 - MERCATO SUD - DAL 08/07/2019</description>
 			<a10:updated>2019-07-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147100/12-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147100/12-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147100/12-7-2019%0ARagione sociale:MAN BAR DI MIRENDA NINO%0AUbicazione:VIA GARIBALDI%0AOggetto:ampliamento zona esterna con posizionamento tavoli e fioriere</description>
-			<a10:updated>2019-07-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0146730/12-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0146730/12-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0146730/12-7-2019%0ARagione sociale:GEMEAZ ELIOR%0AUbicazione:%0AOggetto:Servizio di Ristorazione presso A.S.P. GAVAZZI: Aggiornamento OSA riferimento protocollo SUAP 0064548 del 09/04/2018</description>
-			<a10:updated>2019-07-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145471/11-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0145471/11-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0145471/11-7-2019%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER CESANO%0AOggetto:COMUNICAZIONE NUOVI ORARI APERTURA MESI LUGLIO-AGOSTO</description>
-			<a10:updated>2019-07-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
