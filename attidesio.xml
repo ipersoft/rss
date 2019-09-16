@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 16 Sep 2019 08:00:58 Z</lastBuildDate>
+		<lastBuildDate>Mon, 16 Sep 2019 10:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5126707</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5126707</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4104 DEL 21/06/2019 PROT.157/2019 </description>
+			<a10:updated>2019-09-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5124520</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5124520</link>
@@ -157,14 +165,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA CASCINA BOLAGNOS (LAVORI RETI PIU') </description>
-			<a10:updated>2019-09-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5118336</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5118336</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>FORNITURA TRAMITE MEPA DELLE LICENZE VEEAM BACKUP ESSENTIALS ENTERPRISE PER SISTEMI DI BACKUP E RECOVERY PER LO SVILUPPO MISURE MINIME DI SICUREZZA – CIG ZE029AE0C4 </description>
 			<a10:updated>2019-09-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
