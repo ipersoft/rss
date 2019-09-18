@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 18 Sep 2019 08:00:53 Z</lastBuildDate>
+		<lastBuildDate>Wed, 18 Sep 2019 15:00:57 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0190405/18-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0190405/18-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0190405/18-9-2019%0ARagione sociale:Studio di architettura di Roberto Fabio Vicamini%0AUbicazione:PIAZZA DELLA CONCILIAZIONE%0AOggetto:Realizzazione di una foresteria integrata in uno studio di architettura</description>
+			<a10:updated>2019-09-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0189786/17-9-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147310/13-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147310/13-7-2019%0ARagione sociale:S.C.E.F. S.P.A.%0AUbicazione:VIA DEL COMMERCIO%0AOggetto:Non si tratta di una messa in esercizio, in quanto il punto di emissione E1 è già in esercizio. La presente è una comunicazione di effettuazione dell' intervento di modifica non sostanziale descritto nella pratica inviata in data 25/03/2019 e relativo ad una modifica di layout.</description>
-			<a10:updated>2019-07-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147306/13-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147306/13-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147306/13-7-2019%0ARagione sociale:FARO S.A.S. DI FABIO E ROSSANA SESSA%0AUbicazione:VIA GAETANA AGNESI%0AOggetto:L’intervento riguarda: - Diversa distribuzione dei tavolati interni - Spostamento e diversa dimensione di alcune finestre - Realizzazione di controsoffitti in cartongesso non strutturale</description>
 			<a10:updated>2019-07-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
