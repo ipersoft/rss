@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 19 Sep 2019 10:01:00 Z</lastBuildDate>
+		<lastBuildDate>Thu, 19 Sep 2019 15:00:59 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0192181/19-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0192181/19-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0192181/19-9-2019%0ARagione sociale:CAPPELLINI VEG LAB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA%0AUbicazione:VIA UMBERTO GIORDANO%0AOggetto:INIZIO ATTIVITA' DI LAVORAZIONE E COTTURA A BASSA TEMPERATURA SOTTOVUOTO DI FRUTTA E VERDURA.</description>
+			<a10:updated>2019-09-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0192018/19-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0192018/19-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0192018/19-9-2019%0ARagione sociale:C.M. Costruzioni Meccaniche di Crippa Siro%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:messa in esercizio di impianto elevatore (piattaforma elevatrice) ad azionamento elettrico</description>
+			<a10:updated>2019-09-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0191643/19-9-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147693/15-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147693/15-7-2019%0ARagione sociale:SOLO DONNA DI D'AMICO ROSALINDA%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:SCIA DI CESSAZIONE ATTIVITA' DI ACCONCIATURE PER SIGNORA</description>
-			<a10:updated>2019-07-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147453/15-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147453/15-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147453/15-7-2019%0ARagione sociale:PRESOTTO PAOLA%0AUbicazione:%0AOggetto:RICHIESTA AUTORIZZAZIONE PER COMMERCIO ITINERANTE NON ALIMENTARE</description>
-			<a10:updated>2019-07-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147451/15-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147451/15-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147451/15-7-2019%0ARagione sociale:MAX IL FOTOGRAFO DESIO DI PANDULLO MASSIMILIANO%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:inizio attività fotografica (studio fotografico).</description>
 			<a10:updated>2019-07-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
