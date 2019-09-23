@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 23 Sep 2019 10:00:55 Z</lastBuildDate>
+		<lastBuildDate>Mon, 23 Sep 2019 12:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5139888</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5139888</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>DETERMINAZIONE A CONTRARRE AI SENSI DELL'ARTICOLO 36 COMMA 2 LETTERA A) DEL D.LGS. 50/2016 PER L’AFFIDAMENTO DIRETTO DEL SERVIZIO DI FACILITAZIONE LINGUISTICA A FAVORE DI ALUNNI STRANIERI RESIDENTI NEI COMUNI DELL’AMBITO DI DESIO – PERIODO 16/09/2019-30/06/2020 – A PROGETTO INTEGRAZIONE COOPERATIVA SOCIALE A R.L. </description>
+			<a10:updated>2019-09-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5139393</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5139393</link>
@@ -158,14 +166,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>INDIZIONE DI PROCEDURA NEGOZIATA PER L’AFFIDAMENTO DELLA FORNITURA DI UN AUTOVEICOLO ALLESTITO PER SERVIZI DI PROTEZIONE CIVILE MEDIANTE RICORSO AL MEPA. EURO 39.950,00 I.V.A. COMPRESA. CIG Z4629B93DD. </description>
 			<a10:updated>2019-09-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5130776</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5130776</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CIMITERO COMUNALE DI VIALE DELLE RIMEMBRANZE – REALIZZAZIONE NUOVI COLOMBARI E OSSARI – PRESA D’ATTO DEL PROGETTO ESECUTIVO DEI LAVORI ELABORATO DA G.S.D. S.R.L. </description>
-			<a10:updated>2019-09-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
