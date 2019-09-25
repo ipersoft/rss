@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 24 Sep 2019 15:00:59 Z</lastBuildDate>
+		<lastBuildDate>Wed, 25 Sep 2019 15:01:03 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0196075/24-9-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0196075/24-9-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0196075/24-9-2019%0ARagione sociale:MATI CAR DI MONOSTRULLI MATILDE%0AUbicazione:VIA SAN VINCENZO DE` PAOLI%0AOggetto:INIZIO ATTIVITA' NOLEGGIO SENZA CONDUCENTE</description>
+			<a10:updated>2019-09-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0195761/24-9-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0151831/19-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0151831/19-7-2019%0ARagione sociale:CO.BRA. S.A S. DI CONTE GIANNI E C.%0AUbicazione:VIA MOLINARA%0AOggetto:nuovo insediamento produttivo</description>
 			<a10:updated>2019-07-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0151483/18-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0151483/18-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0151483/18-7-2019%0ARagione sociale:PIROTECNICA VERGA SRL%0AUbicazione:%0AOggetto:Allestimento ed esecuzione spettacolo pirotecnico nella serata del 02/09/2019 - Parrocchia San Giovanni Battista via D. Vittorio 18.</description>
-			<a10:updated>2019-07-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
