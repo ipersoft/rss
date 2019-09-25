@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 25 Sep 2019 10:00:57 Z</lastBuildDate>
+		<lastBuildDate>Wed, 25 Sep 2019 12:00:59 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5145816</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5145816</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAIZONE STRADALE IN VIA GABELLINI </description>
+			<a10:updated>2019-09-25T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5145814</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5145814</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SANTI SIRO E MATERNO </description>
+			<a10:updated>2019-09-25T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5145812</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5145812</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA CARAVAGGIO </description>
+			<a10:updated>2019-09-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5141630</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5141630</link>
@@ -142,30 +166,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>RISOLUZIONE UNILATERALE DEL RAPPORTO DI LAVORO PER LIMITI DI ETA’ ORDINAMENTALE - DIPENDENTE SIG.RA ARIENTI LAURA </description>
 			<a10:updated>2019-09-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5134742</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5134742</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>TRASFERIMENTO IN MOBILITA’ - EX ART. 30 D.LGS. 165/2001 DAL COMUNE DI BRUGHERIO AL COMUNE DI DESIO DELL' ARCH. SANTINELLI LORENA - DA ASSEGNARE ALL’AREA TECNICA/ SERVIZIO LAVORI PUBBLICI </description>
-			<a10:updated>2019-09-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5134740</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5134740</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>TRASFERIMENTO IN MOBILITA’ - EX ART. 30 D.LGS. 165/2001 DAL COMUNE DI BARLASSINA AL COMUNE DI DESIO DELLA SIG.RA PINATO LAURA - DA ASSEGNARE ALL’AREA GESTIONE RISORSE/SERVIZIO POLITICHE DELLA CASA </description>
-			<a10:updated>2019-09-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5132753</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5132753</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>FORNITURA, TRAMITE RDO SU MEPA, DI LICENZE SOFTWARE MICROSOFT - DETERMINA A CONTRARRE -CIG Z1E29C765B </description>
-			<a10:updated>2019-09-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
