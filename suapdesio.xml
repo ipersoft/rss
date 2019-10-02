@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 01 Oct 2019 15:00:58 Z</lastBuildDate>
+		<lastBuildDate>Wed, 02 Oct 2019 08:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0202385/1-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0202385/1-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0202385/1-10-2019%0ARagione sociale:CACIO E PEPE SRL%0AUbicazione:CORSO ITALIA%0AOggetto:ISTANZA PER APERTURA SOMMINISTRAZIONE ALIMENTI (RISTORANTE E BAR)</description>
+			<a10:updated>2019-10-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0202291/1-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0153905/23-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0153905/23-7-2019%0ARagione sociale:MONDOVISIONE SOCIETA' COOPERATIVA SOCIALE ONLUS%0AUbicazione:VIA DEI CAVALIERI DI VITTORIO VENETO%0AOggetto:servizio sommnistrazione bibite e bevande presso l'area esterna a bocciofila , presso Parco Tittoni Desio in occasione della 3 giorni dedicate alla Puglia street food organizzato da Via Audio srl</description>
 			<a10:updated>2019-07-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0153575/22-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0153575/22-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0153575/22-7-2019%0ARagione sociale:LA BOTTEGA DEL CALABRESE S.N.C. DI PUGLIANO FRANCESCO E LEROSE TERESA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA' DI SOMMINISTRAZIONE DI ALIMENTI E BEVANDE</description>
-			<a10:updated>2019-07-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
