@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 03 Oct 2019 08:00:57 Z</lastBuildDate>
+		<lastBuildDate>Thu, 03 Oct 2019 10:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0204263/3-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0204263/3-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0204263/3-10-2019%0ARagione sociale:FIORE EDICART DI STUCCHI FIORENZO%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:VARIAZIONE GIORNO DI CHIUSURA</description>
+			<a10:updated>2019-10-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0203908/3-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0154887/24-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0154887/24-7-2019%0ARagione sociale:BRIDAROLLI SRL%0AUbicazione:VIA DEL GUADO%0AOggetto:INIZIO ATTIVITA' PRODUTTIVA DI MACCHINE PER ADESIVI A CALDO, COMPRESO I RELATIVI QUADRI ELETTRICI, SVOLTA SOLO MEDIANTE ASSEMBLAGGIO MANUALE DEI PEZZI.</description>
 			<a10:updated>2019-07-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0154178/23-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0154178/23-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0154178/23-7-2019%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:BANCO DOLCIUMI E FRITTELLE IN OCCASIONE DELLA FESTA PATRONALE DAL 5 AL 7 OTTOBRE 2019</description>
-			<a10:updated>2019-07-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
