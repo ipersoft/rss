@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 03 Oct 2019 15:00:57 Z</lastBuildDate>
+		<lastBuildDate>Fri, 04 Oct 2019 08:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0205369/4-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0205369/4-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0205369/4-10-2019%0ARagione sociale:MANCUSO PIU' SRL%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:SCIA SOMMINISTRAZIONE TEMPORANEA IN OCCASIONE DI MANIFESTAZIONI SPORTIVE PRESSO PALABANCODESIO.</description>
+			<a10:updated>2019-10-04T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0205236/3-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0205236/3-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0205236/3-10-2019%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E REGGIO EMILIA</description>
+			<a10:updated>2019-10-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0204444/3-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0156116/25-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0156116/25-7-2019%0ARagione sociale:VOODOO CAR DI LEAHU NECULAI IONUT%0AUbicazione:VIA MULINELLO%0AOggetto:Richiesta autorizzazione scarico in atmosfera per attività di carrozzeria</description>
 			<a10:updated>2019-07-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155392/24-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155392/24-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155392/24-7-2019%0ARagione sociale:IL POETA DI MAHROUS BAHAA BARTY MAKRAM BOLEK%0AUbicazione:VIA MONTE ROSA%0AOggetto:DICHIARAZIONE DI CONSUMO IMMEDIATO SUL POSTO A FRONTE DI SCIA DI SUBINGRESSO PROT. 1747 DEC. 08-04-2019</description>
-			<a10:updated>2019-07-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155245/24-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155245/24-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155245/24-7-2019%0ARagione sociale:HU HAIOU%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' RIPARAZIONE PRODOTTI ELETTRONICI</description>
-			<a10:updated>2019-07-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
