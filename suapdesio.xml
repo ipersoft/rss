@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 14 Oct 2019 08:01:12 Z</lastBuildDate>
+		<lastBuildDate>Mon, 14 Oct 2019 15:01:10 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0214227/14-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0214227/14-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0214227/14-10-2019%0ARagione sociale:GRIPX DI COMELLI MATTEO%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:CHIUSURA ATTIVITA' COMMERCIO AL DETTAGLIO DI PRODOTTI VIA INTERNET DI ARTICOLI DI ELETTRONICA E ACCESSORI VARI</description>
+			<a10:updated>2019-10-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0213322/11-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0160655/31-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0160655/31-7-2019%0ARagione sociale:marco Meroni%0AUbicazione:VIA VINCENZO MONTI%0AOggetto:La presente pratica di Comunicazione di inizio lavori Asseverata ai sensi dell' art. 6-bis, comma 5 del d.P.R. n. 380/2001, riguarda opere già realizzate. Le opere realizzate comprendono opere interne e l’accorpamento di due unità immobiliari, l'edificio è ubicato nel Comune di Desio in via monti58</description>
-			<a10:updated>2019-07-31T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0159968/31-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0159968/31-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0159968/31-7-2019%0ARagione sociale:Acciai Brianza S.p.A.%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:Pratica di rinnovo dell'autorizzazione in via generale per impianti e attività in deroga - ai sensi dell'art. 272 c. 3 D. Lgs. 152/06 e s.m.i. della DGR Lombardia 30.12.2008 n. 8/8832, del DDUO Regione Lombardia 23.12.2011 n. 12772, Allegato tecnico n. 32</description>
 			<a10:updated>2019-07-31T00:00:00Z</a10:updated>
 		</item>
 	</channel>
