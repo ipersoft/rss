@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 11 Oct 2019 15:01:08 Z</lastBuildDate>
+		<lastBuildDate>Mon, 14 Oct 2019 08:01:12 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0213322/11-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0213322/11-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0213322/11-10-2019%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Commemorazione dei defunti fianco ex pretura nei giorni 31 Ottobre. 01/02 Novembre anno 2019</description>
+			<a10:updated>2019-10-11T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0212593/11-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0159968/31-7-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0159968/31-7-2019%0ARagione sociale:Acciai Brianza S.p.A.%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:Pratica di rinnovo dell'autorizzazione in via generale per impianti e attività in deroga - ai sensi dell'art. 272 c. 3 D. Lgs. 152/06 e s.m.i. della DGR Lombardia 30.12.2008 n. 8/8832, del DDUO Regione Lombardia 23.12.2011 n. 12772, Allegato tecnico n. 32</description>
 			<a10:updated>2019-07-31T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0159539/30-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0159539/30-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0159539/30-7-2019%0ARagione sociale:Galimberti Pierantonio%0AUbicazione:N.D. VITTORIO%0AOggetto:LICENZA PER PUBBLICO TRATTENIMENTO E SPETTACOLO NELL'AMBITO DELLA TRADIZIONALE FESTA DI SAN ROCCO CON CONTESTUALE SOMMINISTRAZIONE TEMPORANEA DI ALIMENTI E BEVANDE.</description>
-			<a10:updated>2019-07-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
