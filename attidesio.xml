@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 15 Oct 2019 10:01:07 Z</lastBuildDate>
+		<lastBuildDate>Tue, 15 Oct 2019 12:01:06 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5186802</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5186802</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>“PUBBLIPHOTO &amp; VIDEO DI PELLIZZONI TIZIANO &amp; C. S.N.C.”. ESERCIZIO COMMERCIALE SITO IN VIA GARIBALDI, 84. ORDINANZA DI SOSPENSIONE DELL’ATTIVITÀ. </description>
+			<a10:updated>2019-10-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5186709</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5186709</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>“GRUPPO COMMERCIANTI ASSOCIATI GENERALMARKET SRL”. MEDIA STRUTTURA DI VIA PALLAVICINI, 5. INATTIVITÀ. PROCEDIMENTO DI REVOCA EX ART. 22, COMMA 4, DEL D.LGS. 114/98. </description>
+			<a10:updated>2019-10-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5186488</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5186488</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>APPROVAZIONE DELLA GRADUATORIA DEFINITIVA PER L'ASSEGNAZIONE DI ALLOGGI DESTINATI A SERVIZI ABITATIVI PUBBLICI – AVVISO N. 560/2019 </description>
-			<a10:updated>2019-10-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5178218</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5178218</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GABELLINI </description>
-			<a10:updated>2019-10-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5178216</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5178216</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>SERVIZIO DI MANUTENZIONE ORDINARIA DEGLI IMPIANTI DI VIDEOCONTROLLO, ANTINTRUSIONE, RILEVAZIONE FUMI, PORTE E CANCELLI AUTOMATICI PRESSO LE SCUOLE ED EDIFICI COMUNALI DIVERSI DEL COMUNE DI DESIO – BIENNIO OTTOBRE 2019 / SETTEMBRE 2021 (RINNOVABILE DI UN ULTERIORE ANNO). PRESA D’ATTO RINUNCIA DELL’AGGIUDICATARIA ED AFFIDAMENTO LAVORI ALLA SECONDA CLASSIFICATA - CODICE CIG:7985899C52 </description>
 			<a10:updated>2019-10-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
