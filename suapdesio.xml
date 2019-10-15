@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 14 Oct 2019 15:01:10 Z</lastBuildDate>
+		<lastBuildDate>Tue, 15 Oct 2019 12:01:09 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0214802/14-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0214802/14-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0214802/14-10-2019%0ARagione sociale:FRATELLI PAGANO SNC DI PAGANO ANDREA E GIOVANNI%0AUbicazione:VIA MULINELLO%0AOggetto:subentro all'attività. la società fratelli Pagano Snc di Pagano Andre e Giovanni subentra alla ditta Pagano Sebastiano</description>
+			<a10:updated>2019-10-14T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0214785/14-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0214785/14-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0214785/14-10-2019%0ARagione sociale:FRATELLI PAGANO SNC DI PAGANO ANDREA E GIOVANNI%0AUbicazione:VIA MULINELLO%0AOggetto:voltura emissioni in atmosfera</description>
+			<a10:updated>2019-10-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0214227/14-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163719/5-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163719/5-8-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA GAETANA AGNESI%0AOggetto:REALIZZAZIONE NUOVA SRB ILIAD DENOMINATA MB20832_012 DESIO AGNESI</description>
 			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0163484/5-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163484/5-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163484/5-8-2019%0ARagione sociale:ACCI PIZZA DI ALLEGRO ANGELA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITÀ PIZZERIA D'ASPORTO</description>
-			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0160655/31-7-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0160655/31-7-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0160655/31-7-2019%0ARagione sociale:marco Meroni%0AUbicazione:VIA VINCENZO MONTI%0AOggetto:La presente pratica di Comunicazione di inizio lavori Asseverata ai sensi dell' art. 6-bis, comma 5 del d.P.R. n. 380/2001, riguarda opere già realizzate. Le opere realizzate comprendono opere interne e l’accorpamento di due unità immobiliari, l'edificio è ubicato nel Comune di Desio in via monti58</description>
-			<a10:updated>2019-07-31T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
