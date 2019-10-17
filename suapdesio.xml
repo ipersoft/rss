@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 16 Oct 2019 15:01:07 Z</lastBuildDate>
+		<lastBuildDate>Thu, 17 Oct 2019 08:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0217166/16-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0217166/16-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0217166/16-10-2019%0ARagione sociale:ART DECOR LEGNO S.R.L.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:FINITURA DI MOBILI</description>
+			<a10:updated>2019-10-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0214802/14-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163855/5-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163855/5-8-2019%0ARagione sociale:VITA AL GUSTO DI SOLIMANDO RUSSO MARIA ALESSANDRA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:DENUNCIA SECONDA ATTIVITA'</description>
-			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0163719/5-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163719/5-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163719/5-8-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA GAETANA AGNESI%0AOggetto:REALIZZAZIONE NUOVA SRB ILIAD DENOMINATA MB20832_012 DESIO AGNESI</description>
 			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
