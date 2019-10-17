@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 17 Oct 2019 10:01:03 Z</lastBuildDate>
+		<lastBuildDate>Thu, 17 Oct 2019 15:01:10 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0218296/17-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0218296/17-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0218296/17-10-2019%0ARagione sociale:PERAGINE RAFFAELE%0AUbicazione:%0AOggetto:RICHIESTA LICENZA ITINERANTE</description>
+			<a10:updated>2019-10-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0217456/17-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164168/5-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164168/5-8-2019%0ARagione sociale:REAL CAR S.R.L.%0AUbicazione:VIA ARMANDO DIAZ%0AOggetto:Domanda di adesione all'autorizzazione in via generale ai sensi dell'art. 272, comma 3, del D.Lgs 152/2006 per l'esercizio della/delle attività in deroga di cui art. 272, comma 2, del D.Lgs 152/2006</description>
-			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0164094/5-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164094/5-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164094/5-8-2019%0ARagione sociale:CO.BRA SAS DI CONTE GIANNI E C.%0AUbicazione:VIA molinara%0AOggetto:domanda si adesione all' autorizzazione per emissioni in atmosfera art. 272 comma 2 del D.Lgs. 152/2006 per allegato n.32a</description>
 			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
