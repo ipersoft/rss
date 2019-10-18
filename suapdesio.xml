@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 18 Oct 2019 10:01:06 Z</lastBuildDate>
+		<lastBuildDate>Fri, 18 Oct 2019 15:01:12 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0219499/18-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0219499/18-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0219499/18-10-2019%0ARagione sociale:TRAMALLONI MADDALENA%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:CESSAZIONE ATTIVITA'</description>
+			<a10:updated>2019-10-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0218296/17-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164554/6-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164554/6-8-2019%0ARagione sociale:PALMAD S.R.L.%0AUbicazione:VIA BENGASI%0AOggetto:VENDITA SOTTOCOSTO IN ESERCIZIO DI COMMERCIO AL DETTAGLIO DI VICINATO DAL 05 AL 14 SETTEMBRE 2019</description>
 			<a10:updated>2019-08-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0164168/5-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164168/5-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164168/5-8-2019%0ARagione sociale:REAL CAR S.R.L.%0AUbicazione:VIA ARMANDO DIAZ%0AOggetto:Domanda di adesione all'autorizzazione in via generale ai sensi dell'art. 272, comma 3, del D.Lgs 152/2006 per l'esercizio della/delle attività in deroga di cui art. 272, comma 2, del D.Lgs 152/2006</description>
-			<a10:updated>2019-08-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
