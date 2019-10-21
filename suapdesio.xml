@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 18 Oct 2019 15:01:12 Z</lastBuildDate>
+		<lastBuildDate>Mon, 21 Oct 2019 08:01:09 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0219782/18-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0219782/18-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0219782/18-10-2019%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E TRENTO DOMENICA 20 OTTOBRE 2019</description>
+			<a10:updated>2019-10-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0219499/18-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0165483/6-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0165483/6-8-2019%0ARagione sociale:FABRIC DESIGN SRL%0AUbicazione:VIA DEL COMMERCIO%0AOggetto:COMMERCIO ALL'INGROSSO</description>
-			<a10:updated>2019-08-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0164554/6-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0164554/6-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0164554/6-8-2019%0ARagione sociale:PALMAD S.R.L.%0AUbicazione:VIA BENGASI%0AOggetto:VENDITA SOTTOCOSTO IN ESERCIZIO DI COMMERCIO AL DETTAGLIO DI VICINATO DAL 05 AL 14 SETTEMBRE 2019</description>
 			<a10:updated>2019-08-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
