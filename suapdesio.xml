@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 24 Oct 2019 12:01:12 Z</lastBuildDate>
+		<lastBuildDate>Thu, 24 Oct 2019 15:01:10 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0224172/24-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0224172/24-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0224172/24-10-2019%0ARagione sociale:MUNIR AFTAB%0AUbicazione:VIA SAN PIO XI 50 ANG. VIA LAGHETTO%0AOggetto:SOMMINISTRAZIONE E VENDITA DI ALIMENTI E BEVANDE NON ALCOLICHE</description>
+			<a10:updated>2019-10-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0223656/24-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0169744/13-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0169744/13-8-2019%0ARagione sociale:Mondovisione Soc. Coop. Sociale ONLUS%0AUbicazione:VIA DEI CAVALIERI DI VITTORIO VENETO%0AOggetto:Somministrazione bevande in occasione dell'evento Puglia in Festa date 23-24-25 agosto</description>
 			<a10:updated>2019-08-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0168648/9-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0168648/9-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0168648/9-8-2019%0ARagione sociale:RICCI BRUNO%0AUbicazione:%0AOggetto:INSTALLAZIONE SALTO TRAMPOLINO IN OCCASIONE DELLA FESTA DELLO SPORT. SI SEGNALA CHE L'UFFICIO RIMARRA' CHIUSO FINO AL 9/9/19: PER INFORMAZIONI E/O INTEGRAZIONI SI PREGA DI ATTENDERE IL GIORNO 9. GRAZIE.</description>
-			<a10:updated>2019-08-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
