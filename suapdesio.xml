@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 28 Oct 2019 16:01:07 Z</lastBuildDate>
+		<lastBuildDate>Tue, 29 Oct 2019 09:01:10 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0227093/28-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0227093/28-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0227093/28-10-2019%0ARagione sociale:DOUBLE G SMART TRADE S.R.L.%0AUbicazione:VIA DEL GUADO%0AOggetto:APERTURA ATTIVITA' DI NOLEGGIO SENZA CONDUCENTE E SENZA DEPOSITO DI AUTO, MOTO, BICICLETTE, IMBARCAZIONI NUOVE ED USATE</description>
+			<a10:updated>2019-10-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0225945/28-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0173305/23-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0173305/23-8-2019%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione Festa Patronale nei giorni 05/06/07 Ottobre 2019 ( Via Garibaldi )</description>
 			<a10:updated>2019-08-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0172819/22-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0172819/22-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0172819/22-8-2019%0ARagione sociale:GIROLAMI RONNIE%0AUbicazione:%0AOggetto:LUNA PARK OTTOBRE 2019</description>
-			<a10:updated>2019-08-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
