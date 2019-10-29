@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 29 Oct 2019 09:01:10 Z</lastBuildDate>
+		<lastBuildDate>Tue, 29 Oct 2019 16:01:11 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0227558/29-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0227558/29-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0227558/29-10-2019%0ARagione sociale:ESSELUNGA SPA%0AUbicazione:VIA CARAVAGGIO%0AOggetto:SOTTOCOSTO ESSELUNGA DAL 14 AL 23/11/2019</description>
+			<a10:updated>2019-10-29T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0227480/29-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0227480/29-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0227480/29-10-2019%0ARagione sociale:ORISONT S.R.L.%0AUbicazione:VIA ALDO BOZZI%0AOggetto:Autotrasporto merci conto terzi senza deposito con deposito di mezzi vuoti</description>
+			<a10:updated>2019-10-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0227093/28-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0174578/27-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0174578/27-8-2019%0ARagione sociale:LA BOTTEGA DEL CALABRESE S.N.C. DI PUGLIANO FRANCESCO E LEROSE TERESA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA' COMMERCIO AL DETTAGLIO DI GENERI ALIMENTARI</description>
 			<a10:updated>2019-08-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0174491/27-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0174491/27-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0174491/27-8-2019%0ARagione sociale:FIRARI MOHAMMED%0AUbicazione:%0AOggetto:RICHIESTA PARTECIPAZIONE SPUNTA MERCATO COMUNALE NOER E SUD DEL LUNEDI</description>
-			<a10:updated>2019-08-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0173305/23-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0173305/23-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0173305/23-8-2019%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione Festa Patronale nei giorni 05/06/07 Ottobre 2019 ( Via Garibaldi )</description>
-			<a10:updated>2019-08-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
