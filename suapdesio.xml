@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 31 Oct 2019 11:01:09 Z</lastBuildDate>
+		<lastBuildDate>Thu, 31 Oct 2019 16:01:15 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0230770/31-10-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0230770/31-10-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0230770/31-10-2019%0ARagione sociale:HEMIDA REDA IBRAHIM HAMED%0AUbicazione:%0AOggetto:SCIA SUBINGRESSO MERCATO POSTEGGIO DI MERCATO</description>
+			<a10:updated>2019-10-31T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0228504/29-10-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0175767/29-8-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0175767/29-8-2019%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA MILANO%0AOggetto:Autocertificazione di Attivazione di impianto di debole potenza e ridotte dimensioni - SRB ILIAD: MB20832_003 DESIO VIA MILANO</description>
 			<a10:updated>2019-08-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0175225/28-8-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0175225/28-8-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0175225/28-8-2019%0ARagione sociale:MASTELLARO ENZO%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA DEL MERCATO DI DESIO SUD DEL LUNEDI'</description>
-			<a10:updated>2019-08-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
