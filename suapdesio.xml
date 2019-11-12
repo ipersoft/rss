@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 12 Nov 2019 09:01:10 Z</lastBuildDate>
+		<lastBuildDate>Tue, 12 Nov 2019 16:01:12 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0238534/12-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0238534/12-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0238534/12-11-2019%0ARagione sociale:CIRCO MADAGASCAR%0AUbicazione:%0AOggetto:AUTORIZZAZIONE SPETTACOLO CIRCO</description>
+			<a10:updated>2019-11-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0238071/11-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0181482/6-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0181482/6-9-2019%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER CESANO%0AOggetto:COMUNICAZIONE NUOVI ORARI APERTURA ATTIVITA' DI SOMMINISTRAZIONE DA SETTEMBRE</description>
-			<a10:updated>2019-09-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0181419/6-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0181419/6-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0181419/6-9-2019%0ARagione sociale:ADDUCI NUNZIATA%0AUbicazione:VIA GIUSEPPE DI VITTORIO%0AOggetto:INIZIO ATTIVITA' SECONDARIA DI COMMERCIO ALL'INGROSSO DI PRODOTTI, ATTREZZATURE E ARREDI PER PARRUCCHIERI</description>
 			<a10:updated>2019-09-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
