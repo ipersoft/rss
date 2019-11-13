@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 12 Nov 2019 16:01:12 Z</lastBuildDate>
+		<lastBuildDate>Wed, 13 Nov 2019 16:01:15 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0239769/13-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0239769/13-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0239769/13-11-2019%0ARagione sociale:rachidi mohammed%0AUbicazione:%0AOggetto:partecipazione alla spunta al mercato rionale</description>
+			<a10:updated>2019-11-13T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0239308/12-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0239308/12-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0239308/12-11-2019%0ARagione sociale:Filurete Tereza Gabriela%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:ATTIVITA' DI VICINATO TABELLA SPECIALE GENERI DI MONOPOLI E COMMERCIO DI GENERI ALIMENTARI TRAMITE DISTRIBUTORE AUTOMATICO</description>
+			<a10:updated>2019-11-12T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0239273/12-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0239273/12-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0239273/12-11-2019%0ARagione sociale:ICAM SRL%0AUbicazione:VIA OSLAVIA%0AOggetto:Modifica di attività esistente: Scia per riduzione superficie</description>
+			<a10:updated>2019-11-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0238534/12-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0183647/10-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0183647/10-9-2019%0ARagione sociale:ALI FRUTTA DI ALI ELSAYED%0AUbicazione:%0AOggetto:DOMANDA SPUNTA MERCATO DEL LUNEDI DESIO NORD</description>
 			<a10:updated>2019-09-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0181987/6-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0181987/6-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0181987/6-9-2019%0ARagione sociale:BIANCHI MARIO%0AUbicazione:%0AOggetto:RICHIESTA INSTALLAZIONE GIOSTRE</description>
-			<a10:updated>2019-09-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0181766/6-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0181766/6-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0181766/6-9-2019%0ARagione sociale:ADMA FRUTTA DI ABDELRHEEM MOHAMMED KANDEEL HASHEM%0AUbicazione:%0AOggetto:SCIA SUBINGRESSO MERCATO DEL LUNEDI'</description>
-			<a10:updated>2019-09-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0181482/6-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0181482/6-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0181482/6-9-2019%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER CESANO%0AOggetto:COMUNICAZIONE NUOVI ORARI APERTURA ATTIVITA' DI SOMMINISTRAZIONE DA SETTEMBRE</description>
-			<a10:updated>2019-09-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
