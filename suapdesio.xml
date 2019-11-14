@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 13 Nov 2019 16:01:15 Z</lastBuildDate>
+		<lastBuildDate>Thu, 14 Nov 2019 16:01:11 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0240778/14-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0240778/14-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0240778/14-11-2019%0ARagione sociale:PUBBLIPHOTO &amp; VIDEO DI PELLIZZONI TIZIANO &amp; C. S.N.C.%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:CAMBIO INDIRIZZO Unità LOCALE</description>
+			<a10:updated>2019-11-14T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0240194/13-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0240194/13-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0240194/13-11-2019%0ARagione sociale:OLIA MAURO%0AUbicazione:%0AOggetto:Richiesta di posteggio in occasione della Festa della Befana nei giorni 3-4-5-6-gennaio 2020, in via Garibaldi ,piazzetta fronte via Tripoli , superfice pari a mq 21</description>
+			<a10:updated>2019-11-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0239769/13-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0184516/11-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0184516/11-9-2019%0ARagione sociale:RUSSO ALESSANDRO%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:APERTURA CENTRO BENESSERE</description>
 			<a10:updated>2019-09-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0183846/10-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0183846/10-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0183846/10-9-2019%0ARagione sociale:CANZI MONICA%0AUbicazione:%0AOggetto:COMUNICAZIONE ASSENZA PER MATERNITA'</description>
-			<a10:updated>2019-09-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0183647/10-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0183647/10-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0183647/10-9-2019%0ARagione sociale:ALI FRUTTA DI ALI ELSAYED%0AUbicazione:%0AOggetto:DOMANDA SPUNTA MERCATO DEL LUNEDI DESIO NORD</description>
-			<a10:updated>2019-09-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
