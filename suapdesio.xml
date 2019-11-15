@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Nov 2019 13:01:18 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 Nov 2019 16:01:09 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0242476/15-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0242476/15-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0242476/15-11-2019%0ARagione sociale:ILIAD ITALIA%0AUbicazione:VIA AGNESI%0AOggetto:COMUNICAZIONE INIZIO LAVORI SRB ILIAD MB20832_012 DESIO AGNESI</description>
+			<a10:updated>2019-11-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0242059/15-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0185290/11-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0185290/11-9-2019%0ARagione sociale:LA CASA DI MARIO DI D'IPPOLITO MARIO%0AUbicazione:VIA CARLO FORLANINI%0AOggetto:APERTURA NUOVA ATTIVITA' VENDITA DI DETERSIVI PER LA CASA E PER LA PULIZIA E CURA DELLA PERSONA.</description>
-			<a10:updated>2019-09-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0185270/11-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0185270/11-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0185270/11-9-2019%0ARagione sociale:MOSCA MATTIA%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA DEL MERCATO DI LUNEDì A DESIO NORD</description>
 			<a10:updated>2019-09-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
