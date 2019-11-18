@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 18 Nov 2019 11:01:07 Z</lastBuildDate>
+		<lastBuildDate>Mon, 18 Nov 2019 16:01:10 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0243090/18-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0243090/18-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0243090/18-11-2019%0ARagione sociale:ECO.SMALT S.R.L.%0AUbicazione:VIALE SABOTINO%0AOggetto:Richiesta collaudo</description>
+			<a10:updated>2019-11-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0242476/15-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0185426/12-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0185426/12-9-2019%0ARagione sociale:PIZZALAND DI FARRUGGIO CARMELO%0AUbicazione:VIA GARIBALDI%0AOggetto:CESSAZIONE DELL'ATTIVITA' DI PIZZERIA D'ASPORTO</description>
 			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0185290/11-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0185290/11-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0185290/11-9-2019%0ARagione sociale:LA CASA DI MARIO DI D'IPPOLITO MARIO%0AUbicazione:VIA CARLO FORLANINI%0AOggetto:APERTURA NUOVA ATTIVITA' VENDITA DI DETERSIVI PER LA CASA E PER LA PULIZIA E CURA DELLA PERSONA.</description>
-			<a10:updated>2019-09-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
