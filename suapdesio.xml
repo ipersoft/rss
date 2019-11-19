@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 18 Nov 2019 16:01:10 Z</lastBuildDate>
+		<lastBuildDate>Tue, 19 Nov 2019 16:01:13 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0243670/18-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0243670/18-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0243670/18-11-2019%0ARagione sociale:VOLLEY MILANO SRL%0AUbicazione:%0AOggetto:Partita di serie A1 maschile di pallavolo Vero Volley Monza contro Leo Shoes Azimut Modena il 1 dicembre 2019 alle ore 18.00 presso il Palabancodesio di Desio (largo Atleti Azzurri d'Italia).</description>
+			<a10:updated>2019-11-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0243090/18-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0185942/12-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0185942/12-9-2019%0ARagione sociale:KTAMAT MHAMMED%0AUbicazione:%0AOggetto:SUBINGRESSO IN POSTEGGIO DI MERCATO NEL MERCATO SETTIMANALE DI DESIO CHE SI SVOLGE NELLA GIORNATA DEL LUNEDI' IN PIAZZA GIOVANNI XXIII</description>
-			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0185426/12-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0185426/12-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0185426/12-9-2019%0ARagione sociale:PIZZALAND DI FARRUGGIO CARMELO%0AUbicazione:VIA GARIBALDI%0AOggetto:CESSAZIONE DELL'ATTIVITA' DI PIZZERIA D'ASPORTO</description>
 			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
