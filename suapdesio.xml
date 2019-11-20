@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 20 Nov 2019 13:01:07 Z</lastBuildDate>
+		<lastBuildDate>Wed, 20 Nov 2019 16:01:07 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0245801/20-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0245801/20-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0245801/20-11-2019%0ARagione sociale:MARTANO GREGORIO%0AUbicazione:VIA PIO XI%0AOggetto:SCIA DI INIZIO ATTIVITA' DI ESTETICA</description>
+			<a10:updated>2019-11-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0245531/20-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0186303/12-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0186303/12-9-2019%0ARagione sociale:REGALA UN SORRISO%0AUbicazione:PIAZZA CONCILIAZIONE%0AOggetto:MANIFESTAZIONE PENTOLA DELLA SOLIDARIETA' - TRIPPA IN PIAZZA</description>
-			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0186188/12-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0186188/12-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0186188/12-9-2019%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA KARL MARX%0AOggetto:COMUNICAZIONE DI VENDITA SOTTOCOSTO</description>
 			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
