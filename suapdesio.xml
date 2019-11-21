@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 20 Nov 2019 16:01:07 Z</lastBuildDate>
+		<lastBuildDate>Thu, 21 Nov 2019 09:01:07 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0246259/20-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0246259/20-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0246259/20-11-2019%0ARagione sociale:ALBANI ANDREA%0AUbicazione:PIAZZA DELLA CONCILIAZIONE%0AOggetto:SOMMINISTRAZIONE DI ALIMENTI E BEVANDE IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA FESTA DELL'UVA</description>
+			<a10:updated>2019-11-20T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0246239/20-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0246239/20-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0246239/20-11-2019%0ARagione sociale:BIRRIFICIO RURALE SRL%0AUbicazione:VIA DEL COMMERCIO%0AOggetto:Durante processo produttivo di birra viene prodotta della trebbia per uso zootecnico</description>
+			<a10:updated>2019-11-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0245801/20-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0189786/17-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0189786/17-9-2019%0ARagione sociale:ESSELUNGA SPA%0AUbicazione:VIA CARAVAGGIO%0AOggetto:SOTTOCOSTO ESSELUNGA DAL 03 AL 12/10/2019</description>
 			<a10:updated>2019-09-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0189544/17-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0189544/17-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0189544/17-9-2019%0ARagione sociale:Callegari Roberto%0AUbicazione:%0AOggetto:domanda partecipazione sagra di ottobre 2019</description>
-			<a10:updated>2019-09-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0186303/12-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0186303/12-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0186303/12-9-2019%0ARagione sociale:REGALA UN SORRISO%0AUbicazione:PIAZZA CONCILIAZIONE%0AOggetto:MANIFESTAZIONE PENTOLA DELLA SOLIDARIETA' - TRIPPA IN PIAZZA</description>
-			<a10:updated>2019-09-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
