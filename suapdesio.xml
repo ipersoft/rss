@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 21 Nov 2019 13:01:12 Z</lastBuildDate>
+		<lastBuildDate>Thu, 21 Nov 2019 16:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0246968/21-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0246968/21-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0246968/21-11-2019%0ARagione sociale:MORETTI EMILIANO%0AUbicazione:VIA PRATI%0AOggetto:CESSAZIONE ATTIVITA'</description>
+			<a10:updated>2019-11-21T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0246934/21-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0246934/21-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0246934/21-11-2019%0ARagione sociale:ZAFFARONI DANILO%0AUbicazione:VIA GIOVANNI BRAMBILLA%0AOggetto:COMUNICAZIONE MODIFICHE IMPIANTI ASCENSORI</description>
+			<a10:updated>2019-11-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0246259/20-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0191643/19-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0191643/19-9-2019%0ARagione sociale:HU ZHENYAN%0AUbicazione:PIAZZA CAMILLO BENSO DI CAVOUR%0AOggetto:APERTURA NEGOZIO DI ABBIGLIAMENTO E ARTICOLI CARTOLERIA</description>
 			<a10:updated>2019-09-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0190405/18-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0190405/18-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0190405/18-9-2019%0ARagione sociale:Studio di architettura di Roberto Fabio Vicamini%0AUbicazione:PIAZZA DELLA CONCILIAZIONE%0AOggetto:Realizzazione di una foresteria integrata in uno studio di architettura</description>
-			<a10:updated>2019-09-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0189786/17-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0189786/17-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0189786/17-9-2019%0ARagione sociale:ESSELUNGA SPA%0AUbicazione:VIA CARAVAGGIO%0AOggetto:SOTTOCOSTO ESSELUNGA DAL 03 AL 12/10/2019</description>
-			<a10:updated>2019-09-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
