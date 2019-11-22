@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 22 Nov 2019 09:01:14 Z</lastBuildDate>
+		<lastBuildDate>Fri, 22 Nov 2019 11:01:11 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0247569/22-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0247569/22-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0247569/22-11-2019%0ARagione sociale:BIFIRE SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:modifica sostanziale per inserimento della nuova Emissione E15, generata dalle seguenti lavorazioni: TAGLIO PANNELLI</description>
+			<a10:updated>2019-11-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0247389/21-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0192815/20-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0192815/20-9-2019%0ARagione sociale:ALBANI ANDREA%0AUbicazione:PIAZZA DELLA CONCILIAZIONE%0AOggetto:SOMMINISTRAZIONE DI ALIMENTI E BEVANDE IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA FESTA DELL'UVA</description>
 			<a10:updated>2019-09-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0192181/19-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0192181/19-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0192181/19-9-2019%0ARagione sociale:CAPPELLINI VEG LAB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA%0AUbicazione:VIA UMBERTO GIORDANO%0AOggetto:INIZIO ATTIVITA' DI LAVORAZIONE E COTTURA A BASSA TEMPERATURA SOTTOVUOTO DI FRUTTA E VERDURA.</description>
-			<a10:updated>2019-09-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
