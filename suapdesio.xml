@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 25 Nov 2019 16:01:15 Z</lastBuildDate>
+		<lastBuildDate>Tue, 26 Nov 2019 16:01:12 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0250664/26-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0250664/26-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0250664/26-11-2019%0ARagione sociale:LEUCI GIOVANNI%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:inizio attività a seguito di acquisto azienda</description>
+			<a10:updated>2019-11-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0248493/25-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0194885/23-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0194885/23-9-2019%0ARagione sociale:PARROCCHIA DEI SANTI SIRO E MATERNO%0AUbicazione:VIA DELLA CONCILIAZIONE%0AOggetto:FESTA PATRONALE DELLA MADONNA DEL ROSARIO ORGANIZZATA DALLA PARROCCHIA DEI SANTI SIRO E MATERNO</description>
 			<a10:updated>2019-09-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0193528/20-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0193528/20-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0193528/20-9-2019%0ARagione sociale:BUSNELLI ANGELO%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE PER LA FIERA DI PRIMAVERA 2020</description>
-			<a10:updated>2019-09-20T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
