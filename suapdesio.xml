@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 Nov 2019 13:01:08 Z</lastBuildDate>
+		<lastBuildDate>Wed, 27 Nov 2019 16:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0251789/27-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0251789/27-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0251789/27-11-2019%0ARagione sociale:MULTISERVICE ECO SNC DI CAZZARO ELENA &amp; ANDREA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:AGGIUNTA VENDITA AL DETTAGLIO PRODOTTI PRECONFEZIONATI (CIALDE, CAPSULE DI CAFFE'-TISANE, ZUCCHERO, DOLCIUMI E BIBITE ANALCOLICHE CONFEZIONATE</description>
+			<a10:updated>2019-11-27T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0251639/27-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0251639/27-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0251639/27-11-2019%0ARagione sociale:ANGELS DI AUGUSTO LAURA%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE ALLA SPUNTA MERCATO SETTIMANALE DEL LUNEDI' - DESIO SUD</description>
+			<a10:updated>2019-11-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0250783/26-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0196903/26-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0196903/26-9-2019%0ARagione sociale:ABILANDIA S.R.L.%0AUbicazione:VIA MAESTRI DEL LAVORO%0AOggetto:inizio attività per deposito</description>
 			<a10:updated>2019-09-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0196075/24-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0196075/24-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0196075/24-9-2019%0ARagione sociale:MATI CAR DI MONOSTRULLI MATILDE%0AUbicazione:VIA SAN VINCENZO DE` PAOLI%0AOggetto:INIZIO ATTIVITA' NOLEGGIO SENZA CONDUCENTE</description>
-			<a10:updated>2019-09-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0195761/24-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0195761/24-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0195761/24-9-2019%0ARagione sociale:KING LED SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:APERTURA UNITA' LOCALE DESIO (MB) VIA LAVORATORI AUTOBIANCHI N.1/15C PER ATTIVITA': COMMERCIO AL DETTAGLIO NON ALIMENTARE DI ARTICOLI ELETTRONICI,LED, COMPUTER, PERIFERICHE EFFETTUATO VIA INTERNET</description>
-			<a10:updated>2019-09-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
