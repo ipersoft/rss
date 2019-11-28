@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 Nov 2019 16:01:08 Z</lastBuildDate>
+		<lastBuildDate>Thu, 28 Nov 2019 11:01:13 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0252645/28-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0252645/28-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0252645/28-11-2019%0ARagione sociale:COOP LOMBARDIA SOCIETA' COOPERATIVA%0AUbicazione:VIA MILANO ANG. VIA BORGHETTO%0AOggetto:COMUNICAZIONE DI 2° VENDITA SOTTOCOSTO ANNO 2019 SUPERMERCATO COOP</description>
+			<a10:updated>2019-11-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0251789/27-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0196980/26-9-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0196980/26-9-2019%0ARagione sociale:Mondovisione Soc. Coop. Sociale ONLUS%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:Evento Silent Disco in Piazza Don Giussani durante la Festa Patronale di Desio</description>
-			<a10:updated>2019-09-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0196903/26-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0196903/26-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0196903/26-9-2019%0ARagione sociale:ABILANDIA S.R.L.%0AUbicazione:VIA MAESTRI DEL LAVORO%0AOggetto:inizio attività per deposito</description>
 			<a10:updated>2019-09-26T00:00:00Z</a10:updated>
 		</item>
 	</channel>
