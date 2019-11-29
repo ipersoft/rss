@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 28 Nov 2019 16:01:08 Z</lastBuildDate>
+		<lastBuildDate>Fri, 29 Nov 2019 16:01:12 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0254223/29-11-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0254223/29-11-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0254223/29-11-2019%0ARagione sociale:MICCOLI S.A.S. DI MICCOLI MICHELE E C.%0AUbicazione:%0AOggetto:CESSIONE RAMO D'AZIENDA</description>
+			<a10:updated>2019-11-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0253141/28-11-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0201346/1-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0201346/1-10-2019%0ARagione sociale:AUTOTRASPORTI ZAMBONIN S.R.L.%0AUbicazione:VIA DEL COMMERCIO%0AOggetto:APERTURA UNITA' LOCALE PER DEPOSITO MERCI</description>
 			<a10:updated>2019-10-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0200518/30-9-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0200518/30-9-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0200518/30-9-2019%0ARagione sociale:COOPERATIVA SAN CARLO DI DESIO%0AUbicazione:VIA PIETRO ARIENTI%0AOggetto:REVOCA BOLLO</description>
-			<a10:updated>2019-09-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
