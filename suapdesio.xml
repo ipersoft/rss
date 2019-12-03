@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 03 Dec 2019 11:01:07 Z</lastBuildDate>
+		<lastBuildDate>Tue, 03 Dec 2019 16:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0256192/3-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0256192/3-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0256192/3-12-2019%0ARagione sociale:TREFIL DI RIZZI LOREDANA &amp; C%0AUbicazione:VIA DON LUIGI STURZO%0AOggetto:TRASMISSIONE ANALISI EMISSIONI IN ATMOSFERA</description>
+			<a10:updated>2019-12-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0255509/2-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0203908/3-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0203908/3-10-2019%0ARagione sociale:SERRA LUIGI%0AUbicazione:VIA FRATELLI CERVI%0AOggetto:Cessazione attività Bar</description>
 			<a10:updated>2019-10-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0203770/2-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0203770/2-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0203770/2-10-2019%0ARagione sociale:FARMACIA RAVASI DOTT. CARLO ALBERTO%0AUbicazione:CORSO ITALIA%0AOggetto:SUBENTRO NELL''ATTIVITA' DI COMMERCIO AL DETTAGLIO DI PRODOTTI FARMACEUTICI, PARAFARMACEUTICI, ARTICOLI SANITARI</description>
-			<a10:updated>2019-10-02T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
