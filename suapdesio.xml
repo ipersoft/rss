@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 04 Dec 2019 09:01:06 Z</lastBuildDate>
+		<lastBuildDate>Wed, 04 Dec 2019 11:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0257168/4-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0257168/4-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0257168/4-12-2019%0ARagione sociale:PRO LOCO DESIO%0AUbicazione:%0AOggetto:Casetta di Babbo Natale con distribuzione gratuita di prodotti tipici natalizi e bevande calde.</description>
+			<a10:updated>2019-12-04T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0257076/4-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0207900/7-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0207900/7-10-2019%0ARagione sociale:PALMAD S.R.L.%0AUbicazione:VIA BENGASI%0AOggetto:VENDITA SOTTOCOSTO IN ESERCIZIO DI COMMERCIO AL DETTAGLIO DI VICINATO DAL 31 OTTOBRE AL 9 NOVEMBRE 2019</description>
 			<a10:updated>2019-10-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0205369/4-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0205369/4-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0205369/4-10-2019%0ARagione sociale:MANCUSO PIU' SRL%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:SCIA SOMMINISTRAZIONE TEMPORANEA IN OCCASIONE DI MANIFESTAZIONI SPORTIVE PRESSO PALABANCODESIO.</description>
-			<a10:updated>2019-10-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
