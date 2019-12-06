@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 05 Dec 2019 16:01:08 Z</lastBuildDate>
+		<lastBuildDate>Fri, 06 Dec 2019 09:01:08 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0259541/5-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0259541/5-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0259541/5-12-2019%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E PALLACANESTRO VARESE DOMENICA 8 DICEMBRE 2019</description>
+			<a10:updated>2019-12-05T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0258603/5-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0210514/9-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0210514/9-10-2019%0ARagione sociale:SOLAR CLEAN SRL%0AUbicazione:VIA CARLO FORLANINI%0AOggetto:INIZIO ATTIVITA' SERVIZI DI PULIZIA</description>
-			<a10:updated>2019-10-09T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0210423/9-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0210423/9-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0210423/9-10-2019%0ARagione sociale:EDDARRAJ KACEM%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE ALLA SPUNTA PRESSO IL MERCATO DI DESIO NORD</description>
 			<a10:updated>2019-10-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
