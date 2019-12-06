@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 06 Dec 2019 09:01:08 Z</lastBuildDate>
+		<lastBuildDate>Fri, 06 Dec 2019 16:01:09 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0260371/6-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0260371/6-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0260371/6-12-2019%0ARagione sociale:ORTOFRESCO DI CHIHAB JAWAD%0AUbicazione:VIA NAZARIO SAURO%0AOggetto:CESSAZIONE DI TUTTE LE ATTIVITA'</description>
+			<a10:updated>2019-12-06T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0260222/6-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0260222/6-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0260222/6-12-2019%0ARagione sociale:WU LIWANG%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:SCIA INIZIA ATTIVITA</description>
+			<a10:updated>2019-12-06T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0260034/6-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0260034/6-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0260034/6-12-2019%0ARagione sociale:KAN FENGQIN%0AUbicazione:VIA GARIBALDI%0AOggetto:SUBINGRESSO IN ATTIVITA' DI DISCIPLINE BIONATURALI TUINA</description>
+			<a10:updated>2019-12-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0259541/5-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0212593/11-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0212593/11-10-2019%0ARagione sociale:DODA MARCO%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA NEL MERCATO SETTIMANALE DI DESIO CHE SI SVOLGE NELLA GIORNATA DI LUNEDI'</description>
 			<a10:updated>2019-10-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0212141/10-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0212141/10-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0212141/10-10-2019%0ARagione sociale:DI TUTTO UN PO' DI ALTIERI FELICETTA%0AUbicazione:%0AOggetto:INIZIO ATTIVITA' COMMERCIO IN FORMA ITINERANTE</description>
-			<a10:updated>2019-10-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0211616/10-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0211616/10-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0211616/10-10-2019%0ARagione sociale:MONDO AMERICA DI LURAGHI LUCA%0AUbicazione:%0AOggetto:RICHIESTA AUTORIZZAZIONE AMBULANTE IN FORMA ITINERANTE</description>
-			<a10:updated>2019-10-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0210514/9-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0210514/9-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0210514/9-10-2019%0ARagione sociale:SOLAR CLEAN SRL%0AUbicazione:VIA CARLO FORLANINI%0AOggetto:INIZIO ATTIVITA' SERVIZI DI PULIZIA</description>
-			<a10:updated>2019-10-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
