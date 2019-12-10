@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 10 Dec 2019 09:01:01 Z</lastBuildDate>
+		<lastBuildDate>Tue, 10 Dec 2019 11:01:02 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5308274</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5308274</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>SERVIZIO DI SUPPORTO PER ATTIVITA’ DI FACCHINAGGIO E DI MINUTA MANUTENZIONE (2019) – AFFIDAMENTO PRESTAZIONI AGGIUNTIVE AI SENSI DELL’ART. 106 COMMA 12 DEL D.LGS 50/2016 – ASSUNZIONE IMPEGNO DI SPESA DI € 4.918,00= (OLTRE IVA 22%).CODICE CIG: ZAE2B0FB4D </description>
+			<a10:updated>2019-12-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5305815</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5305815</link>
@@ -158,14 +166,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>REVOCA DETERMINA N. 995 DEL 27-12-2018 AD OGGETTO FORNITURA “LICENZA MODULO SOFTWARE PER L'INTEGRAZIONE TRA IL PROGRAMMA GESTIONALE "J-IRIDE" E IL SOFTWARE "SOLO1” SPORTELLO UNICO SUT –CIG Z9E26808E7” </description>
 			<a10:updated>2019-12-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5298779</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5298779</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>SERVIZIO DI PULIZIA DELLE SALE SITE IN VILLA TITTONI PER IL PERIODO: 01.01.2020 - 30.09.2020. EURO 2.000,00 I.V.A. COMPRESA. CIG Z7E2AE3F0E. </description>
-			<a10:updated>2019-12-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
