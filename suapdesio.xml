@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 09 Dec 2019 16:01:00 Z</lastBuildDate>
+		<lastBuildDate>Tue, 10 Dec 2019 16:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0262633/10-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0262633/10-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0262633/10-12-2019%0ARagione sociale:DAIND MB2 S.R.L.%0AUbicazione:VIA MONTELLO%0AOggetto:apertura attività di servizi</description>
+			<a10:updated>2019-12-10T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0262472/10-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0262472/10-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0262472/10-12-2019%0ARagione sociale:THIAM MOUSTAHINE%0AUbicazione:%0AOggetto:PARTTECIPAZIONE SPUNTA MERCATO DEL LUNEDI DENOMINATO DESIO NORD</description>
+			<a10:updated>2019-12-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0260905/9-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0214802/14-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0214802/14-10-2019%0ARagione sociale:FRATELLI PAGANO SNC DI PAGANO ANDREA E GIOVANNI%0AUbicazione:VIA MULINELLO%0AOggetto:subentro all'attività. la società fratelli Pagano Snc di Pagano Andre e Giovanni subentra alla ditta Pagano Sebastiano</description>
-			<a10:updated>2019-10-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0214785/14-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0214785/14-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0214785/14-10-2019%0ARagione sociale:FRATELLI PAGANO SNC DI PAGANO ANDREA E GIOVANNI%0AUbicazione:VIA MULINELLO%0AOggetto:voltura emissioni in atmosfera</description>
-			<a10:updated>2019-10-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0214227/14-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0214227/14-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0214227/14-10-2019%0ARagione sociale:GRIPX DI COMELLI MATTEO%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:CHIUSURA ATTIVITA' COMMERCIO AL DETTAGLIO DI PRODOTTI VIA INTERNET DI ARTICOLI DI ELETTRONICA E ACCESSORI VARI</description>
 			<a10:updated>2019-10-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
