@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 12 Dec 2019 13:01:05 Z</lastBuildDate>
+		<lastBuildDate>Thu, 12 Dec 2019 16:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0264694/12-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0264694/12-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0264694/12-12-2019%0ARagione sociale:CHEEMA M. ASLAM%0AUbicazione:%0AOggetto:DOMANDA PARTECIPAZIONE SPUNTA MERCATO SETTIMANALE DI DESIO SUD DEL LUNEDI' ANNO 2020 - CHEEMA MUHAMMAD ASLAM - AUTORIZZAZIONE TIPO B N. 1115 DEL 24/05/2011</description>
+			<a10:updated>2019-12-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0264105/12-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0222737/23-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0222737/23-10-2019%0ARagione sociale:FERGE GOMME IMPORT EXPORT SRL SEMPLIFICATA%0AUbicazione:VIA RUGGERO LEONCAVALLO%0AOggetto:APERTURA ATTIVITA' DI GOMMISTA</description>
-			<a10:updated>2019-10-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0222484/23-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0222484/23-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0222484/23-10-2019%0ARagione sociale:ALDESIO DI CIRISANO ALDO%0AUbicazione:VIA DOLOMITI%0AOggetto:COMUNICAZIONE DI INIZIO ATTIVITA' COMMERCIO AMBULANTE ITINERANTE NON ALIMENTARE: FIORI E PIANTE - ABBIGLIAMENTO ED ACCESSORI</description>
 			<a10:updated>2019-10-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
