@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 12 Dec 2019 09:01:04 Z</lastBuildDate>
+		<lastBuildDate>Thu, 12 Dec 2019 11:01:05 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0264105/12-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0264105/12-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0264105/12-12-2019%0ARagione sociale:N'AIT BABA ABDELILAH%0AUbicazione:%0AOggetto:COMUNICAZIONE PARTECIPAZIONE ALLA SPUNTA ANNO 2020 NEL MERCATO NORD DEL LUNEDI'.</description>
+			<a10:updated>2019-12-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0263857/11-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0222484/23-10-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0222484/23-10-2019%0ARagione sociale:ALDESIO DI CIRISANO ALDO%0AUbicazione:VIA DOLOMITI%0AOggetto:COMUNICAZIONE DI INIZIO ATTIVITA' COMMERCIO AMBULANTE ITINERANTE NON ALIMENTARE: FIORI E PIANTE - ABBIGLIAMENTO ED ACCESSORI</description>
 			<a10:updated>2019-10-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0219782/18-10-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0219782/18-10-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0219782/18-10-2019%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E TRENTO DOMENICA 20 OTTOBRE 2019</description>
-			<a10:updated>2019-10-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
