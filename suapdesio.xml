@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Dec 2019 16:01:02 Z</lastBuildDate>
+		<lastBuildDate>Wed, 18 Dec 2019 09:01:04 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0268952/18-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0268952/18-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0268952/18-12-2019%0ARagione sociale:Papazzoni Silvia%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:Commercio temporaneo</description>
+			<a10:updated>2019-12-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0268700/17-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0235356/7-11-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0235356/7-11-2019%0ARagione sociale:USMAN MUHAMMAD%0AUbicazione:%0AOggetto:RICHIESTA DI PARTECIPAZIONE ALLA SPUNTA PER IL MERCATO SUD DI VIA GRANDI DEL LUNEDI', CON VENDITA DI PRODOTTI NON ALIMENTARI, ABBIGLIAMENTO E CASALINGHI</description>
 			<a10:updated>2019-11-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0234357/6-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0234357/6-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0234357/6-11-2019%0ARagione sociale:SOCIETA' PODISTICA NOVELLA - ASSOCIAZIONE SPORTIVA DILETTANTISTICA%0AUbicazione:PIAZZA DELLA CONCILIAZIONE%0AOggetto:SCIA PER MERCATINO REGIONALE FRANCESE</description>
-			<a10:updated>2019-11-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
