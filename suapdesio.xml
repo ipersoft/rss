@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 19 Dec 2019 16:00:47 Z</lastBuildDate>
+		<lastBuildDate>Fri, 20 Dec 2019 09:00:52 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271857/20-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271857/20-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271857/20-12-2019%0ARagione sociale:SIR - SISTEMI ITALIANI RISTORAZIONE - S.R.L.%0AUbicazione:VIA CANONICO VILLA%0AOggetto:PREPARAZIONE PASTI PER OSPITI RSA "PIO NINETTA GAVAZZI" DI DESIO PRESSO CUCINA INTERNA</description>
+			<a10:updated>2019-12-20T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271579/19-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271579/19-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271579/19-12-2019%0ARagione sociale:TRABATTONI LUCIANO%0AUbicazione:VIA FILIPPO VILLANI%0AOggetto:AUTOVIDIMAZIONE REGISTRO BENI USATI</description>
+			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271271/19-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0239769/13-11-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0239769/13-11-2019%0ARagione sociale:rachidi mohammed%0AUbicazione:%0AOggetto:partecipazione alla spunta al mercato rionale</description>
 			<a10:updated>2019-11-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0239308/12-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0239308/12-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0239308/12-11-2019%0ARagione sociale:Filurete Tereza Gabriela%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:ATTIVITA' DI VICINATO TABELLA SPECIALE GENERI DI MONOPOLI E COMMERCIO DI GENERI ALIMENTARI TRAMITE DISTRIBUTORE AUTOMATICO</description>
-			<a10:updated>2019-11-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0239273/12-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0239273/12-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0239273/12-11-2019%0ARagione sociale:ICAM SRL%0AUbicazione:VIA OSLAVIA%0AOggetto:Modifica di attività esistente: Scia per riduzione superficie</description>
-			<a10:updated>2019-11-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
