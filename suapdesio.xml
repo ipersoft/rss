@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 23 Dec 2019 09:00:56 Z</lastBuildDate>
+		<lastBuildDate>Mon, 23 Dec 2019 11:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0273647/23-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0273647/23-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0273647/23-12-2019%0ARagione sociale:IN PUNTA DI PIEDI DI ARESTA RITA%0AUbicazione:CORSO ITALIA%0AOggetto:CHIUSURA COMMERCIO AL DETTAGLIO DI PRODOTTI COSMETICI E NON PER ESTETISTA</description>
+			<a10:updated>2019-12-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0273252/20-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0247389/21-11-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0247389/21-11-2019%0ARagione sociale:FILURETE TEREZA GABRIELA%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:COMMERCIO DI GENERI ALIMENTARI TRAMITE DISTRIBUTORE AUTOMATICO POSTO IN LOCALE GIA' DESTINATO A VENDITA DI PRODOTTI GENERI DI MONOPOLI</description>
-			<a10:updated>2019-11-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0247321/21-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0247321/21-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0247321/21-11-2019%0ARagione sociale:ALBANI ANDREA%0AUbicazione:PIAZZA DELLA CONCILIAZIONE%0AOggetto:SOMMINISTRAZIONE DI ALIMENTI E BEVANDE IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA giornata ONU della disabilita</description>
 			<a10:updated>2019-11-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
