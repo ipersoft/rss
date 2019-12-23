@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 23 Dec 2019 11:00:56 Z</lastBuildDate>
+		<lastBuildDate>Mon, 23 Dec 2019 13:00:57 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0273976/23-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0273976/23-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0273976/23-12-2019%0ARagione sociale:BIOESSERE SOCIETA' A RESPONSABILITA' LIMITATA ENUNCIABILE ANCHE BIOESSERE S.R.L.%0AUbicazione:VIA MAESTRI DEL LAVORO%0AOggetto:SI INTENDE COMUNICARE IL SUBINGRESSO DELLA SOCIETA' BIOESSERE SRL ALLA SOCIETA' PIACERE TERRA SRL A FAR DATA DAL 01/01/2020</description>
+			<a10:updated>2019-12-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0273647/23-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0247569/22-11-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0247569/22-11-2019%0ARagione sociale:BIFIRE SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:modifica sostanziale per inserimento della nuova Emissione E15, generata dalle seguenti lavorazioni: TAGLIO PANNELLI</description>
 			<a10:updated>2019-11-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0247389/21-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0247389/21-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0247389/21-11-2019%0ARagione sociale:FILURETE TEREZA GABRIELA%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:COMMERCIO DI GENERI ALIMENTARI TRAMITE DISTRIBUTORE AUTOMATICO POSTO IN LOCALE GIA' DESTINATO A VENDITA DI PRODOTTI GENERI DI MONOPOLI</description>
-			<a10:updated>2019-11-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
