@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 23 Dec 2019 16:00:54 Z</lastBuildDate>
+		<lastBuildDate>Tue, 24 Dec 2019 09:00:53 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0274697/23-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0274697/23-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0274697/23-12-2019%0ARagione sociale:LEMYESSER HICHAM%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA MERCATO DESIO SUD</description>
+			<a10:updated>2019-12-23T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0274637/23-12-2019</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0274637/23-12-2019</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0274637/23-12-2019%0ARagione sociale:MINARDI ALESSANDRO%0AUbicazione:VIA SOLFERINO%0AOggetto:CESSAZIONE TOTALE ATTIVITA'</description>
+			<a10:updated>2019-12-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0274275/23-12-2019</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0248470/24-11-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0248470/24-11-2019%0ARagione sociale:Romanò Claudia%0AUbicazione:%0AOggetto:RINNOVO DOMANDA DI SPUNTA PER MERCATO NORD DESIO ANNO 2020</description>
 			<a10:updated>2019-11-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0248397/22-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0248397/22-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0248397/22-11-2019%0ARagione sociale:DO.RO. S.R.L.%0AUbicazione:CORSO ITALIA%0AOggetto:CESSAZIONE DI TUTTE LE ATTIVITA'.</description>
-			<a10:updated>2019-11-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0248339/22-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0248339/22-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0248339/22-11-2019%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E FORTITUDO BOLOGNA DOMENICA 24 NOVEMBRE 2019</description>
-			<a10:updated>2019-11-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
