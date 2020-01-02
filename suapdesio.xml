@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 01 Jan 2020 16:00:53 Z</lastBuildDate>
+		<lastBuildDate>Thu, 02 Jan 2020 09:00:53 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0000158/2-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0000158/2-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0000158/2-1-2020%0ARagione sociale:D'ANTONA MARIELLA%0AUbicazione:VIA DEGLI ARTIGIANI%0AOggetto:inizio attivita' somministrazione</description>
+			<a10:updated>2020-01-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0000136/2-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0000136/2-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0000136/2-1-2020%0ARagione sociale:GIANGRECO STEFANO%0AUbicazione:VIA DEGLI ARTIGIANI%0AOggetto:CESSIONEATTIVITA' SOMMINISTRAZIONE PER AFFITTO AZIENDA</description>
+			<a10:updated>2020-01-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0000020/1-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0254223/29-11-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0254223/29-11-2019%0ARagione sociale:MICCOLI S.A.S. DI MICCOLI MICHELE E C.%0AUbicazione:%0AOggetto:CESSIONE RAMO D'AZIENDA</description>
 			<a10:updated>2019-11-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0253141/28-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0253141/28-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0253141/28-11-2019%0ARagione sociale:BGHAIBEGH MHAMMED%0AUbicazione:%0AOggetto:PARTECIPAZIONE SPUNTA MERCATO NORD</description>
-			<a10:updated>2019-11-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0252963/28-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0252963/28-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0252963/28-11-2019%0ARagione sociale:EL KHOLTI ABDELGHANI%0AUbicazione:%0AOggetto:PARTECIPAZIONE SPUNTA MERCATO DESIO NORD</description>
-			<a10:updated>2019-11-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
