@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 03 Jan 2020 11:00:53 Z</lastBuildDate>
+		<lastBuildDate>Fri, 03 Jan 2020 16:00:53 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0001232/3-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001232/3-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001232/3-1-2020%0ARagione sociale:MOSCA LUIGI%0AUbicazione:%0AOggetto:RICHIESTA RINNOVO PARTECIPAZIONE SPUNTA MERCATO DESIO NORD PIAZZA PAPA GIOVANNI XXIII</description>
+			<a10:updated>2020-01-03T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0001210/3-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0001210/3-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0001210/3-1-2020%0ARagione sociale:MOSCA LUIGI%0AUbicazione:%0AOggetto:RICHIESTA RINNOVO PARTECIPAZIONE SPUNTA MERCATO VIA PRATI (DESIO) DEL LUNEDI'</description>
+			<a10:updated>2020-01-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0000158/2-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0254574/30-11-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0254574/30-11-2019%0ARagione sociale:Promoearte%0AUbicazione:PIAZZA CONCILIAZIONE%0AOggetto:"il cioccolato e altre dolcezze" mercato con espositori di cioccolato, pasticceria, miele e dolciumi piazza Conciliazione 7/8 Dicembre</description>
 			<a10:updated>2019-11-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0254516/29-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0254516/29-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0254516/29-11-2019%0ARagione sociale:SERVISCO COOP - SOCIETA' COOPERATIVA%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:scia per serv bar presso Pala banco desio in data 01 dicembre 2019</description>
-			<a10:updated>2019-11-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0254223/29-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0254223/29-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0254223/29-11-2019%0ARagione sociale:MICCOLI S.A.S. DI MICCOLI MICHELE E C.%0AUbicazione:%0AOggetto:CESSIONE RAMO D'AZIENDA</description>
-			<a10:updated>2019-11-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
