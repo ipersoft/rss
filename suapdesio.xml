@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 07 Jan 2020 11:00:56 Z</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jan 2020 13:00:58 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0002036/7-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0002036/7-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0002036/7-1-2020%0ARagione sociale:DAIND MB2 S.R.L.%0AUbicazione:VIA MONTELLO%0AOggetto:apertura attività di servizi</description>
+			<a10:updated>2020-01-07T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0002024/7-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0002024/7-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0002024/7-1-2020%0ARagione sociale:PERINI ANTONIO%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:SUBENTRO EDICOLA E CONCESSIONE PRECARIA UTILIZZO SUOLO PUBBLICO (CHIOCO GIORNALI)</description>
+			<a10:updated>2020-01-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0001232/3-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0255399/2-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0255399/2-12-2019%0ARagione sociale:ZEPHYRO S.P.A.%0AUbicazione:VIA GIUSEPPE MAZZINI%0AOggetto:Volturazione dell'autorizzazione dirigenziale alle emissioni in atmosfera RG n°2118/2013 della Provincia Monza e Brinza (art. 269 e 281 D.lgs 152/06 e smi) della centrale termica Ospedale di Desio (ASST San Gerardo di Monza) a ZEPHYRO SPA</description>
 			<a10:updated>2019-12-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0254598/1-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0254598/1-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0254598/1-12-2019%0ARagione sociale:VITA ANTONIO%0AUbicazione:VIA PRATI%0AOggetto:RICONSEGNA AUTORIZZAZIONE 15527 POSTEGGIO 22 MERCATO DEL LUNEDI PER NON UTILIZZO</description>
-			<a10:updated>2019-12-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0254574/30-11-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0254574/30-11-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0254574/30-11-2019%0ARagione sociale:Promoearte%0AUbicazione:PIAZZA CONCILIAZIONE%0AOggetto:"il cioccolato e altre dolcezze" mercato con espositori di cioccolato, pasticceria, miele e dolciumi piazza Conciliazione 7/8 Dicembre</description>
-			<a10:updated>2019-11-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
