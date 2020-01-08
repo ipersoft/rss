@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 08 Jan 2020 09:00:55 Z</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jan 2020 11:00:57 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0003067/8-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0003067/8-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0003067/8-1-2020%0ARagione sociale:PESCAROLO MARIA FEDERICA%0AUbicazione:VIA SOLFERINO%0AOggetto:avvio attività commercio autovetture usate senza detenzione delle stesse. Le auto vengono lasciate in capo al venditore fino al momento del passaggio al nuovo acquirente</description>
+			<a10:updated>2020-01-08T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0002036/7-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0255419/2-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0255419/2-12-2019%0ARagione sociale:VIA AUDIO SRL%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:Ci saranno durante l'evento: - Mercatini di Natale all'interno della Villa - Valtellina in Festa e angolo Street Food con somministrazione di cibo e bevande. Verrà montata una tensostruttura per la ristorazione. - Casa di Babbo Natale</description>
-			<a10:updated>2019-12-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0255399/2-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0255399/2-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0255399/2-12-2019%0ARagione sociale:ZEPHYRO S.P.A.%0AUbicazione:VIA GIUSEPPE MAZZINI%0AOggetto:Volturazione dell'autorizzazione dirigenziale alle emissioni in atmosfera RG n°2118/2013 della Provincia Monza e Brinza (art. 269 e 281 D.lgs 152/06 e smi) della centrale termica Ospedale di Desio (ASST San Gerardo di Monza) a ZEPHYRO SPA</description>
 			<a10:updated>2019-12-02T00:00:00Z</a10:updated>
 		</item>
 	</channel>
