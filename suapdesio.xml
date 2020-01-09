@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 09 Jan 2020 09:00:54 Z</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jan 2020 11:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0004369/9-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004369/9-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004369/9-1-2020%0ARagione sociale:CICI MICHELANGELO%0AUbicazione:%0AOggetto:CHIEDO UN POSTEGGIO CON UN CARRELLINO 2X2 PER LA VENDITA DI PALLONCINI E ARTICOLI CARNEVALESCHI IN OCCASIONE DEL CARNEVALE DI DESIO NEI GIORNI DI VENERDI E PER IL SABATO NELLA POSIZIONE LATO EDICOLA</description>
+			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0004312/9-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004312/9-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004312/9-1-2020%0ARagione sociale:ALICE NAIL SPA DI LI JINGJING%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:VARIAZIONE DIRETTORE TECNICO</description>
+			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0004034/8-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0257168/4-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0257168/4-12-2019%0ARagione sociale:PRO LOCO DESIO%0AUbicazione:%0AOggetto:Casetta di Babbo Natale con distribuzione gratuita di prodotti tipici natalizi e bevande calde.</description>
-			<a10:updated>2019-12-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0257076/4-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0257076/4-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0257076/4-12-2019%0ARagione sociale:AUTOTRASPORTI ZAMBONIN S.R.L.%0AUbicazione:VIA DEL COMMERCIO%0AOggetto:APERTURA UNITA' LOCALE PER DEPOSITO MERCI</description>
-			<a10:updated>2019-12-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0257069/4-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0257069/4-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0257069/4-12-2019%0ARagione sociale:BEMA DESIO SRL%0AUbicazione:VIA GIACOMO ZANELLA%0AOggetto:Modifica sostanziale dell'Autorizzazione Unica Ambientale. Richiesta di riduzione tonnellaggio massimo annuale di messa in riserva R13 di rifiuti NON pericolosi da 11700 ton. anno a 1300 ton. anno.</description>
 			<a10:updated>2019-12-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
