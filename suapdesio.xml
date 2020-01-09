@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 08 Jan 2020 16:00:55 Z</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jan 2020 09:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0004034/8-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004034/8-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004034/8-1-2020%0ARagione sociale:FISH S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:Apertura di pescheria con rivendita al dettaglio di prodotti ittici cotti e crudi</description>
+			<a10:updated>2020-01-08T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0003876/8-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0257069/4-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0257069/4-12-2019%0ARagione sociale:BEMA DESIO SRL%0AUbicazione:VIA GIACOMO ZANELLA%0AOggetto:Modifica sostanziale dell'Autorizzazione Unica Ambientale. Richiesta di riduzione tonnellaggio massimo annuale di messa in riserva R13 di rifiuti NON pericolosi da 11700 ton. anno a 1300 ton. anno.</description>
 			<a10:updated>2019-12-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0256928/3-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0256928/3-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0256928/3-12-2019%0ARagione sociale:ONORANZE FUNEBRI PANZERI MANUEL S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:Comunicazione di subentro per fusione della società "ONORANZE FUNEBRI PANZERI MANUEL Srl" nella società "SERVIZI POZZOLI SRL". Iscrizione registro Imprese in data 03/12/2019</description>
-			<a10:updated>2019-12-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
