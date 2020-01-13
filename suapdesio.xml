@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 10 Jan 2020 16:00:56 Z</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2020 09:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0006785/12-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0006785/12-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0006785/12-1-2020%0ARagione sociale:INTIMAMENTE DI ALESSANDRO SEDINI%0AUbicazione:%0AOggetto:Comunicazione di partecipazione alla spunta</description>
+			<a10:updated>2020-01-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0006482/10-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0262733/10-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0262733/10-12-2019%0ARagione sociale:EL ASSRAOUI AHMED%0AUbicazione:%0AOggetto:PARTECIPAZIONE SPUNTA MERCATO DESIO NORD</description>
-			<a10:updated>2019-12-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0262633/10-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0262633/10-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0262633/10-12-2019%0ARagione sociale:DAIND MB2 S.R.L.%0AUbicazione:VIA MONTELLO%0AOggetto:apertura attività di servizi</description>
 			<a10:updated>2019-12-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
