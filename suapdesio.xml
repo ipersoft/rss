@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 14 Jan 2020 13:01:00 Z</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2020 16:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0009085/14-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0009085/14-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0009085/14-1-2020%0ARagione sociale:MASTELLARO ENZO%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA DEL MERCATO DI DESIO SUD DEL LUNEDI'</description>
+			<a10:updated>2020-01-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0008654/14-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0264694/12-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0264694/12-12-2019%0ARagione sociale:CHEEMA M. ASLAM%0AUbicazione:%0AOggetto:DOMANDA PARTECIPAZIONE SPUNTA MERCATO SETTIMANALE DI DESIO SUD DEL LUNEDI' ANNO 2020 - CHEEMA MUHAMMAD ASLAM - AUTORIZZAZIONE TIPO B N. 1115 DEL 24/05/2011</description>
-			<a10:updated>2019-12-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0264105/12-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0264105/12-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0264105/12-12-2019%0ARagione sociale:N'AIT BABA ABDELILAH%0AUbicazione:%0AOggetto:COMUNICAZIONE PARTECIPAZIONE ALLA SPUNTA ANNO 2020 NEL MERCATO NORD DEL LUNEDI'.</description>
 			<a10:updated>2019-12-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
