@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 15 Jan 2020 11:00:55 Z</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jan 2020 16:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0010629/15-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0010629/15-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0010629/15-1-2020%0ARagione sociale:DITTA INDIVIDUALE DI BACCI MASSIMO%0AUbicazione:%0AOggetto:RICHIESTA LICENZA TEMPORANEA SPETTACOLO VIAGGIANTE FIERA DI PRIMAVERA 2020</description>
+			<a10:updated>2020-01-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0009719/15-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0265082/13-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0265082/13-12-2019%0ARagione sociale:SABILI OMAR%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA DEL MERCATO SUD</description>
-			<a10:updated>2019-12-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0265034/13-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0265034/13-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0265034/13-12-2019%0ARagione sociale:FARMACIA MOLGORA S.R.L.%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:APERTURA ESERCIZIO DI VICINATO FARMACIA MOLGORA S.R.L. COMMERCIO AL DETTAGLIO DI ARTICOLI SANITARI, PRESIDI MEDICO-CHIRURGICI, DI ARTICOLI DI PROFUMERIA E COSMESI, ERBORISTERIA, ALIMENTI SPECIALI, VESTIARIO, GIOCATTOLI E COMPLEMENTARI USUALMENTE VENDUTI NELLE FARMACIE</description>
 			<a10:updated>2019-12-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
