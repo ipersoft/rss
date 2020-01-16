@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 16 Jan 2020 13:00:56 Z</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2020 16:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0011708/16-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0011708/16-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0011708/16-1-2020%0ARagione sociale:MB CAR SNC DI MELLUSO ADOLFO FRANCESCO E C.%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:Richiesta Vidimazione Registro Commercio Beni Usati</description>
+			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0011137/16-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0266186/13-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0266186/13-12-2019%0ARagione sociale:SERVIZI POZZOLI S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:comunicazione di subentro nell'attività di "ONORANZE FUNEBRI PANZERI SRL" con atto iscritto al Registro Imprese della CCIAA di Monza e Brianza in data 03/12/2019</description>
-			<a10:updated>2019-12-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0265826/13-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0265826/13-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0265826/13-12-2019%0ARagione sociale:BOUTIQUE DEI FIORI S.N.C. DI ROMEO SERENA E TISCI MARIANGELA%0AUbicazione:CORSO ITALIA%0AOggetto:APERTURA NEGOZIO FIORI E PIANTE</description>
 			<a10:updated>2019-12-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
