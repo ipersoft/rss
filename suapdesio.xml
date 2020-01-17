@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 16 Jan 2020 16:00:54 Z</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2020 09:00:59 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0012234/16-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0012234/16-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0012234/16-1-2020%0ARagione sociale:SCHIATTI S.N.C. DI LAURA, GIGLIOLA E FRANCESCA SCHIATTI%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:vendita straordinaria per liquidazione</description>
+			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0011708/16-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0266326/14-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0266326/14-12-2019%0ARagione sociale:ASD CANNISTI MUGGIO'%0AUbicazione:N.D. D'ITALIA%0AOggetto:CENONE DI FINE ANNO E CONTESTUALE ATTIVITA' D'INTRATTENIMENTO (MUSICA E BALLO)</description>
 			<a10:updated>2019-12-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0266186/13-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0266186/13-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0266186/13-12-2019%0ARagione sociale:SERVIZI POZZOLI S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:comunicazione di subentro nell'attività di "ONORANZE FUNEBRI PANZERI SRL" con atto iscritto al Registro Imprese della CCIAA di Monza e Brianza in data 03/12/2019</description>
-			<a10:updated>2019-12-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
