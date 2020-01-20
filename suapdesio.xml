@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 20 Jan 2020 13:00:56 Z</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2020 16:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0014994/20-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0014994/20-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0014994/20-1-2020%0ARagione sociale:ZAFFARONI DANILO%0AUbicazione:VIA XXV APRILE%0AOggetto:richiesta numero di matricola impianto ascensore Via XXV Aprile 3/B Desio</description>
+			<a10:updated>2020-01-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0014354/20-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0268597/17-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0268597/17-12-2019%0ARagione sociale:HAMDAN MOHAMMED%0AUbicazione:%0AOggetto:PARTECIPAZIONE SPUNTA MERCATO NORD</description>
-			<a10:updated>2019-12-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0268470/17-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0268470/17-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0268470/17-12-2019%0ARagione sociale:PALMAD S.R.L.%0AUbicazione:VIA BENGASI%0AOggetto:VARIAZIONE INDIRIZZO SEDE LEGALE DAL 16/12/2019</description>
 			<a10:updated>2019-12-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
