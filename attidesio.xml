@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 21 Jan 2020 17:00:54 Z</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jan 2020 09:01:01 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5410745</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5410745</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PAGAMENTO ABBONAMENTO SPECIALE TV - ANNO 2020 - PARI A EURO 407,35. </description>
+			<a10:updated>2020-01-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5410743</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5410743</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>POLIZZE ASSICURATIVE–RINNOVO PER ANNUALITA’ 31.12.2019/31.12.2020–IMPEGNO DI SPESA € 207.489,35 </description>
+			<a10:updated>2020-01-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5408535</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5408535</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>RINNOVO PER ANNUALITA’ 31.12.2019/31.12.2020 POLIZZE DI ASSICURAZIONE KASKO CUMULATIVA E RCA/ARD LIBRO MATRICOLA – – IMPEGNO DI SPESA € 1.475,50 CIG DERIVATO 8172848F83 ED € 19.5156,07 CIG DERIVATO 8170819524 </description>
-			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5400260</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5400260</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>ADOZIONE PREZZARIO COMUNALE PER OPERE E LAVORI PUBBLICI - ANNO 2020 </description>
-			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5400254</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5400254</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>NOMINA COMMISSIONE “PROCEDURA APERTA, AL SENSI DELL’ART. 60 DEL D.LGS. 50/2016 E S.M.I, TRAMITE PIATTAFORMA SINTEL DI ARIA LOMBARDIA, PER ATTIVITÀ AFFERENTI LA GESTIONE ASSOCIATA DEGLI “SPORTELLI DI INFORMAZIONE, ORIENTAMENTO E CONSULENZA IMMIGRAZIONE STRANIERI” – CIG 8128010609” </description>
 			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
