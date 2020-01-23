@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 23 Jan 2020 09:00:55 Z</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2020 11:00:56 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0018411/23-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0018411/23-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0018411/23-1-2020%0ARagione sociale:WILD BEER SRL%0AUbicazione:VIALE EUROPA%0AOggetto:SUBENTRO NELL'ATTIVITA' DI BIRRIFICIO E SOMMINISTRAZIONE ALIMENTI E BEVANDE</description>
+			<a10:updated>2020-01-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0018062/22-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0270918/19-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0270918/19-12-2019%0ARagione sociale:MANCUSO PIU' SRL%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:SCIA SOMMINISTRAZIONE TEMPORANEA IN OCCASIONE DI MANIFESTAZIONI SPORTIVE PRESSO PALABANCODESIO.</description>
-			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0270748/19-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0270748/19-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0270748/19-12-2019%0ARagione sociale:DE PASQUALE MARIA%0AUbicazione:VIA ARMANDO DIAZ%0AOggetto:SEGNALAZIONE ATTIVITA' BIO NATURALI</description>
 			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
