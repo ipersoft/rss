@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 23 Jan 2020 13:00:54 Z</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2020 16:00:58 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0019185/23-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0019185/23-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0019185/23-1-2020%0ARagione sociale:SOLANI EMILIO%0AUbicazione:%0AOggetto:INSTALLAZIONE ATTRAZIONE DAL 14/03/2020 AL 29/03/2020</description>
+			<a10:updated>2020-01-23T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0019049/23-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0019049/23-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0019049/23-1-2020%0ARagione sociale:OIA' SRL%0AUbicazione:VIA XXV APRILE%0AOggetto:SCIA DI APERTURA - IMPRESA: OIA' SRL</description>
+			<a10:updated>2020-01-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0018644/23-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271213/19-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271213/19-12-2019%0ARagione sociale:SEKKOURI ABDERRAHIM%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA' VENDITA AUTO VIA INTERNET</description>
-			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271203/19-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271203/19-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271203/19-12-2019%0ARagione sociale:Pirola Francesco &amp; Figli Spa%0AUbicazione:CORSO DELLA VITTORIA%0AOggetto:Richiesta di rilascio AUA per scarichi in fognatura ed emissioni ex art.269 - Sede di Desio</description>
-			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271106/19-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271106/19-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271106/19-12-2019%0ARagione sociale:RAIS SRLS%0AUbicazione:VIA PER CESANO MADERNO%0AOggetto:Apertura bar</description>
 			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
