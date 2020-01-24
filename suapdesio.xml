@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 23 Jan 2020 16:00:58 Z</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2020 09:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0019648/24-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0019648/24-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0019648/24-1-2020%0ARagione sociale:FRANCO BOGANI MECCANICA S.R.L.%0AUbicazione:VIA ENRICO NOVATI%0AOggetto:comunicazione della variazione di denominazione da Franco Bogani Meccanica snc a Franco Bogani Meccanica srl.</description>
+			<a10:updated>2020-01-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0019185/23-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271224/19-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271224/19-12-2019%0ARagione sociale:king owl training%0AUbicazione:%0AOggetto:Gara internazionale di fitness</description>
-			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271213/19-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271213/19-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271213/19-12-2019%0ARagione sociale:SEKKOURI ABDERRAHIM%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA' VENDITA AUTO VIA INTERNET</description>
 			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
