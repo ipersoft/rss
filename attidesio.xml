@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 27 Jan 2020 13:00:54 Z</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2020 15:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5421895</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5421895</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE LUNGO LE VIE MASCAGNI E PER SEREGNO (LAVORI DI RIASFALTAURA) </description>
+			<a10:updated>2020-01-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5421172</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5421172</link>
@@ -157,14 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>TRATTAMENTO ACCESSORIO DEL PERSONALE DIPENDENTE: IMPEGNI DI SPESA PROPEDEUTICI ALLA COSTITUZIONE DEI FONDI ANNO 2020 – RIMBORSO DELLE SPESE SOSTENUTE DAL PERSONALE DIPENDENTE IN MISSIONE: IMPEGNO DI SPESA – CONTRIBUTI ASSISTENZIALI E PREVIDENZIALI 2020: IMPEGNI DI SPESA – IRAP 2020: IMPEGNI DI SPESA. </description>
-			<a10:updated>2020-01-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5410745</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5410745</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>PAGAMENTO ABBONAMENTO SPECIALE TV - ANNO 2020 - PARI A EURO 407,35. </description>
 			<a10:updated>2020-01-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
