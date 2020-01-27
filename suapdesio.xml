@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 24 Jan 2020 16:00:54 Z</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2020 13:00:57 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021773/27-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021773/27-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021773/27-1-2020%0ARagione sociale:ALBA CHIARA DI BONAFE' CHIARA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:SUBINGRESSO IN PUBBLICO ESERCIZIO DI SOMMINISTRAZIONE ALIMENTI E BEVANDE</description>
+			<a10:updated>2020-01-27T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0021154/25-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0021154/25-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0021154/25-1-2020%0ARagione sociale:BUSNELLI ANGELO%0AUbicazione:%0AOggetto:INSTALLAZIONE TEMPORANEA DI ATTRAZIONI LUNA PARK NELL'AMBITO DELLA FESTA DI PRIMAVERA</description>
+			<a10:updated>2020-01-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0019648/24-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271579/19-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271579/19-12-2019%0ARagione sociale:TRABATTONI LUCIANO%0AUbicazione:VIA FILIPPO VILLANI%0AOggetto:AUTOVIDIMAZIONE REGISTRO BENI USATI</description>
-			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271271/19-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271271/19-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271271/19-12-2019%0ARagione sociale:Worthington S.r..l%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:Modifica non sostanziale Autorizzazione AUA n. 878 del 15-06-2018 rilasciata alla società Worthington S.r.l., per l'esercizio dello stabilimento ubicato nel comune di Desio (MB) in via Mascagni n.88. La modifica occorre a seguito della necessità di effettuare una modifica del layout impiantistico.</description>
-			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0271224/19-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0271224/19-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0271224/19-12-2019%0ARagione sociale:king owl training%0AUbicazione:%0AOggetto:Gara internazionale di fitness</description>
 			<a10:updated>2019-12-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
