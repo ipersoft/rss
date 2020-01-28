@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 28 Jan 2020 11:00:53 Z</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2020 13:00:53 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0023363/28-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0023363/28-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0023363/28-1-2020%0ARagione sociale:PERINI MARCO%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:CESSAZIONE ATTIVITà</description>
+			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0023098/28-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0272560/20-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0272560/20-12-2019%0ARagione sociale:ZANFRETTA LORENZO SPETTACOLI VIAGGIANTI%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE PER LA FIERA DI PRIMAVERA 2020</description>
-			<a10:updated>2019-12-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0272446/20-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0272446/20-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0272446/20-12-2019%0ARagione sociale:FARAJ JALAL%0AUbicazione:VIA GABRIELE D'ANNUNZIO%0AOggetto:commercio elettronico al dettaglio e all'ingrosso di autoveicoli nuovi e usati</description>
 			<a10:updated>2019-12-20T00:00:00Z</a10:updated>
 		</item>
 	</channel>
