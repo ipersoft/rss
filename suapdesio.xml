@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 31 Jan 2020 13:00:52 Z</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2020 16:00:53 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0028381/31-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0028381/31-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0028381/31-1-2020%0ARagione sociale:SUNMI S.R.L.%0AUbicazione:VIA VINCENZO MONTI%0AOggetto:SUBINGRESSO COMMERCIO AL DETTAGLIO NON ALIMENTARE</description>
+			<a10:updated>2020-01-31T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0027670/31-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0274275/23-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0274275/23-12-2019%0ARagione sociale:SIR - SISTEMI ITALIANI RISTORAZIONE - S.R.L.%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:SCIA PER MODIFICA MODALITA' DI SOMMINISTRAZIONE PASTI PRESSO MENSA AZIENDALE FLOWSERVE WORTHINGTON SRL FONDERIA. CONSEGNA PASTI PRONTI VEICOLATI DA CENTRO COTTURA ESTERNO. PASTI CONFEZIONATI IN CONTENITORI TERMO-SIGILLATI MONOPORZIONE.</description>
-			<a10:updated>2019-12-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0274205/23-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0274205/23-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0274205/23-12-2019%0ARagione sociale:ART DECOR LEGNO S.R.L.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:FINITURA DI MOBILI</description>
 			<a10:updated>2019-12-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
