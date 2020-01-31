@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 30 Jan 2020 16:00:54 Z</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2020 09:00:52 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0027067/31-1-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0027067/31-1-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0027067/31-1-2020%0ARagione sociale:EDICOL'ALE DI DE LUCIA ALESSANDRA%0AUbicazione:VIA STADIO%0AOggetto:RILASCIO DELLA CONCESSIONE DEL CHIOSCO PER VENDITA DI GIORNALI, RIVISTE E PERIODICI DI VIA STADIO 1 - DESIO</description>
+			<a10:updated>2020-01-31T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0026514/30-1-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0273252/20-12-2019</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0273252/20-12-2019%0ARagione sociale:TONOLI STEFANO%0AUbicazione:%0AOggetto:RICHIESTA PARTECIPAZIONE GIOSTRA</description>
-			<a10:updated>2019-12-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0273221/20-12-2019</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0273221/20-12-2019</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0273221/20-12-2019%0ARagione sociale:MARRONE SAMANTHA%0AUbicazione:VIA MILANO%0AOggetto:VIDIMAZIONE REGISTRO BENI USATI</description>
 			<a10:updated>2019-12-20T00:00:00Z</a10:updated>
 		</item>
 	</channel>
