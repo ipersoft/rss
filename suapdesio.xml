@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 07 Feb 2020 11:00:57 Z</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2020 16:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035794/7-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0035794/7-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0035794/7-2-2020%0ARagione sociale:TAMOIL ITALIA S.P.A.%0AUbicazione:VIA UMBERTO TAGLIABUE%0AOggetto:Comunicazione per Interventi di Modifica, ai sensi del Titolo II, Capo IV, Art. 88 (Modifiche degli Impianti), Comma 3 Bis, della L.R. N° 6/2010 (Testo Unico delle Leggi Regionali in Materia di Commercio e Fiere) e s.m.i., all’interno di un Impianto di Distribuzione Carburanti.</description>
+			<a10:updated>2020-02-07T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035318/7-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0035318/7-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0035318/7-2-2020%0ARagione sociale:ECO BOLLE DI GULISANO VITO%0AUbicazione:CORSO ITALIA%0AOggetto:INIZIO ATTIVITA' COMMERCIO AL DETTAGLIO DI DETERSIVI SFUSI</description>
+			<a10:updated>2020-02-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035126/7-2-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0003067/8-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0003067/8-1-2020%0ARagione sociale:PESCAROLO MARIA FEDERICA%0AUbicazione:VIA SOLFERINO%0AOggetto:avvio attività commercio autovetture usate senza detenzione delle stesse. Le auto vengono lasciate in capo al venditore fino al momento del passaggio al nuovo acquirente</description>
 			<a10:updated>2020-01-08T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0002036/7-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0002036/7-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0002036/7-1-2020%0ARagione sociale:DAIND MB2 S.R.L.%0AUbicazione:VIA MONTELLO%0AOggetto:apertura attività di servizi</description>
-			<a10:updated>2020-01-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0002024/7-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0002024/7-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0002024/7-1-2020%0ARagione sociale:PERINI ANTONIO%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:SUBENTRO EDICOLA E CONCESSIONE PRECARIA UTILIZZO SUOLO PUBBLICO (CHIOCO GIORNALI)</description>
-			<a10:updated>2020-01-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
