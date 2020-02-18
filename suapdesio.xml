@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 18 Feb 2020 09:00:50 Z</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2020 11:00:51 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0044917/18-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0044917/18-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0044917/18-2-2020%0ARagione sociale:IL PIZZICAGNOLO DI RIGONI TONI%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:CHIUSURA ATTIVITà</description>
+			<a10:updated>2020-02-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0043403/17-2-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004996/9-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004996/9-1-2020%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E PALLACANESTRO BRINDISI DOMENICA 12 GENNAIO 2020</description>
-			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0004369/9-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004369/9-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004369/9-1-2020%0ARagione sociale:CICI MICHELANGELO%0AUbicazione:%0AOggetto:CHIEDO UN POSTEGGIO CON UN CARRELLINO 2X2 PER LA VENDITA DI PALLONCINI E ARTICOLI CARNEVALESCHI IN OCCASIONE DEL CARNEVALE DI DESIO NEI GIORNI DI VENERDI E PER IL SABATO NELLA POSIZIONE LATO EDICOLA</description>
 			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
