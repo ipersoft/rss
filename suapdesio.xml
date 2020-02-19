@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 19 Feb 2020 09:00:53 Z</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2020 16:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0046829/19-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0046829/19-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0046829/19-2-2020%0ARagione sociale:Autodemolizioni Vizzi%0AUbicazione:VIALE DELL'INDUSTRIA%0AOggetto:a seguito di variazione la SICAV s.a.s si è trasformata in AUTODEMOLIZIONI VIZZI s.r.l. Nulla è cambiato se non la ragione sociale. La partita iva è rimasta la medesima</description>
+			<a10:updated>2020-02-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0044917/18-2-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0005095/9-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0005095/9-1-2020%0ARagione sociale:MULTIBASE SRL%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:Subingresso nell'attività di commercio al dettaglio di autovetture e di autoveicoli leggeri nuovi e usati in conto proprio.</description>
-			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0004996/9-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0004996/9-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0004996/9-1-2020%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E PALLACANESTRO BRINDISI DOMENICA 12 GENNAIO 2020</description>
 			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
