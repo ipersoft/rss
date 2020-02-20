@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 20 Feb 2020 13:00:44 Z</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2020 16:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0047865/20-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0047865/20-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0047865/20-2-2020%0ARagione sociale:ADDUCI NUNZIATA%0AUbicazione:VIA GIUSEPPE DI VITTORIO%0AOggetto:attività di vendita tramite e-commerce di articoli vari di cosmetica, cura del capello e oggettistica varia</description>
+			<a10:updated>2020-02-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0047333/20-2-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0005215/9-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0005215/9-1-2020%0ARagione sociale:NIMATEC SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:INIZIO ATTIVITA'</description>
-			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0005145/9-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0005145/9-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0005145/9-1-2020%0ARagione sociale:INTIMAMENTE DI SEDINI ALESSANDRO%0AUbicazione:%0AOggetto:COMUNICAZIONE DI SPUNTA PER MERCATO SETTIMANALE DESIO SUD</description>
 			<a10:updated>2020-01-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
