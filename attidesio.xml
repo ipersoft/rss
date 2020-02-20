@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 20 Feb 2020 15:00:47 Z</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2020 17:00:48 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5476794</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5476794</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA LAMPUGNANI "ISTITUZIONE DI ZONA A VELOCITA' LIMITATA DI 30 KM/H (ZONA 30) NELL'AMBITO TERRITORIALE COMPRESO TRA VIA XXV APRILE E VIA SOVICANA" </description>
+			<a10:updated>2020-02-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5473747</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5473747</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>RICOGNIZIONE DEL PERSONALE DIPENDENTE AI SENSI DELL'ART. 33 DEL D.LGS.165/2001 - ANNO 2020 </description>
-			<a10:updated>2020-02-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5464163</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5464163</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>BILANCIO DI PREVISIONE DELL’ESERCIZIO 2020 – SECONDO PRELIEVO DAL FONDO DI RISERVA DI COMPETENZA E DI CASSA PER INTEGRAZIONE STANZIAMENTI, E VARIAZIONE MACROAGGREGATI. </description>
 			<a10:updated>2020-02-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
