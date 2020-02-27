@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 27 Feb 2020 13:00:50 Z</lastBuildDate>
+		<lastBuildDate>Thu, 27 Feb 2020 16:00:49 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0054275/27-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0054275/27-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0054275/27-2-2020%0ARagione sociale:IL CERCHIO DI ZITELLI ARTURO%0AUbicazione:PIAZZALE BENEFATTORI ECA%0AOggetto:CESSAZIONE ATTIVITA' COMMERCIALE</description>
+			<a10:updated>2020-02-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0053903/27-2-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0007600/13-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0007600/13-1-2020%0ARagione sociale:XU MENGZHENG%0AUbicazione:%0AOggetto:RICHIESTA SPUNTA MERCATO SUD</description>
-			<a10:updated>2020-01-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0007238/13-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0007238/13-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0007238/13-1-2020%0ARagione sociale:GIDIENNE SAS DI GIANOTTI ROBERTO &amp; C.%0AUbicazione:VIA MILANO%0AOggetto:chiusura unità locale</description>
 			<a10:updated>2020-01-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
