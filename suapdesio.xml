@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 28 Feb 2020 13:00:50 Z</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2020 16:00:49 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0055245/28-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0055245/28-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0055245/28-2-2020%0ARagione sociale:PAD COLOR SRL%0AUbicazione:N.D. DA DESIO%0AOggetto:RICHIESTA SCIA INIZIO ATTIVITA' PRODUTTIVA</description>
+			<a10:updated>2020-02-28T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0055180/28-2-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0055180/28-2-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0055180/28-2-2020%0ARagione sociale:DE ANGELIS DONATELLA%0AUbicazione:PIAZZA MARTIRI DI FOSSOLI%0AOggetto:SOPSENSIONE DELL'ATTIVITA' DI BAR DAL DAL 31/01/2020 al 31/07/2020.</description>
+			<a10:updated>2020-02-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0055082/28-2-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0009535/14-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0009535/14-1-2020%0ARagione sociale:MECHANICS LIFT DI MAZZILLI MICHELE%0AUbicazione:VIA PER BINZAGO%0AOggetto:INIZIO ATTIVITA' ISTALLAZIONE ASCENSORI</description>
-			<a10:updated>2020-01-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0009085/14-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0009085/14-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0009085/14-1-2020%0ARagione sociale:MASTELLARO ENZO%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA DEL MERCATO DI DESIO SUD DEL LUNEDI'</description>
-			<a10:updated>2020-01-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0008654/14-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0008654/14-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0008654/14-1-2020%0ARagione sociale:PIRRUCCIO VINCENZO%0AUbicazione:VIA FRATELLI CERVI%0AOggetto:CHIUSURA UNITA' LOCALE</description>
 			<a10:updated>2020-01-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
