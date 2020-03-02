@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 28 Feb 2020 16:00:49 Z</lastBuildDate>
+		<lastBuildDate>Mon, 02 Mar 2020 09:00:50 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0055616/1-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0055616/1-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0055616/1-3-2020%0ARagione sociale:I NORCINI PER STRADA DI MARLETTA MARCO &amp; C. S.N.C.%0AUbicazione:VIA ALBERT EINSTEIN%0AOggetto:DOMANDA PALIO DEGLI ZOCCOLI</description>
+			<a10:updated>2020-03-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0055245/28-2-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0009544/14-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0009544/14-1-2020%0ARagione sociale:piccaluga andrea%0AUbicazione:%0AOggetto:luna park desio primavera 2020</description>
-			<a10:updated>2020-01-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0009535/14-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0009535/14-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0009535/14-1-2020%0ARagione sociale:MECHANICS LIFT DI MAZZILLI MICHELE%0AUbicazione:VIA PER BINZAGO%0AOggetto:INIZIO ATTIVITA' ISTALLAZIONE ASCENSORI</description>
 			<a10:updated>2020-01-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
