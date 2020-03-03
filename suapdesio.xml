@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 03 Mar 2020 11:00:51 Z</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2020 16:00:50 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0057516/3-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0057516/3-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0057516/3-3-2020%0ARagione sociale:REAL CAR S.R.L.%0AUbicazione:VIA ARMANDO DIAZ%0AOggetto:noleggio senza conducente</description>
+			<a10:updated>2020-03-03T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0057509/3-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0057509/3-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0057509/3-3-2020%0ARagione sociale:STEALTH LIGHT SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Assegnazione matricola montacarichi</description>
+			<a10:updated>2020-03-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0057446/3-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0011708/16-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0011708/16-1-2020%0ARagione sociale:MB CAR SNC DI MELLUSO ADOLFO FRANCESCO E C.%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:Richiesta Vidimazione Registro Commercio Beni Usati</description>
-			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0011137/16-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0011137/16-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0011137/16-1-2020%0ARagione sociale:ALEX DI TOSCANO LAURA%0AUbicazione:%0AOggetto:partecipazione alla spunta</description>
-			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0011073/16-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0011073/16-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0011073/16-1-2020%0ARagione sociale:LAVIZZARI MONICA GIOVANNA%0AUbicazione:VIA GARIBALDI%0AOggetto:INIZIO ATTIVITA' CON DECORRENZA 01.02.2020 COMMERCIO AL DETTAGLIO DI ARTICOLI DI PROFUMERIA</description>
 			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
