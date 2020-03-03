@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 02 Mar 2020 16:00:53 Z</lastBuildDate>
+		<lastBuildDate>Tue, 03 Mar 2020 09:00:51 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0056891/2-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0056891/2-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0056891/2-3-2020%0ARagione sociale:gerosi luigi ercole%0AUbicazione:%0AOggetto:spunta mercato desio 2020</description>
+			<a10:updated>2020-03-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0056834/2-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0056834/2-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0056834/2-3-2020%0ARagione sociale:CONZATTI GRAZIANO%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:SI COMUNICA L'INIZIO ATTIVITA' DI COMMERCIO EFFETTUATO PER MEZZO DI DISTRIBUTORI AUTOMATICI SI PRODOTTI ALIMENTARI PRECONFEZIONATI.</description>
+			<a10:updated>2020-03-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0056138/2-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0011032/16-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0011032/16-1-2020%0ARagione sociale:HANNIOUI MOHAMMED AMINE%0AUbicazione:%0AOggetto:COMUNICAZIONE PARTECIPAZIONE SPUNTA MERCATO SETTIMANALE DEL LUNEDI' DESIO SUD ANNO 2020</description>
 			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0011011/16-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0011011/16-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0011011/16-1-2020%0ARagione sociale:HANNIOUI MOHAMMED AMINE%0AUbicazione:%0AOggetto:COMUNICAZIONE PARTECIPAZIONE SPUNTA MERCATO SETTIMANALE DEL LUNEDI' DESIO NORD ANNO 2020</description>
-			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0010629/15-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0010629/15-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0010629/15-1-2020%0ARagione sociale:DITTA INDIVIDUALE DI BACCI MASSIMO%0AUbicazione:%0AOggetto:RICHIESTA LICENZA TEMPORANEA SPETTACOLO VIAGGIANTE FIERA DI PRIMAVERA 2020</description>
-			<a10:updated>2020-01-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
