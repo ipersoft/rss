@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 04 Mar 2020 13:00:50 Z</lastBuildDate>
+		<lastBuildDate>Wed, 04 Mar 2020 16:00:48 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0058985/4-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0058985/4-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0058985/4-3-2020%0ARagione sociale:POZZOLI FOOD S.P.A.%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:SOSPENSIONE DELL'ATTIVITA' DI SOMMINISTRAZIONE DI ALIMENTI E BEVANDE IN BAR GASTRONOMICI</description>
+			<a10:updated>2020-03-04T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0058978/4-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0058978/4-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0058978/4-3-2020%0ARagione sociale:POZZOLI FOOD S.P.A.%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:SOSPENSIONE DELL'ATTIVITA DI DISCOUNT</description>
+			<a10:updated>2020-03-04T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0058219/3-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0012740/17-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0012740/17-1-2020%0ARagione sociale:YE XIAOTONG%0AUbicazione:%0AOggetto:RICHIESTA PARTECIPAZIONE MERCATO DESIO NORD</description>
 			<a10:updated>2020-01-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0012595/17-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0012595/17-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0012595/17-1-2020%0ARagione sociale:YAO GUANGSONG%0AUbicazione:%0AOggetto:PARTECIPAZIONE ALLA SPUNTA MERCATO DESIO NORD</description>
-			<a10:updated>2020-01-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0012234/16-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0012234/16-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0012234/16-1-2020%0ARagione sociale:SCHIATTI S.N.C. DI LAURA, GIGLIOLA E FRANCESCA SCHIATTI%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:vendita straordinaria per liquidazione</description>
-			<a10:updated>2020-01-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
