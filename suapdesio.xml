@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 06 Mar 2020 16:00:50 Z</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2020 09:00:49 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0062174/9-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0062174/9-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0062174/9-3-2020%0ARagione sociale:WILD BEER SRL%0AUbicazione:VIALE EUROPA%0AOggetto:SUBENTRO NELL'ATTIVITA' DI WINE BAR, BIRRERIA, PUB PER AOMMPRAVENDITA DI RAMO D'AZIENDA</description>
+			<a10:updated>2020-03-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0061896/6-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0061896/6-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0061896/6-3-2020%0ARagione sociale:PALLACANESTRO CANTU' S.P.A.%0AUbicazione:%0AOggetto:SVOLGIMENTO DELLA PARTITA DEL CAMPIONATO ITALIANO DI PALLACANESTRO DI A1 TRA PALLACANESTRO CANTU' E PALLACANESTRO CREMONA CHE SI SVOLGERA' A PORTE CHIUSE DOMENICA 8 MARZO 2020</description>
+			<a10:updated>2020-03-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0061736/6-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0017669/22-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0017669/22-1-2020%0ARagione sociale:REAL CAR S.R.L.%0AUbicazione:VIA ARMANDO DIAZ%0AOggetto:noleggio senza conducente</description>
-			<a10:updated>2020-01-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0017648/22-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0017648/22-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0017648/22-1-2020%0ARagione sociale:IN PUNTA DI PIEDI DI SOLAZZO DANIEL%0AUbicazione:VIA NAZARIO SAURO%0AOggetto:INIZIO ATTIVITA' SECONDARIA DI ESTETISTA</description>
-			<a10:updated>2020-01-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0017336/22-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0017336/22-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0017336/22-1-2020%0ARagione sociale:FELTRIN ELISA%0AUbicazione:VIA TREVISO%0AOggetto:inizio attività di e-commerce non alimentare - nello specifico vendita di tutorial online di trucco.</description>
 			<a10:updated>2020-01-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
