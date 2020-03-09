@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 09 Mar 2020 11:00:51 Z</lastBuildDate>
+		<lastBuildDate>Mon, 09 Mar 2020 13:00:50 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5510904</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5510904</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>CONTRIBUTO A FAVORE DELLA FONDAZIONE IFEL - ASSUNZIONE IMPEGNO DI SPESA PER CONTRIBUTO SU VERSAMENTI I.M.U. ANNO 2020 </description>
+			<a10:updated>2020-03-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5510902</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5510902</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>NOMINA COMMISSIONE DI GARA PER PROCEDURA NEGOZIATA, AI SENSI DEGLI ARTT. 30, 35, 36, COMMA 2 E 95 DEL D. LGS. 50/2016, PER L’AFFIDAMENTO IN CONCESSIONE E GESTIONE DELLE ATTIVITA’ CULTURALI E DI SPETTACOLO PER LA VALORIZZAZIONE DELLA VILLA CUSANI TITTONI TRAVERSI E DEL SUO PARCO PER IL PERIODO 2020/2021. </description>
+			<a10:updated>2020-03-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5509255</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5509255</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>IMPEGNO DI SPESA PER RIMBORSO ONERI DATORI DI LAVORO AMMINISTRATORI COMUNALI ANNO 2020 € 12.000,00 </description>
-			<a10:updated>2020-03-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5500237</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5500237</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>APPROVAZIONE AVVISO PUBBLICO PER LA PRESENTAZIONE DI CANDIDATURE PER LA NOMINA E LA DESIGNAZIONE DA PARTE DEL COMUNE DI DESIO DI 1 COMPONENTE CONSIGLIO DI AMMINISTRAZIONE E N 1 COMPONENTE IL COLLEGIO DEI REVISORI- A TITOLO GRATUITO (FONDAZIONE CASA NATALE PIO XI) PER 4 ANNI </description>
-			<a10:updated>2020-03-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5499568</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5499568</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>INTERVENTI DI ATTUAZIONE BILANCIO PARTECIPATIVO 2019: “NEW SKATEPARK – SKATENIAMOCI” (F205). DETERMINA A CONTRATTARE E AFFIDAMENTO INCARICO, EX ART. ART. 36, C.2, LETT. A) DEL D.LGS. 50/2016, ALLA SPORTISSIMO S.R.L. DI DANTE ACERBIS. CIG: Z0F2BEAEB9 </description>
 			<a10:updated>2020-03-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
