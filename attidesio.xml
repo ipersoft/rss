@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 16 Mar 2020 15:00:52 Z</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2020 17:00:52 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5522476</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5522476</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE LUNGO LA VIA ADAMELLO, VIA BATTISTI, VIA BELLINI, VIA BUOZZI, VIA CASSINO, VIA CANTORE, VIA B. CROCE, VIA DE AMICIS, VIA DELEDDA, VIA DOLOMITI, VIA FIUME, VIA GIUSTI, VIA LAMPUGNANI, VIA MONTALE, VIA MONTENERO, VIA ORTIGARA, VIA PARTIGIANI D’ITALIA, VIA RISORGIMENTO, VIA ROMA, VIA TRAVERSI, VIA TRINCEA DELLE FRASCHE, VIA SEGANTINI, VIA VERDI, VIA VILLA, VIA VISCONTI, VIA VOLTA (IMP. BERGAMELLI) </description>
+			<a10:updated>2020-03-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5522089</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5522089</link>
@@ -157,14 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>FORNITURA DI PANNELLI DI PROTEZIONE IN PLEXIGLASS PER GLI SPORTELLI AL PUBBLICO PER EMERGENZA CORONAVIRUS. EURO 1.159,00 I.V.A. COMPRESA. CIG ZCC2C64016. </description>
-			<a10:updated>2020-03-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5513162</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5513162</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA FERRAVILLA (REGOLAMENTAZIONE SOSTA A MEZZO DISCO ORARIO) </description>
 			<a10:updated>2020-03-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
