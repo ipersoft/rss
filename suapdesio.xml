@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 16 Mar 2020 13:00:54 Z</lastBuildDate>
+		<lastBuildDate>Mon, 16 Mar 2020 16:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068059/16-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068059/16-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068059/16-3-2020%0ARagione sociale:O.E.M.C. S.r.l.%0AUbicazione:VIA MULINELLO%0AOggetto:SCIA PER: COMUNICAZIONE VARIAZIONE RAGIONE SOCIALE, RIMANGONO INVARIATI TUTTI GLI ALTRI DATI FISCALI; COMUNICAZIONE VARIAZIONE LEGALE RAPPRESENTANTE</description>
+			<a10:updated>2020-03-16T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0067987/16-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0067987/16-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0067987/16-3-2020%0ARagione sociale:EDISON FACILITY SOLUTIONS S.P.A.%0AUbicazione:VIA GIUSEPPE MAZZINI%0AOggetto:Richiesta Autorizzazione Emissione Atmosfera in via generale relativo all'inserimento di un cogeneratore presso ospedale di Desio come da allegato tecnico n. 41 "Medi impianti di combustione".</description>
+			<a10:updated>2020-03-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0066283/12-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0023363/28-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0023363/28-1-2020%0ARagione sociale:PERINI MARCO%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:CESSAZIONE ATTIVITà</description>
-			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0023098/28-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0023098/28-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0023098/28-1-2020%0ARagione sociale:KUBLER DAVIDE%0AUbicazione:VIA CARLO FORLANINI%0AOggetto:CESSAZIONE ATTIVITA' COMMERCIO ON LINE DI AUTOVEICOLI USATI</description>
-			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0022986/28-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0022986/28-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0022986/28-1-2020%0ARagione sociale:BETTY ACCONCIATURE DI ESPOSITO GILBERTA DOLORES%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:CESSAZIONE ATTIVITA' ACCONCIATURA_AFFITTO DI POLTRONA</description>
 			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
