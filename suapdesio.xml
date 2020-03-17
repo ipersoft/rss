@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Mar 2020 13:00:58 Z</lastBuildDate>
+		<lastBuildDate>Tue, 17 Mar 2020 16:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068763/17-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068763/17-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068763/17-3-2020%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE AL PALIO DEGLI ZOCCOLI, CHE SI TERRA' IN VIA GARIBALDI IL GIORNO 04/06/2020</description>
+			<a10:updated>2020-03-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068059/16-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0023620/28-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0023620/28-1-2020%0ARagione sociale:BRIANPHARMA SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:INIZIO ATTIVITA' DI E - COMMERCE FARMACI</description>
-			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0023363/28-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0023363/28-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0023363/28-1-2020%0ARagione sociale:PERINI MARCO%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:CESSAZIONE ATTIVITà</description>
 			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
