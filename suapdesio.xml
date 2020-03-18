@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 Mar 2020 16:00:54 Z</lastBuildDate>
+		<lastBuildDate>Wed, 18 Mar 2020 16:00:52 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0069178/18-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0069178/18-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0069178/18-3-2020%0ARagione sociale:Worthington S.r..l%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:Modifica non sostanziale Autorizzazione AUA n. 878 del 15-06-2018 rilasciata alla società Worthington S.r.l., per l'esercizio dello stabilimento ubicato nel comune di Desio (MB) in via Mascagni n.88. La modifica occorre a seguito della necessità di effettuare una modifica del layout impiantistico.</description>
+			<a10:updated>2020-03-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068957/17-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068957/17-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068957/17-3-2020%0ARagione sociale:RIVOLTA S.N.C. DI M. E S. RIVOLTA%0AUbicazione:VIA VITTORIO VENETO%0AOggetto:VARIAZIONE DENOMINAZIONE</description>
+			<a10:updated>2020-03-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068763/17-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0024064/28-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0024064/28-1-2020%0ARagione sociale:PERINI ANTONIO%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:occupazione suolo</description>
-			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0023999/28-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0023999/28-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0023999/28-1-2020%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione Festa di Carnevale nei giorni 28/29 Febbraio anno 2020 ( il giorno 28 sopra sagrato chiesa mentre il giorno 29 in Via Garibaldi altezza numero civico n° 6 )</description>
-			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0023620/28-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0023620/28-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0023620/28-1-2020%0ARagione sociale:BRIANPHARMA SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:INIZIO ATTIVITA' DI E - COMMERCE FARMACI</description>
 			<a10:updated>2020-01-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
