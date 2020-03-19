@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 18 Mar 2020 17:00:51 Z</lastBuildDate>
+		<lastBuildDate>Thu, 19 Mar 2020 11:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5526019</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5526019</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>ADEGUAMENTO IMPIANTO DI FOGNATURA E DI GESTIONE DELLE ACQUE METEORICHE DELLA PIATTAFORMA ECOLOGICA SITA A DESIO, IN VIA EINAUDI N. 3. APPROVAZIONE DEL PROGETTO DI MESSA A NORMA E ATTO DI INDIRIZZO ALLA SOCIETÀ GESTIONE SERVIZI DESIO S.R.L. </description>
+			<a10:updated>2020-03-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5525449</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5525449</link>
@@ -157,14 +165,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA CONTINGIBILE E URGENTE AI SENSI DELL’ART. 50 DEL D.LGS. 267/2000 IN RELAZIONE ALL’EMERGENZA COVID-19 </description>
-			<a10:updated>2020-03-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5520722</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5520722</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA LEONCAVALLO (RISERVA POSTO AUTO A PERSONE DISABILI) </description>
 			<a10:updated>2020-03-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
