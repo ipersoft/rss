@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 20 Mar 2020 16:00:53 Z</lastBuildDate>
+		<lastBuildDate>Mon, 23 Mar 2020 11:01:00 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0071345/23-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0071345/23-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0071345/23-3-2020%0ARagione sociale:BZ S.A.S. DI BARISON FRANCO GIOVANNI &amp; C.%0AUbicazione:VIA MULINELLO%0AOggetto:Messa in esercizio emissioni per autorizzazione secondo art. 272 comma 2 e 3 del D. lgs 152/06 e smi, allegato 15, dell'azienda BZ di Barison Franco Giovanni &amp;C.</description>
+			<a10:updated>2020-03-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0069801/19-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0024899/29-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0024899/29-1-2020%0ARagione sociale:SAVARESE CRISTINA%0AUbicazione:%0AOggetto:Domanda di partecipazione al Carnevale ed. 2020 nelle giornate di Venerdi e Sabato. Per la vendita di articoli per il carnevale.</description>
-			<a10:updated>2020-01-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0024893/29-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0024893/29-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0024893/29-1-2020%0ARagione sociale:WIND TRE SPA%0AUbicazione:VIA CARLO PORTA%0AOggetto:MODIFICA STAZIONE RADIO BASE</description>
 			<a10:updated>2020-01-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
