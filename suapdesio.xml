@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 26 Mar 2020 13:00:56 Z</lastBuildDate>
+		<lastBuildDate>Thu, 26 Mar 2020 16:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0073239/26-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0073239/26-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0073239/26-3-2020%0ARagione sociale:AFRIWINES SRL%0AUbicazione:VIA TRIESTE%0AOggetto:VARIAZIONE INDIRIZZO UNITA' LOCALE</description>
+			<a10:updated>2020-03-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0072502/25-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0026514/30-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0026514/30-1-2020%0ARagione sociale:LAKEROOM SNC DI MARIANI ANNA E CRISTINA%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:INIZIO ATTIVITA' SERVIZI FOTOGRAFICI</description>
-			<a10:updated>2020-01-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0025833/30-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0025833/30-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0025833/30-1-2020%0ARagione sociale:TELEFONIA BRIANZA S.R.L.%0AUbicazione:VIA ENRICO FERMI%0AOggetto:INIZIO ATTIVITA' NELLA SEDE LEGALE</description>
 			<a10:updated>2020-01-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
