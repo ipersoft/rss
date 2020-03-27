@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 26 Mar 2020 16:00:55 Z</lastBuildDate>
+		<lastBuildDate>Fri, 27 Mar 2020 09:00:55 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0073397/26-3-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0073397/26-3-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0073397/26-3-2020%0ARagione sociale:ESSEMME FIORI S.N.C. DI GUALTIERI ROBERTO &amp;amp; C.%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:SCIA DI CESSAZIONE ATTIVITA' DI COMMERCIO AL DETTAGLIO DI PIANTE, FIORI FRESCHI E RECISI E ARTICOLIFUNERARI</description>
+			<a10:updated>2020-03-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0073239/26-3-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0027067/31-1-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0027067/31-1-2020%0ARagione sociale:EDICOL'ALE DI DE LUCIA ALESSANDRA%0AUbicazione:VIA STADIO%0AOggetto:RILASCIO DELLA CONCESSIONE DEL CHIOSCO PER VENDITA DI GIORNALI, RIVISTE E PERIODICI DI VIA STADIO 1 - DESIO</description>
 			<a10:updated>2020-01-31T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0026514/30-1-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0026514/30-1-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0026514/30-1-2020%0ARagione sociale:LAKEROOM SNC DI MARIANI ANNA E CRISTINA%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:INIZIO ATTIVITA' SERVIZI FOTOGRAFICI</description>
-			<a10:updated>2020-01-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
