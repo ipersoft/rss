@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 09 Apr 2020 15:00:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 10 Apr 2020 12:00:47 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0080306/10-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0080306/10-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0080306/10-4-2020%0ARagione sociale:ILIAD ITALIA%0AUbicazione:VIA MONTE BIANCO ANG. VIA ASIAGO%0AOggetto:COMUNICAZIONE FINE LAVORI SRB ILIAD MB20832_007 DESIO OVEST</description>
+			<a10:updated>2020-04-10T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0080185/9-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0080185/9-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0080185/9-4-2020%0ARagione sociale:D.P.M. GROUP S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Inizio attività di commercio all'ingrosso senza deposito</description>
+			<a10:updated>2020-04-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0078724/7-4-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034528/6-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034528/6-2-2020%0ARagione sociale:VAZZOLER SILVIO SAS DI VAZZOLER GIOVANNI%0AUbicazione:VIA SAN VINCENZO%0AOggetto:TRASMISSIONE BILANCIO DI MASSA ANNO 2019 DITTA VAZZOLER SILVIO SAS DI VAZZOLER GIOVANNI</description>
 			<a10:updated>2020-02-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0031616/4-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0031616/4-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0031616/4-2-2020%0ARagione sociale:SOLANI EMILIO%0AUbicazione:%0AOggetto:INSTALLAZIONE ATTRAZIONI DAL 02/10/2020 AL 05/10/2020</description>
-			<a10:updated>2020-02-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0030648/4-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0030648/4-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0030648/4-2-2020%0ARagione sociale:BRUN MORENO%0AUbicazione:%0AOggetto:COMUNICAZIONE PARTECIPAZIONE SPUNTA MERCATO SETTIMALE DEL LUNEDI' DESIO SUD ANNO 2020</description>
-			<a10:updated>2020-02-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
