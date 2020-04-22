@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 21 Apr 2020 15:00:36 Z</lastBuildDate>
+		<lastBuildDate>Wed, 22 Apr 2020 08:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0085302/21-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0085302/21-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0085302/21-4-2020%0ARagione sociale:PADCOLOR SRL%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:RICHIESTA AUTORIZZAZIONE ALLE EMISSIONI IN DEROGA</description>
+			<a10:updated>2020-04-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0083773/17-4-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034685/6-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034685/6-2-2020%0ARagione sociale:CASSARA' FRANCESCO%0AUbicazione:%0AOggetto:SCIA SUBENTRO MERCATO DEL LUNEDI POSTEGGIO N. 15 VIA PRATI, AUT. 16138 CONC. 629</description>
-			<a10:updated>2020-02-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0034664/6-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0034664/6-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0034664/6-2-2020%0ARagione sociale:AROSIO ENRICO%0AUbicazione:VIA FORLANINI%0AOggetto:ATTIVITA' TEMPORANEA (mesi 8) PER DEPOSITO DI MACCHINARI IN ACCIAIO IN DISUSO IN AREA ESTERNA</description>
 			<a10:updated>2020-02-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
