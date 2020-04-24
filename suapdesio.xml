@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 24 Apr 2020 08:00:36 Z</lastBuildDate>
+		<lastBuildDate>Fri, 24 Apr 2020 15:00:37 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086911/24-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086911/24-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086911/24-4-2020%0ARagione sociale:ILTES DI BIONDANI MANUEL &amp;amp; C. SNC%0AUbicazione:VIA TRINCEA DELLE FRASCHE%0AOggetto:Richiesta di voltura dell'autorizzazione unica ambientale da ILTES DI BIONDANI SILVANO &amp;amp; C. SNC ad ILTES DI BIONDANI MANUEL &amp;amp; C. SNC</description>
+			<a10:updated>2020-04-24T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086771/24-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086771/24-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086771/24-4-2020%0ARagione sociale:PRESOTTO PAOLA%0AUbicazione:%0AOggetto:SUBINGR. AUTOR. ITINER. NON ALIMENTARE- ATTO DEL 24/02/2020 A "EREDI DI GALDINO PRESOTTO SDF", COSTITUITA IN SUBENTRO ALLA D.I. "PRESOTTO GALDINO", MORTIS CAUSA. SI ALLEGANO LE AUTORIZZAZIONI PER DOCUMENTARE L'ANZIANITA' DELL'ATTIVITA'. SI AGGIUNGE IL SETTORE ALIMENTARE CON SOMMINISTRAZIONE.</description>
+			<a10:updated>2020-04-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086243/23-4-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0037274/10-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0037274/10-2-2020%0ARagione sociale:SEMPRE VERDE DI ZOTTA STEFANO%0AUbicazione:VIA AMATORE SCIESA%0AOggetto:CHIUSURA DESIO VIA SCIESA 57</description>
 			<a10:updated>2020-02-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035794/7-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0035794/7-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0035794/7-2-2020%0ARagione sociale:TAMOIL ITALIA S.P.A.%0AUbicazione:VIA UMBERTO TAGLIABUE%0AOggetto:Comunicazione per Interventi di Modifica, ai sensi del Titolo II, Capo IV, Art. 88 (Modifiche degli Impianti), Comma 3 Bis, della L.R. N° 6/2010 (Testo Unico delle Leggi Regionali in Materia di Commercio e Fiere) e s.m.i., all’interno di un Impianto di Distribuzione Carburanti.</description>
-			<a10:updated>2020-02-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0035318/7-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0035318/7-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0035318/7-2-2020%0ARagione sociale:ECO BOLLE DI GULISANO VITO%0AUbicazione:CORSO ITALIA%0AOggetto:INIZIO ATTIVITA' COMMERCIO AL DETTAGLIO DI DETERSIVI SFUSI</description>
-			<a10:updated>2020-02-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
