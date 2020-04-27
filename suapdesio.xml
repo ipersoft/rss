@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 24 Apr 2020 15:00:37 Z</lastBuildDate>
+		<lastBuildDate>Mon, 27 Apr 2020 10:00:37 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087231/27-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087231/27-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087231/27-4-2020%0ARagione sociale:RIKCREA 3D DI RICARDO OSTI%0AUbicazione:VIA CARLO GOLDONI%0AOggetto:CESSAZIONE ATTIVITA'</description>
+			<a10:updated>2020-04-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086911/24-4-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0038305/11-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0038305/11-2-2020%0ARagione sociale:LAVIZZARI MONICA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:INIZIO ATTIVITA'</description>
 			<a10:updated>2020-02-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0037274/10-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0037274/10-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0037274/10-2-2020%0ARagione sociale:SEMPRE VERDE DI ZOTTA STEFANO%0AUbicazione:VIA AMATORE SCIESA%0AOggetto:CHIUSURA DESIO VIA SCIESA 57</description>
-			<a10:updated>2020-02-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
