@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 27 Apr 2020 15:00:37 Z</lastBuildDate>
+		<lastBuildDate>Tue, 28 Apr 2020 10:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087846/28-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087846/28-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087846/28-4-2020%0ARagione sociale:ZAPPA S.R.L.%0AUbicazione:VIA LUIGI EINAUDI%0AOggetto:INIZIO ATTIVITA' DI COMMERCIO ALL'INGROSSO DI MACCHINARI, MATERIALE E DISPOSITIVI DI TIPO MEDICALE E FARMACEUTICO</description>
+			<a10:updated>2020-04-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087379/27-4-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0040298/13-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0040298/13-2-2020%0ARagione sociale:MALBERTI ANTONELLA%0AUbicazione:VIA ALESSANDRO MANZONI%0AOggetto:TRASMISSIONE PIANO GESTIONE SOLVENTI - ANNO 2019 - DITTA MALBERTI ANTONELLA</description>
 			<a10:updated>2020-02-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0040050/12-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0040050/12-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0040050/12-2-2020%0ARagione sociale:RAIS SRLS%0AUbicazione:VIA PER CESANO MADERNO%0AOggetto:apertura bar con vendita di prodotti alimentari</description>
-			<a10:updated>2020-02-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
