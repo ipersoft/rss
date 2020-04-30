@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 30 Apr 2020 12:00:36 Z</lastBuildDate>
+		<lastBuildDate>Thu, 30 Apr 2020 15:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0089073/30-4-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0089073/30-4-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0089073/30-4-2020%0ARagione sociale:PASSONI MARA%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:CESSAZIONE DELL'ATTIVITA DI SOMMINISTRAZIONE ALIMENTI E BEVANDI - VICINATO</description>
+			<a10:updated>2020-04-30T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0088846/30-4-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0046829/19-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0046829/19-2-2020%0ARagione sociale:Autodemolizioni Vizzi%0AUbicazione:VIALE DELL'INDUSTRIA%0AOggetto:a seguito di variazione la SICAV s.a.s si è trasformata in AUTODEMOLIZIONI VIZZI s.r.l. Nulla è cambiato se non la ragione sociale. La partita iva è rimasta la medesima</description>
 			<a10:updated>2020-02-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0044917/18-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0044917/18-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0044917/18-2-2020%0ARagione sociale:IL PIZZICAGNOLO DI RIGONI TONI%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:CHIUSURA ATTIVITà</description>
-			<a10:updated>2020-02-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
