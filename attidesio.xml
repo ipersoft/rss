@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 04 May 2020 08:00:40 Z</lastBuildDate>
+		<lastBuildDate>Mon, 04 May 2020 14:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5582290</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5582290</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>ALLACCIAMENTO AL PUBBLICO ACQUEDOTTO CON ANNESSA POSA DI UN NUOVO CONTATORE ACQUA PRESSO IL PARCO AGNESI (ACCESSO DA VIA CALVINO). APPROVAZIONE IMPEGNO DI SPESA E AFFIDAMENTO LAVORI A BRIANZACQUE S.R.L. - CIG Z182CAAC0E </description>
+			<a10:updated>2020-05-04T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5580890</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5580890</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>INTEGRAZIONE SOCIETARIA E INDUSTRIALE TRA AMBIENTE ENERGIA BRIANZA (AEB) S.P.A. E A2A S.P.A. E I RELATIVI GRUPPI AZIENDALI. PROGETTO DI SCISSIONE PARZIALE DI UNARETI S.P.A. IN AMBIENTE ENERGIA BRIANZA (AEB) S.P.A. APPROVAZIONE. </description>
-			<a10:updated>2020-04-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5573625</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5573625</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>INTEGRAZIONE IMPEGNO DI SPESA ASSUNTO CON DETERMINAZIONE N. 66 DEL 28/01/2020 AD OGGETTO “APPROVAZIONE INTERVENTI FORMATIVI INTERSETTORIALI ANNO 2020 – ASSEGNAZIONE RISORSE E IMPEGNI DI SPESA PER FORMAZIONE SETTORIALE ANNO 2020” CIG: Z762BB62D9 </description>
 			<a10:updated>2020-04-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
