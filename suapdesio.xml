@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 07 May 2020 08:00:35 Z</lastBuildDate>
+		<lastBuildDate>Thu, 07 May 2020 15:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091884/7-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0091884/7-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0091884/7-5-2020%0ARagione sociale:COLSIG S.N.C. DI MIRELLA SIGOTTI E C.%0AUbicazione:VIA DEGLI ARTIGIANI%0AOggetto:COMUNICAZIONE DI CESSAZIONE ATTIVITA' A SEGUITO DI CESSIONE RAMO D'AZIENDA</description>
+			<a10:updated>2020-05-07T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091843/7-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0091843/7-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0091843/7-5-2020%0ARagione sociale:LAELLE TRASPORTI S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:AUTOVIDIMAZIONE REGISTRO CARICO SCARICO AUTOVEICOLI USATI</description>
+			<a10:updated>2020-05-07T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091736/7-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0091736/7-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0091736/7-5-2020%0ARagione sociale:ESSE CLASSIC S.A.S. DI GIORGETTI SILVIO E C.%0AUbicazione:VIA OSLAVIA%0AOggetto:VENDITA DI AUTO USATE</description>
+			<a10:updated>2020-05-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091526/6-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0049267/21-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0049267/21-2-2020%0ARagione sociale:SHI XIUFANG%0AUbicazione:VIA GARIBALDI%0AOggetto:CHIUSURA</description>
 			<a10:updated>2020-02-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0049245/21-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0049245/21-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0049245/21-2-2020%0ARagione sociale:COOP LOMBARDIA SOCIETA' COOPERATIVA%0AUbicazione:VIA MILANO ANG. VIA BORGHETTO%0AOggetto:COMUNICAZIONE DI 1° VENDITA SOTTOCOSTO ANNO 2020 SUPERMERCATO COOP</description>
-			<a10:updated>2020-02-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0048300/20-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0048300/20-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0048300/20-2-2020%0ARagione sociale:Callegari Roberto%0AUbicazione:%0AOggetto:domanda partecipazione sagra di marzo 2020</description>
-			<a10:updated>2020-02-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0047865/20-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0047865/20-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0047865/20-2-2020%0ARagione sociale:ADDUCI NUNZIATA%0AUbicazione:VIA GIUSEPPE DI VITTORIO%0AOggetto:attività di vendita tramite e-commerce di articoli vari di cosmetica, cura del capello e oggettistica varia</description>
-			<a10:updated>2020-02-20T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
