@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 06 May 2020 15:00:34 Z</lastBuildDate>
+		<lastBuildDate>Thu, 07 May 2020 08:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091526/6-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0091526/6-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0091526/6-5-2020%0ARagione sociale:ALIUS FACILITY SRL%0AUbicazione:VIA DON LUIGI STURZO%0AOggetto:AVVIO ATTIVITÀ DI PULIZIA, DISINFEZIONE, DISINFESTAZIONE,DERATTIZZAZIONE E SANIFICAZIONE</description>
+			<a10:updated>2020-05-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091202/6-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0047865/20-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0047865/20-2-2020%0ARagione sociale:ADDUCI NUNZIATA%0AUbicazione:VIA GIUSEPPE DI VITTORIO%0AOggetto:attività di vendita tramite e-commerce di articoli vari di cosmetica, cura del capello e oggettistica varia</description>
-			<a10:updated>2020-02-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0047333/20-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0047333/20-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0047333/20-2-2020%0ARagione sociale:MORGANTI PIERPAOLO%0AUbicazione:VIA OTTONE VISCONTI%0AOggetto:Realizzazione di una nuova autorimessa interrata ad uso residenziale con accesso tramite piattaforma elevatrice</description>
 			<a10:updated>2020-02-20T00:00:00Z</a10:updated>
 		</item>
 	</channel>
