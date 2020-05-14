@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 14 May 2020 08:00:35 Z</lastBuildDate>
+		<lastBuildDate>Thu, 14 May 2020 12:00:37 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0095283/14-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0095283/14-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0095283/14-5-2020%0ARagione sociale:WILD BEER SRL%0AUbicazione:VIALE EUROPA%0AOggetto:SUBENTRO ATTIVITA' DI SOMMINISTRAZIONE ALIMENTI E BEVANDE, WINE BAR, BIRRERIA, PUB</description>
+			<a10:updated>2020-05-14T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0095225/14-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0095225/14-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0095225/14-5-2020%0ARagione sociale:AUTODEMOLIZIONI VIZZI' S.R.L.%0AUbicazione:VIA MONSIGNORE CELESTINO CATTANEO%0AOggetto:CHIUSURA ATTIVITA' VIA CATTANEO (EX VIA SANTI)</description>
+			<a10:updated>2020-05-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0094774/13-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0052503/26-2-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0052503/26-2-2020%0ARagione sociale:FI.MA.CO. AUTORIPARAZIONI DI ALESSANDRO GUALENI, MAURIZIO RIGGIO &amp;amp; C. S.A.S.%0AUbicazione:VIA MULINELLO%0AOggetto:AGGIUNTA QUALIFICA "GOMMISTA" AI SIGG.RI GUALENI ALESSANDRO E RIGGIO MAURIZIO, GIA' RESPONSABILI TECNICI NELLA SOCIETA', PER MECCATRONICA E CARROZZERIA. CONTESTUALE REVOCA DI TUTTA LA QUALIFICA DI RESPONSABILE TECNICO AL SIG. COLOMBO MASSIMO.</description>
 			<a10:updated>2020-02-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0051907/25-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0051907/25-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0051907/25-2-2020%0ARagione sociale:KRYVETS TETYANA%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:CESSAZIONE E CANCELLAZIONE DI TUTA L'ATTIVITA'</description>
-			<a10:updated>2020-02-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0051337/25-2-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0051337/25-2-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0051337/25-2-2020%0ARagione sociale:MULTIBASE SRL%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:Subentro alla presa d'atto per l'esercizio dell'attività di noleggio veicoli senza conducente del 05/09/2003 attualmente intestata alla Pirola Francesco &amp;amp; Figli SpA. Luogo di Esercizio Desio Viale Nuova Valassina 131</description>
-			<a10:updated>2020-02-25T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
