@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 May 2020 08:00:33 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 May 2020 10:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5600470</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5600470</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA CONTINGIBILE E URGENTE AI SENSI DELL’ART. 50 DEL D.LGS. 267/2000 IN RELAZIONE ALL’EMERGENZA COVID-19 – OBBLIGO DI ADOZIONE DA PARTE DEI RESPONSABILI DI ESERCIZI COMMERCIALI, UFFICI E AGENZIE DI IDONEI SISTEMI PER SEGNALARE IL CORRETTO MANTENIMENTO DELLA DISTANZA INTERPERSONALE TRA I CLIENTI IN ATTESA DI ACCEDERE AI LOCALI DI VENDITA. </description>
+			<a10:updated>2020-05-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5598376</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5598376</link>
@@ -158,14 +166,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>SERVIZIO DI SPARGIMENTO SALE CON MEZZI MECCANICI E FORNITURA SALE - STAGIONE INVERNALE 2019/2020 - APPROVAZIONE DEL CERTIFICATO DI VERIFICA CONFORMITÀ E DEL VERBALE DI ULTIMAZIONE DEL SERVIZIO - IMPRESA DUE EFFE SRL - C.I.G Z622B23EF6 </description>
 			<a10:updated>2020-05-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5591194</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5591194</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA CONTINGIBILE E URGENTE AI SENSI DELL’ART. 50 DEL D.LGS. 267/2000 IN RELAZIONE ALL’EMERGENZA COVID-19 – PROROGA TERMINE AL 18 MAGGIO 2020 </description>
-			<a10:updated>2020-05-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
