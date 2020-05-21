@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 21 May 2020 10:00:38 Z</lastBuildDate>
+		<lastBuildDate>Thu, 21 May 2020 15:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099436/21-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0099436/21-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0099436/21-5-2020%0ARagione sociale:NOVATI NORIS MARGHERITA%0AUbicazione:VIA POZZO ANTICO%0AOggetto:Cessazione attività</description>
+			<a10:updated>2020-05-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0098970/20-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0056891/2-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0056891/2-3-2020%0ARagione sociale:gerosi luigi ercole%0AUbicazione:%0AOggetto:spunta mercato desio 2020</description>
-			<a10:updated>2020-03-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0056834/2-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0056834/2-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0056834/2-3-2020%0ARagione sociale:CONZATTI GRAZIANO%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:SI COMUNICA L'INIZIO ATTIVITA' DI COMMERCIO EFFETTUATO PER MEZZO DI DISTRIBUTORI AUTOMATICI SI PRODOTTI ALIMENTARI PRECONFEZIONATI.</description>
 			<a10:updated>2020-03-02T00:00:00Z</a10:updated>
 		</item>
 	</channel>
