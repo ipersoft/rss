@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 22 May 2020 10:00:41 Z</lastBuildDate>
+		<lastBuildDate>Fri, 22 May 2020 15:00:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0100643/22-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100643/22-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100643/22-5-2020%0ARagione sociale:ILIAD ITALIA%0AUbicazione:VIA SAN GENNARO%0AOggetto:COMUNICAZIONE FINE LAVORI SRB ILIAD MB20832_010 DESIO BAREGGI</description>
+			<a10:updated>2020-05-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0099902/21-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0057509/3-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0057509/3-3-2020%0ARagione sociale:STEALTH LIGHT SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Assegnazione matricola montacarichi</description>
-			<a10:updated>2020-03-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0057446/3-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0057446/3-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0057446/3-3-2020%0ARagione sociale:CAPITAN PIZZURGER DI GIRGIS FARID ATEF GOUDA%0AUbicazione:VIA ALCIDE DE GASPERI%0AOggetto:SUBINGRESSO ATTIVITA' PIZZERIA DA ASPORTO E INIZIO ATTIVITA' DI VICINATO.</description>
 			<a10:updated>2020-03-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
