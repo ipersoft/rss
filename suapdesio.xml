@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 26 May 2020 08:00:39 Z</lastBuildDate>
+		<lastBuildDate>Tue, 26 May 2020 10:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0101987/26-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0101987/26-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0101987/26-5-2020%0ARagione sociale:PANIFICIO DOLCE FORNO SRLS%0AUbicazione:VIA PORTICHETTO%0AOggetto:SUBENTRO ATTIVITA' PIZZERIA D'ASPORTO</description>
+			<a10:updated>2020-05-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0101722/25-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0059860/5-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0059860/5-3-2020%0ARagione sociale:Colsig s.r.l.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:Subentro attività artigiana di produzione di cartellonistica</description>
 			<a10:updated>2020-03-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0058985/4-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0058985/4-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0058985/4-3-2020%0ARagione sociale:POZZOLI FOOD S.P.A.%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:SOSPENSIONE DELL'ATTIVITA' DI SOMMINISTRAZIONE DI ALIMENTI E BEVANDE IN BAR GASTRONOMICI</description>
-			<a10:updated>2020-03-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
