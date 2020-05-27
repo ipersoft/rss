@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 May 2020 12:00:38 Z</lastBuildDate>
+		<lastBuildDate>Wed, 27 May 2020 15:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103277/27-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0103277/27-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0103277/27-5-2020%0ARagione sociale:Colsig s.r.l.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:Subentro Autorizzazione Unica Ambiente</description>
+			<a10:updated>2020-05-27T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103141/27-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0103141/27-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0103141/27-5-2020%0ARagione sociale:FOTOMONICA SAS DI MONICA PIVA%0AUbicazione:CORSO ITALIA%0AOggetto:CESSAZIONE ATTIVITA'</description>
+			<a10:updated>2020-05-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0101987/26-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060202/5-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060202/5-3-2020%0ARagione sociale:PELLETTERIA ROSSI S.N.C. DI ROSSI RUGGERO E ROSSI LUCA%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA PRESSO IL MERCATO DI DESIO DENOMINATO MERCATO NORD</description>
-			<a10:updated>2020-03-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0060140/5-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060140/5-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060140/5-3-2020%0ARagione sociale:RAIS SRLS%0AUbicazione:VIA PER CESANO MADERNO%0AOggetto:COMUNICAZIONE DI AVVIO ATTIVITA' IN SEGUITO AD AUTORIZZAZIONE</description>
-			<a10:updated>2020-03-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0059860/5-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0059860/5-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0059860/5-3-2020%0ARagione sociale:Colsig s.r.l.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:Subentro attività artigiana di produzione di cartellonistica</description>
 			<a10:updated>2020-03-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
