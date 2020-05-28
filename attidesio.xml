@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 28 May 2020 14:00:39 Z</lastBuildDate>
+		<lastBuildDate>Thu, 28 May 2020 16:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5622660</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5622660</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>AFFIDAMENTO DELL’INCARICO PROFESSIONALE PER IL COLLAUDO TECNICO/AMMINISTRATIVO (IN CORSO D’OPERA E FINALE) DEI LAVORI RELATIVI ALLE OPERE DI URBANIZZAZIONE AFFERENTI IL PIANO ATTUATIVO (DI INIZIATIVA PRIVATA) DENOMINATO D2 – VIA SAN GIUSEPPE – INTEGRAZIONE INCARICO COLLAUDO LAVORI ADEGUAMENTO ROTATORIA VIA S. GIUSEPPE - € 3.850,00 (OLTRE CNPAIA E IVA) – CIG: Z962CECF96 </description>
+			<a10:updated>2020-05-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5622528</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5622528</link>
@@ -157,14 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>ASSEGNAZIONE TEMPORANEA DI ALTRA CANTINA ALL'ALLOGGIO DI VIA GARIBALDI, 101 - FG 37 MAPP 310 SUB 708 </description>
-			<a10:updated>2020-05-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5612082</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5612082</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>POSIZIONE ORGANIZZATIVA DI RESPONSABILE DEL SETTORE SERVIZI ED INTERVENTI SOCIALI. PROROGA AL 31 DICEMBRE 2020. </description>
 			<a10:updated>2020-05-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
