@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 May 2020 15:00:41 Z</lastBuildDate>
+		<lastBuildDate>Thu, 28 May 2020 08:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103669/28-5-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0103669/28-5-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0103669/28-5-2020%0ARagione sociale:PASSONI MARA%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:CESSAZIONE DELL'ATTIVITA DI SOMMINISTRAZIONE ALIMENTI E BEVANDI - VICINATO</description>
+			<a10:updated>2020-05-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103277/27-5-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060485/5-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060485/5-3-2020%0ARagione sociale:BRIANZA SERVICE DI SPAGNUOLO ALESSANDRO &amp;amp; C. SNC%0AUbicazione:VIA BRAMANTE DA URBINO%0AOggetto:COMMERCIO AL DETTAGLIO DI ELETTRODOMESTICI ED ARTICOLI PER LA CASA.</description>
-			<a10:updated>2020-03-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0060202/5-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0060202/5-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0060202/5-3-2020%0ARagione sociale:PELLETTERIA ROSSI S.N.C. DI ROSSI RUGGERO E ROSSI LUCA%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA PRESSO IL MERCATO DI DESIO DENOMINATO MERCATO NORD</description>
 			<a10:updated>2020-03-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
