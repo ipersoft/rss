@@ -5,7 +5,7 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 09 Jun 2020 15:00:36 Z</lastBuildDate>
+		<lastBuildDate>Wed, 10 Jun 2020 08:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0111563/9-6-2020</guid>
@@ -692,20 +692,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0065939/12-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0065939/12-3-2020%0ARagione sociale:GUARDAMIGLIO S.R.L.%0AUbicazione:VIA MAESTRI DEL LAVORO – ANG. VIA LEONCAVALLO%0AOggetto:Presa in gestione reparti macelleria e salumeria, con forno girarrosto, all'interno del supermercato MD</description>
 			<a10:updated>2020-03-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0065219/11-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0065219/11-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0065219/11-3-2020%0ARagione sociale:POLIMARK SRL%0AUbicazione:VIA RUGGERO LEONCAVALLO%0AOggetto:In seguito al trasferimento dal Comune di Brugherio, con contestuale aumento di produzione, si richiede AUA per Emissioni in atmosfera.</description>
-			<a10:updated>2020-03-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0065144/11-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0065144/11-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0065144/11-3-2020%0ARagione sociale:MD S.P.A.%0AUbicazione:VIA MAESTRI DEL LAVORO%0AOggetto:Aggiornamento Registrazione art.6 Reg. (CE) 852/04 relativamente a: layout interno, inserimento reparti carne e gastronomia con banchi vendita assistita, inserimento reparto doratura pane, inserimento forno cottura polli allo spiedo.</description>
-			<a10:updated>2020-03-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
