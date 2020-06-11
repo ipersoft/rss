@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 10 Jun 2020 15:00:38 Z</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jun 2020 10:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0113280/11-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0113280/11-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0113280/11-6-2020%0ARagione sociale:BRIANPHARMA S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Commercio all'ingrosso di farmaci - parafarmaci - dispositivi medici con deposito</description>
+			<a10:updated>2020-06-11T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0112698/10-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112698/10-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112698/10-6-2020%0ARagione sociale:ROCCA FAUSTO ARTURO%0AUbicazione:%0AOggetto:SUBINGRESSO NEL POSTEGGIO A SEDE FISSA DEL MERCATO SETTIMANALE</description>
+			<a10:updated>2020-06-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0112664/10-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -678,27 +692,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0067987/16-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0067987/16-3-2020%0ARagione sociale:EDISON FACILITY SOLUTIONS S.P.A.%0AUbicazione:VIA GIUSEPPE MAZZINI%0AOggetto:Richiesta Autorizzazione Emissione Atmosfera in via generale relativo all'inserimento di un cogeneratore presso ospedale di Desio come da allegato tecnico n. 41 "Medi impianti di combustione".</description>
 			<a10:updated>2020-03-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0066283/12-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0066283/12-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0066283/12-3-2020%0ARagione sociale:LUCIANO MANARA S.R.L.%0AUbicazione:VIA PER CESANO MADERNO%0AOggetto:ESECUZIONE DELLA SENTENZA TAR n. 1566/2016 DEL 12/05/2019, DEPOSITATA IL 04/08/2016 E PASSATA IN GIUDICATO. A PRECISAZIONE DELLA DEFINIZIONE INTERVENTI CUI AL MODELLO SUAP, SI PREGA DI FARE RIFERIMENTO A QUANTO ESPOSTO NELLA RELAZIONE TECNICA, PARTE INTEGRANTE ED ESSENZIALE DELL'INTERA PRATICA.</description>
-			<a10:updated>2020-03-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0066024/12-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0066024/12-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0066024/12-3-2020%0ARagione sociale:POLI.VER%0AUbicazione:VIA GUIDO ROSSA%0AOggetto:Comunicazione analisi fumi</description>
-			<a10:updated>2020-03-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0065939/12-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0065939/12-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0065939/12-3-2020%0ARagione sociale:GUARDAMIGLIO S.R.L.%0AUbicazione:VIA MAESTRI DEL LAVORO – ANG. VIA LEONCAVALLO%0AOggetto:Presa in gestione reparti macelleria e salumeria, con forno girarrosto, all'interno del supermercato MD</description>
-			<a10:updated>2020-03-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
