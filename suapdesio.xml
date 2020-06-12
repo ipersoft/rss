@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 12 Jun 2020 08:00:33 Z</lastBuildDate>
+		<lastBuildDate>Fri, 12 Jun 2020 15:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0114604/12-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0114604/12-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0114604/12-6-2020%0ARagione sociale:PRESOTTO PAOLA%0AUbicazione:%0AOggetto:RICHIESTA PARTECIPAZIONE DI SPUNTA MERCATO SETTIMANALE DEL LUNEDI' - DESIO SUD. IN DATA 27/04/2020 IL COMUNE DI DESIO HA EMESSO NUOVA AUTORIZZAZIONE ITINERANTE ATTESTANTE IL SUBINGRESSO A "EREDI DI GALDINO PRESOTTO SDF", COSTITUITA IN SEGUITO AL DECESSO DEL SIG. PRESOTTO GALDINO.</description>
+			<a10:updated>2020-06-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0113805/11-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068763/17-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068763/17-3-2020%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE AL PALIO DEGLI ZOCCOLI, CHE SI TERRA' IN VIA GARIBALDI IL GIORNO 04/06/2020</description>
 			<a10:updated>2020-03-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068059/16-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068059/16-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068059/16-3-2020%0ARagione sociale:O.E.M.C. S.r.l.%0AUbicazione:VIA MULINELLO%0AOggetto:SCIA PER: COMUNICAZIONE VARIAZIONE RAGIONE SOCIALE, RIMANGONO INVARIATI TUTTI GLI ALTRI DATI FISCALI; COMUNICAZIONE VARIAZIONE LEGALE RAPPRESENTANTE</description>
-			<a10:updated>2020-03-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
