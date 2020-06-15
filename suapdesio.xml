@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 12 Jun 2020 15:00:35 Z</lastBuildDate>
+		<lastBuildDate>Mon, 15 Jun 2020 08:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0114980/15-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0114980/15-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0114980/15-6-2020%0ARagione sociale:IL GIARDINO DELLA FRUTTA DI KANDIL HEBA%0AUbicazione:VIA XXV APRILE%0AOggetto:COMMERCIO AL DETTAGLIO DI FRUTTA E VERDURA FRESCA</description>
+			<a10:updated>2020-06-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0114955/14-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0114955/14-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0114955/14-6-2020%0ARagione sociale:DITTA LAMYA DI KHALAFALLA MOUSTAFA HANY%0AUbicazione:VIA MILANO%0AOggetto:partecipazione mercato a spunta</description>
+			<a10:updated>2020-06-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0114604/12-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0069178/18-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0069178/18-3-2020%0ARagione sociale:Worthington S.r..l%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:Modifica non sostanziale Autorizzazione AUA n. 878 del 15-06-2018 rilasciata alla società Worthington S.r.l., per l'esercizio dello stabilimento ubicato nel comune di Desio (MB) in via Mascagni n.88. La modifica occorre a seguito della necessità di effettuare una modifica del layout impiantistico.</description>
 			<a10:updated>2020-03-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068957/17-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068957/17-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068957/17-3-2020%0ARagione sociale:RIVOLTA S.N.C. DI M. E S. RIVOLTA%0AUbicazione:VIA VITTORIO VENETO%0AOggetto:VARIAZIONE DENOMINAZIONE</description>
-			<a10:updated>2020-03-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0068763/17-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0068763/17-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0068763/17-3-2020%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE AL PALIO DEGLI ZOCCOLI, CHE SI TERRA' IN VIA GARIBALDI IL GIORNO 04/06/2020</description>
-			<a10:updated>2020-03-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
