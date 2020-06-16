@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 16 Jun 2020 10:00:34 Z</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jun 2020 15:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0116713/16-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0116713/16-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0116713/16-6-2020%0ARagione sociale:Circo Kodanty di Clay Codanti%0AUbicazione:%0AOggetto:Istanza occupazione suolo pubblico e svolgimento attività circense temporanea per piccolo circo senza animali denominato "Circo Kodanty"</description>
+			<a10:updated>2020-06-16T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0116508/16-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0116508/16-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0116508/16-6-2020%0ARagione sociale:SWEET HOME SRL%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:VALUTAZIONE PROGETTO AI FINI ANTINCENDIO RELATIVO AD ATTIVITA' DI ASSEMBLAGGIO VEICOLI A MOTORE</description>
+			<a10:updated>2020-06-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0116020/15-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0071787/24-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0071787/24-3-2020%0ARagione sociale:GABRIELLI CRISTIAN%0AUbicazione:%0AOggetto:LUNA PARK AUTUNNALE 2020</description>
 			<a10:updated>2020-03-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0071345/23-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0071345/23-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0071345/23-3-2020%0ARagione sociale:BZ S.A.S. DI BARISON FRANCO GIOVANNI &amp;amp; C.%0AUbicazione:VIA MULINELLO%0AOggetto:Messa in esercizio emissioni per autorizzazione secondo art. 272 comma 2 e 3 del D. lgs 152/06 e smi, allegato 15, dell'azienda BZ di Barison Franco Giovanni &amp;amp;C.</description>
-			<a10:updated>2020-03-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0069801/19-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0069801/19-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0069801/19-3-2020%0ARagione sociale:GENESI%0AUbicazione:VIA DON ANTONIO VILLORESI%0AOggetto:Comunicazione sospensione breve dell'attività di commercio all'ingrosso</description>
-			<a10:updated>2020-03-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
