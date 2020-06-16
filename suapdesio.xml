@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 15 Jun 2020 15:00:33 Z</lastBuildDate>
+		<lastBuildDate>Tue, 16 Jun 2020 10:00:34 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0116020/15-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0116020/15-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0116020/15-6-2020%0ARagione sociale:ESSAQR EL AMIN%0AUbicazione:%0AOggetto:PARTECIPAZIONE SPUNTA MERCATO DESIO SUD</description>
+			<a10:updated>2020-06-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0115903/15-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0115903/15-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0115903/15-6-2020%0ARagione sociale:EDDARRAJ ABDERRAHIM%0AUbicazione:%0AOggetto:PATRTECIPAZIONE SPUNTA MERCATO DESIO SUD</description>
+			<a10:updated>2020-06-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0114980/15-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0069801/19-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0069801/19-3-2020%0ARagione sociale:GENESI%0AUbicazione:VIA DON ANTONIO VILLORESI%0AOggetto:Comunicazione sospensione breve dell'attività di commercio all'ingrosso</description>
 			<a10:updated>2020-03-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0069724/19-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0069724/19-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0069724/19-3-2020%0ARagione sociale:ARIENTI AUTOGRU' S.R.L.%0AUbicazione:VIA GIOACCHINO ROSSINI%0AOggetto:NOLEGGIO DI ATTREZZATURE E MEZZI SENZA OPERATORE</description>
-			<a10:updated>2020-03-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0069178/18-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0069178/18-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0069178/18-3-2020%0ARagione sociale:Worthington S.r..l%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:Modifica non sostanziale Autorizzazione AUA n. 878 del 15-06-2018 rilasciata alla società Worthington S.r.l., per l'esercizio dello stabilimento ubicato nel comune di Desio (MB) in via Mascagni n.88. La modifica occorre a seguito della necessità di effettuare una modifica del layout impiantistico.</description>
-			<a10:updated>2020-03-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
