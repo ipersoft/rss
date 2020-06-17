@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 16 Jun 2020 15:00:32 Z</lastBuildDate>
+		<lastBuildDate>Wed, 17 Jun 2020 08:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0117010/17-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0117010/17-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0117010/17-6-2020%0ARagione sociale:CIRCO MILLENNIUM S.A.S. DI INGRASSIA STEFANIA &amp;amp; C.%0AUbicazione:%0AOggetto:Domanda di occupazione suolo pubblico e conseguente rilascio di licenza di P.S. per ciclo di spettacoli circensi di 10 giorni nel periodo indicato in pratica,con l'insegna CIRCO MILLENNIUM.</description>
+			<a10:updated>2020-06-17T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0117009/17-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0117009/17-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0117009/17-6-2020%0ARagione sociale:CIRCO ARBEL DI CANESTRELLI ARMANDO%0AUbicazione:%0AOggetto:Richiesta occupazione area sita in Via Caravaggio nel periodo Dal 15 al 26 Ottobre 2020 CIRCO ARBEL di Canestrelli Armando Presenta Spettacolo di circo contemporaneo SENZA UTILIZZO DI ANIMALI</description>
+			<a10:updated>2020-06-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0116713/16-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0072502/25-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0072502/25-3-2020%0ARagione sociale:SISFER SRL%0AUbicazione:VIA Vicinale per Muggiò%0AOggetto:Progetto realizzazione nuovo impianto per la messa in riserva ed il recupero di rifiuti speciali non pericolosi solidi. Fa presente che è già in corso il rilascio di AUA per lo scarico delle acque meteoriche in pubblica fognatura.</description>
 			<a10:updated>2020-03-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0071932/24-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0071932/24-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0071932/24-3-2020%0ARagione sociale:UNI-CO S.R.L.%0AUbicazione:VIA MILANO%0AOggetto:Apertura Negozio di commercio al dettaglio di prodotti non alimentari.</description>
-			<a10:updated>2020-03-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0071787/24-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0071787/24-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0071787/24-3-2020%0ARagione sociale:GABRIELLI CRISTIAN%0AUbicazione:%0AOggetto:LUNA PARK AUTUNNALE 2020</description>
-			<a10:updated>2020-03-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
