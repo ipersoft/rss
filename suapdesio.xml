@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 17 Jun 2020 15:00:34 Z</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2020 08:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0118102/18-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0118102/18-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0118102/18-6-2020%0ARagione sociale:EL HAMRI FATIMA%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE SPUNTA AL MERCATO DI DESIO SUD</description>
+			<a10:updated>2020-06-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0117010/17-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0073239/26-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0073239/26-3-2020%0ARagione sociale:AFRIWINES SRL%0AUbicazione:VIA TRIESTE%0AOggetto:VARIAZIONE INDIRIZZO UNITA' LOCALE</description>
 			<a10:updated>2020-03-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0072502/25-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0072502/25-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0072502/25-3-2020%0ARagione sociale:SISFER SRL%0AUbicazione:VIA Vicinale per Muggiò%0AOggetto:Progetto realizzazione nuovo impianto per la messa in riserva ed il recupero di rifiuti speciali non pericolosi solidi. Fa presente che è già in corso il rilascio di AUA per lo scarico delle acque meteoriche in pubblica fognatura.</description>
-			<a10:updated>2020-03-25T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
