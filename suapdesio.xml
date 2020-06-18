@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 18 Jun 2020 08:00:33 Z</lastBuildDate>
+		<lastBuildDate>Thu, 18 Jun 2020 15:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0118802/18-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0118802/18-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0118802/18-6-2020%0ARagione sociale:PANIFICIO DOLCE FORNO SRLS%0AUbicazione:VIA PORTICHETTO%0AOggetto:SUBENTRO ATTIVITA' ARTIGIANA PIZZERIA D'ASPORTO</description>
+			<a10:updated>2020-06-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0118102/18-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0073397/26-3-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0073397/26-3-2020%0ARagione sociale:ESSEMME FIORI S.N.C. DI GUALTIERI ROBERTO &amp;amp; C.%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:SCIA DI CESSAZIONE ATTIVITA' DI COMMERCIO AL DETTAGLIO DI PIANTE, FIORI FRESCHI E RECISI E ARTICOLIFUNERARI</description>
-			<a10:updated>2020-03-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0073239/26-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0073239/26-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0073239/26-3-2020%0ARagione sociale:AFRIWINES SRL%0AUbicazione:VIA TRIESTE%0AOggetto:VARIAZIONE INDIRIZZO UNITA' LOCALE</description>
 			<a10:updated>2020-03-26T00:00:00Z</a10:updated>
 		</item>
 	</channel>
