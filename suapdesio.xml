@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 19 Jun 2020 15:00:31 Z</lastBuildDate>
+		<lastBuildDate>Mon, 22 Jun 2020 08:00:31 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0120099/20-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0120099/20-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0120099/20-6-2020%0ARagione sociale:ILPREGIATO DI STATELLA MARCELLO%0AUbicazione:%0AOggetto:DOMANDA PARTECIPAZIONE SPUNTA MERCATO DEL LUNEDI'</description>
+			<a10:updated>2020-06-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119703/19-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0076599/3-4-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0076599/3-4-2020%0ARagione sociale:MAGLIO FABIANO%0AUbicazione:VIA CARLO FORLANINI%0AOggetto:VARIAZIONE NOMINATIVO AMMINISTRATORE</description>
 			<a10:updated>2020-04-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0074541/30-3-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0074541/30-3-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0074541/30-3-2020%0ARagione sociale:BALDER S.R.L.%0AUbicazione:VIA OSLAVIA%0AOggetto:Modifica di attività in deroga di cui all'art. 272, comma 2, del D. Lgs. 152/2006</description>
-			<a10:updated>2020-03-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
