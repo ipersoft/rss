@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 23 Jun 2020 10:00:32 Z</lastBuildDate>
+		<lastBuildDate>Tue, 23 Jun 2020 15:00:31 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0122351/23-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0122351/23-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0122351/23-6-2020%0ARagione sociale:wind tre%0AUbicazione:VIA CARLO PORTA%0AOggetto:vedi relazione</description>
+			<a10:updated>2020-06-23T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0122299/23-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0122299/23-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0122299/23-6-2020%0ARagione sociale:BOND S.R.L.%0AUbicazione:VIA lombardia%0AOggetto:ampliamento superficie somministrazione alimenti e bevande e comunicazione nuovi orari apertura al pubblico</description>
+			<a10:updated>2020-06-23T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0122027/23-6-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0122027/23-6-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0122027/23-6-2020%0ARagione sociale:INNOVATECH SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:COMUNICAZIONE APERTURA COMMERCIO ALL'INGROSSO DI MATERIALE ELETTRONICO CON DEPOSITO</description>
+			<a10:updated>2020-06-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0121293/22-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0078542/7-4-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0078542/7-4-2020%0ARagione sociale:VIRTUS S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:INIZIO ATTIVITÀ DI COMMERCIO ALL'INGROSSO DI MASCHERINE, ARTICOLI MEDICALI ED ORTOPEDICI</description>
 			<a10:updated>2020-04-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0077246/6-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0077246/6-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0077246/6-4-2020%0ARagione sociale:DIAMETRO SRL%0AUbicazione:VIA DEL COMMERCIO%0AOggetto:inizio attività commercio on-line</description>
-			<a10:updated>2020-04-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0077063/3-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0077063/3-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0077063/3-4-2020%0ARagione sociale:FRANCONORI SAS%0AUbicazione:VIA ENRICO FORLANINI%0AOggetto:SOSPENSIONE TEMPORANEA ATTIVITA' (CORONAVIRUS) PROROGA</description>
-			<a10:updated>2020-04-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0076817/3-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0076817/3-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0076817/3-4-2020%0ARagione sociale:FURLA COSTRUZIONI S.A.S. DI FURLANETTO PAOLO ALBINO &amp;amp; C.%0AUbicazione:VIA LOMBARDIA%0AOggetto:COMUNICAZIONE DI MESSA IN ESERCIZIO ASCENSORE USO PRIVATO</description>
-			<a10:updated>2020-04-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
