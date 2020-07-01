@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 30 Jun 2020 15:00:29 Z</lastBuildDate>
+		<lastBuildDate>Wed, 01 Jul 2020 08:00:30 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0127769/1-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127769/1-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127769/1-7-2020%0ARagione sociale:TRE ROSE SNC DI ROSSIGNOLI MARIO LUIGI &amp;amp; SERVELLO MASSIMO%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:CESSAZIONE ATTIVITA' DI COMMERCIO AL DETTAGLIO GENERI TABELLA SPECIALE CARBURANTI; GENERI ALIMENTARI CONFEZIONATI</description>
+			<a10:updated>2020-07-01T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0127748/1-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127748/1-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127748/1-7-2020%0ARagione sociale:TABAC M.P. DI MANGIOLA PAOLA%0AUbicazione:VIA CESARE CANTU`%0AOggetto:RICHIESTA RILASCIO AUTORIZZAZIONE ALLA SOMMINISTRAZIONE</description>
+			<a10:updated>2020-07-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0127471/30-6-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086218/23-4-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086218/23-4-2020%0ARagione sociale:PIZZERIA PRIMAVERA DI ABDELKHALEK ABDELKHALEK MOHAMED%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:SUBENTRO IN ATTIVITA' ESISTENTE DI PIZZERIA DA ASPORTO</description>
-			<a10:updated>2020-04-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0086205/23-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0086205/23-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0086205/23-4-2020%0ARagione sociale:ORTOLINA CLAUDIO%0AUbicazione:VIA FILIPPO CARCANO%0AOggetto:cessazione attività</description>
-			<a10:updated>2020-04-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0085971/23-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0085971/23-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0085971/23-4-2020%0ARagione sociale:VISMARA PAOLO%0AUbicazione:N.D. MONTENERO%0AOggetto:APERTURA NUOVA ATTIVITA' DI VENDITA AL DETTAGLIO DI UNA GRANDE VARIETA' DI ARTICOLI SENZA PREVALENZA DI PRODOTTI ALIMENTARI DI BEVANDE E TABACCO</description>
 			<a10:updated>2020-04-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
