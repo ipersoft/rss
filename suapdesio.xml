@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 06 Jul 2020 10:00:32 Z</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jul 2020 15:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0131492/6-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0131492/6-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0131492/6-7-2020%0ARagione sociale:FERGE GOMME IMPORT EXPORT SRL SEMPLIFICATA%0AUbicazione:VIA RUGGERO LEONCAVALLO%0AOggetto:Inizio attività di sostituzione ammortizzatori, pastiglie e dischi freno, sospensioni, servofreni, cilindretti e tutto quanto ha attinenza con l'impianto frenante dei veicoli nonché assistenza per il tagliando delle autovetture</description>
+			<a10:updated>2020-07-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0129864/3-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087846/28-4-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087846/28-4-2020%0ARagione sociale:ZAPPA S.R.L.%0AUbicazione:VIA LUIGI EINAUDI%0AOggetto:INIZIO ATTIVITA' DI COMMERCIO ALL'INGROSSO DI MACCHINARI, MATERIALE E DISPOSITIVI DI TIPO MEDICALE E FARMACEUTICO</description>
 			<a10:updated>2020-04-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087379/27-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087379/27-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087379/27-4-2020%0ARagione sociale:BALDER S.R.L.%0AUbicazione:VIA OSLAVIA%0AOggetto:Domanda di adesione all'autorizzazione in via generale ai sensi dell'art. 272, comma 3, del D.Lgs 152/2006 per l'esercizio della/delle attività in deroga di cui art. 272, comma 2, del D.Lgs 152/2006 - Allegato tecnico 32</description>
-			<a10:updated>2020-04-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
