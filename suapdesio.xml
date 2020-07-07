@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 06 Jul 2020 15:00:33 Z</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jul 2020 08:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0131689/6-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0131689/6-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0131689/6-7-2020%0ARagione sociale:RICCI BRUNO%0AUbicazione:%0AOggetto:INSTALLAZIONE SALTO TRAMPOLINO E SCIVOLO GONFIABILE (CODICE ID. 015166-0004/2010) DI RICCI LUCA.</description>
+			<a10:updated>2020-07-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0131492/6-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088657/29-4-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088657/29-4-2020%0ARagione sociale:ECSA ITALIA S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:AUTORIZZAZIONE ASPIRAZIONE CAPPA TRAVASO MATERIE PRIME - EX ART 272 D.LGS. 152/06</description>
 			<a10:updated>2020-04-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0087846/28-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0087846/28-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0087846/28-4-2020%0ARagione sociale:ZAPPA S.R.L.%0AUbicazione:VIA LUIGI EINAUDI%0AOggetto:INIZIO ATTIVITA' DI COMMERCIO ALL'INGROSSO DI MACCHINARI, MATERIALE E DISPOSITIVI DI TIPO MEDICALE E FARMACEUTICO</description>
-			<a10:updated>2020-04-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
