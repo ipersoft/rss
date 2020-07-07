@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 07 Jul 2020 12:00:32 Z</lastBuildDate>
+		<lastBuildDate>Tue, 07 Jul 2020 15:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0132577/7-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0132577/7-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0132577/7-7-2020%0ARagione sociale:SUPER CAR WASH DI MIRZA SHAFEEQ SIDDIQUE%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:PV 45411 DESIO VIA MASCAGNI (MB) - istanza di voltura R.G. AUA n. 839/2019 del 22/05/2019 intestata alla ditta TRE ROSE SNC di DI ROSSIGNOLI MARIO LUIGI &amp;amp; SERVELLO MASSIMO. Per info contattare Enrico Marcon 0422 318808 enrico.marcon@dbagroup.it</description>
+			<a10:updated>2020-07-07T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0132534/7-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0132534/7-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0132534/7-7-2020%0ARagione sociale:OPEN SPACE S.R.L.%0AUbicazione:VIA CARAVAGGIO%0AOggetto:COMMERCIO ALL'INGROSSO DI APPARECCHI E MATERIALI TELEFONICI, CON DEPOSITO</description>
+			<a10:updated>2020-07-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0131689/6-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088846/30-4-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088846/30-4-2020%0ARagione sociale:CAPITAN PIZZURGER DI GIRGIS FARID ATEF GOUDA%0AUbicazione:VIA ALCIDE DE GASPERI%0AOggetto:INTEGRAZIONE SCIA DEL 03.03.20. COMUNICAZIONE CONSUMO IMMEDIATO SUL POSTO DI ALIMENTI PRODOTTI DALL'AZIENDA ARTIGIANA E TUTTI GLI ALTRI DOCUMENTI RICHIESTI.</description>
 			<a10:updated>2020-04-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0088683/29-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088683/29-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088683/29-4-2020%0ARagione sociale:MULTIBASE SRL%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:Voltura emissioni in atmosfera</description>
-			<a10:updated>2020-04-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0088657/29-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088657/29-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088657/29-4-2020%0ARagione sociale:ECSA ITALIA S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:AUTORIZZAZIONE ASPIRAZIONE CAPPA TRAVASO MATERIE PRIME - EX ART 272 D.LGS. 152/06</description>
-			<a10:updated>2020-04-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
