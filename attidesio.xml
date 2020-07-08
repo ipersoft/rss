@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 08 Jul 2020 12:00:37 Z</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jul 2020 14:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5715373</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5715373</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>INTEGRAZIONE DELL’IMPEGNO DI SPESA PER IL NOLEGGIO FULL SERVICE DI APPARECCHIATURE MULTIFUNZIONE A3 MONOCROMATICHE DI CUI ALLA CONVENZIONE CONSIP S.P.A. “MULTIFUNZIONE 25”. EURO 1.415,65 I.V.A COMPRESA. </description>
+			<a10:updated>2020-07-08T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5715371</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5715371</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>LAVORI DI MANUTENZIONE ORDINARIA EDIFICI RESIDENZIALI IN LOCAZIONE ANNO 2020 (G_01_2020) - ASSUNZIONE IMPEGNO DI SPESA A FAVORE DI ANAC PER CONTRIBUTO RELATIVO ALLA GARA DESERTA INDETTA CON DETERMINAZIONE N. 79 DEL 30/01/2020 </description>
+			<a10:updated>2020-07-08T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5714059</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5714059</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>D.G.R. XI/3054 DEL 15/05/2020 – FONDO NAZIONALE POLITICHE SOCIALI - DESTINAZIONE RISORSE PER SERVIZI DI AMBITO IN GESTIONE ASSOCIATA MEDIANTE L’AZIENDA SPECIALE CONSORTILE “CONSORZIO DESIO-BRIANZA” – IMPEGNO DI SPESA ANNO 2020 </description>
-			<a10:updated>2020-07-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5693790</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5693790</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>DEFINIZIONE QUOTE DI COMPARTECIPAZIONE A CARICO DEI COMUNI PER LE ATTIVITÀ DI SUPPORTO ALLA PROGRAMMAZIONE DELL’AMBITO DI DESIO ED IMPEGNO DI SPESA A FAVORE DI CONSORZIO DESIO BRIANZA – ANNO 2020 </description>
-			<a10:updated>2020-07-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5693788</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5693788</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>SANIFICAZIONE VEICOLI DEL COMUNE DI DESIO PER EMERGENZA CORONAVIRUS. EURO 1.926,13 I.V.A. COMPRESA. CIG Z402D89618. </description>
 			<a10:updated>2020-07-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
