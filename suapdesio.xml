@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 08 Jul 2020 08:00:31 Z</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jul 2020 12:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0133296/8-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0133296/8-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0133296/8-7-2020%0ARagione sociale:PRESOTTO PAOLA%0AUbicazione:%0AOggetto:Domanda per la partecipazione degli operatori commerciali su area pubblica alle feste di via di mercoledì 8 e 15 luglio 2020</description>
+			<a10:updated>2020-07-08T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0132577/7-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0089073/30-4-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0089073/30-4-2020%0ARagione sociale:PASSONI MARA%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:CESSAZIONE DELL'ATTIVITA DI SOMMINISTRAZIONE ALIMENTI E BEVANDI - VICINATO</description>
-			<a10:updated>2020-04-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0088846/30-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0088846/30-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0088846/30-4-2020%0ARagione sociale:CAPITAN PIZZURGER DI GIRGIS FARID ATEF GOUDA%0AUbicazione:VIA ALCIDE DE GASPERI%0AOggetto:INTEGRAZIONE SCIA DEL 03.03.20. COMUNICAZIONE CONSUMO IMMEDIATO SUL POSTO DI ALIMENTI PRODOTTI DALL'AZIENDA ARTIGIANA E TUTTI GLI ALTRI DOCUMENTI RICHIESTI.</description>
 			<a10:updated>2020-04-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
