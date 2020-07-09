@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 09 Jul 2020 08:00:33 Z</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jul 2020 15:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0134509/9-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0134509/9-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0134509/9-7-2020%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA KARL MARX%0AOggetto:COMUNICAZIONE di CESSAZIONE di AFFIDAMENTO di REPARTO</description>
+			<a10:updated>2020-07-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0134226/9-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0134226/9-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0134226/9-7-2020%0ARagione sociale:VR LINE SRLS%0AUbicazione:VIA XXV APRILE%0AOggetto:SCIA PER APERTURA ESPOSIZIONE DI SERRAMENTI SENZA VENDITA</description>
+			<a10:updated>2020-07-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0133296/8-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0091526/6-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0091526/6-5-2020%0ARagione sociale:ALIUS FACILITY SRL%0AUbicazione:VIA DON LUIGI STURZO%0AOggetto:AVVIO ATTIVITÀ DI PULIZIA, DISINFEZIONE, DISINFESTAZIONE,DERATTIZZAZIONE E SANIFICAZIONE</description>
 			<a10:updated>2020-05-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0091202/6-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0091202/6-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0091202/6-5-2020%0ARagione sociale:CVPLAST S.N.C. DI CITTERIO ALESSANDRO E VISMARA MIRKO%0AUbicazione:VIA EDOARDO FERRAVILLA%0AOggetto:inizio attività prevalente di commercio all'ingrosso di imballaggi e inizio attività secondaria di commercio all'ingrosso di saponi, detersivi e altri prodotti, incluso i prodotti per la pulizia per uso industriale e professionale.</description>
-			<a10:updated>2020-05-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0089073/30-4-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0089073/30-4-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0089073/30-4-2020%0ARagione sociale:PASSONI MARA%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:CESSAZIONE DELL'ATTIVITA DI SOMMINISTRAZIONE ALIMENTI E BEVANDI - VICINATO</description>
-			<a10:updated>2020-04-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
