@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 14 Jul 2020 10:00:35 Z</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jul 2020 15:00:34 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0137364/14-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0137364/14-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0137364/14-7-2020%0ARagione sociale:PORTALP S.R.L.%0AUbicazione:VIA UMBERTO TAGLIABUE%0AOggetto:LABORATORIO ARTIGIANALE CON PICCOLE LAVORAZIONI</description>
+			<a10:updated>2020-07-14T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0137281/14-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0137281/14-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0137281/14-7-2020%0ARagione sociale:BAR AL POZZO DI PASQUALE ADELE MARIA%0AUbicazione:VIA POZZO ANTICO%0AOggetto:COMUNICAZIONE INIZIO ATTIVITA'</description>
+			<a10:updated>2020-07-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0136268/13-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0093563/11-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0093563/11-5-2020%0ARagione sociale:PREMIUM SERVICES S.R.L.%0AUbicazione:VIA SANTA LIBERATA%0AOggetto:CESSAZIONE ATTIVITà DI COMMERCIO ALL'INGROSSO NON ALIMENTARE SENZA DEPOSITO</description>
-			<a10:updated>2020-05-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0093481/11-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0093481/11-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0093481/11-5-2020%0ARagione sociale:STUDIO MODA MARINA DI MARINA ZULIANELLO%0AUbicazione:VIA DEI CACCIATORI%0AOggetto:INIZIO ATTIVITA' DI PRODUZIONE MASCHERINE FILTRANTI NO DISPOSITIVI MEDICI E SANITARI</description>
-			<a10:updated>2020-05-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0093051/11-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0093051/11-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0093051/11-5-2020%0ARagione sociale:M.S.R. DI MEDA STEFANIA E C. S.N.C.%0AUbicazione:CORSO ITALIA%0AOggetto:NUOVA APERTURA DAL 11/05/2020 COMMERCIO AL DETTAGLIO DI CALZATURE, ACCESSORI, BORSE, CINTURE, CALZE E ABBIGLIAMENTO BAMBINO E ADULTO</description>
 			<a10:updated>2020-05-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
