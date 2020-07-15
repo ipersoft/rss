@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 14 Jul 2020 15:00:34 Z</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jul 2020 08:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0137702/15-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0137702/15-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0137702/15-7-2020%0ARagione sociale:MAK. MEC. S.R.L.%0AUbicazione:VIA ORTIGARA%0AOggetto:Attivita' di piccola carpenteria in via Ortigara a Desio</description>
+			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0137599/14-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0137599/14-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0137599/14-7-2020%0ARagione sociale:ACI BLUETEAM SOCIETA' PER AZIONI%0AUbicazione:VIA ALESSANDRO MANZONI%0AOggetto:LA COMUNICAZIONE DELLE VARIAZIONI RIGUARDA LA FILIALE DI DESIO - VIA A.MANZONI N. 1 DI AGENZIA DI VIAGGI AVENTE SEDE PRINCIPALE IN LUISAGO (CO). - VIA RISORGIMENTO N. 70.</description>
+			<a10:updated>2020-07-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0137364/14-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0095225/14-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0095225/14-5-2020%0ARagione sociale:AUTODEMOLIZIONI VIZZI' S.R.L.%0AUbicazione:VIA MONSIGNORE CELESTINO CATTANEO%0AOggetto:CHIUSURA ATTIVITA' VIA CATTANEO (EX VIA SANTI)</description>
 			<a10:updated>2020-05-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0094774/13-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0094774/13-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0094774/13-5-2020%0ARagione sociale:FRANCONORI SAS%0AUbicazione:VIA ENRICO FORLANINI%0AOggetto:RIPRESA ATTIVITA'</description>
-			<a10:updated>2020-05-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0093563/11-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0093563/11-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0093563/11-5-2020%0ARagione sociale:PREMIUM SERVICES S.R.L.%0AUbicazione:VIA SANTA LIBERATA%0AOggetto:CESSAZIONE ATTIVITà DI COMMERCIO ALL'INGROSSO NON ALIMENTARE SENZA DEPOSITO</description>
-			<a10:updated>2020-05-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
