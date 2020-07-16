@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 16 Jul 2020 12:00:31 Z</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jul 2020 15:00:31 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0139645/16-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0139645/16-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0139645/16-7-2020%0ARagione sociale:LAZZAROTTO GIANMARCO%0AUbicazione:VIA ACHILLE GRANDI%0AOggetto:trasferimento dell'attività di osteopata dalla propria abitazione al piano secondo in altro locale posto al piano terra dello stesso stabile</description>
+			<a10:updated>2020-07-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138688/15-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0096594/18-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0096594/18-5-2020%0ARagione sociale:MARRONE SAMANTHA%0AUbicazione:VIA MILANO%0AOggetto:VIDIMAZIONE REGISTRO BENI USATI</description>
-			<a10:updated>2020-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0096548/18-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0096548/18-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0096548/18-5-2020%0ARagione sociale:LA DIVINA COMMEDIA SNC DI DESIMINE MIRIAM E DESIREE%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:SUBINGRESSO ESERCIZIO COMMERCIALE IN DESIO . COMUNICAZIONE ORARI TUTTI I GIORNI DALLE H 06.00 ALLE H. 22.00 (INDICHIAMO GLI STESSI IN QUESTA SEZIONE IN QUANTO RISULTA INCOMPATIBILE LA PRATICA SE INSERITO IL FLAG NELLA CASELLA RELATIVA). allegati autocert.: orari // impattto acustico // locali</description>
 			<a10:updated>2020-05-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
