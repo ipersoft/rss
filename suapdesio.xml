@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 15 Jul 2020 15:00:31 Z</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jul 2020 08:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138688/15-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138688/15-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138688/15-7-2020%0ARagione sociale:MAK. MEC. S.R.L.%0AUbicazione:VIA ORTIGARA%0AOggetto:DOMANDA DI ADESIONE ALL'AUTORIZZAZIONE IN VIA GENERALE AI SENSI DELL'ART. 272, COMMA 3, DEL D.LGS 152/2006 PER L'ESERCIZIO DELL'ATTIVITA' DI PICCOLA CARPENTERIA IN DEROGA DI CUI ALL'AR. 272, COMMA 2 DEL D.LGS 152/2006 IN VIA ORTIGARA SNC NEL COMUNE DI DESIO (MB)</description>
+			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138575/15-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138575/15-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138575/15-7-2020%0ARagione sociale:DIS3BUTION S.R.L.%0AUbicazione:VIA CARAVAGGIO%0AOggetto:commercio on line di apparecchiature informatiche periferiche, software, computer, accessoristica informatica/gaming, piccoli elettrodomestici, audio ed elettronica, giocattoli , componentistica per pc, utensili / brico</description>
+			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138435/15-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0096548/18-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0096548/18-5-2020%0ARagione sociale:LA DIVINA COMMEDIA SNC DI DESIMINE MIRIAM E DESIREE%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:SUBINGRESSO ESERCIZIO COMMERCIALE IN DESIO . COMUNICAZIONE ORARI TUTTI I GIORNI DALLE H 06.00 ALLE H. 22.00 (INDICHIAMO GLI STESSI IN QUESTA SEZIONE IN QUANTO RISULTA INCOMPATIBILE LA PRATICA SE INSERITO IL FLAG NELLA CASELLA RELATIVA). allegati autocert.: orari // impattto acustico // locali</description>
 			<a10:updated>2020-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0096539/18-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0096539/18-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0096539/18-5-2020%0ARagione sociale:BINARIO 1 DI FERRO MANUELA%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:SUBINGRESSO A SEGUITO DI CESSIONE AZIENDA NELL'ESERCIZIO SITO IN VIA GARIBALDI N. 31</description>
-			<a10:updated>2020-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0095990/15-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0095990/15-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0095990/15-5-2020%0ARagione sociale:D.R.D.%0AUbicazione:VIA DON LUIGI STURZO%0AOggetto:COMUNICAZIONE DI MESSA IN ESERCIZIO E CONTESTUALE ISTANZA DI RILASCIO NUMERO MATRICOLA, PER ASCENSORE INSTALLATO A DESIO MB VIA DON LUIGI STURZO N.1.</description>
-			<a10:updated>2020-05-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
