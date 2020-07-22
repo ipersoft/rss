@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 22 Jul 2020 10:00:44 Z</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jul 2020 12:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0143898/22-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0143898/22-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0143898/22-7-2020%0ARagione sociale:padcolor srl%0AUbicazione:VIA filippo da desio%0AOggetto:comunicazione messa in esercizio</description>
+			<a10:updated>2020-07-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0143708/22-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100708/22-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100708/22-5-2020%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA AGNESI%0AOggetto:MODIFICA SRB ILIAD MB20832_012 DESIO AGNESI</description>
-			<a10:updated>2020-05-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0100643/22-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100643/22-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100643/22-5-2020%0ARagione sociale:ILIAD ITALIA%0AUbicazione:VIA SAN GENNARO%0AOggetto:COMUNICAZIONE FINE LAVORI SRB ILIAD MB20832_010 DESIO BAREGGI</description>
 			<a10:updated>2020-05-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
