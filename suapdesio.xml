@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 22 Jul 2020 15:00:44 Z</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jul 2020 10:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0144625/23-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144625/23-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144625/23-7-2020%0ARagione sociale:N.C. DI CARDACE NEMIO%0AUbicazione:VIA TRIPOLI%0AOggetto:apertura negiozo abbigliamento</description>
+			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0144467/22-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144467/22-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144467/22-7-2020%0ARagione sociale:DELMA SRL%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:RICHIESTA DI ASSEGNAZIONE DI NUMERO DI MATRICOLA ASCENSORE</description>
+			<a10:updated>2020-07-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0144174/22-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0101722/25-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0101722/25-5-2020%0ARagione sociale:STAR-M SRL%0AUbicazione:VIA MONTE ROSA%0AOggetto:ATTIVITA' DI EDITORE MUSICALE E LA PROMOZIONE DI ARTISTI</description>
 			<a10:updated>2020-05-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0100892/24-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100892/24-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100892/24-5-2020%0ARagione sociale:MCDONALD'S DEVELOPMENT ITALY LLC%0AUbicazione:VIA DELLE ROSE%0AOggetto:Variazione del Preposto (da MASPERI GAIA VALERIA a VASTO MARCO)</description>
-			<a10:updated>2020-05-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0100781/22-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0100781/22-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0100781/22-5-2020%0ARagione sociale:ISAPEL 1.0 DI SALA ALESSANDRO%0AUbicazione:CORSO ITALIA%0AOggetto:Inizio attività commercio al dettaglio in esercizio di vicinato di abbigliamento per adulti, calzature, pelletteria, accessori, bigiotteria, accessori per la telefonia (cover, power bank, auricolari, cuffie, ...)</description>
-			<a10:updated>2020-05-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
