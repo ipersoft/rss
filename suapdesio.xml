@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 23 Jul 2020 15:00:43 Z</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jul 2020 08:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145635/24-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0145635/24-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0145635/24-7-2020%0ARagione sociale:MANGIONE ANDREA ROBERTO%0AUbicazione:%0AOggetto:RICHIESTA DI MIGLIORIA MERCATO DESIO SUD DAL POSTEGGIO N° 61 AL POSTEGGIO N° 3</description>
+			<a10:updated>2020-07-24T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145446/23-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0145446/23-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0145446/23-7-2020%0ARagione sociale:WIND TRE S.P.A.%0AUbicazione:VIA MILANO%0AOggetto:installazione di 6 antenne, di cui 3 che momentaneamente non verranno attivate, installazione delle nuove antenne è prevista sostituzione del pennone esistente con nuovo pennone di 4.00 metri, installazione di due nuovi cabinet nell'apposita area apparati e la riorganizzazione di apparati esistenti</description>
+			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145389/23-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0103922/28-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0103922/28-5-2020%0ARagione sociale:Colsig s.r.l.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:Voltura autorizzazione emissioni in atmosfera art. 272 del D.Lgs. 152/2006</description>
 			<a10:updated>2020-05-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103669/28-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0103669/28-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0103669/28-5-2020%0ARagione sociale:PASSONI MARA%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:CESSAZIONE DELL'ATTIVITA DI SOMMINISTRAZIONE ALIMENTI E BEVANDI - VICINATO</description>
-			<a10:updated>2020-05-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0103277/27-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0103277/27-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0103277/27-5-2020%0ARagione sociale:Colsig s.r.l.%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:Subentro Autorizzazione Unica Ambiente</description>
-			<a10:updated>2020-05-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
