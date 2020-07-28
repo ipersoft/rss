@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 28 Jul 2020 10:00:44 Z</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jul 2020 12:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147876/28-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147876/28-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147876/28-7-2020%0ARagione sociale:BERETTA PIERANGELO%0AUbicazione:VIA GARIBALDI 140 ANGOLO VIA VERRI%0AOggetto:VARIAZIONE DENOMINAZIONE + VARIAZIONE MERCEOLOGICA</description>
+			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147434/27-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104665/29-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104665/29-5-2020%0ARagione sociale:MULTIBASE SRL%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:Variazione responsabile tecnico</description>
-			<a10:updated>2020-05-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104626/29-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104626/29-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104626/29-5-2020%0ARagione sociale:CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE TUTTI I SABATI A PARTIRE DAL 30/06/2020 FINO AL 29/08/2020 IN VIA GARIBALDI CON UN BANCO DOLCIUMI, ZUCCHERO FILATO, PALLONCINI DI MT 8x3</description>
 			<a10:updated>2020-05-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
