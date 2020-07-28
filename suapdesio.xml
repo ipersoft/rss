@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 28 Jul 2020 12:00:38 Z</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jul 2020 15:00:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0148365/28-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0148365/28-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0148365/28-7-2020%0ARagione sociale:ARIENTI SIMONE%0AUbicazione:%0AOggetto:RICHIESTA DI CONCESSIONE PER OCCUPAZIONE SUOLO PUBBLICO DAVANTI AL CIMITERO DI DESIO, IN VIA RIMEMBRANZE (POSTEGGIO STORICO, VICINO CATENE), NEI GIORNI DAL 28/10/2020 AL 02/11/2020 COMPRESI</description>
+			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0148109/28-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0148109/28-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0148109/28-7-2020%0ARagione sociale:MARTELLA GIOVANNI%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:VARIAZIONE RESIDENZA E SEDE LEGALE ATTIVITA' DI COMMERCIO SU AREE PUBBLICHE - DITTA MARTELLA GIOVANNI - P. IVA 09502640965</description>
+			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147876/28-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0105192/29-5-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0105192/29-5-2020%0ARagione sociale:CHEEMA MOHAMMAD AKRAM%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA MERCATO DEL LUNEDI'</description>
-			<a10:updated>2020-05-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104715/29-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104715/29-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104715/29-5-2020%0ARagione sociale:gaj maxmillian%0AUbicazione:%0AOggetto:iscrizione spunta mercati settimanali di desio</description>
-			<a10:updated>2020-05-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0104665/29-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0104665/29-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0104665/29-5-2020%0ARagione sociale:MULTIBASE SRL%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:Variazione responsabile tecnico</description>
 			<a10:updated>2020-05-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
