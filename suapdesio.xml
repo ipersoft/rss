@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 28 Jul 2020 15:00:43 Z</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jul 2020 08:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0148565/28-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0148565/28-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0148565/28-7-2020%0ARagione sociale:MARTANO GREGORIO%0AUbicazione:VIA PIO XI%0AOggetto:SCIA DI MODIFICA RESPONSABILE TECNICO ESTETISTA</description>
+			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0148473/28-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0148473/28-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0148473/28-7-2020%0ARagione sociale:INTERCONTINENTALE CARINZIA LEGNAMI S.R.L.%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:REALIZZAZIONE DI STRUTTURE IN FERRO PER SOSTEGNO TORRI EVAPORATIVE CON FONDAZIONI IN PLINTI IN C.C.A. ORDINARIO</description>
+			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0148365/28-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0106353/1-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0106353/1-6-2020%0ARagione sociale:WUS IMMOBILIARE S.A.S. DI D'ANNEO VIVIANA%0AUbicazione:VIA MULINELLO%0AOggetto:CESSAZIONE ATTIVITA' ARTIGIANALE</description>
 			<a10:updated>2020-06-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0105418/29-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0105418/29-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0105418/29-5-2020%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA SAN GENNARO%0AOggetto:MODIFICA SRB ILIAD MB20832_010 DESIO BEREGGI</description>
-			<a10:updated>2020-05-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0105192/29-5-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0105192/29-5-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0105192/29-5-2020%0ARagione sociale:CHEEMA MOHAMMAD AKRAM%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA MERCATO DEL LUNEDI'</description>
-			<a10:updated>2020-05-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
