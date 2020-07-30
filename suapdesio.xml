@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 30 Jul 2020 10:00:42 Z</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jul 2020 12:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0150276/30-7-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0150276/30-7-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0150276/30-7-2020%0ARagione sociale:SPOT LINE SRL%0AUbicazione:VIA XXV APRILE%0AOggetto:VENDITA AL DETTAGLIO DI PRODOTTI NON ALIMENTARI PER MEZZO DI APPARECCHI AUTOMATICI</description>
+			<a10:updated>2020-07-30T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0148988/29-7-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0106922/3-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0106922/3-6-2020%0ARagione sociale:MINARDI LUIGI VLADIMIRO%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:inizio attività commercio ingrosso alimentari , prodotti per l'igiene e la sicurezza della persona e prodotti per la pulizia della casa</description>
 			<a10:updated>2020-06-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0106410/1-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0106410/1-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0106410/1-6-2020%0ARagione sociale:MARILINDA DI MARINELLA OLIVA%0AUbicazione:VIA XXV APRILE%0AOggetto:CESSAZIONE DELL' ATTIVITA' DI LAVORI DI MECCANICA GENERALE NELLA SEDE DI DESIO VIA XXV APRILE N. 20</description>
-			<a10:updated>2020-06-01T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
