@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 03 Aug 2020 08:00:41 Z</lastBuildDate>
+		<lastBuildDate>Mon, 03 Aug 2020 14:00:50 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5764653</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5764653</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>“CONDOMINIO GARIBALDI” DI VIA GARIBALDI 99/101- SALDO CONGUAGLIO 2018 E PREVENTIVO SPESE ORDINARIE 2019 </description>
+			<a10:updated>2020-08-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5759701</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5759701</link>
@@ -157,14 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>LAVORI DI ATTUAZIONE DEL P.G.T.U. PER INTERVENTI SULLA MOBILITA’ LENTA – CICLABILITÀ’ - BICIPLAN, MODIFICA DELLA CIRCOLAZIONE E DEI SENSI UNICI E ZONE RISERVATE ALLA MOBILITA’ LENTA PEDONALE (A/1653) – AMBITO OPERATIVO DENOMINATO ”INTERVENTI DI RIQUALIFICAZIONE DELLO SPAZIO PUBBLICO DEI QUARTIERI: BOLAGNOS - SAN GIOVANNI, SPACCONE, SAN GIORGIO, VIA PIAVE” – DETERMINA DI AGGIUDICAZIONE DEFINITIVA - CUP G47H19000950004 – CIG 8247340046 </description>
-			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5753357</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5753357</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>AFFIDAMENTO DEL SERVIZIO DI TESORERIA COMUNALE DALLA DATA DI AGGIUDICAZIONE E FINO AL 31/12/2023 - APPROVAZIONE VERBALE DI AMMISSIONE DEGLI OPERATORI ECONOMICI - APPROVAZIONE BANDO DI GARA E RELATIVI ALLEGATI E AVVIO DELLA PROCEDURA DI GARA - CIG: 823245224E </description>
 			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
 		</item>
 	</channel>
