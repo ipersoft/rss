@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 06 Aug 2020 08:00:40 Z</lastBuildDate>
+		<lastBuildDate>Thu, 06 Aug 2020 12:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155967/6-8-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155967/6-8-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155967/6-8-2020%0ARagione sociale:Acciai Brianza S.p.A.%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:SCIA per variazione locali/impianti unità operativa in Via Filippo Da Desio nr. 81 b/c</description>
+			<a10:updated>2020-08-06T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155821/6-8-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155821/6-8-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155821/6-8-2020%0ARagione sociale:QUOREM CAFE' S.A.S. DI LUCA CAPUTO E C.%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:MODIFICA DELLA SUPERFICIE DELL'ATTIVITA' DI SOMMINISTRAZIONE ALIMENTI E BEVANDE. LA MODIFICA RIGUARDA L'USO DELL'AREA ESTERNA PER SOMMINISTRARE ALIMENTI E BEVANDE.</description>
+			<a10:updated>2020-08-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155173/5-8-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0109018/5-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0109018/5-6-2020%0ARagione sociale:DITTA INDIVIDUALE DI BACCI MASSIMO%0AUbicazione:%0AOggetto:RICHIESTA LICENZA TEMPORANEA SPETTACOLO VIAGGIANTE FIERA DI OTTOBRE 2020</description>
 			<a10:updated>2020-06-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0108942/5-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0108942/5-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0108942/5-6-2020%0ARagione sociale:BESTETTI PEZZAME DI PONTI ALESSANDRO%0AUbicazione:CORSO ITALIA%0AOggetto:CESSAZIONE DELL'ATTIVITA' PER CONFERIMENTO</description>
-			<a10:updated>2020-06-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0107905/4-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0107905/4-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0107905/4-6-2020%0ARagione sociale:ILIAD ITALIA S.P.A.%0AUbicazione:VIA MONTE BIANCO ANG. VIA ASIAGO%0AOggetto:MODIFICA SRB ILIAD ESISTENTE: MB20832_007 DESIO OVEST</description>
-			<a10:updated>2020-06-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
