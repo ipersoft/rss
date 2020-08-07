@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 06 Aug 2020 15:00:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 07 Aug 2020 08:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0156726/6-8-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0156726/6-8-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0156726/6-8-2020%0ARagione sociale:GOLOSE TENTAZIONI SNC%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:PARTECIPAZIONE ALL'EVENTO PREVISTO PER I GIORNI 07-08-09 AGOSTO - PARCO TITTONI, DENOMINATO BRIANZA BEER FESTIVAL, COME DA LETTERA DI INVITO</description>
+			<a10:updated>2020-08-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155967/6-8-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0109273/5-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0109273/5-6-2020%0ARagione sociale:DI.R.EL. SRL%0AUbicazione:VIA LEONARDO SCIASCIA%0AOggetto:DEPOSITO MERCE PROPRIA DI COMPONENTI E TECNOLOGIE ELETTRONICHE</description>
-			<a10:updated>2020-06-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0109018/5-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0109018/5-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0109018/5-6-2020%0ARagione sociale:DITTA INDIVIDUALE DI BACCI MASSIMO%0AUbicazione:%0AOggetto:RICHIESTA LICENZA TEMPORANEA SPETTACOLO VIAGGIANTE FIERA DI OTTOBRE 2020</description>
 			<a10:updated>2020-06-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
