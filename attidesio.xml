@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 07 Aug 2020 12:00:43 Z</lastBuildDate>
+		<lastBuildDate>Fri, 07 Aug 2020 14:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5777045</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5777045</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA VERRI </description>
+			<a10:updated>2020-08-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5774381</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5774381</link>
@@ -157,14 +165,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA MILANO </description>
-			<a10:updated>2020-08-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5770451</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5770451</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CENTRO RICREATIVO-SPORTIVO COMUNALE SITO IN LARGO ATLETI AZZURRI D’ITALIA - VALUTAZIONE DELLA FATTIBILITA’ DELLA PROPOSTA DI INIZIATIVA PRIVATA PER L’ATTIVAZIONE DI UN PARTENARIATO PUBBLICO-PRIVATO MEDIANTE LOCAZIONE FINANZIARIA DI OPERA PUBBLICA AVENTE AD OGGETTO LA PROGETTAZIONE ESECUTIVA (CON ACQUISIZIONE DEL PROGETTO DEFINITIVO IN SEDE DI OFFERTA), LA REALIZZAZIONE, IL FINANZIAMENTO, NONCHÉ LA MANUTENZIONE ORDINARIA E STRAORDINARIA E LA GESTIONE - PER UN PERIODO DI 20 (VENTI) ANNI. </description>
 			<a10:updated>2020-08-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
