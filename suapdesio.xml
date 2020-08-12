@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 12 Aug 2020 12:00:44 Z</lastBuildDate>
+		<lastBuildDate>Wed, 12 Aug 2020 15:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0159832/12-8-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0159832/12-8-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0159832/12-8-2020%0ARagione sociale:MARCH NETWORKS SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Modifica ragione sociale</description>
+			<a10:updated>2020-08-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0156726/6-8-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0111563/9-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0111563/9-6-2020%0ARagione sociale:BIFIRE S.r.l.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Comunicazione messa in eservizio e messa a regime nuova emissione E9 (Triturazione sfridi di lavorazione) e E15 (Taglio pannelli)</description>
 			<a10:updated>2020-06-09T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0109273/5-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0109273/5-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0109273/5-6-2020%0ARagione sociale:DI.R.EL. SRL%0AUbicazione:VIA LEONARDO SCIASCIA%0AOggetto:DEPOSITO MERCE PROPRIA DI COMPONENTI E TECNOLOGIE ELETTRONICHE</description>
-			<a10:updated>2020-06-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
