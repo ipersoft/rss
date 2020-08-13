@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 12 Aug 2020 15:00:41 Z</lastBuildDate>
+		<lastBuildDate>Thu, 13 Aug 2020 08:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0159919/12-8-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0159919/12-8-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0159919/12-8-2020%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER CESANO%0AOggetto:SCIA PER SOSTITUZIONE LEGALE RAPPRESENTANTE IN ATTIVITA' DI COMMERCIO IN MEDIA STRUTTURA DI VENDITA SETTORE NON ALIMENTARE e RIVENDITA DI ANIMALI</description>
+			<a10:updated>2020-08-12T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0159917/12-8-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0159917/12-8-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0159917/12-8-2020%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER BINZAGO%0AOggetto:SCIA PER SOSTITUZIONE LEGALE RAPPRESENTANTE IN ATTIVITA' DI COMMERCIO IN MEDIA STRUTTURA DI VENDITA SETTORE NON ALIMENTARE, DI ANIMALI,DI FITOSANITARI, DI MANGIMI E SOMMINISTRAZIONE DI ALIMENTI E BEVANDE</description>
+			<a10:updated>2020-08-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0159832/12-8-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112698/10-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112698/10-6-2020%0ARagione sociale:ROCCA FAUSTO ARTURO%0AUbicazione:%0AOggetto:SUBINGRESSO NEL POSTEGGIO A SEDE FISSA DEL MERCATO SETTIMANALE</description>
 			<a10:updated>2020-06-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0112664/10-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0112664/10-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0112664/10-6-2020%0ARagione sociale:MOSCA MATTIA%0AUbicazione:%0AOggetto:COMUNICAZIONE DI PARTECIPAZIONE ALLA SPUNTA DEL MERCATO DI LUNEDI' A DESIO NORD</description>
-			<a10:updated>2020-06-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0111563/9-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0111563/9-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0111563/9-6-2020%0ARagione sociale:BIFIRE S.r.l.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Comunicazione messa in eservizio e messa a regime nuova emissione E9 (Triturazione sfridi di lavorazione) e E15 (Taglio pannelli)</description>
-			<a10:updated>2020-06-09T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
