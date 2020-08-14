@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 14 Aug 2020 08:00:45 Z</lastBuildDate>
+		<lastBuildDate>Fri, 14 Aug 2020 10:00:47 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5787345</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5787345</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>RIFACIMENTO COPERTURA PRESSO SCUOLA DELL’INFANZIA DI VIA NOVARA - LOTTI 2 E 3 (B/1566) – DICHIARAZIONE DI EFFICACIA DELL’AGGIUDICAZIONE ALLA ARTEDIL SRL - CUP G42B17004160004 – CIG: 82870523A6 </description>
+			<a10:updated>2020-08-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5786365</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5786365</link>
@@ -158,14 +166,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>SERVIZIO DI RICOVERO E MANTENIMENTO CANI RANDAGI RINVENUTI SUL TERRITORIO COMUNALE. INTEGRAZIONE IMPEGNO DI SPESA ANNO 2020. € 5.000,00 IVA COMPRESA - CIG Z5626DE925 </description>
 			<a10:updated>2020-08-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5777045</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5777045</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA VERRI </description>
-			<a10:updated>2020-08-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
