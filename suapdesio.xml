@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 18 Aug 2020 10:00:48 Z</lastBuildDate>
+		<lastBuildDate>Tue, 18 Aug 2020 15:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0161737/18-8-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0161737/18-8-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0161737/18-8-2020%0ARagione sociale:ENVIGO RMS SRL%0AUbicazione:VIA VINCENZO MONTI%0AOggetto:TRASFERIMENTO LABORATORIO DIAGNOSTICO VETERINARIO (VEDI RELAZIONE)</description>
+			<a10:updated>2020-08-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0160918/17-8-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0113435/11-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0113435/11-6-2020%0ARagione sociale:AURUM INTERNATIONAL SRL%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:NUOVA APERTURA E LICENZA NEGOZIO DESIO</description>
-			<a10:updated>2020-06-11T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0113419/11-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0113419/11-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0113419/11-6-2020%0ARagione sociale:VINCENZI CHIARA%0AUbicazione:VIA ADA NEGRI%0AOggetto:COMMERCIO AL DETTAGLIO DI DISPOSITIVI PER LA SANIFICAZIONE, ESTETICA E CURA DELLA PERSONA, ABBIGLIAMENTO, CASALINGHI, ARREDAMENTO, REPELLENTI, ELETTRONICA, ARTICOLI E ACCESSORI PER LO SPORT, BIGIOTTERIA, ARTICOLI PER ANIMALI</description>
 			<a10:updated>2020-06-11T00:00:00Z</a10:updated>
 		</item>
 	</channel>
