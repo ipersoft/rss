@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 09 Sep 2020 12:00:38 Z</lastBuildDate>
+		<lastBuildDate>Wed, 09 Sep 2020 15:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0173749/9-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0173749/9-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0173749/9-9-2020%0ARagione sociale:HELP POINT MULTISERVIZI DI ULLAH AHSAN E C. S.A.S.%0AUbicazione:VIA BRAMANTE DA URBINO%0AOggetto:CESSAZIONE UNITA' LOCALE MINIMARKET DESIO - VIA BRAMANTE 15</description>
+			<a10:updated>2020-09-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0173712/9-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0173712/9-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0173712/9-9-2020%0ARagione sociale:GARIBOLDI CLAUDIO%0AUbicazione:VIA PRATI%0AOggetto:CESSIONE AUTORIZZAZIONE 89 RILASCIATA IN DATA 18 MAGGIO 2009 PER L'ESERCIZIO DELL' ATTIVITA' DI COMMERCIO SU AREA PUBBLICA TIPO A, PER IL POSTEGGIO N.43 UBICATO IN VIA PRATI PER IL MERCATO SETTIMANALE DEL LUNEDI' - MERCATO SUD</description>
+			<a10:updated>2020-09-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0171448/7-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0120099/20-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0120099/20-6-2020%0ARagione sociale:ILPREGIATO DI STATELLA MARCELLO%0AUbicazione:%0AOggetto:DOMANDA PARTECIPAZIONE SPUNTA MERCATO DEL LUNEDI'</description>
 			<a10:updated>2020-06-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0119703/19-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0119703/19-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0119703/19-6-2020%0ARagione sociale:ZOIA ALESSIA%0AUbicazione:VIA TRENTO%0AOggetto:attivita' di estetista riguardante i trattamenti estetici del corpo; il massaggio per scopi estetici del viso e del corpo; la depilazione; il manicure e pedicure estetico; il trucco e l'epilazione laser.</description>
-			<a10:updated>2020-06-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0118890/18-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0118890/18-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0118890/18-6-2020%0ARagione sociale:MULTIBASE SRL%0AUbicazione:VIA NUOVA VALASSINA%0AOggetto:Inizio attività carrozzeria</description>
-			<a10:updated>2020-06-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
