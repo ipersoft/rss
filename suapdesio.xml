@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 09 Sep 2020 15:00:39 Z</lastBuildDate>
+		<lastBuildDate>Thu, 10 Sep 2020 10:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0174010/10-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0174010/10-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0174010/10-9-2020%0ARagione sociale:OLMETTI DARIO%0AUbicazione:VIA IGNAZIO SILONE%0AOggetto:richiesta numero matricola ascensore scala b a seguito messa in esercizio ascensore via Silone 1 Desio</description>
+			<a10:updated>2020-09-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0173749/9-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0120428/22-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0120428/22-6-2020%0ARagione sociale:GSR TECHNOLOGY ITALY S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:INIZIO ATTIVITA' SECONDARIA DI COMMERCIO ON LINE CON DEPOSITO ED ALL'INGROSSO (GIA' AUTORIZZATO) DI DISPOSITIVI ED EQUIPAGGIAMENTI MEDICO-SANITARI UTILI PER LA SALUTE, DI PRODOTTI MEDICO-PROFESSIONALI, TEST KIT MEDICALI E RELATIVE APPARECCHIATURE, ARTICOLI SANITARI, PRODOTTI PER L'IGIENE.</description>
 			<a10:updated>2020-06-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0120099/20-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0120099/20-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0120099/20-6-2020%0ARagione sociale:ILPREGIATO DI STATELLA MARCELLO%0AUbicazione:%0AOggetto:DOMANDA PARTECIPAZIONE SPUNTA MERCATO DEL LUNEDI'</description>
-			<a10:updated>2020-06-20T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
