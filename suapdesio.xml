@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 11 Sep 2020 12:00:40 Z</lastBuildDate>
+		<lastBuildDate>Fri, 11 Sep 2020 15:00:37 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0175996/11-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0175996/11-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0175996/11-9-2020%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA PER SEREGNO%0AOggetto:COMUNICAZIONE DI VENDITA SOTTOCOSTO</description>
+			<a10:updated>2020-09-11T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0175988/11-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0175988/11-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0175988/11-9-2020%0ARagione sociale:MAXI DI S.R.L.%0AUbicazione:VIA KARL MARX%0AOggetto:COMUNICAZIONE DI VENDITA SOTTOCOSTO</description>
+			<a10:updated>2020-09-11T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0175696/11-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0122299/23-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0122299/23-6-2020%0ARagione sociale:BOND S.R.L.%0AUbicazione:VIA lombardia%0AOggetto:ampliamento superficie somministrazione alimenti e bevande e comunicazione nuovi orari apertura al pubblico</description>
 			<a10:updated>2020-06-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0122027/23-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0122027/23-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0122027/23-6-2020%0ARagione sociale:INNOVATECH SRL%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:COMUNICAZIONE APERTURA COMMERCIO ALL'INGROSSO DI MATERIALE ELETTRONICO CON DEPOSITO</description>
-			<a10:updated>2020-06-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0121293/22-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0121293/22-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0121293/22-6-2020%0ARagione sociale:Mondovisione Società Cooperativa Sociale ONLUS%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:Licenza pubblico spettacolo e somministrazione evento Parco Tittoni</description>
-			<a10:updated>2020-06-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
