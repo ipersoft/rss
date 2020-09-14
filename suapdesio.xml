@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 14 Sep 2020 12:00:42 Z</lastBuildDate>
+		<lastBuildDate>Mon, 14 Sep 2020 15:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0176937/14-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0176937/14-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0176937/14-9-2020%0ARagione sociale:PONZETTA ANTONIO%0AUbicazione:VIA DAMIANO CHIESA%0AOggetto:Domanda di Autorizzazione per apertura di esercizio di somministrazione di alimenti e bevande in Via Damiano Chiesa 3</description>
+			<a10:updated>2020-09-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0176558/14-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0123238/24-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0123238/24-6-2020%0ARagione sociale:Big Food S.r.l.%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:Scia per la somministrazione di cibo nella stagione 2020 di Parco Tittoni</description>
 			<a10:updated>2020-06-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0122351/23-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0122351/23-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0122351/23-6-2020%0ARagione sociale:wind tre%0AUbicazione:VIA CARLO PORTA%0AOggetto:vedi relazione</description>
-			<a10:updated>2020-06-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
