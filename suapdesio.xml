@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 14 Sep 2020 15:00:39 Z</lastBuildDate>
+		<lastBuildDate>Tue, 15 Sep 2020 12:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0177400/15-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0177400/15-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0177400/15-9-2020%0ARagione sociale:LE AUTO DI GIORGIA DI BORDIN GIORGIA%0AUbicazione:VIA DEI MARIANI%0AOggetto:COMMERCIO ALL'INGROSSO E AL DETTAGLIO DI AUTOVETTURE E DI AUTOVEICOLI LEGGERI SENZA MAGAZZINO/DEPOSITO TRAMITE STRUMENTI ELETTRONICI</description>
+			<a10:updated>2020-09-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0177311/14-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0177311/14-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0177311/14-9-2020%0ARagione sociale:SHYDI HALAL SHOP DI SHAHID MUHAMMAD%0AUbicazione:VIA BRAMANTE DA URBINO%0AOggetto:APERTURA MINIMARKET: COMMERCIO AL DETTAGLIO DI GENERI ALIMENTARI E NON ALIMENTARI</description>
+			<a10:updated>2020-09-14T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0176937/14-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0125925/29-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0125925/29-6-2020%0ARagione sociale:PIESSE S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:cessazione attività di commercio elettronico di birra</description>
 			<a10:updated>2020-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0124174/25-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0124174/25-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0124174/25-6-2020%0ARagione sociale:HOTEL SELIDE DI CRIPPA ADRIANO E C. S.A.S.%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:CESSAZIONE HOTEL SELIDE DI CRIPPA ADRIANO E C.SAS CHE CONCEDE IN AFFITTO L'ATTIVITA' DI ALBERGO SITA IN VIA MATTEOTTI 1</description>
-			<a10:updated>2020-06-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0123238/24-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0123238/24-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0123238/24-6-2020%0ARagione sociale:Big Food S.r.l.%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:Scia per la somministrazione di cibo nella stagione 2020 di Parco Tittoni</description>
-			<a10:updated>2020-06-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
