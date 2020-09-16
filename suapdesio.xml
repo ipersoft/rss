@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 16 Sep 2020 08:00:38 Z</lastBuildDate>
+		<lastBuildDate>Wed, 16 Sep 2020 12:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0179007/16-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0179007/16-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0179007/16-9-2020%0ARagione sociale:GIROLAMI RONNIE%0AUbicazione:%0AOggetto:LUNA PARK OTTOBRE 2020</description>
+			<a10:updated>2020-09-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0177400/15-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126498/29-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126498/29-6-2020%0ARagione sociale:SELFISH S.R.L.S.%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:SCIA PER SUBENTRO ATTIVITA' DI ALBERGO</description>
-			<a10:updated>2020-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0125925/29-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0125925/29-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0125925/29-6-2020%0ARagione sociale:PIESSE S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:cessazione attività di commercio elettronico di birra</description>
 			<a10:updated>2020-06-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
