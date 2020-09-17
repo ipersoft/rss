@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 16 Sep 2020 12:00:42 Z</lastBuildDate>
+		<lastBuildDate>Thu, 17 Sep 2020 08:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0179444/16-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0179444/16-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0179444/16-9-2020%0ARagione sociale:MUSCIA ROBERTO%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:BANCARELLA LIBRI 8MT X 2 SOTTO I PORTICI IN VIA GARIBALDI 6 DAL 03/10 AL 18/10/2020</description>
+			<a10:updated>2020-09-16T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0179145/16-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0179145/16-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0179145/16-9-2020%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:BANCO DOLCIUMI, FRITTELLE E PALLONCINI IN OCCASIONE DELLA FESTA PATRONALE DAL 3 AL 5 OTTOBRE 2020</description>
+			<a10:updated>2020-09-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0179007/16-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127461/30-6-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127461/30-6-2020%0ARagione sociale:RACHIDI MOHAMMED%0AUbicazione:%0AOggetto:PARTECIPAZIONE ALLA SPUNTA NEL MERCATO DI DESIO</description>
 			<a10:updated>2020-06-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0127333/30-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127333/30-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127333/30-6-2020%0ARagione sociale:MALBERTI UMBERTO%0AUbicazione:N.D. SUD%0AOggetto:CESSAZIONE ATTIVITA' AL 30/06/2020 MERCATO "DESIO SUD" - POSTEGGIO N. 51</description>
-			<a10:updated>2020-06-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0126498/29-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0126498/29-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0126498/29-6-2020%0ARagione sociale:SELFISH S.R.L.S.%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:SCIA PER SUBENTRO ATTIVITA' DI ALBERGO</description>
-			<a10:updated>2020-06-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
