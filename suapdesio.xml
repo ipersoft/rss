@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 17 Sep 2020 10:02:31 Z</lastBuildDate>
+		<lastBuildDate>Thu, 17 Sep 2020 12:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0180032/17-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0180032/17-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0180032/17-9-2020%0ARagione sociale:SUPER CAR WASH DI MIRZA SHAFEEQ SIDDIQUE%0AUbicazione:%0AOggetto:APERTURA</description>
+			<a10:updated>2020-09-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0179732/17-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127748/1-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127748/1-7-2020%0ARagione sociale:TABAC M.P. DI MANGIOLA PAOLA%0AUbicazione:VIA CESARE CANTU`%0AOggetto:RICHIESTA RILASCIO AUTORIZZAZIONE ALLA SOMMINISTRAZIONE</description>
 			<a10:updated>2020-07-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0127471/30-6-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127471/30-6-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127471/30-6-2020%0ARagione sociale:PARISI PATRIZIO%0AUbicazione:%0AOggetto:istanza di partecipazione al lunapark 2020 istanza di occupazione suolo pubblico</description>
-			<a10:updated>2020-06-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
