@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 18 Sep 2020 08:00:39 Z</lastBuildDate>
+		<lastBuildDate>Fri, 18 Sep 2020 12:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0181064/18-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0181064/18-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0181064/18-9-2020%0ARagione sociale:NERI REALITY GROUP SRLS UNIPERSONALE%0AUbicazione:VIA CARLO FORLANINI%0AOggetto:APERTURA BAR</description>
+			<a10:updated>2020-09-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0180924/18-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0180924/18-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0180924/18-9-2020%0ARagione sociale:TABAC M.P. DI MANGIOLA PAOLA%0AUbicazione:VIA CESARE CANTU`%0AOggetto:INIZIO ATTIVITA'</description>
+			<a10:updated>2020-09-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0180641/17-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0128155/1-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0128155/1-7-2020%0ARagione sociale:CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE MERCOLEDI' DI DESIO 2020 CHE SI SVOLGERA' TUTTI I MERCOLEDI' DI LUGLIO 2020 IN VIA GARIBALDI, PER UN TOTALE DI 3 MERCOLEDI' (01/07 - 08/07 - 15/07)</description>
-			<a10:updated>2020-07-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0128035/1-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0128035/1-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0128035/1-7-2020%0ARagione sociale:CAPPELLINI VEG LAB SOCIETA' A RESPONSABILITA' LIMITATA SEMPLIFICATA%0AUbicazione:VIA UMBERTO GIORDANO%0AOggetto:INIZIO ATTIVITÀ' COMMERCIO ONLINE</description>
-			<a10:updated>2020-07-01T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0127769/1-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0127769/1-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0127769/1-7-2020%0ARagione sociale:TRE ROSE SNC DI ROSSIGNOLI MARIO LUIGI &amp;amp; SERVELLO MASSIMO%0AUbicazione:VIA PIETRO MASCAGNI%0AOggetto:CESSAZIONE ATTIVITA' DI COMMERCIO AL DETTAGLIO GENERI TABELLA SPECIALE CARBURANTI; GENERI ALIMENTARI CONFEZIONATI</description>
 			<a10:updated>2020-07-01T00:00:00Z</a10:updated>
 		</item>
 	</channel>
