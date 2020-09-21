@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 21 Sep 2020 10:00:41 Z</lastBuildDate>
+		<lastBuildDate>Mon, 21 Sep 2020 12:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0182435/21-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0182435/21-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0182435/21-9-2020%0ARagione sociale:ALEX DI TOSCANO LAURA%0AUbicazione:%0AOggetto:domanda di subingresso posteggio di mercato del lunedì n. 52 mq40</description>
+			<a10:updated>2020-09-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0182119/21-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0131689/6-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0131689/6-7-2020%0ARagione sociale:RICCI BRUNO%0AUbicazione:%0AOggetto:INSTALLAZIONE SALTO TRAMPOLINO E SCIVOLO GONFIABILE (CODICE ID. 015166-0004/2010) DI RICCI LUCA.</description>
-			<a10:updated>2020-07-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0131492/6-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0131492/6-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0131492/6-7-2020%0ARagione sociale:FERGE GOMME IMPORT EXPORT SRL SEMPLIFICATA%0AUbicazione:VIA RUGGERO LEONCAVALLO%0AOggetto:Inizio attività di sostituzione ammortizzatori, pastiglie e dischi freno, sospensioni, servofreni, cilindretti e tutto quanto ha attinenza con l'impianto frenante dei veicoli nonché assistenza per il tagliando delle autovetture</description>
 			<a10:updated>2020-07-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
