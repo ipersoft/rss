@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 25 Sep 2020 15:00:41 Z</lastBuildDate>
+		<lastBuildDate>Mon, 28 Sep 2020 08:02:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0187652/26-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0187652/26-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0187652/26-9-2020%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Domanda di partecipazione Festa Patronale nei giorni 3/ 4 Ottobre 2020 ( in Via Garibaldi con posizione altezza numero civico 06 come anni precedenti )</description>
+			<a10:updated>2020-09-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0186922/25-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0137364/14-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0137364/14-7-2020%0ARagione sociale:PORTALP S.R.L.%0AUbicazione:VIA UMBERTO TAGLIABUE%0AOggetto:LABORATORIO ARTIGIANALE CON PICCOLE LAVORAZIONI</description>
-			<a10:updated>2020-07-14T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0137281/14-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0137281/14-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0137281/14-7-2020%0ARagione sociale:BAR AL POZZO DI PASQUALE ADELE MARIA%0AUbicazione:VIA POZZO ANTICO%0AOggetto:COMUNICAZIONE INIZIO ATTIVITA'</description>
 			<a10:updated>2020-07-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
