@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 28 Sep 2020 15:00:41 Z</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2020 08:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0188995/29-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0188995/29-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0188995/29-9-2020%0ARagione sociale:FARMACIA GALBIATI S.N.C. DEI DOTTORI FABIO MASSIMO VINCENZO E MAT ILDE ISABELLA GALBIATI%0AUbicazione:VIA PARTIGIANI D'ITALIA%0AOggetto:AMPLIAMENTO SUPERFICIE DI VENDITA CON AGGIUNTA SETTORE ALIMENTARE</description>
+			<a10:updated>2020-09-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0188502/28-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138375/15-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138375/15-7-2020%0ARagione sociale:TABAC M.P. DI MANGIOLA PAOLA%0AUbicazione:VIA CESARE CANTU`%0AOggetto:VARIAZIONE SEDE ATTIVITA'</description>
-			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0137702/15-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0137702/15-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0137702/15-7-2020%0ARagione sociale:MAK. MEC. S.R.L.%0AUbicazione:VIA ORTIGARA%0AOggetto:Attivita' di piccola carpenteria in via Ortigara a Desio</description>
 			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
