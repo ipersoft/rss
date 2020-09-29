@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 29 Sep 2020 08:00:40 Z</lastBuildDate>
+		<lastBuildDate>Tue, 29 Sep 2020 12:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0189500/29-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0189500/29-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0189500/29-9-2020%0ARagione sociale:ARPIDONE ASIA%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:INIZIO ATTIVITA' DI TATUATORE, MICROBLADING/PMU IL 29/09/2020</description>
+			<a10:updated>2020-09-29T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0189182/29-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0189182/29-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0189182/29-9-2020%0ARagione sociale:LUCA EVENTS DI CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:ORGANIZZAZIONE FESTA PATRONALE CON PARTECIPAZIONE DEI SEGUENTI OPERATORI: -CACIOPPO GIANLUCA-BUFFO MAURO-CHECCHI SIMONE-DICATALDO SIMONE-IL PIEMONTESE S.R.L.-DI MOLFETTA GIUSEPPE-NAIM CLAUDIO RAFFAELE-NATALINI LORIS-ORTELLI STEFANO-SANNAI VINCENZO-SINIGAGLIA GENNARO-TOMAINO ARCANGELO-DESHEV YORDAN</description>
+			<a10:updated>2020-09-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0188995/29-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -691,20 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138575/15-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138575/15-7-2020%0ARagione sociale:DIS3BUTION S.R.L.%0AUbicazione:VIA CARAVAGGIO%0AOggetto:commercio on line di apparecchiature informatiche periferiche, software, computer, accessoristica informatica/gaming, piccoli elettrodomestici, audio ed elettronica, giocattoli , componentistica per pc, utensili / brico</description>
-			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138435/15-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138435/15-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138435/15-7-2020%0ARagione sociale:TABAC M.P. DI MANGIOLA PAOLA%0AUbicazione:VIA CESARE CANTU`%0AOggetto:RICHIESTA RILASCIO AUTORIZZAZIONE ALLA SOMMINISTRAZIONE</description>
-			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138375/15-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138375/15-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138375/15-7-2020%0ARagione sociale:TABAC M.P. DI MANGIOLA PAOLA%0AUbicazione:VIA CESARE CANTU`%0AOggetto:VARIAZIONE SEDE ATTIVITA'</description>
 			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
