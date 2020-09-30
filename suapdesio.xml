@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 29 Sep 2020 15:01:39 Z</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2020 08:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0190235/30-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0190235/30-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0190235/30-9-2020%0ARagione sociale:LIN TAO%0AUbicazione:VIA ALBERTO GABELLINI%0AOggetto:CESSAZIONE ATTIVITA' DI COMMERCIO ELETTRONICO DI ABBIGLIAMENTO, CALZATURE, ACCESSORI E COSMETICI.</description>
+			<a10:updated>2020-09-30T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0189967/29-9-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0189967/29-9-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0189967/29-9-2020%0ARagione sociale:STAR-M SRL%0AUbicazione:VIA MONTE ROSA%0AOggetto:ATTIVITA' DI PRODUZIONE TELEVISIVA</description>
+			<a10:updated>2020-09-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0189500/29-9-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0139645/16-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0139645/16-7-2020%0ARagione sociale:LAZZAROTTO GIANMARCO%0AUbicazione:VIA ACHILLE GRANDI%0AOggetto:trasferimento dell'attività di osteopata dalla propria abitazione al piano secondo in altro locale posto al piano terra dello stesso stabile</description>
 			<a10:updated>2020-07-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138688/15-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138688/15-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138688/15-7-2020%0ARagione sociale:MAK. MEC. S.R.L.%0AUbicazione:VIA ORTIGARA%0AOggetto:DOMANDA DI ADESIONE ALL'AUTORIZZAZIONE IN VIA GENERALE AI SENSI DELL'ART. 272, COMMA 3, DEL D.LGS 152/2006 PER L'ESERCIZIO DELL'ATTIVITA' DI PICCOLA CARPENTERIA IN DEROGA DI CUI ALL'AR. 272, COMMA 2 DEL D.LGS 152/2006 IN VIA ORTIGARA SNC NEL COMUNE DI DESIO (MB)</description>
-			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0138575/15-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0138575/15-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0138575/15-7-2020%0ARagione sociale:DIS3BUTION S.R.L.%0AUbicazione:VIA CARAVAGGIO%0AOggetto:commercio on line di apparecchiature informatiche periferiche, software, computer, accessoristica informatica/gaming, piccoli elettrodomestici, audio ed elettronica, giocattoli , componentistica per pc, utensili / brico</description>
-			<a10:updated>2020-07-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
