@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 01 Oct 2020 08:00:44 Z</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2020 10:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0191592/1-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0191592/1-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0191592/1-10-2020%0ARagione sociale:MANCUSO PIU' SRL%0AUbicazione:LARGO ATLETI AZZURRI D'ITALIA%0AOggetto:SCIA SOMMINISTRAZIONE TEMPORANEA IN OCCASIONE DI MANIFESTAZIONI SPORTIVE PRESSO PALA BANCO DESIO.</description>
+			<a10:updated>2020-10-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0191300/1-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0141363/20-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0141363/20-7-2020%0ARagione sociale:SUPER CAR WASH DI MIRZA SHAFEEQ SIDDIQUE%0AUbicazione:%0AOggetto:APERTURA</description>
-			<a10:updated>2020-07-20T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0141313/20-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0141313/20-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0141313/20-7-2020%0ARagione sociale:SOLANI EMILIO%0AUbicazione:%0AOggetto:INSTALLAZIONE ATTRAZIONI DAL 02/10/2020 AL 05/10/2020</description>
 			<a10:updated>2020-07-20T00:00:00Z</a10:updated>
 		</item>
 	</channel>
