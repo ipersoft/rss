@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 02 Oct 2020 12:00:40 Z</lastBuildDate>
+		<lastBuildDate>Fri, 02 Oct 2020 15:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0193960/2-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0193960/2-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0193960/2-10-2020%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER BINZAGO%0AOggetto:SCIA PER SOSTITUZIONE LEGALE RAPPRESENTANTE IN ATTIVITA' di SOMMINISTRAZIONE DI ALIMENTI E BEVANDE</description>
+			<a10:updated>2020-10-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0193745/2-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0193745/2-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0193745/2-10-2020%0ARagione sociale:OURRAD EL MOSTAFA%0AUbicazione:%0AOggetto:DOMANDA DI PARTECIPAZIONE ALLA SPUNTA MERCATO SETTIMANALE DEL LUNEDI' DI DESIO SUD</description>
+			<a10:updated>2020-10-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0193568/2-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144625/23-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144625/23-7-2020%0ARagione sociale:N.C. DI CARDACE NEMIO%0AUbicazione:VIA TRIPOLI%0AOggetto:apertura negiozo abbigliamento</description>
 			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0144467/22-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144467/22-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144467/22-7-2020%0ARagione sociale:DELMA SRL%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:RICHIESTA DI ASSEGNAZIONE DI NUMERO DI MATRICOLA ASCENSORE</description>
-			<a10:updated>2020-07-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0144174/22-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144174/22-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144174/22-7-2020%0ARagione sociale:MONTI RENZO%0AUbicazione:%0AOggetto:PARTECIPAZIONE ALLA FIERA DI DESIO "MADONNA DEL ROSARIO" 2020</description>
-			<a10:updated>2020-07-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
