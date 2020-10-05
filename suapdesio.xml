@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 05 Oct 2020 10:00:43 Z</lastBuildDate>
+		<lastBuildDate>Mon, 05 Oct 2020 15:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0195557/5-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0195557/5-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0195557/5-10-2020%0ARagione sociale:MONDIMEDICAL S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:inizio attivita' di commercio, all'ingrosso, al dettaglio e via internet, di apparecchi e dispositivi per uso medicale e diagnostica, per disinfezione, sanificazione, benessere, sipporti per disabili , mamme, bambini, biciclette monopattini ed ogni forma di veicolo elettrico.</description>
+			<a10:updated>2020-10-05T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0193960/2-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144913/23-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144913/23-7-2020%0ARagione sociale:CAREDI 1952 S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Con la presente si comunica che il contratto di manutenzione dell'ascensore sito in Desio alla Via Lavoratori Autobianchi lotto 21/D è stato volturato a nome della scrivente società ed è Stato riaffiadato alla società Balzarotti Acensori. L'ascensore presenta il numero di Matricola n. 4153.</description>
-			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0144625/23-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144625/23-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144625/23-7-2020%0ARagione sociale:N.C. DI CARDACE NEMIO%0AUbicazione:VIA TRIPOLI%0AOggetto:apertura negiozo abbigliamento</description>
 			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
