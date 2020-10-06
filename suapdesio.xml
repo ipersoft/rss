@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 06 Oct 2020 10:00:43 Z</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2020 15:00:47 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0196716/6-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0196716/6-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0196716/6-10-2020%0ARagione sociale:F.G.M TORNERIE S.R.L. IN LIQUIDAZIONE%0AUbicazione:VIALE DEGLI ARTIGIANI%0AOggetto:CESSAZIONE DELL'ATTIVITA' PRODUTTIVA</description>
+			<a10:updated>2020-10-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0195557/5-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0145343/23-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0145343/23-7-2020%0ARagione sociale:ABO SAMA DI MOHAMED ELSAYED MOHAMED AWAD%0AUbicazione:%0AOggetto:SCIA SUBENTRO MERCATO DEL LUNEDI - POSTEGGIO N. 5 - SUBENTRO AD AUT. 16359</description>
-			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0144913/23-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0144913/23-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0144913/23-7-2020%0ARagione sociale:CAREDI 1952 S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Con la presente si comunica che il contratto di manutenzione dell'ascensore sito in Desio alla Via Lavoratori Autobianchi lotto 21/D è stato volturato a nome della scrivente società ed è Stato riaffiadato alla società Balzarotti Acensori. L'ascensore presenta il numero di Matricola n. 4153.</description>
 			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
