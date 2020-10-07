@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 06 Oct 2020 15:00:47 Z</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2020 10:00:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0197079/6-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0197079/6-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0197079/6-10-2020%0ARagione sociale:G.D.F. S.R.L.%0AUbicazione:VIA ENZO FERRARI%0AOggetto:Istanza di parere di conformità art. 3 DPR 151/2011</description>
+			<a10:updated>2020-10-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0196716/6-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0145389/23-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0145389/23-7-2020%0ARagione sociale:CAREDI 1952 S.R.L.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Con la presente si comunica che l'organismo incaricato delle ispezioni periodiche in relazione all'ascensore sito in Desio alla Via Lavoratori Autobianchi lotto 21/D è la ICEPI SPA.</description>
-			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0145343/23-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0145343/23-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0145343/23-7-2020%0ARagione sociale:ABO SAMA DI MOHAMED ELSAYED MOHAMED AWAD%0AUbicazione:%0AOggetto:SCIA SUBENTRO MERCATO DEL LUNEDI - POSTEGGIO N. 5 - SUBENTRO AD AUT. 16359</description>
 			<a10:updated>2020-07-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
