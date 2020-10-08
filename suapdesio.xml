@@ -5,8 +5,22 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 07 Oct 2020 15:00:44 Z</lastBuildDate>
+		<lastBuildDate>Thu, 08 Oct 2020 08:00:39 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0198475/7-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0198475/7-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0198475/7-10-2020%0ARagione sociale:HU HAIOU%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:Cessazione dell'attività di HU HAIOU</description>
+			<a10:updated>2020-10-07T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0198449/7-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0198449/7-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0198449/7-10-2020%0ARagione sociale:SALA ELISABETTA%0AUbicazione:%0AOggetto:Commemorazione Defunti anno 2020 nei giorni 31 Ottobre 01/02 Novembre ( Cimitero Vecchio con posizione fianco ex pretura come anni precedenti )</description>
+			<a10:updated>2020-10-07T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0198362/7-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -692,20 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0148109/28-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0148109/28-7-2020%0ARagione sociale:MARTELLA GIOVANNI%0AUbicazione:PIAZZA PAPA GIOVANNI XXIII%0AOggetto:VARIAZIONE RESIDENZA E SEDE LEGALE ATTIVITA' DI COMMERCIO SU AREE PUBBLICHE - DITTA MARTELLA GIOVANNI - P. IVA 09502640965</description>
 			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147876/28-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147876/28-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147876/28-7-2020%0ARagione sociale:BERETTA PIERANGELO%0AUbicazione:VIA GARIBALDI 140 ANGOLO VIA VERRI%0AOggetto:VARIAZIONE DENOMINAZIONE + VARIAZIONE MERCEOLOGICA</description>
-			<a10:updated>2020-07-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0147434/27-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0147434/27-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0147434/27-7-2020%0ARagione sociale:MACELLERIA HALAL ALIMENTARI AMIR DI ROUMADI SALAH%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:CESSAZIONE ATTIVITA'</description>
-			<a10:updated>2020-07-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
