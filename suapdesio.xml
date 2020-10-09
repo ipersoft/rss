@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 09 Oct 2020 12:00:42 Z</lastBuildDate>
+		<lastBuildDate>Fri, 09 Oct 2020 15:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0200624/9-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0200624/9-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0200624/9-10-2020%0ARagione sociale:BELRON ITALIA SPA CON SOCIO UNICO%0AUbicazione:%0AOggetto:INSTALLAZIONE N. 2 INSEGNE COSTITUITE DA PANNELLO IN ALLUMINIO DECORATO CON PELLICOLA ADESIVA, MONOFACCIALI, IN ADERENZA AL FABBRICATO ED ILLUMINATE INDIRETTAMENTE DA FARETTI A LED, INSTALLAZIONE N. 1 INSEGNA A BANDIERA BIFACCIALE LUMINOSA IN ADERENZA AL FABBRICATO</description>
+			<a10:updated>2020-10-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0200405/9-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0150368/30-7-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0150368/30-7-2020%0ARagione sociale:GASTRONOMIA SOMASCA SRL%0AUbicazione:VIA BRESCIA%0AOggetto:RICHIESTA AUA PER SCARICHI REFLUI AZIENDALI PER INDUSTRIA DI PRODOTTI ALIMENTARI SITA IN DESIO, VIA BRESCIA 42</description>
-			<a10:updated>2020-07-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0150276/30-7-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0150276/30-7-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0150276/30-7-2020%0ARagione sociale:SPOT LINE SRL%0AUbicazione:VIA XXV APRILE%0AOggetto:VENDITA AL DETTAGLIO DI PRODOTTI NON ALIMENTARI PER MEZZO DI APPARECCHI AUTOMATICI</description>
 			<a10:updated>2020-07-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
