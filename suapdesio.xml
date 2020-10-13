@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 13 Oct 2020 12:00:38 Z</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2020 15:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0203342/13-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0203342/13-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0203342/13-10-2020%0ARagione sociale:VODAFONE ITALIA S.P.A.%0AUbicazione:VIA GIACOMO MATTEOTTI%0AOggetto:MODIFICA DI SRB ESISTENTE MEDIANTE SOSTITUZIONE DI TRE ANTENNE</description>
+			<a10:updated>2020-10-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0202587/13-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0154555/4-8-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0154555/4-8-2020%0ARagione sociale:BIFIRE S.r.l.%0AUbicazione:VIA LAVORATORI AUTOBIANCHI%0AOggetto:Presentazione del rapporto di analisi Relazione conclusiva nr. A11120-rel del 10 luglio 2020 per emissioni E09 ed e15 a seguito AUA nr.650/2020 del 24 aprile 2020</description>
 			<a10:updated>2020-08-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0152923/3-8-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0152923/3-8-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0152923/3-8-2020%0ARagione sociale:SUPER CAR WASH DI MIRZA SHAFEEQ SIDDIQUE%0AUbicazione:%0AOggetto:APERTURA</description>
-			<a10:updated>2020-08-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
