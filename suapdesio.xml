@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 13 Oct 2020 08:01:23 Z</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2020 10:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0202587/13-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0202587/13-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0202587/13-10-2020%0ARagione sociale:NUOVO CENTRO GIARDINAGGIO S.R.L.%0AUbicazione:VIA PER BINZAGO%0AOggetto:SCIA PER SOSTITUZIONE PREPOSTO IN ATTIVITA' di SOMMINISTRAZIONE DI ALIMENTI E BEVANDE</description>
+			<a10:updated>2020-10-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0200682/9-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0152923/3-8-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0152923/3-8-2020%0ARagione sociale:SUPER CAR WASH DI MIRZA SHAFEEQ SIDDIQUE%0AUbicazione:%0AOggetto:APERTURA</description>
 			<a10:updated>2020-08-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0152021/1-8-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0152021/1-8-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0152021/1-8-2020%0ARagione sociale:DE ANGELIS DONATELLA%0AUbicazione:PIAZZA MARTIRI DI FOSSOLI%0AOggetto:SOSPENSIONE ATTIVITA' BAR DAL 01/08/2020 AL 31/01/2021.</description>
-			<a10:updated>2020-08-01T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
