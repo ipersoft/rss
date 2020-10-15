@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 15 Oct 2020 08:00:39 Z</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2020 10:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0205288/15-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0205288/15-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0205288/15-10-2020%0ARagione sociale:ACI BLUETEAM SOCIETA' PER AZIONI%0AUbicazione:VIA ALESSANDRO MANZONI%0AOggetto:CESSAZIONE DI ATTIVITA' DELLA FILIALE DI AGENZIA DI VIAGGIO UBICATA IN VIA ALESSANDRO MANZONI N. 1 A SEGUITO DI ACCORPAMENTO CON L'AGENZIA UBICATA IN VIA GARIBALDI 207..</description>
+			<a10:updated>2020-10-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0204581/14-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -699,13 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155821/6-8-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155821/6-8-2020%0ARagione sociale:QUOREM CAFE' S.A.S. DI LUCA CAPUTO E C.%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:MODIFICA DELLA SUPERFICIE DELL'ATTIVITA' DI SOMMINISTRAZIONE ALIMENTI E BEVANDE. LA MODIFICA RIGUARDA L'USO DELL'AREA ESTERNA PER SOMMINISTRARE ALIMENTI E BEVANDE.</description>
 			<a10:updated>2020-08-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155173/5-8-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155173/5-8-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155173/5-8-2020%0ARagione sociale:MACELLERIA HALAL ALIMENTARI AMIR DI BOUHAROU ABELAALI%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:APERTURA NEGOZIO</description>
-			<a10:updated>2020-08-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
