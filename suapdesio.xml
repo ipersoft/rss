@@ -5,8 +5,15 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 15 Oct 2020 12:00:40 Z</lastBuildDate>
+		<lastBuildDate>Thu, 15 Oct 2020 15:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0205709/15-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0205709/15-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0205709/15-10-2020%0ARagione sociale:CACIOPPO GIANLUCA%0AUbicazione:%0AOggetto:PARTECIPAZIONE TUTTI I SABATI A PARTIRE DAL 17/10/2020 FINO AL 28/11/2020 (17/10 - 24/10 - 31/10 - 07/11 - 14/11 - 21/11 - 28/11) IN VIA GARIBALDI CON UN BANCO DOLCIUMI, ZUCCHERO FILATO, FRITTELLE E PALLONCINI DI MT 5x3.</description>
+			<a10:updated>2020-10-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0205288/15-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -698,13 +705,6 @@
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155967/6-8-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155967/6-8-2020%0ARagione sociale:Acciai Brianza S.p.A.%0AUbicazione:VIA FILIPPO DA DESIO%0AOggetto:SCIA per variazione locali/impianti unità operativa in Via Filippo Da Desio nr. 81 b/c</description>
-			<a10:updated>2020-08-06T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0155821/6-8-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0155821/6-8-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0155821/6-8-2020%0ARagione sociale:QUOREM CAFE' S.A.S. DI LUCA CAPUTO E C.%0AUbicazione:VIA GIUSEPPE GARIBALDI%0AOggetto:MODIFICA DELLA SUPERFICIE DELL'ATTIVITA' DI SOMMINISTRAZIONE ALIMENTI E BEVANDE. LA MODIFICA RIGUARDA L'USO DELL'AREA ESTERNA PER SOMMINISTRARE ALIMENTI E BEVANDE.</description>
 			<a10:updated>2020-08-06T00:00:00Z</a10:updated>
 		</item>
 	</channel>
