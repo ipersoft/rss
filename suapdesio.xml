@@ -5,8 +5,29 @@
 		<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
 		<description>Feed SUAP Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 16 Oct 2020 15:00:44 Z</lastBuildDate>
+		<lastBuildDate>Mon, 19 Oct 2020 15:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/suapdesio</a10:id>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0208314/19-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0208314/19-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0208314/19-10-2020%0ARagione sociale:Pozzi Matteo%0AUbicazione:VIA GIOVANNI MARIA LAMPUGNANI%0AOggetto:Comunicazione di inizio attività di autoriparazione di autoveicoli</description>
+			<a10:updated>2020-10-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0208121/19-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0208121/19-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0208121/19-10-2020%0ARagione sociale:CORTI EMILIO%0AUbicazione:%0AOggetto:DOMANDA PARTECIPAZIONE ALLA SPUNTA MERCATO DESIO SUD DEL LUNEDI'</description>
+			<a10:updated>2020-10-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0207363/19-10-2020</guid>
+			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
+			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0207363/19-10-2020</title>
+			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0207363/19-10-2020%0ARagione sociale:LA DIVINA COMMEDIA SNC DI DESIMINE MIRIAM E DESIREE%0AUbicazione:PIAZZA DON LUIGI GIUSSANI%0AOggetto:APERTURA UNITà LOCALE. DOVE NON VIENE SVOLTA LA PREPARAZIONE NE DI ALIMENTI NE DI BEVANDE MA VIENE EFFETTUATA SEMPLICEMNETE LA SOMMINISTRAZIONE DEGLI STESSI PREPARATI IN IN SEDE PRINCIAPALE</description>
+			<a10:updated>2020-10-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0207006/16-10-2020</guid>
 			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
@@ -685,27 +706,6 @@
 			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0163220/21-8-2020</title>
 			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0163220/21-8-2020%0ARagione sociale:el wahidi ahmed%0AUbicazione:%0AOggetto:partecipazione alla spunta</description>
 			<a10:updated>2020-08-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0161737/18-8-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0161737/18-8-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0161737/18-8-2020%0ARagione sociale:ENVIGO RMS SRL%0AUbicazione:VIA VINCENZO MONTI%0AOggetto:TRASFERIMENTO LABORATORIO DIAGNOSTICO VETERINARIO (VEDI RELAZIONE)</description>
-			<a10:updated>2020-08-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0160918/17-8-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0160918/17-8-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0160918/17-8-2020%0ARagione sociale:ESSELUNGA SPA%0AUbicazione:VIA CARAVAGGIO%0AOggetto:SOTTOCOSTO ESSELUNGA DAL 03 AL 12/09/2020</description>
-			<a10:updated>2020-08-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="false">REP_PROV_MB/MB-SUPRO/0160618/14-8-2020</guid>
-			<link>http://www.impresainungiorno.gov.it/web/monza-e-brianza/comune/t/D286</link>
-			<title>Procotollo SUAP: REP_PROV_MB/MB-SUPRO/0160618/14-8-2020</title>
-			<description>Protocollo: REP_PROV_MB/MB-SUPRO/0160618/14-8-2020%0ARagione sociale:QUITADAMO FEDERICA%0AUbicazione:VIA RISORGIMENTO%0AOggetto:CESSAZIONE ATTIVITA'</description>
-			<a10:updated>2020-08-14T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
