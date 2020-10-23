@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 23 Oct 2020 08:00:41 Z</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2020 14:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5918722</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5918722</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA OLIMPIADI </description>
+			<a10:updated>2020-10-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5916290</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5916290</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>CONCESSIONE CONTRIBUTO STRAORDINARIO ALLA FONDAZIONE CIVICA SCUOLA DI MUSICA E DANZA PER LA REALIZZAZIONE DEL PROGETTO DI MUSICA IN STREAMING DA SVOLGERSI NEL PERIODO OTTOBRE 2020 – GIUGNO 2021. </description>
-			<a10:updated>2020-10-19T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5907294</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5907294</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>3^ INTEGRAZIONE PIANO PROGRAMMATICO FABBISOGNO DEL PERSONALE ANNI 2020/2022 </description>
 			<a10:updated>2020-10-19T00:00:00Z</a10:updated>
 		</item>
 	</channel>
