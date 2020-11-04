@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 04 Nov 2020 09:00:43 Z</lastBuildDate>
+		<lastBuildDate>Wed, 04 Nov 2020 11:00:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5941444</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5941444</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA DON MAURO BONZI (LAVORI POSA NUOVO METANODOTTO SNAM DESIO-BIASSONO) </description>
+			<a10:updated>2020-11-04T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5941374</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5941374</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA BERCHET (LAVORI FORMAZIONE PISTA CICLOPEDONALE) </description>
+			<a10:updated>2020-11-04T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5940379</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5940379</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>TRATTAMENTO ACCESSORIO DEL PERSONALE DIRIGENTE: DEFINITIVA INTEGRAZIONE IMPEGNI DI SPESA PER LA COSTITUZIONE DEL FONDO ANNO 2020. </description>
-			<a10:updated>2020-10-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5931008</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5931008</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>SUBENTRO DEL FAMILIARE CONVIVENTE NEL CONTRATTO DI LOCAZIONE ALLOGGIO DI VIA FIUME, 1 (FG. 24 - PART. 92 - SUB. 705) </description>
-			<a10:updated>2020-10-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5931006</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5931006</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>RISOLUZIONE CONSENSUALE DEL RAPPORTO DI LAVORO, A SEGUITO DI DIMISSIONI, DELLA DIPENDENTE SIG.RA G.F. ASSISTENTE AI SERVIZI OPERATIVI - CAT. C - A TEMPO INDETERMINATO IN SERVIZIO PRESSO L’AREA PERSONA E FAMIGLIA/SERVIZI PROMOZIONE CULTURA SPORT EVENTI E BIBLIOTECA </description>
 			<a10:updated>2020-10-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
