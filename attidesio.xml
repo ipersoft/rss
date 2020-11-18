@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 18 Nov 2020 15:00:45 Z</lastBuildDate>
+		<lastBuildDate>Wed, 18 Nov 2020 17:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5970868</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5970868</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PROGETTO “OGGI CRESCO. RIPROGETTIAMO CON I GIOVANI L'EDUCAZIONE FINANZIARIA”, A VALERE SUL BANDO REGIONALE LA LOMBARDIA E' DEI GIOVANI. IMPEGNO DI SPESA </description>
+			<a10:updated>2020-11-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5969697</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5969697</link>
@@ -157,14 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>LAVORI DI ATTUAZIONE DEL P.G.T.U. E PER LA RIQUALIFICAZIONE URBANA DEL CENTRO DEL COMUNE DI DESIO (A/1646 LOTTO 1 E LOTTO 2) -ASSUNZIONE IMPEGNO DI SPESA PER INTEGRAZIONE INCARICO PROFESSIONALE PER DIREZIONE LAVORI E COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE A FAVORE DI TAU ENGINEERING SRL – CODICE CIG: 7852252B54 - CUP G49J18000850004: CORSO ITALIA, VIA GARIBALDI, VIA LAMPUGNANI (LOTTO 1) / CUP G49J18000870004: LARGO ALPINI (LOTTO 2) </description>
-			<a10:updated>2020-11-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5961885</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5961885</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>INCARICO DI DIREZIONE LAVORI, COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE E PRESTAZIONI FINALIZZATE AL RILASCIO DEL C.P.I., PER I LAVORI DI RIQUALIFICAZIONE IMPIANTISTICA, FUNZIONALE E DI ADEGUAMENTO SISMICO, ANTINCENDIO E NORMATIVO DELLA SCUOLA SECONDARIA RODARI 2° STRALCIO (B/1570) - LIQUIDAZIONE FATTURA A SEGUITO DI EMISSIONE DEL SAL N. 3. ALL’ O.E. POOLMILANO S.R.L.(C.F./P.IVA 03225880966) - CUP G41E14000620004 – CIG: 7962343D4B </description>
 			<a10:updated>2020-11-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
