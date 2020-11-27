@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 27 Nov 2020 11:00:50 Z</lastBuildDate>
+		<lastBuildDate>Fri, 27 Nov 2020 13:00:47 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5990891</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5990891</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ABUSIVA ATTIVAZIONE DELL’ATTIVITÀ DI “DEPOSITO AUTOMEZZI DI TRASPORTO PER CONTO TERZI” UBICATA IN VIA VICENZA, SNC. CESSAZIONE DELL’ATTIVITÀ. </description>
+			<a10:updated>2020-11-27T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5990889</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5990889</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ABUSIVA ATTIVAZIONE DELL’ATTIVITÀ DI “DEPOSITO AUTOMEZZI DI TRASPORTO PER CONTO TERZI” UBICATA IN VIA VICENZA, SNC. CESSAZIONE DELL’ATTIVITÀ. </description>
+			<a10:updated>2020-11-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5987675</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5987675</link>
@@ -149,22 +165,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4195/2020 DEL 17 GIUGNO 2020 PROT. 404/2020 </description>
-			<a10:updated>2020-11-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5979872</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5979872</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA - INGIUNZIONE VERBALE N 4185 DEL 19 GIUGNO 2019 PROT. 245/2019 </description>
-			<a10:updated>2020-11-24T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5979870</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/5979870</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA -ARCHIVIAZIONE VERBALI N 4172/2020 DEL 3 GIUGNO 2020 PROT. 385/2020 E N. 4186/2020 DEL 10 GIUGNO 2020 PROT. N. 395/2020 </description>
 			<a10:updated>2020-11-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
