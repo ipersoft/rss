@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 09 Dec 2020 11:00:39 Z</lastBuildDate>
+		<lastBuildDate>Wed, 09 Dec 2020 13:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6014942</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6014942</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA MATTEOTTI (ALTEZZA CIVICO N.18 - RIFACIMENTO FACCIATA IMP. EDIL SAN CARLO) </description>
+			<a10:updated>2020-12-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6012951</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6012951</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>CORRESPONSIONE CONTRIBUTO DI CUI ALL’ART. 73 L.R. N. 12/2005, ANNO 2020 - INTEGRAZIONE DELLA DELIBERAZIONE G.C. N. 153 DEL 5 NOVEMBRE 2020 </description>
-			<a10:updated>2020-12-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6007987</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6007987</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>INTERVENTI STRAORDINARI A SOSTEGNO DELLE MICRO, PICCOLE E MEDIE IMPRESE PRESENTI SUL TERRITORIO COMUNALE IN DIPENDENZA DELLA CRISI ECONOMICA CAUSATA DALL’EMERGENZA EPIDEMIOLOGICA DA COVID-19. INTEGRAZIONE RISORSE E PROROGA TERMINI PER LA PRESENTAZIONE DELLE DOMANDE. </description>
 			<a10:updated>2020-12-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
