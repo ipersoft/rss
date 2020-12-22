@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 21 Dec 2020 17:00:46 Z</lastBuildDate>
+		<lastBuildDate>Tue, 22 Dec 2020 09:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6053867</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6053867</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>LAVORI DI REALIZZAZIONE NUOVA PALESTRA SCUOLA PRIMARIA U. TAGLIABUE 2° LOTTO FUNZIONALE – REALIZZAZIONE NUOVA PALESTRA E ADEGUAMENTO NORMATIVO PLESSO ESISTENTE (B/1567_LOTTO2). AFFIDAMENTO SERVIZIO DI PULIZIA PROFESSIONALE STRAORDINARIA POST-CANTIERE – DETERMINA A CONTRARRE ED ASSUNZIONE IMPEGNO DI SPESA DI € 1.680,00 OLTRE IVA 22% A FAVORE SOCIETA’ MERANESE SERVIZI SPA DI MERANO - CUP G45E17000030004 – CIG ZC12FC3ACA </description>
+			<a10:updated>2020-12-22T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6053865</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6053865</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>REALIZZAZIONE NUOVO “CAMPO DI CALCIO N. 3” IN ERBA SINTETICA E N. 2 NUOVI SPOGLIATOI A SERVIZIO DEI CAMPI DI CALCIO “SUD” E “N. 3”, PRESSO IL CENTRO SPORTIVO DI DESIO, VIA M. SERAO (D/1192) – ASSUNZIONE IMPEGNO DI SPESA – CODICE CUP G41J20000070005 </description>
+			<a10:updated>2020-12-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6052180</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6052180</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>RINNOVO DELL'ASSEGNAZIONE DELL'INCARICO PER LA POSIZIONE ORGANIZZATIVA DI RESPONSABILE DEL SETTORE SERVIZI DEMOGRAFICI DI CUI ALLA DETERMINAZIONE N. 347/2019 FINO AL 31 GENNAIO 2021 </description>
-			<a10:updated>2020-12-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6047008</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6047008</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>RINNOVO ABBONAMENTI PER L’ANNO 2021 A PERIODICI E PUBBLICAZIONI PER GLI UFFICI E SERVIZI COMUNALI, PER IL SINDACO E PER I DIRIGENTI DI AREA. EURO 3.699,11 I.V.A. COMPRESA. CIG ZB72FCF93F. </description>
-			<a10:updated>2020-12-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6046908</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6046908</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>APPROVAZIONE CERTIFICATO DI COLLAUDO E RIDUZIONE POLIZZA RELATIVI AI LAVORI DI ADEGUAMENTO ROTATORIA VIA SAN GIUSEPPE – VIA SAN FILIPPO DA DESIO AFFERENTI IL PIANO ATTUATIVO CONTRADDISTINTO NEL PREVIGENTE P.R.G. CON LA SIGLA “D2”. </description>
 			<a10:updated>2020-12-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
