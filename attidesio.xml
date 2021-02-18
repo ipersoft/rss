@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 18 Feb 2021 09:00:39 Z</lastBuildDate>
+		<lastBuildDate>Thu, 18 Feb 2021 11:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180192</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180192</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>INTEGRAZIONE DELL’IMPEGNO DI SPESA PER IL RINNOVO ABBONAMENTI A PERIODICI E PUBBLICAZIONI PER L’ANNO 2021. EURO 150,00 I.V.A. COMPRESA. </description>
+			<a10:updated>2021-02-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180124</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180124</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>INDAGINE ESPLORATIVA PER LA MANIFESTAZIONE DI INTERESSE – INDIVIDUAZIONE DEI SOGGETTI INTERESSATI A SVOLGERE L’INCARICO PER IL CONTROLLO DI CONFORMITÀ DEL SERVIZIO DI RISTORAZIONE SCOLASTICA PER DUE ANNI SCOLASTICI: 2021/2022 E 2022/2023 RIPETIBILE PER UN ULTERIORE ANNO, MEDIANTE IL SISTEMA DI INTERMEDIAZIONE TELEMATICA SINTEL. </description>
+			<a10:updated>2021-02-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180121</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180121</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PRESA D’ATTO DIMISSIONI SIG. ALBERGO MIRCO - CAT. B1 - A TEMPO INDETERMINATO PRESSO L’AREA TECNICA/SERVIZIO LAVORI PUBBLICI </description>
+			<a10:updated>2021-02-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6176670</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6176670</link>
@@ -141,30 +165,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA - INGIUNZIONE VERBALE N 4168/20 DEL 09 LUGLIO 2020 - PROT. 373/2020 </description>
-			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172224</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172224</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N. 2018/2018 DEL 19 SETTEMBRE 2018 PROT. 346/2018 </description>
-			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172027</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172027</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4112 DEL 08.04.2020 PROT. 298/2020 </description>
-			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172025</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172025</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4105 DEL 02.04.2020 PROT. 281/2020 </description>
 			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
