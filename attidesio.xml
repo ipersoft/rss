@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 18 Feb 2021 15:00:43 Z</lastBuildDate>
+		<lastBuildDate>Thu, 18 Feb 2021 17:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6182243</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6182243</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PIETRO DOLCI </description>
+			<a10:updated>2021-02-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6181956</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6181956</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>PRESA D’ATTO APPROVAZIONE DELL’ASSEMBLEA DEI SINDACI NELLA SEDUTA DEL 25 GENNAIO 2021 DEL “PROTOCOLLO D'INTESA SULL'ACCOGLIENZA E L'ACCOMPAGNAMENTO DEI CITTADINI CON BACKGROUND MIGRATORIO” PERIODO 2021 - 2024 </description>
+			<a10:updated>2021-02-18T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6181954</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6181954</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>PROGETTO “CULTURES OF INTEGRATION – MULTISTAKEHOLDER PARTNERSHIP FOR WOMEN’S CULTURAL PARTICIPATION” PROPOSTO DAL CONSORZIO COMUNITÀ BRIANZA: ATTRIBUZIONE DEL MANDATO AL SINDACO ALLA SOTTOSCRIZIONE DELLA LETTERA DI SUPPORTO. </description>
+			<a10:updated>2021-02-18T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180728</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6180728</link>
@@ -141,30 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>INTEGRAZIONE DETERMINAZIONE N. 623/2020 – ART. 7 CCI 2019-2020-2021 DIFFERENZIAZIONE PREMIO INDIVIDUALE CORRELATO ALLA PERFORMANCE. </description>
-			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172232</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172232</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA - INGIUNZIONE VERBALE N.4133/2019 DEL 16.04.2019 PROT. 193/2019 </description>
-			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172230</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172230</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA - INGIUNZIONE VERBALE N. 4187/2019 DEL 21 GIUGNO 2019 PROT. 247/2019 </description>
-			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172228</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6172228</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA -ARCHIVIAZIONE VERBALE N 4171/2020 DEL 03 GIUGNO 2020 PROT. 384/2020 </description>
 			<a10:updated>2021-02-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
