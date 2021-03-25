@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 25 Mar 2021 11:00:39 Z</lastBuildDate>
+		<lastBuildDate>Thu, 25 Mar 2021 15:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6248980</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6248980</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>REVOCA FERMO ASCENSORI MATRICOLA N. 595 E N. 596 INSTALLATI PRESSO LO STABILE DI VIA MONTEROSA, 119 DISPOSTO CON ORDINANZA N. 99 DEL 24/03/2021. </description>
+			<a10:updated>2021-03-25T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6248153</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6248153</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>CONCORSO PUBBLICO, PER SOLI ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO DI DIRIGENTE DA DESTINARE ALL’AREA PERSONA E FAMIGLIA – NOMINA COMMISSIONE E COMITATI DI VIGILANZA </description>
+			<a10:updated>2021-03-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6247690</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6247690</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>SOSTITUZIONE COMPONENTE COMMISSIONE CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI N. 1 POSTO A TEMPO INDETERMINATO DI FUNZIONARIO - CAT. D - DA DESTINARE AL SERVIZIO TRIBUTI </description>
-			<a10:updated>2021-03-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6235554</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6235554</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>REVOCA DELLA DETERMINAZIONE DIRIGENZIALE N. 812/2020 RELATIVA ALL’ASSEGNAZIONE DI ALLOGGIO SAP (FG. 22, PART. 27, SUB. 11) A SEGUITO DI MOBILITA’ ABITATIVA. </description>
-			<a10:updated>2021-03-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6234738</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6234738</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>RIMOZIONE RIFIUTI ABBANDONATI E RELATIVE ANALISI NELL’AMBITO DELL’INTERVENTO DI “REALIZZAZIONE DELLA CONNESSIONE ECOLOGICA EST- OVEST STRADA BERTACCIOLA DI SOPRA” - (F/203). AFFIDAMENTO DEL SERVIZIO DI ALLA SOCIETÀ GELSIA AMBIENTE S.R.L. E ASSUNZIONE IMPEGNO DI SPESA (€ 31.050,68 OLTRE IVA) - C.I.G. ZBE31043CB. </description>
 			<a10:updated>2021-03-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
