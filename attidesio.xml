@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 Mar 2021 17:00:39 Z</lastBuildDate>
+		<lastBuildDate>Thu, 25 Mar 2021 09:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6247690</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6247690</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>ASSEGNAZIONE ALLOGGIO DESTINATO ALL'EMERGENZA ABITATIVA AL NUCLEO MEGLIO IDENTIFICATO IN ATTI </description>
+			<a10:updated>2021-03-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6246392</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6246392</link>
@@ -157,14 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>RIMOZIONE RIFIUTI ABBANDONATI E RELATIVE ANALISI NELL’AMBITO DELL’INTERVENTO DI “REALIZZAZIONE DELLA CONNESSIONE ECOLOGICA EST- OVEST STRADA BERTACCIOLA DI SOPRA” - (F/203). AFFIDAMENTO DEL SERVIZIO DI ALLA SOCIETÀ GELSIA AMBIENTE S.R.L. E ASSUNZIONE IMPEGNO DI SPESA (€ 31.050,68 OLTRE IVA) - C.I.G. ZBE31043CB. </description>
-			<a10:updated>2021-03-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6234650</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6234650</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GARIBALDI "ISTITUZIONE DI ZONA A VELOCITA' LIMITATA A 30 KM/H (ZONA 30) NELL'AMBITO TERRITORIALE COMPRESO TRA VIA BORGHETTO E VIA MATTEOTTI" </description>
 			<a10:updated>2021-03-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
