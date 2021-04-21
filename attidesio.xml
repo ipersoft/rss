@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 21 Apr 2021 08:00:45 Z</lastBuildDate>
+		<lastBuildDate>Wed, 21 Apr 2021 10:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6295791</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6295791</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PRESA D’ATTO DELLA DECADENZA DEL VINCOLO DI ASSERVIMENTO A PARCHEGGIO DI PERTINENZA DI CUI ALL’ART. 64, COMMA 3, DELLA L.R. N. 12/2005, RELATIVO ALL’IMMOBILE SITO IN DESIO, VIA TRIESTE N. 3 </description>
+			<a10:updated>2021-04-21T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6295789</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6295789</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PROGETTO MOBILITA’ PER L’AFFIDAMENTO IN CONVENZIONE DEI SERVIZI DI TRASPORTO FACILITATO RIVOLTO AD ANZIANI, TRASPORTO E CONSEGNA PASTI A DOMICILIO. - PROROGA FINO AL 31 LUGLIO 2021. </description>
+			<a10:updated>2021-04-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6292531</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6292531</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>INTERVENTI DI MANUTENZIONE STRAORDINARIA DELLE SEDI STRADALI E DEI MARCIAPIEDI DEL TERRITORIO COMUNALE (A/1658) – DETERMINA DI APPROVAZIONE INTEGRAZIONE ONORARIO A FAVORE DELL’ARCH. FLORIANO ZILIO SEGUITO DI VARIANTE IN CORSO D’OPERA CUP G47H20000700006 – CIG Z6D2ECB2E6 </description>
-			<a10:updated>2021-04-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6289238</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6289238</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>INTERVENTI DI MESSA IN SICUREZZA DEL MANUFATTO DENOMINATO “EX TETTOIA GAVAZZI” (B/1595 A). DICHIARAZIONE DI EFFICACIA DELL’AGGIUDICAZIONE APPROVATA CON DETERMINAZIONE DIRIGENZIALE N. 259 DEL 02/04/2021 ALL’O.E. PANIZZA 1914 SRL. CUP G41E18000020001 – CIG 8658197A2F </description>
-			<a10:updated>2021-04-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6289224</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6289224</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>LAVORI DI RIQUALIFICAZIONE IMPIANTISTICA, FUNZIONALE E DI ADEGUAMENTO SISMICO, ANTINCENDIO E NORMATIVO DELLA SCUOLA SECONDARIA RODARI (B/1570 - 1° STRALCIO) – SVINCOLO PARZIALE DELLE SOMME TRATTENUTE SUL CERTIFICATO DI PAGAMENTO N. 2 E RELATIVA LIQUIDAZIONE – FORNITORE DALAN - CUP G41E14000620004 – CIG:  7709936874 </description>
 			<a10:updated>2021-04-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
