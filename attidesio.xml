@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 30 Apr 2021 08:00:38 Z</lastBuildDate>
+		<lastBuildDate>Fri, 30 Apr 2021 10:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6314166</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6314166</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA FRATELLI CERVI </description>
+			<a10:updated>2021-04-30T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6313414</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6313414</link>
@@ -158,14 +166,6 @@
 			<title>ORDINANZE ORDINANZA</title>
 			<description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA LAMPUGNANI (STALLO DI SOSTA PER OPERAZIONI DI CARICO/SCARICO MERCI) </description>
 			<a10:updated>2021-04-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6304925</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6304925</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ADOZIONE DEL PIANO ATTUATIVO ATTUATIVO DI INIZIATIVA PRIVATA, AI SENSI DELL’ART. 20 DELLE NORME DI ATTUAZIONE DEL PIANO DELLE REGOLE, RELATIVO AGLI IMMOBILI SITI TRA LE VIE PRIMAVERA E DELLE ROSE DENOMINATO “BOCCOLINI HOLDING S.R.L.”. </description>
-			<a10:updated>2021-04-26T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
