@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 02 Jun 2021 14:00:39 Z</lastBuildDate>
+		<lastBuildDate>Wed, 02 Jun 2021 16:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6390080</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6390080</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA TAGLIABUE -SOTTOPASSO FF.SS.- (LAVORI DI RIPRISTINO STRADALE CON ASFALTI IMP. MEZZANZANICA SPA) </description>
+			<a10:updated>2021-06-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6390009</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6390009</link>
@@ -158,14 +166,6 @@
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>STRADA SCOLASTICA VIA DAL VERME: REALIZZAZIONE STREET ART SOTTO FORMA DI PERCORSO INTERATTIVO PER BAMBINI SULL’ASFALTO DAVANTI AL PLESSO SCOLASTICO DI VIA PRATI – PERIODO GIUGNO - SETTEMBRE 2021 – CIG Z5831DE53E </description>
 			<a10:updated>2021-05-28T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6379094</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6379094</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>“GITRAVEL DI GRUTTAD’AURIA CALOGERO”. C.F. GRTCGR85M01D286X E P.IVA 09789430965. ABUSIVA ATTIVAZIONE DELL’ATTIVITÀ DI “DEPOSITO MATERIALI E AUTOMEZZI DI TRASPORTO” UBICATA IN VIA CAVALIERI DI VITTORIO VENETO, 9. CESSAZIONE DELL’ATTIVITÀ. </description>
-			<a10:updated>2021-05-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
