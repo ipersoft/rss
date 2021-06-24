@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 24 Jun 2021 14:00:42 Z</lastBuildDate>
+		<lastBuildDate>Thu, 24 Jun 2021 16:00:43 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6435944</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6435944</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SANTA CATERINA </description>
+			<a10:updated>2021-06-24T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6435889</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6435889</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SANTA CATERINA (IN OCCASIONE DELLA FESTA PATRONALE) </description>
+			<a10:updated>2021-06-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6434934</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6434934</link>
@@ -149,22 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>"RACCOLTA DI IDEE" PER ATTIVITA’ DI VALORIZZAZIONE DELLO SPAZIO POLIFUNZIONALE VILLA CUSANI TITTONI TRAVERSI. </description>
-			<a10:updated>2021-06-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6428929</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6428929</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PRESA D’ATTO APPROVAZIONE DELL’ASSEMBLEA DEI SINDACI NELLA SEDUTA DEL 31 MAGGIO 2021 DI AFFIDAMENTO AD A.S.C. “CONSORZIO DESIO-BRIANZA” DELLA GESTIONE DIRETTA DELLE DOMANDE PER I SERVIZI DI TRASPORTO SCOLASTICO E/O ASSISTENZA EDUCATIVA SPECIALISTICA A FAVORE DEGLI STUDENTI CON DISABILITÀ DI SECONDO CICLO A PARTIRE DALL’ANNO SCOLASTICO 2021/2022 </description>
-			<a10:updated>2021-06-22T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6428927</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6428927</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PRESA D’ATTO APPROVAZIONE “PROTOCOLLO OPERATIVO PER LA GESTIONE DELLE SITUAZIONI DI EMERGENZA ABITATIVA SUL TERRITORIO DELL’AMBITO TERRITORIALE DI DESIO” E RELATIVI ALLEGATI E DEL DOCUMENTO “INDICAZIONI IN MERITO ALLA COMPARTECIPAZIONE ALLE SPESE DA PARTE DEGLI UTENTI” DA PARTE DELL’ASSEMBLEA DEI SINDACI DELL’AMBITO DI DESIO NELLA SEDUTA DEL 31 MAGGIO 2021 </description>
 			<a10:updated>2021-06-22T00:00:00Z</a10:updated>
 		</item>
 	</channel>
