@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 01 Jul 2021 08:00:40 Z</lastBuildDate>
+		<lastBuildDate>Thu, 01 Jul 2021 10:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6448599</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6448599</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA FILIPPO DA DESIO </description>
+			<a10:updated>2021-07-01T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6448596</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6448596</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA - INGIUNZIONE VERBALE N.4087/2017 DEL 04 LUGLIO 2017 PROT. N. 212/2017 </description>
+			<a10:updated>2021-07-01T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6448592</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6448592</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA INGUNZIONE RATEIZZAZIONE VERBALE N. V/190B/2019 DEL 28.10.2019 € 445,90 </description>
+			<a10:updated>2021-07-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6446980</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6446980</link>
@@ -141,30 +165,6 @@
 			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>VERBALE COMUNICAZIONI RESE IN SEDUTA </description>
-			<a10:updated>2021-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6443028</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6443028</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>APPROVAZIONE PIANO FINANZIARIO E TARIFFE DELLA TARI PER L'ANNO 2021. </description>
-			<a10:updated>2021-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6443026</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6443026</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>REGOLAMENTO PER L'APPLICAZIONE DELLA TASSA RIFIUTI (TARI) CON MODIFICHE ED INTEGRAZIONI AL PRECEDENTE REGOLAMENTO APPROVATO CON ATTO DI C.C. N. 20 DEL 03.04.2014. </description>
-			<a10:updated>2021-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6442964</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6442964</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>ORDINE DEL GIORNO PRESENTATO DAL GRUPPO LA SINISTRA PER DESIO ANCHE PER IL PARTITO DEMOCRATICO E DESIO VIVA AD OGGETTO: "NON DIMENTICHIAMO LUCA ATTANASIO, VITTORIO IACOVACCI E MUSTAPHA MILAMBO NON SPEGNIAMO LA LUCE SULLA STRAGE IN CONGO!" </description>
 			<a10:updated>2021-06-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
