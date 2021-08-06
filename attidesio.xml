@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 06 Aug 2021 10:00:44 Z</lastBuildDate>
+		<lastBuildDate>Fri, 06 Aug 2021 12:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6522029</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6522029</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>AFFIDAMENTO INCARICO PROFESSIONALE PER COLLAUDO STATICO DEI “LAVORI DI REALIZZAZIONE DEL MURO DI CONTENIMENTO IN CLS ARMATO E DEI BASAMENTI PER IL POSIZIONAMENTO CASETTE AD USO RICOVERO ATTREZZI NEGLI ORTI COMUNALI (A/1666 - CUP: G48H20000300004 – CIG Z21329B7D5) ALL’ING. BRUNO SALA PER UN IMPORTO DI 1.100,00 € (OLTRE CASSA ED IVA) </description>
+			<a10:updated>2021-08-06T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6522027</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6522027</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>LAVORI DI MANUTENZIONE ORDINARIA SCUOLE ED ALTRI EDIFICI COMUNALI 2021-2022 (B1625) - APPROVAZIONE PROGETTO DEFINITIVO E DETERMINAZIONE A CONTRARRE. CIG 8844592436 </description>
+			<a10:updated>2021-08-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6521390</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6521390</link>
@@ -149,22 +165,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>SERVIZIO INERENTE LE ATTIVITÀ DI CARATTERIZZAZIONE AMBIENTALE DELLE AREE SITE IN VIA MOLINARA A DESIO – FASE 1 POSA PIEZOMETRI. AFFIDAMENTO SERVIZIO ALL’O.E. EUROGEO DI PADERNO DUGNANO PER L’IMPORTO DI € 36.396,11 IVA ESCLUSA. SMART CIG: Z0332AFE16 </description>
-			<a10:updated>2021-08-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6518078</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6518078</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>AFFIDAMENTO DI INCARICO PROFESSIONALE PER IL SERVIZIO DI SUPPORTO AL R.U.P. DURANTE LE ATTIVITA’ DI CARATTERIZZAZIONE AMBIENTALE DELLE AREE SITE IN VIA MOLINARA A DESIO – FASE 1 – POSA PIEZOMETRI - AL DOTT. GEOL. GIANBATTISTA DEL PERO CON STUDIO IN MEDA - € 1.000,00 OLTRE 2% OLTRE 22% - C.I.G. Z4432AE863. </description>
-			<a10:updated>2021-08-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6517948</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6517948</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>PRESA D’ATTO E APPROVAZIONE DEL CONSUNTIVO SPESE CONDOMINIALI ANNO 2019, CONSUNTIVO 2020 E PREVENTIVO SPESE CONDOMINIALI ANNO 2021 RELATIVI ALLE PARTI COMUNI DELL’IMMOBILE COMUNALE “POLO TECNOLOGICO UNIVERSITARIO” ALL’INTERNO DEL COMPARTO PTB DI VIA EX LAVORATORI AUTOBIANCHI. ASSUNZIONE DI IMPEGNO DI SPESA DI € 566,62 </description>
 			<a10:updated>2021-08-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
