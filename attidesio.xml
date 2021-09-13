@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 13 Sep 2021 14:00:52 Z</lastBuildDate>
+		<lastBuildDate>Mon, 13 Sep 2021 16:00:51 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6577367</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6577367</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PER BINZAGO (ATTRAVERSAMENTO PEDONALE ALT.CIVICO N°67) </description>
+			<a10:updated>2021-09-13T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6577365</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6577365</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE PRESSO LE AREE ATTIGUE AI PLESSI SCOLASTICI DI VIA PARINI E VIA STADIO. (MISURE DI PREVENZIONE PER L'EMERGENZA EPIDEMIOLOGICA) </description>
+			<a10:updated>2021-09-13T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6577363</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6577363</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA CARLO PORTA (LAVORI RETI PIU' - IMP TAGLIABUE) </description>
+			<a10:updated>2021-09-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6576863</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6576863</link>
@@ -142,30 +166,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>NOMINA COMMISSIONE PER LA VALUTAZIONE DELLE CANDIDATURE ALLA PROCEDURA APERTA AL SENSI DELL’ART. 60 DEL D. LGS. 50/2016 E S.M.I, TRAMITE PIATTAFORMA SINTEL DI REGIONE LOMBARDIA, PER LA GESTIONE ASSOCIATA DEL SERVIZIO DI INTEGRAZIONE, ACCOGLIENZA E SOSTEGNO SCOLASTICO DEGLI ALUNNI STRANIERI DELL’AMBITO TERRITORIALE DI DESIO PER A.S. 2021/2022 E A.S. 2022/2023 - CIG 8838962E2D </description>
 			<a10:updated>2021-09-08T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6566597</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6566597</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA FLAVIO GIOIA. (LAVORI RETIPIU') </description>
-			<a10:updated>2021-09-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6566595</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6566595</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA GRAMSCI (LAVORI SULLA RETE FASTWEB) </description>
-			<a10:updated>2021-09-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6566593</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6566593</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA GARIBALDI E CORSO ITALIA. (LAVORI PER ARREDO URBANO) </description>
-			<a10:updated>2021-09-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
