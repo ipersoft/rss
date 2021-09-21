@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 21 Sep 2021 08:00:50 Z</lastBuildDate>
+		<lastBuildDate>Tue, 21 Sep 2021 10:00:44 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6591419</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6591419</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA MESSINA </description>
+			<a10:updated>2021-09-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6590058</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6590058</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>“ACCORDO DI COLLABORAZIONE TRA IL COMUNE DI DESIO, CAPOFILA DELL’AMBITO TERRITORIALE DI DESIO, E L’ASSOCIAZIONE STEFANIA DI LISSONE PER LA GESTIONE DELLO SPORTELLO TERRITORIALE DI PROSSIMITÀ PER ALCUNE MATERIE DI VOLONTARIA GIURISDIZIONE - VOLGI” - ANNO 2021 </description>
-			<a10:updated>2021-09-16T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6584766</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6584766</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ORGANIZZAZIONE DELLA FESTA DELLO SPORT 2021. APPROVAZIONE PROGRAMMA. </description>
 			<a10:updated>2021-09-16T00:00:00Z</a10:updated>
 		</item>
 	</channel>
