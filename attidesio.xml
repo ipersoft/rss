@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 20 Oct 2021 16:00:40 Z</lastBuildDate>
+		<lastBuildDate>Thu, 21 Oct 2021 08:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6651699</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6651699</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA FIUME </description>
+			<a10:updated>2021-10-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6647804</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6647804</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>RICORSO IN APPELLO AL CONSIGLIO DI STATO PROPOSTO DALLA CITTA’ METROPOLITANA DI MILANO PER AVVERSO LA SENTENZA TAR LOMBARDIA N. 524/2021 - NON COSTITUZIONE IN GIUDIZIO. </description>
-			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644562</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644562</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PATROCINIO LEGALE A DIPENDENTI COMUNALI - PRESA D’ATTO NOMINA LEGALE </description>
 			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
