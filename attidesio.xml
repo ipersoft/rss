@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 22 Oct 2021 08:00:41 Z</lastBuildDate>
+		<lastBuildDate>Fri, 22 Oct 2021 12:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6655364</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6655364</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA BRIANZA </description>
+			<a10:updated>2021-10-22T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6654442</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6654442</link>
@@ -157,14 +165,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>DELIBERA G.C. N. 124/2021 AD OGGETTO: “AUTORIZZAZIONE A PROPORRE RICORSO AVANTI ALLA SUPREMA CORTE DI CASSAZIONE AVVERSO LA SENTENZA DELLA COMMISSIONE TRIBUTARIA REGIONALE N. 1446/2021 SULL’APPELLO N. 3420/2020” – REVOCA AI SENSI DELL’ART. 21 QUINQUIES L. 241/1990 </description>
-			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644593</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644593</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>INDAGINE DI MERCATO PER L’ACQUISIZIONE DI MANIFESTAZIONE DI INTERESSE PER L’INSTALLAZIONE E GESTIONE DI STRUTTURE DI RICARICA PER VEICOLI ELETTRICI SU SUOLO PUBBLICO. APPROVAZIONE PROPOSTE PERVENUTE, SCHEMA DI PROTOCOLLO DI INTESA E PRESA D’ATTO ISTANZA DI POSA DI STAZIONE HPC </description>
 			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
