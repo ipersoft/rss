@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 10 Nov 2021 09:00:49 Z</lastBuildDate>
+		<lastBuildDate>Wed, 10 Nov 2021 11:00:54 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6691388</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6691388</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA RISORGIMENTO </description>
+			<a10:updated>2021-11-10T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6691386</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6691386</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GALILEO GALILEI </description>
+			<a10:updated>2021-11-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6688895</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6688895</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>CIMITERO NUOVO DI PIAZZA DIVINA MISERICORDIA. AREA PER LA SEPOLTURA DEI CITTADINI DI RELIGIONE ISLAMICA. APPROVAZIONE DEL PROGETTO DEFINITIVO-ESECUTIVO </description>
-			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644576</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644576</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>APPROVAZIONE DELL’AVVISO PUBBLICO “MISURE DI SOLIDARIETÀ ALIMENTARE (EX ART. 53 DECRETO LEGGE “SOSTEGNI BIS” DEL 25 MAGGIO 2021, N. 73) - MISURE URGENTI CONNESSE ALL'EMERGENZA DA COVID-19, PER LE IMPRESE, IL LAVORO, I GIOVANI, LA SALUTE E I SERVIZI TERRITORIALI” </description>
-			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644574</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644574</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>U.S. PALLACANESTRO AURORA DESIO - CONCESSIONE PATROCINIO COMUNALE PER " PRIMA PARTITA DI PALLACANESTRO DEL CAMPIONATO DI SERIE B NAZIONALE IN PROGRAMMA IL 10 OTTOBRE 2021 PRESSO PALABANCODESIO. </description>
 			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
