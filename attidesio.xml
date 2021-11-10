@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 10 Nov 2021 13:00:48 Z</lastBuildDate>
+		<lastBuildDate>Wed, 10 Nov 2021 15:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6692964</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6692964</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>RIMBORSO AL COMUNE DI SEREGNO DELLE SPESE SOSTENUTE PER IL CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO INDETERMINATO E PIENO DI N. 2 POSTI DI "SPECIALISTA/FUNZIONARIO INFORMATICO” – CAT. D – , DI CUI N.1 POSTO AL COMUNE DI SEREGNO E N.1 POSTO AL COMUNE DI DESIO </description>
+			<a10:updated>2021-11-10T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6692854</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6692854</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>“ORISONT SRL”. P.IVA 10578820960. SMALTIMENTO IMPIANTO DI DISTRIBUZIONE DI CARBURANTE AD USO PRIVATO </description>
+			<a10:updated>2021-11-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6691388</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6691388</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>ATTO DI APPROVAZIONE DEL RINNOVO DELL’ASSEGNAZIONE IN CONCESSIONE D’USO DI SPAZI A FAVORE DELL’ASSOCIAZIONE SPORTIVA DILETTANTISTICA “SPACCONE” E A FAVORE DELLA “ASSOCIAZIONE COMITATO DI QUARTIERE S. VINCENZO – SPACCONE” </description>
-			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644580</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644580</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>LAVORI DI MANUTENZIONE STRAORDINARIA DELLA COPERTURA DEL PALADESIO (D/1196) APPROVAZIONE PROGETTO DEFINITIVO-ESECUTIVO - CUP G48H20000330004 </description>
-			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644578</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6644578</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CIMITERO NUOVO DI PIAZZA DIVINA MISERICORDIA. AREA PER LA SEPOLTURA DEI CITTADINI DI RELIGIONE ISLAMICA. APPROVAZIONE DEL PROGETTO DEFINITIVO-ESECUTIVO </description>
 			<a10:updated>2021-10-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
