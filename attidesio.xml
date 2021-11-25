@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 24 Nov 2021 17:00:45 Z</lastBuildDate>
+		<lastBuildDate>Thu, 25 Nov 2021 09:00:45 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6723738</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6723738</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>PROGETTO AMBITO DI DESIO “D.N.A. INCLUSIONE” AI SENSI DELL’ “AVVISO PUBBLICO PER IL FINANZIAMENTO DI PROGETTI DI INCLUSIONE ATTIVA A FAVORE DI PERSONE IN CONDIZIONE DI VULNERABILITÀ E DISAGIO” DGR N. 7773 DEL 17/01/2018 E SUCCESSIVI DECRETI REGIONALI – ACCERTAMENTO ED IMPEGNO DI SPESA ANNO 2021 </description>
+			<a10:updated>2021-11-24T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6723684</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6723684</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>GIORNATA INTERNAZIONALE CONTRO LA VIOLENZA SULLE DONNE – AFFIDAMENTO REALIZZAZIONE STENDARDI - ASSUNZIONE IMPEGNO DI SPESA </description>
+			<a10:updated>2021-11-24T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6720642</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6720642</link>
@@ -789,22 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>FORNITURA DI MATERIALE STRADALE ED EDILE PER INTERVENTI DI MANUTENZIONE DA SVOLGERE IN AMMINISTRAZIONE DIRETTA. AFFIDAMENTO DELLA FORNITURA ALLA BEMA DESIO SRL CON SEDE IN VIA GIACOMO ZANELLA, 23 C.F. E P.IVA 02173680964 INTEGRAZIONE IMPEGNO DI SPESA €. 3.800,00 OLTRE I.V.A. - CIG Z5C2C55BD8 </description>
-			<a10:updated>2021-11-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6693396</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6693396</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>AFFIDAMENTO SERVIZIO PROVA DI REAZIONE AL FUOCO PER PANNELLI PRESENTI NELLA SCUOLA PRIMARIA TOLSTOJ, AL FINE DELLA CERTIFICAZIONE MINISTERIALE ALLA SOC. CSI S.P.A. DI SENAGO (MI) CIG: Z2633A867F </description>
-			<a10:updated>2021-11-10T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6693394</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6693394</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>FORNITURA TRAMITE MEPA DI APPARATI LETTURA C.I.E. CARTA IDENTITÀ ELETTRONICA – CODICE CIG ZBD33C6577 </description>
 			<a10:updated>2021-11-10T00:00:00Z</a10:updated>
 		</item>
 	</channel>
