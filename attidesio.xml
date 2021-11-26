@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 26 Nov 2021 15:00:43 Z</lastBuildDate>
+		<lastBuildDate>Fri, 26 Nov 2021 17:00:46 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6729488</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6729488</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA RISORGIMENTO </description>
+			<a10:updated>2021-11-26T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6729458</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6729458</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA BARACCA </description>
+			<a10:updated>2021-11-26T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6728835</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6728835</link>
@@ -790,22 +806,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description> APPROVAZIONE GRADUATORIA PER L’INDIVIDUAZIONE E SUCCESSIVA NOMINA DI DUE ESPERTI PROFESSIONISTI IN ELETTROTECNICA QUALI COMPONENTI EFFETTIVO E SUPPLENTE DELLA COMMISSIONE COMUNALE DI VIGILANZA SUI LOCALI DI PUBBLICO SPETTACOLO - DICHIARAZIONE DI EFFICACIA E ASSUNZIONE IMPEGNO DI SPESA– SMARTCIG Z443352629. </description>
 			<a10:updated>2021-11-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6699422</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6699422</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PIRANDELLO </description>
-			<a10:updated>2021-11-12T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6699420</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6699420</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA FORLANINI </description>
-			<a10:updated>2021-11-12T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
