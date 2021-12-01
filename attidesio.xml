@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 01 Dec 2021 09:00:45 Z</lastBuildDate>
+		<lastBuildDate>Wed, 01 Dec 2021 11:00:49 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6738024</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6738024</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA TOLSTOJ </description>
+			<a10:updated>2021-12-01T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6737927</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6737927</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>INTERVENTI DI MIGLIORAMENTO SISMICO ED EFFICIENTAMENTO ENERGETICO DEGLI EDIFICI DI EDILIZIA RESIDENZIALE PUBBLICA (SAP) DI PROPRIETA’ COMUNALE SITI IN DESIO (MB) - VIA COLOMBO N. 27/29/31 E VIA FIUME N. 1/3 – APPROVAZIONE DEL PROGETTO DI FATTIBILITA’ TECNICO-ECONOMICA E INDIRIZZO PER LA PARTECIPAZIONE AL BANDO REGIONALE SUL FONDO COMPLEMENTARE AL PIANO NAZIONALE DI RIPRESA E RESILIENZA (PNRR) – PROGRAMMA “SICURO, VERDE E SOCIALE: RIQUALIFICAZIONE DELL’EDILIZIA RESIDENZIALE PUBBLICA” – CUP G49J21015880001 (VIA COLOMBO N. 27/29/31) E CUP G49J21015890001 (VIA FIUME N. 1/3) </description>
+			<a10:updated>2021-12-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6736673</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6736673</link>
@@ -789,22 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>FORNITURA TRAMITE MEPA ATTIVAZIONE MODALITÀ 3 PAGOPA RELATIVA AL PORTALE DEI SERVIZI ONLINE PER LA VISUALIZZAZIONE E IL PAGAMENTO DELLE INFRAZIONI AL CODICE DELLA STRADA – CODICE CIG ZB133CDDC5 </description>
-			<a10:updated>2021-11-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6707646</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6707646</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>IMPEGNO DI SPESA PER I SERVIZI DI MANUTENZIONE, ASSISTENZA E SUPPORTO DEL SISTEMA DI COMUNICAZIONE FONIA E TRASMISSIONE DATI DELL’ENTE – ANNO 2022. EURO 2.184,14 I.V.A. COMPRESA. </description>
-			<a10:updated>2021-11-17T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6707644</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6707644</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>RINNOVO DEL CONTRATTO PER IL SERVIZIO DI PULIZIA DEL PALAZZO COMUNALE E DI STABILI DIVERSI PER IL PERIODO: 01.12.2021 – 31.01.2022 TRAMITE MEPA NELLE MORE DELL’ADESIONE ALLA CONVENZIONE DI CITTÀ METROPOLITANA DI MILANO. EURO 24.934,32 I.V.A. COMPRESA. CIG Z5B33DF29D. </description>
 			<a10:updated>2021-11-17T00:00:00Z</a10:updated>
 		</item>
 	</channel>
