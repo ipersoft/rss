@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 03 Dec 2021 13:00:40 Z</lastBuildDate>
+		<lastBuildDate>Fri, 03 Dec 2021 15:00:42 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6747544</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6747544</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>INTERVENTI DI MANUTENZIONE STRAORDINARIA IMPIANTI DI RISCALDAMENTO AUTONOMI E SOSTITUZIONE CALDAIE STABILI COMUNALI IN LOCAZIONE RESIDENZIALE G_06_21 - APPROVAZIONE PROGETTO DEFINITIVO/ESECUTIVO, DETERMINAZIONE A CONTRATTARE, AGGIUDICAZIONE LAVORI ALLA CIPIEMMME S.R.L. CODICE CIG: Z433408FB0 CODICE CUP: G47H21058900004 </description>
+			<a10:updated>2021-12-03T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6747294</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6747294</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>ISTITUZIONE E NOMINA COMPONENTI "COMMISSIONE PUBBLICA ISTRUZIONE, CULTURA E SPORT" </description>
-			<a10:updated>2021-11-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6718751</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6718751</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>ISTITUZIONE E NOMINA COMPONENTI "COMMISSIONE BILANCIO E SOCIETA' PARTECIPATE" </description>
 			<a10:updated>2021-11-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
