@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 06 Dec 2021 09:00:40 Z</lastBuildDate>
+		<lastBuildDate>Mon, 06 Dec 2021 11:00:40 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6749593</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6749593</link>
+			<category>DECRETI DECRETO</category>
+			<title>DECRETI DECRETO</title>
+			<description>DECRETO DEL SINDACO N. 21/2021 AVENTE COME OGGETTO: INCARICO ALL'ARCHITETTO PETRACCO FLORIANA DI DIREZIONE A TEMPO DETERMINATO, EX ART. 110, 1°C. DEL D.LGS. N. 267/200, DELL'AREA TECNICA, DAL 3 DICEMBRE 2021 AL COMPLETAMENTO DELL'ATTUALE MANDATO AMMINISTRATIVO </description>
+			<a10:updated>2021-12-06T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6747544</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6747544</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>ISTITUZIONE E NOMINA COMPONENTI "COMMISSIONE URBANISTICA, LAVORI PUBBLICI, EDILIZIA PRIVATA E TOPONOMASTICA" </description>
-			<a10:updated>2021-11-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6718753</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6718753</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>ISTITUZIONE E NOMINA COMPONENTI "COMMISSIONE PUBBLICA ISTRUZIONE, CULTURA E SPORT" </description>
 			<a10:updated>2021-11-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
