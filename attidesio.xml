@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 09 Dec 2021 11:00:40 Z</lastBuildDate>
+		<lastBuildDate>Thu, 09 Dec 2021 13:00:38 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6758546</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6758546</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>SERVIZIO DI MANUTENZIONE STRAORDINARIA DEI SISTEMI DI VIDEOSORVEGLIANZA DEL PALAZZO COMUNALE, COMPRENSIVO DI FORNITURA E POSA IN OPERA DI NUOVI APPARATI. AFFIDAMENTO ALL’O.E. PEI SYSTEM SRL E ASSUNZIONE IMPEGNO DI SPESA € 4.486,40 (IVA 22% ESCLUSA) – ZCIG ZE3343934D </description>
+			<a10:updated>2021-12-09T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6758544</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6758544</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>SERVIZIO DI MANUTENZIONE SEMESTRALE DEL PATRIMONIO STRADALE COMPRENSIVO DI PRONTO INTERVENTO - ANNO 2021(A/1665) APPROVAZIONE VERBALE DI ULTIMAZIONE SERVIZIO, NONCHE’ SVINCOLO DELLE POLIZZA FIDEIUSSORIE - CIG: 8687680455 </description>
+			<a10:updated>2021-12-09T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6757635</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6757635</link>
@@ -790,22 +806,6 @@
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>AVVISO PUBBLICO PER LA CONCESSIONE DI CONTRIBUTI STRAORDINARI COMUNALI PER IL SOSTEGNO AL PAGAMENTO DEL MUTUO PRIMA CASA A SEGUITO DELLE DIFFICOLTÀ ECONOMICHE DERIVANTI DALL’EMERGENZA COVID-19 – 9^ LIQUIDAZIONE </description>
 			<a10:updated>2021-11-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6724823</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6724823</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>D.G.R. N° 5324 DEL 04/10/2021 “SOSTEGNO AL MANTENIMENTO DELL’ALLOGGIO IN LOCAZIONE SUL LIBERO MERCATO ANCHE A SEGUITO DELLE DIFFICOLTA’ ECONOMICHE DERIVANTI DALLA EMERGENZA SANITARIA COVID 19 – INTEGRAZIONE DELLA MISURA DI CUI ALLA DGR 4678/2021” – ACCERTAMENTO E IMPEGNO RISORSE ASSEGNATE ALL’AMBITO DI DESIO A FAVORE DELL’AGENZIA SOCIALE SISTEMABITARE </description>
-			<a10:updated>2021-11-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6723738</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6723738</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>PROGETTO AMBITO DI DESIO “D.N.A. INCLUSIONE” AI SENSI DELL’ “AVVISO PUBBLICO PER IL FINANZIAMENTO DI PROGETTI DI INCLUSIONE ATTIVA A FAVORE DI PERSONE IN CONDIZIONE DI VULNERABILITÀ E DISAGIO” DGR N. 7773 DEL 17/01/2018 E SUCCESSIVI DECRETI REGIONALI – ACCERTAMENTO ED IMPEGNO DI SPESA ANNO 2021 </description>
-			<a10:updated>2021-11-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
