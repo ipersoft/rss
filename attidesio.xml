@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 10 Jan 2022 09:00:35 Z</lastBuildDate>
+		<lastBuildDate>Mon, 10 Jan 2022 11:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6844132</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6844132</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA FRANCESCO BARACCA </description>
+			<a10:updated>2022-01-10T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6844130</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6844130</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PODGORA </description>
+			<a10:updated>2022-01-10T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6842891</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6842891</link>
@@ -789,22 +805,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA - INGIUNZIONE VERBALE N.4071/2018 DEL19 GENNAIO 2018 PROT. N. 96/2018 </description>
-			<a10:updated>2021-12-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6807226</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6807226</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA DI ESECUZIONE LAVORI DI IMMEDIATO INTERVENTO PRESSO IL FABBRICATO POSTO IN VIA ERMINIO ROVAGNATI 14 - PROROGA DEI TERMINI </description>
-			<a10:updated>2021-12-23T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6805530</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6805530</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>“SUD TRASPORTI ITALIA SRL”. C.F. E P.IVA 10093930963. CONFISCA DI IMPIANTI DI DISTRIBUZIONE DI CARBURANTE AD USO PRIVATO AI SENSI DELL’ART. 101, COMMA 2 DELLA L.R. 06/2010 E SMI </description>
 			<a10:updated>2021-12-23T00:00:00Z</a10:updated>
 		</item>
 	</channel>
