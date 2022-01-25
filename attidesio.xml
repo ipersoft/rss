@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 24 Jan 2022 17:00:41 Z</lastBuildDate>
+		<lastBuildDate>Tue, 25 Jan 2022 09:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6873146</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6873146</link>
+			<category>DELIBERE DELIBERE DI GIUNTA</category>
+			<title>DELIBERE DELIBERE DI GIUNTA</title>
+			<description>APPROVAZIONE ACCORDO DI COLLABORAZIONE TRA I COMUNI DI VERCURAGO, ERVE E DESIO PER RINFORZARE IL SERVIZIO INTERCOMUNALE DI POLIZIA LOCALE NEI COMUNI DI VERCURAGO ED ERVE – PERIODO GENNAIO / 31 DICEMBRE 2022 </description>
+			<a10:updated>2022-01-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6868529</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6868529</link>
@@ -797,14 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>LAVORI DI FORNITURA E INSTALLAZIONE LINEE VITA C/O EDIFICI SCOLASTICI COMUNALI – SCUOLA PRIMARIA DI VIA S. APOLLINARE 10 - SCUOLA PRIMARIA DI VIA AGNESI (1°LOTTO) E MANUTENZIONE PROGRAMMATA LINEA VITA SCUOLA PRIMARIA DI VIA DIAZ - B1630 - APPROVAZIONE DETERMINAZIONE A CONTRARRE E AGGIUDICAZIONE LAVORI ALL’O.E. GRIMM SERVICE LINEE SRL - CIG: Z1D34A2949 </description>
-			<a10:updated>2021-12-30T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6829233</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6829233</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>VILLA TITTONI TRAVERSI CORPO CENTRALE - INCARICO PROFESSIONALE PER PROGETTO DI FATTIBILITA' TECNICO-ECONOMICA DEL CONSOLIDAMENTO STRUTTURALE DEI PIANI SECONDO, SOTTOTETTO E COPERTURA, RIFACIMENTO DEL MANTO DI COPERTURA E BONIFICA DA MCA E PRIME INDICAZIONI PER IL RISANAMENTO CONSERVATIVO (A74VT) - AFFIDAMENTO ALL’ING. MASSIMO MAZZOLENI DI CAPIZZONE (BG) PER UN IMPORTO DI € 46.404,63 OLTRE CNPAIA 4% E IVA 22% - CIG 9051488431 </description>
 			<a10:updated>2021-12-30T00:00:00Z</a10:updated>
 		</item>
 	</channel>
