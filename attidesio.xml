@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 17 Feb 2022 17:00:36 Z</lastBuildDate>
+		<lastBuildDate>Fri, 18 Feb 2022 09:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6922831</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6922831</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE PRESSO IL PARCHEGGIO DI VIA CARAVAGGIO (AREA EX-ESSELUNGA) </description>
+			<a10:updated>2022-02-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6922566</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6922566</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>DETERMINAZIONE DELLE SOMME IMPIGNORABILI PER IL PRIMO SEMESTRE DELL’ESERCIZIO FINANZIARIO 2022 AI SENSI ART. 159 DEL D.LGS. 267/2000 </description>
-			<a10:updated>2022-01-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6880915</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6880915</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>AGGIORNAMENTO TARIFFE CIMITERIALI - ANNO 2022 </description>
 			<a10:updated>2022-01-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
