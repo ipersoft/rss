@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 23 Feb 2022 09:00:36 Z</lastBuildDate>
+		<lastBuildDate>Wed, 23 Feb 2022 11:00:28 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6931687</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6931687</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>AVVISO DI MOBILITA' VOLONTARIA, EX ART. 30, D.LGS. 165/2001, PER LA COPERTURA A TEMPO INDETERMINATO DI UN POSTO DI FUNZIONARIO DI POLIZIA LOCALE - COMANDANTE - CAT. D - DA DESTINARE AL SETTORE POLIZIA LOCALE E PROTEZIONE CIVILE - NOMINA COMMISSIONE </description>
+			<a10:updated>2022-02-23T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6931685</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6931685</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>ASSUNZIONE A TEMPO INDETERMINATO E PIENO DELLA DOTT.SSA ELISA PIZZI IN QUALITA' DI ASSISTENTE SOCIALE – CAT. D – PRESSO L’AREA PERSONA E FAMIGLIA/SERVIZI PROFESSIONALI </description>
+			<a10:updated>2022-02-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6930531</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6930531</link>
@@ -789,22 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>OGGETTO: 2^ EMISSIONE 2022 AVVISI DI ACCERTAMENTO IMU 2016-2020 E 1^ EMISSIONE 2022 AVVISI DI ACCERTAMENTO TARI 2016-2020 </description>
-			<a10:updated>2022-02-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6899035</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6899035</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>“NEXUS ULTIMA FRONTIERA - INTERVENTI DI REALIZZAZIONE DELLA RETE ECOLOGICA TRA PARCO VALLE LAMBRO E PARCO DELLE GROANE: LOTTO 3 – POTENZIAMENTO DELLA RETE ECOLOGICA DELL’AMBITO SUD AL CONFINE CON VAREDO” (F/207). DICHIARAZIONE EFFICACIA DELL’AGGIUDICAZIONE A FAVORE DELL’O.E. PURICELLI AMBIENTE VERDE SRL. CUP G41B20000980004 – CIG 90402477D2 </description>
-			<a10:updated>2022-02-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6897864</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6897864</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>SERVIZIO REFEZIONE SCOLASTICA - ADEGUAMENTO ISTAT 2022 </description>
 			<a10:updated>2022-02-04T00:00:00Z</a10:updated>
 		</item>
 	</channel>
