@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 28 Mar 2022 10:00:42 Z</lastBuildDate>
+		<lastBuildDate>Mon, 28 Mar 2022 12:00:33 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6993579</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6993579</link>
+			<category>DECRETI DECRETO</category>
+			<title>DECRETI DECRETO</title>
+			<description>DECRETO DEL SINDACO N. 7 DEL 28.03.2022 AVENTE COME OGGETTO: "NOMINA RAPPRESENTANTI DEL COMUNE DI DESIO PREASSO IL CONSIGLIO DI AMMINISTRAZIONE "OPERA PIA SACRO CUORE DI GESU' </description>
+			<a10:updated>2022-03-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6991340</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6991340</link>
@@ -797,14 +805,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>IMPIANTO TERMICO PERICOLOSO INSTALLATO PRESSO L’UNITA’ IMMOBILIARE SITA A DESIO IN VICOLO RASTELLI 1. ORDINE DI DIVIETO DI UTILIZZO ED INGIUNZIONE DI ADEGUAMENTO PRIMA DI EVENTUALE NUOVO UTILIZZO </description>
-			<a10:updated>2022-03-08T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6955492</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6955492</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>IMPIANTO TERMICO PERICOLOSO INSTALLATO PRESSO L’UNITA’ IMMOBILIARE SITA A DESIO IN VIA DOLOMITI 38. ORDINE DI DIVIETO DI UTILIZZO ED INGIUNZIONE DI ADEGUAMENTO PRIMA DI EVENTUALE NUOVO UTILIZZO </description>
 			<a10:updated>2022-03-08T00:00:00Z</a10:updated>
 		</item>
 	</channel>
