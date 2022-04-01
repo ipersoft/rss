@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 01 Apr 2022 14:00:31 Z</lastBuildDate>
+		<lastBuildDate>Fri, 01 Apr 2022 16:00:31 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7005309</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7005309</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>RETTIFICA E INTEGRAZIONE DETERMINAZIONE N. 226 DEL 28/03/2022. </description>
+			<a10:updated>2022-04-01T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7002673</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7002673</link>
@@ -797,14 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>INDAGINE ESPLORATIVA PER LA MANIFESTAZIONE DI INTERESSE – INDIVIDUAZIONE DEI SOGGETTI INTERESSATI ALL’AFFIDAMENTO DEI SERVIZI DI ASSISTENZA EDUCATIVA NELLE ATTIVITÀ DI PRE E POST PER LE SCUOLE INFANZIA E PRIMARIE STATALI DI DESIO – PERIODO: 01.09.2022/30.06.2025, RIPETIBILE PER GLI A.S. 2025/2026 E 2026/2027, MEDIANTE IL SISTEMA DI INTERMEDIAZIONE TELEMATICA SINTEL. </description>
-			<a10:updated>2022-03-15T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6968612</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/6968612</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>APPROVAZIONE ACCORDO TRA IL COMUNE DI DESIO E IL COMUNE DI LIMBIATE PER L’UTILIZZO DELLA GRADUATORIA DI LIMBIATE DEL “CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA A TEMPO INDETERMINATO DI UN POSTO DI ASSISTENTE SOCIALE - CATEGORIA GIURIDICA D'ACCESSO D1", AI SENSI DELL’ART. 9, COMMA 11, LEGGE 3/2003 E DELL’ART. 3, COMMA 61, LEGGE N. 350/2003 </description>
 			<a10:updated>2022-03-15T00:00:00Z</a10:updated>
 		</item>
 	</channel>
