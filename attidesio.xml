@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 27 Apr 2022 16:00:26 Z</lastBuildDate>
+		<lastBuildDate>Thu, 28 Apr 2022 08:00:30 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7050800</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7050800</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA ADAMELLO </description>
+			<a10:updated>2022-04-27T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7050661</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7050661</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>ATTO DI CITAZIONE AVANTI AL TRIBUNALE DI MONZA PER SINISTRO DEL 03.08.2020 - COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE </description>
-			<a10:updated>2022-04-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7010276</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7010276</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>AMPLIAMENTO POSTI PROGETTO SAI DESIO ORD. N.818 “SAI – SERVIZIO ACCOGLIENZA IMMIGRAZIONE - DESIO” IN RISPOSTA AL BANDO MINISTERIALE AI SENSI EX ART.9, C1 LINEE GUIDA DM 18 NOVEMBRE 2019 - CIG 8466739E0A </description>
 			<a10:updated>2022-04-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
