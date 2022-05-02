@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 02 May 2022 08:00:32 Z</lastBuildDate>
+		<lastBuildDate>Mon, 02 May 2022 10:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7058775</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7058775</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA - INGIUNZIONE VERBALE N.4115/2021 DEL 29.04.2021 PROT. N. 178/2021 </description>
+			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7058773</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7058773</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA - INGIUNZIONE VERBALE N.4130 DEL 13 APRILE 2019 PROT. N. 190/2019 </description>
+			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7058771</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7058771</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA - INGIUNZIONE VERBALE N.4223/2020 DEL 10 LUGLIO 2020 PROT. N. 440/2020 </description>
+			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7056578</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7056578</link>
@@ -781,30 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>INTERVENTI VARI DI VERIFICA, RIPARAZIONE GUASTI E SOSTITUZIONE APPARATI NON FUNZIONANTI SUL SISTEMA DI VIDEOSORVEGLIANZA CITTADINA. IMPEGNO DI SPESA PER €. 7.033,91. CIG Z4435E63D9. </description>
-			<a10:updated>2022-04-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7014965</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7014965</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA PER ADEGUAMENTO CANNA FUMARIA SCALDABAGNI E CANNA DI ESALAZIONE CAPPE PER N.7 ALLOGGI SAP DI PROPRIETÀ COMUNALE C/O CONDOMINIO “VIGNA DEI FIORI - A” SITO IN VIA P. KOLBE N. 7A - 7B. </description>
-			<a10:updated>2022-04-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7014963</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7014963</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>APPROVAZIONE CERTIFICATO DI REGOLARE ESECUZIONE LAVORI EDILI URGENTI NEGLI EDIFICI SCOLASTICI E ALTRI EDIFICI COMUNALI E SVINCOLO POLIZZA ASSICURATIVA (B/1623) - CODICE CIG: ZC73120B32 </description>
-			<a10:updated>2022-04-07T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7014961</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7014961</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI UN'ASSISTENTE AI SERVIZI TECNICI – CAT. C – PRESSO L’AREA TECNICA/SETTORE GESTIONE DEL TERRITORIO E PATRIMONIO </description>
 			<a10:updated>2022-04-07T00:00:00Z</a10:updated>
 		</item>
 	</channel>
