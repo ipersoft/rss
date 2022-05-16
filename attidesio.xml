@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 16 May 2022 08:00:29 Z</lastBuildDate>
+		<lastBuildDate>Mon, 16 May 2022 10:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7091122</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7091122</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PER BINZAGO </description>
+			<a10:updated>2022-05-16T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7090952</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7090952</link>
@@ -797,14 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>SERVIZIO INSTALLAZIONE IMPIANTO DI ILLUMINAZIONE PRESSO I SEGGI ELETTORALI – ELEZIONI REFERENDARIE DEL 12/06/2022 AFFIDAMENTO ALLA GHIONI IMPIANTI ELETTRICI DI GHIONI WALTER - ASSUNZIONE IMPEGNO DI SPESA € 1.500,00 OLTRE IVA - CIG Z26361324A </description>
-			<a10:updated>2022-04-21T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7041370</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7041370</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>PROROGA TECNICA DEL CONTRATTO DI SERVIZIO TRA IL COMUNE DI DESIO E GESTIONE SERVIZI DESIO S.R.L. PER LA GESTIONE DEGLI IMPIANTI DI ILLUMINAZIONE PUBBLICA E SEMAFORICI, NELLE MORE DEL PERFEZIONAMENTO DEGLI ATTI CONNESSI ALLA GARA DEL “PROGETTO ILLUMINA”- ASSUNZIONE IMPEGNO DI SPESA DI € 85.832,08 PER MANUTENZIONE ORDINARIA PER IL PERIODO 01/05/2022 – 30/09/2022 </description>
 			<a10:updated>2022-04-21T00:00:00Z</a10:updated>
 		</item>
 	</channel>
