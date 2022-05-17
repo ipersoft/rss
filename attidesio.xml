@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 17 May 2022 10:00:32 Z</lastBuildDate>
+		<lastBuildDate>Tue, 17 May 2022 12:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7095883</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7095883</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>INGIUNZIONE DI RIMESSA IN PRISTINO DELLO STATO LEGITTIMO DEI LUOGHI, MEDIANTE DEMOLIZIONE DI OPERE ESEGUITE IN ASSENZA DI TITOLO EDILIZIO </description>
+			<a10:updated>2022-05-17T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7094142</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7094142</link>
@@ -797,14 +805,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA ORTIGARA - LAVORI BRIANZACQUE IMPRESA RTI TAGLIABUE - </description>
-			<a10:updated>2022-04-26T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7046887</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7046887</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA SABOTINO </description>
 			<a10:updated>2022-04-26T00:00:00Z</a10:updated>
 		</item>
 	</channel>
