@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 19 May 2022 08:00:59 Z</lastBuildDate>
+		<lastBuildDate>Thu, 19 May 2022 10:00:49 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7101127</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7101127</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE NELLE VIE PIO XI - S.MARIA - PIAZZA S.MARIA IN OCCASIONE DELLA CENA DELLE CONTRADE </description>
+			<a10:updated>2022-05-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7101083</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7101083</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO PROTRAZIONE TEMPORANEA DELLA “ZONA A TRAFFICO LIMITATO” IN OCCASIONE DELLA XXXII^ EDIZIONE DELLA MANIFESTAZIONE CITTADINA DENOMINATA “PALIO DEGLI ZOCCOLI” </description>
+			<a10:updated>2022-05-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7098084</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7098084</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>GESTIONE IMPIANTO BOCCE VIA CAVALIERI DI VITTORIO VENETO - CONVENZIONE TRA COMUNE DI DESIO E A.S.D. BOCCIOFILA AURORA PARCO </description>
-			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059941</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059941</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ADESIONE IN QUALITA' DI PARTNER AL PROGETTO ELABORATO DA EX.IT CONSORZIO DI COOPERATIVE SOCIALI QUALE ENTE RESPONSABILE PER LA CANDIDATURA SUL BANDO SPAZI AGGREGATIVI DI PROSSIMITÀ 2022 DELL’IMPRESA SOCIALE CON I BAMBINI </description>
-			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059939</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059939</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CONCESSIONE PATROCINIO ONEROSO ALLA MANIFESTAZIONE DENOMINATA “46° FIACCOLA VOTIVA” IN PROGRAMMA DAL 22.04.2022 AL 25.04.2022 </description>
 			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
 		</item>
 	</channel>
