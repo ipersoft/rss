@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 19 May 2022 12:00:29 Z</lastBuildDate>
+		<lastBuildDate>Thu, 19 May 2022 14:00:36 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7102121</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7102121</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA PARINI </description>
+			<a10:updated>2022-05-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7102119</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7102119</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GARIBALDI </description>
+			<a10:updated>2022-05-19T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7102117</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7102117</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA GARIBALDI </description>
+			<a10:updated>2022-05-19T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7101438</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7101438</link>
@@ -782,30 +806,6 @@
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA XXV APRILE </description>
 			<a10:updated>2022-05-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059949</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059949</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>APPROVAZIONE ASSEGNAZIONE PORZIONE DI IMMOBILE SITO IN VIA GUIDO GALLI N. 1 "EX TRIBUNALE", ALL’AGENZIA DELLE ENTRATE, PER ADIBIRLO AD UFFICIO TERRITORIALE DI DESIO, ED APPROVAZIONE DELLO SCHEMA DI CONTRATTO DI LOCAZIONE </description>
-			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059947</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059947</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CONCESSIONE PATROCINIO ONEROSO ALL'INIZIATIVA "SENSO COMUNE - PROGETTO DI CITTADINANZA ATTIVA PER PERSONE CON DISABILITA'" PERCORSI INCLUSIVI DI CITTADINANZA ATTIVA CON VISITE GUIDATE PRESSO VILLA TITTONI/PARCO TITTONI </description>
-			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059945</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7059945</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>PRESA D’ATTO DELLA DECISIONE DELL’ASSEMBLEA DEI SINDACI DELL’AMBITO DI DESIO TENUTASI IN DATA 28/03/2022 DI ADESIONE AL PROGETTO “APPEAL” PRESENTATO DAL CONSORZIO COMUNITA’ BRIANZA IN QUALITA’ DI CAPOFILA NELL’AMBITO DEI BANDI DI FONDAZIONE CON I BAMBINI </description>
-			<a10:updated>2022-05-02T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
