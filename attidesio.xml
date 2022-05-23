@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 23 May 2022 12:00:28 Z</lastBuildDate>
+		<lastBuildDate>Mon, 23 May 2022 14:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7107696</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7107696</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>RESTITUZIONE ONERI INDEBITAMENTE VERSATI - IMPEGNO DI SPESA </description>
+			<a10:updated>2022-05-23T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7105213</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7105213</link>
@@ -797,14 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>INCARICO PROFESSIONALE PER PROGETTAZIONE DEFINITIVO/ESECUTIVA LOTTI 1-2 E DIREZIONE LAVORI LOTTO 1 RELATIVAMENTE ALL’INTERVENTO DI EFFICIENTAMENTO ENERGETICO DEL PALAZZO COMUNALE (REALIZZAZIONE NUOVO IMPIANTO FOTOVOLTAICO E SOSTITUZIONE LAMPADE LED) B/1633 - AGGIUDICAZIONE ALL’ING. FRANCO GAMBIRASIO (P.IVA 02253170134) PER UN IMPORTO DI € 17.160,00 OLTRE CASSA ED IVA – CUP G44J22000200006 – CIG 9185572DCC </description>
-			<a10:updated>2022-05-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7062469</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7062469</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>RINNOVO SERVIZIO SAAS DI POSTA ELETTRONICA ZIMBRA DAL 12/07/2022 AL 12/07/2023 CIG: Z353632578 </description>
 			<a10:updated>2022-05-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
