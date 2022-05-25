@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 24 May 2022 16:00:28 Z</lastBuildDate>
+		<lastBuildDate>Wed, 25 May 2022 08:00:27 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7111432</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7111432</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>PROVVEDIMENTI PER LA PREVENZIONE ED IL CONTROLLO DELLE MALATTIE TRASMESSE DA INSETTI VETTORI ED IN PARTICOLARE DALLA ZANZARA TIGRE (AEDES ALBOPICTUS). </description>
+			<a10:updated>2022-05-25T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7111293</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7111293</link>
+			<category>DECRETI DECRETO</category>
+			<title>DECRETI DECRETO</title>
+			<description>DECRETO DI NOMINA DEI COMPONENTI ESPERTI IN ELETTROTECNICA DELLA COMMISSIONE COMUNALE DI VIGILANZA SUI LOCALI DI PUBBLICO SPETTACOLO - TRASMISSIONE COPIA ATTI. </description>
+			<a10:updated>2022-05-25T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7110790</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7110790</link>
@@ -790,22 +806,6 @@
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>APPROVAZIONE RENDICONTO DELLA GESTIONE DELL'ESERCIZIO 2021 </description>
 			<a10:updated>2022-05-04T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7063414</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7063414</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA TAGLIABUE (LAVORI DI ATTUAZIONE DEL P.G.T.U. LOTTO3) </description>
-			<a10:updated>2022-05-03T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7063237</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7063237</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CONCESSIONE PATROCINIO ONEROSO PER L’INIZIATIVA “BALLIAMO PER L’UCRAINA – GALA’ DI DANZA PER UNICEF E 8° CONCORSO BRIANZA DANZA FESTIVAL”, PROMOSSA DALL’ASSOCIAZIONE CULTURALE A.S.D. BRIANZA DANZA FESTIVAL IN PROGRAMMA IL 15.05.2022 A SCOPO BENEFICO </description>
-			<a10:updated>2022-05-03T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
