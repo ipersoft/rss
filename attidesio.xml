@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 08 Jun 2022 08:00:42 Z</lastBuildDate>
+		<lastBuildDate>Wed, 08 Jun 2022 10:00:28 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7138894</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7138894</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>ACQUISIZIONE GRATUITA PER ACCORPAMENTO AL DEMANIO STRADALE DELL’AREA IDENTIFICATA CATASTALMENTE AL FOGLIO 5 MAPP. 334 ATTUALMENTE DESTINATA IN PARTE A STRADA E IN PARTE A PARCHEGGIO PUBBLICO A SEGUITO DI DELIBERAZIONE DI C.C. 13/2021 </description>
+			<a10:updated>2022-06-08T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7138892</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7138892</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>ASSUNZIONE IMPEGNO DI SPESA PRESUNTO PER MISSIONI INERENTI ALL’ESPLETAMENTO DEL MANDATO ISTITUZIONALE DEGLI AMMINISTRATORI LOCALI - ANNO 2022 ( € 1000,00) </description>
+			<a10:updated>2022-06-08T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7138890</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7138890</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>IMPEGNO DI SPESA E SUCCESSIVA LIQUIDAZIONE DELLE COMPETENZE DOVUTE AI COMPONENTI DEGLI UFFICI ELETTORALI DI SEZIONE IN OCCASIONE DEI REFERENDUM POPOLARI ABROGATIVI DEL 12 GIUGNO 2022 </description>
+			<a10:updated>2022-06-08T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7137470</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7137470</link>
@@ -781,30 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>APPROVAZIONE E ADESIONE A FONDI PNRR E DECISIONI INERENTI FONDO INNOVAZIONE </description>
-			<a10:updated>2022-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7097524</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7097524</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>INDIRIZZI ALLA DELEGAZIONE DI PARTE PUBBLICA PER LA CONTRATTAZIONE INTEGRATIVA PERSONALE NON DIRIGENTE DEL COMPARTO FUNZIONI LOCALI –DESTINAZIONE RISORSE FONDO 2022 E 2023 </description>
-			<a10:updated>2022-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7097522</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7097522</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ATTO DI INDIRIZZO PER L'ORGANIZZAZIONE NELL'ESTATE 2022 DELLA FESTA DELLO SPORT E DI MERCOLEDÌ TEMATICI </description>
-			<a10:updated>2022-05-18T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7097520</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7097520</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CIVICHE FARMACIE DESIO S.P.A. CANONE DI CONCESSIONE PER L’ANNO 2022. </description>
 			<a10:updated>2022-05-18T00:00:00Z</a10:updated>
 		</item>
 	</channel>
