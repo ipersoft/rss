@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Mon, 13 Jun 2022 10:00:27 Z</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jun 2022 12:00:27 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7149278</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7149278</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>RINNOVO DEL CONTRATTO PER IL SERVIZIO DI VIGILANZA E TELEALLARME DEGLI STABILI COMUNALI PER IL PERIODO: 01.07.2022 – 30.06.2025 TRAMITE IL SISTEMA DI INTERMEDIAZIONE TELEMATICA SINTEL. EURO 66.213,01 I.V.A. COMPRESA. CIG 9261166BF1. </description>
+			<a10:updated>2022-06-13T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7149024</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7149024</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO ISTITUZIONE ESTIVA DELLA “ZONA A TRAFFICO LIMITATO” NELLE SERATE DI MERCOLEDÌ 15 - 22 - 29 GIUGNO ; 06 – 13 – 20 – 27 LUGLIO 2022 IN OCCASIONE DI MANIFESTAZIONI MUSICALI D'INTRATTENIMENTO E DELL'APERTURA SERALE DEI NEGOZI </description>
+			<a10:updated>2022-06-13T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7147669</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7147669</link>
@@ -790,22 +806,6 @@
 			<title>ORDINANZE ORDINANZA</title>
 			<description>PROVVEDIMENTI PER LA PREVENZIONE ED IL CONTROLLO DELLE MALATTIE TRASMESSE DA INSETTI VETTORI ED IN PARTICOLARE DALLA ZANZARA TIGRE (AEDES ALBOPICTUS). </description>
 			<a10:updated>2022-05-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7111293</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7111293</link>
-			<category>DECRETI DECRETO</category>
-			<title>DECRETI DECRETO</title>
-			<description>DECRETO DI NOMINA DEI COMPONENTI ESPERTI IN ELETTROTECNICA DELLA COMMISSIONE COMUNALE DI VIGILANZA SUI LOCALI DI PUBBLICO SPETTACOLO - TRASMISSIONE COPIA ATTI. </description>
-			<a10:updated>2022-05-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7110790</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7110790</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>PROGETTO “SISTEMA DI ACCOGLIENZA ED INTEGRAZIONE – SAI DESIO N.818” PRIMO ACCERTAMENTO E IMPEGNO DI SPESA ANNO 2022 A FAVORE DEL CONSORZIO COMUNITA’ BRIANZA IN QUALITA’ DI ENTE ATTUATORE CIG8466739E0A </description>
-			<a10:updated>2022-05-24T00:00:00Z</a10:updated>
 		</item>
 	</channel>
 </rss>
