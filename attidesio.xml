@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Jul 2022 10:00:29 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 Jul 2022 12:00:22 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213627</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213627</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE LUNGO ALCUNE STRADE DEL TERRITORIO COMUNALE PER INTERVENTI DI MANUTENZIONE STRAORDINARIA CON ASFALTATURA </description>
+			<a10:updated>2022-07-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7212936</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7212936</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>INTERVENTI DI MANUTENZIONE STRAORDINARIA DELLE SEDI STRADALI – ANNO 2022 (A1674)” – AUTORIZZAZIONE SUBAPPALTO A FAVORE DELL’O.E. RONZONI SRL. CUP G47H22001190005 </description>
+			<a10:updated>2022-07-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7211648</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7211648</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>CONCLUSIONE DI PROCEDIMENTO EDILIZIO PENDENTE MEDIANTE MONETIZZAZIONE DELLE AREE DI CUI AL FOGLIO 33, MAPP. 249 E 250 SITE IN VIA FERRAVILLA IN DESIO </description>
-			<a10:updated>2022-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180357</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180357</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>AGGIORNAMENTO, A SEGUITO DI SOPRAVVENIENZE NORMATIVE (L. 108/2021 E L. 51/2022), DEI CRITERI DI CALCOLO DEL CORRISPETTIVO PER LA TRASFORMAZIONE DEL DIRITTO DI SUPERFICIE IN PIENA PROPRIETÀ, AI SENSI DELL’ART. 35 L. 865/1972 E DELLA L. 448/1998 </description>
-			<a10:updated>2022-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180355</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180355</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>VERBALE DI INVERSIONE ORDINE DEL GIORNO </description>
 			<a10:updated>2022-06-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
