@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 15 Jul 2022 12:00:22 Z</lastBuildDate>
+		<lastBuildDate>Fri, 15 Jul 2022 14:00:35 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213816</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213816</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>INGIUNZIONE DI RIMESSA IN PRISTINO DELLO STATO LEGITTIMO DEI LUOGHI, MEDIANTE DEMOLIZIONE DI OPERE ESEGUITE IN PARZIALE DIFFORMITA’ AL TITOLO EDILIZIO PRESSO L'EDIFICIO SITUATO IN VIA HERMADA N. 6. </description>
+			<a10:updated>2022-07-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213791</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213791</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>INGIUNZIONE DI RIMESSA IN PRISTINO DELLO STATO LEGITTIMO DEI LUOGHI, MEDIANTE DEMOLIZIONE DI OPERE ESEGUITE IN DIFFORMITA’ AL TITOLO EDILIZIO PRESSO L'EDIFICIO SITO IN VIA VILLORESI 49/51. </description>
+			<a10:updated>2022-07-15T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213772</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213772</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>DISPOSIZIONI PER IL CONTENIMENTO DELLA PIANTA "AMBROSIA ARTEMISIIFOLIA" AL FINE DI PREVENIRE LE ALLERGOPATIE AD ESSA CORRELATE. </description>
+			<a10:updated>2022-07-15T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213627</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7213627</link>
@@ -781,30 +805,6 @@
 			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
 			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
 			<description>VARIAZIONE AL BILANCIO DI PREVISIONE 2022-2024 E RATIFICA DELLA DELIBERAZIONE ADOTTATA DALLA GIUNTA COMUNALE IN VIA D’URGENZA DEL 31/05/2022 </description>
-			<a10:updated>2022-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180363</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180363</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>DETERMINAZIONE DEL PASSAGGIO DELL’AREA SITA IN VIA PARINI (FOGLIO 35, MAPP. 314) DAL PATRIMONIO INDISPONIBILE AL PATRIMONIO DISPONIBILE </description>
-			<a10:updated>2022-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180361</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180361</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>PRESA D’ATTO TRASFERIMENTO AL PATRIMONIO INDISPONIBILE DEL COMUNE DI DESIO DI BENI CONFISCATI ALLA CRIMINALITA’ ORGANIZZATA SITI IN VIA BENGASI E VIA MONTE BIANCO </description>
-			<a10:updated>2022-06-29T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180359</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7180359</link>
-			<category>DELIBERE DELIBERE DI CONSIGLIO</category>
-			<title>DELIBERE DELIBERE DI CONSIGLIO</title>
-			<description>CONCLUSIONE DI PROCEDIMENTO EDILIZIO PENDENTE MEDIANTE MONETIZZAZIONE DELLE AREE DI CUI AL FOGLIO 33, MAPP. 249 E 250 SITE IN VIA FERRAVILLA IN DESIO </description>
 			<a10:updated>2022-06-29T00:00:00Z</a10:updated>
 		</item>
 	</channel>
