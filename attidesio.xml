@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 28 Jul 2022 16:00:35 Z</lastBuildDate>
+		<lastBuildDate>Fri, 29 Jul 2022 08:00:25 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7236899</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7236899</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>INCARICO LEGALE CONSEGUENTE ALLA COSTITUZIONE IN GIUDIZIO AUTORIZZATA CON DELIBERA G.C. N. 168/2022 E RELATIVO IMPEGNO DI SPESA – € 504,78 </description>
+			<a10:updated>2022-07-28T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7236898</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7236898</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>APPROVAZIONE AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE, MEDIANTE PIATTAFORMA SINTEL, ALLA PROCEDURA DI SELEZIONE DI OPERATORI PER L’AFFIDAMENTO DI SERVIZI E FORNITURE E/O PER LA SPONSORIZZAZIONE TECNICA ANCHE PARZIALE RELATIVI ALLA PROGRAMMAZIONE DI EVENTI E INIZIATIVE PER IL NATALE 2022 </description>
+			<a10:updated>2022-07-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7236738</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7236738</link>
@@ -789,22 +805,6 @@
 			<category>DETERMINAZIONE DEL DIRIGENTE</category>
 			<title>DETERMINAZIONE DEL DIRIGENTE</title>
 			<description>ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI UN AGENTE DI POLIZIA LOCALE – CAT. C – PRESSO IL SERVIZIO POLIZIA LOCALE </description>
-			<a10:updated>2022-07-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7207120</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7207120</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>“PROGRAMMA OPERATIVO REGIONALE A FAVORE DI PERSONE CON GRAVISSIMA DISABILITÀ E IN CONDIZIONE DI NON AUTOSUFFICIENZA E GRAVE DISABILITÀ DI CUI AL FONDO PER LE NON AUTOSUFFICIENZE TRIENNIO 2019-2021 - ANNUALITÀ 2021 ESERCIZIO 2022” - INTEGRAZIONE GRADUATORIE APPROVATE CON DET. 473 DEL 27/6/2022 </description>
-			<a10:updated>2022-07-13T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7207118</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7207118</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>LIQUIDAZIONE POSTE RELATIVE AL SISTEMA PERMANENTE DI VALUTAZIONE DEL PERSONALE DIPENDENTE NON DIRIGENTE - ANNO 2021 – PREMI CORRELATI ALLA PERFORMANCE INDIVIDUALE E RETRIBUZIONE DI RISULTATO DELLE POSIZIONI ORGANIZZATIVE - €186.755,43. </description>
 			<a10:updated>2022-07-13T00:00:00Z</a10:updated>
 		</item>
 	</channel>
