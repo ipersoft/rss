@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Fri, 12 Aug 2022 08:00:25 Z</lastBuildDate>
+		<lastBuildDate>Fri, 12 Aug 2022 10:00:26 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7267478</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7267478</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA CONTINGIBILE E URGENTE PER L’INIBIZIONE ALL’ACCESSO DELL’IMMOBILE SITO IN VIA BRAMANTE 22 - DESIO </description>
+			<a10:updated>2022-08-12T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7266601</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7266601</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>ORGANIZZAZIONE PRANZO DI FERRAGOSTO ANNO 2022 </description>
-			<a10:updated>2022-07-27T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7231682</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7231682</link>
-			<category>DETERMINAZIONE DEL DIRIGENTE</category>
-			<title>DETERMINAZIONE DEL DIRIGENTE</title>
-			<description>ASSUNZIONE IMPEGNO DI SPESA A SEGUITO DI SENTENZA DEL TAR PER LA LOMBARDIA – MILANO N. 1184/2022 – R.G. N. 1422/2022 - € 5.027,36 </description>
 			<a10:updated>2022-07-27T00:00:00Z</a10:updated>
 		</item>
 	</channel>
