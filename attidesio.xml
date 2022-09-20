@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Tue, 20 Sep 2022 14:00:43 Z</lastBuildDate>
+		<lastBuildDate>Tue, 20 Sep 2022 16:00:30 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7326649</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7326649</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>VILLA TITTONI TRAVERSI CORPO CENTRALE - INCARICO PROFESSIONALE PER PROGETTAZIONE DEFINITIVA-ESECUTIVA E CSP PER I “LAVORI DI RISANAMENTO CONSERVATIVO, CONSOLIDAMENTO STRUTTURALE, RIFACIMENTO DEL MANTO E BONIFICA DA MCA DELLA COPERTURA DEL LOTTO 1 DEL CORPO CENTRALE DI VILLA TITTONI TRAVERSI A DESIO (A74VT - LOTTO 1-A)” - AFFIDAMENTO ALL’ING. MASSIMO MAZZOLENI DI CAPIZZONE (BG) PER UN IMPORTO DI € 21.897,53 OLTRE CNPAIA 4% E IVA 22% - CIG ZDB378F3E6 </description>
+			<a10:updated>2022-09-20T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7326647</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7326647</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>LAVORI DI ATTUAZIONE DEL P.G.T.U. E PER LA RIQUALIFICAZIONE URBANA DEL CENTRO DEL COMUNE DI DESIO A1646_ LOTTO 3 – AFFIDAMENTO DIRETTO DI INTERVENTO COMPLEMENTARE PER LA POSA DI PORTALE STRADALE IN VIA TAGLIABUE PER EVITARE IL TRANSITO DI MEZZI PESANTI IN PROSSIMITA' DEL SOTTOPASSO STAZIONE FERROVIARIA - CUP G49J20000090004 – CIG ZE537CD5D9 </description>
+			<a10:updated>2022-09-20T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7324891</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7324891</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>APPROVAZIONE SCHEMA DEL DOCUMENTO UNICO DI PROGRAMMAZIONE DUP 2023/2025. </description>
-			<a10:updated>2022-08-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7281490</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7281490</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>CONCESSIONE PATROCINIO ONEROSO ALL’ASSOCIAZIONE ASD APS ARTURO DI BIASSONO PER L’INIZIATIVA “YOGA DAY E IL FESTIVAL DELL’INDIA” IN PROGRAMMA IL 10 E 11 SETTEMBRE 2022 PRESSO VILLA TITTONI EIL PARCO ADIACENTE. </description>
-			<a10:updated>2022-08-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7281489</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7281489</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>ATTO DI INDIRZZO PER LA RICOGNIZIONE TRAMITE AVVISO DI MANIFESTAZIONE D'INTERESSE PER L’AFFIDAMENTO E/O LA SPONSORIZZAZIONE TECNICA ANCHE PARZIALE DI SERVIZI E FORNITURE RELATIVI ALLA PROGRAMMAZIONE DI EVENTI E INIZIATIVE PER IL NATALE 2022. </description>
 			<a10:updated>2022-08-25T00:00:00Z</a10:updated>
 		</item>
 	</channel>
