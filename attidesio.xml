@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 21 Sep 2022 08:00:34 Z</lastBuildDate>
+		<lastBuildDate>Wed, 21 Sep 2022 10:00:41 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7327635</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7327635</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE NELLE VIE GUARENTI E SOVICANA PER LAVORI DI ASFALTATURA IN ATTUAZIONE DEL PGTU </description>
+			<a10:updated>2022-09-21T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7326649</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7326649</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>APPROVAZIONE ACCORDO DI COLLABORAZIONE FRA IL COMUNE DI DESIO ED IL COMUNE DI BIASSONO PER L’IMPIEGO DI OPERATORI DI POLIZIA LOCALE AL FINE DI POTENZIARE I SERVIZI DI POLIZIA STRADALE IN OCCASIONE DELLO SVOLGIMENTO DEL “FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022” NEI GIORNI 9-10-11 SETTEMBRE 2022. </description>
-			<a10:updated>2022-08-25T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7281491</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7281491</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>APPROVAZIONE SCHEMA DEL DOCUMENTO UNICO DI PROGRAMMAZIONE DUP 2023/2025. </description>
 			<a10:updated>2022-08-25T00:00:00Z</a10:updated>
 		</item>
 	</channel>
