@@ -5,8 +5,16 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Wed, 28 Sep 2022 12:00:30 Z</lastBuildDate>
+		<lastBuildDate>Wed, 28 Sep 2022 14:00:31 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7341408</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7341408</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>INTERVENTO DI MIGLIORAMENTO SISMICO ED EFFICIENTAMENTO ENERGETICO DEL FABBRICATO DI EDILIZIA RESIDENZIALE PUBBLICA DI VIA FIUME, 1/3. - INTERVENTO FINANZIATO CON FONDO COMPLEMENTARE AL PNRR - SICURO, VERDE E SOCIALE:RIQUALIFICAZIONE DELL’EDILIZIA RESIDENZIALE PUBBLICA. ASSUNZIONE IMPEGNO DI SPESA PER INTEGRAZIONE INCARICO PROFESSIONALE PER LA PROGETTAZIONE DEFINITIVO-ESECUTIVA, COORDINAMENTO DELLA SICUREZZA NELLE FASI DI PROGETTAZIONE ED ESECUZIONE LAVORI E DIREZIONE LAVORI - G49J21015890001 – SMART CIG: Z5437D8B5F </description>
+			<a10:updated>2022-09-28T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7339273</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7339273</link>
@@ -797,14 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>VILLE APERTE 2022 - VILLA CUSANI TRAVERSI TITTONI - EDIZIONE AUTUNNALE </description>
-			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297554</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297554</link>
-			<category>ORDINANZE ORDINANZA</category>
-			<title>ORDINANZE ORDINANZA</title>
-			<description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN VIA MARSALA (RISERVA POSTO AUTO A PERSONE DISABILI) </description>
 			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
