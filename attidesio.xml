@@ -5,8 +5,24 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 29 Sep 2022 08:00:29 Z</lastBuildDate>
+		<lastBuildDate>Thu, 29 Sep 2022 10:00:32 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7342604</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7342604</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE CON RISERVA DI POSTI AUTO NEL PARCHEGGIO ANTISTANTE IL PALAZZO COMUNALE IN PIAZZA GIOVANNI PAOLO II° </description>
+			<a10:updated>2022-09-29T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7342602</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7342602</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>ORDINANZA A CARATTERE TEMPORANEO ISTITUZIONE DELLA “ZONA A TRAFFICO LIMITATO” NEI GIORNI DELLA SAGRA DI DESIO . </description>
+			<a10:updated>2022-09-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7341408</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7341408</link>
@@ -789,22 +805,6 @@
 			<category>DELIBERE DELIBERE DI GIUNTA</category>
 			<title>DELIBERE DELIBERE DI GIUNTA</title>
 			<description>APPROVAZIONE ACCORDO DI PARTENARIATO, PROGETTO E RELATIVI ALLEGATI PER LA PARTECIPAZIONE DEL COMUNE DI DESIO AL BANDO DI REGIONE LOMBARDIA RELATIVO ALLO “SVILUPPO DEI DISTRETTI DEL COMMERCIO 2022-2024” DI CUI ALLA D.G.R. 28 MARZO 2022, N. 6182. </description>
-			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297558</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297558</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>APPROVAZIONE DELLA BOZZA DI CONVENZIONE QUADRO TRA IL COMUNE DI DESIO E IL POLITECNICO DI MILANO - DIPARTIMENTO DI ARCHITETTURA, INGEGNERIA DELLE COSTRUZIONI E AMBIENTE COSTRUITO (DABC), PER COLLABORAZIONE DI RICERCA A SUPPORTO DELL'AGGIORNAMENTO DEGLI STRUMENTI DI PROGRAMMAZIONE E PIANIFICAZIONE COMUNALE </description>
-			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297556</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297556</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>VILLE APERTE 2022 - VILLA CUSANI TRAVERSI TITTONI - EDIZIONE AUTUNNALE </description>
 			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
