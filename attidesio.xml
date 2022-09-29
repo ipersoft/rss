@@ -5,8 +5,32 @@
 		<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio</link>
 		<description>Feed Atti Desio by Ipersoft</description>
 		<language>it-it</language>
-		<lastBuildDate>Thu, 29 Sep 2022 10:00:32 Z</lastBuildDate>
+		<lastBuildDate>Thu, 29 Sep 2022 12:00:31 Z</lastBuildDate>
 		<a10:id>http://feeds.feedburner.com/attidesio</a10:id>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7343177</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7343177</link>
+			<category>ORDINANZE ORDINANZA</category>
+			<title>ORDINANZE ORDINANZA</title>
+			<description>INGIUNZIONE DI RIMESSA IN PRISTINO DELLO STATO LEGITTIMO DEI LUOGHI, MEDIANTE DEMOLIZIONE DI OPERE ESEGUITE IN ASSENZA DI TITOLO EDILIZIO </description>
+			<a10:updated>2022-09-29T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7343045</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7343045</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>SCUOLE INFANZIA PARITARIE - CAMPUS ESTIVI 2022 - IMPEGNO DI SPESA </description>
+			<a10:updated>2022-09-29T00:00:00Z</a10:updated>
+		</item>
+		<item>
+			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7343043</guid>
+			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7343043</link>
+			<category>DETERMINAZIONE DEL DIRIGENTE</category>
+			<title>DETERMINAZIONE DEL DIRIGENTE</title>
+			<description>RIMBORSO SPESE DI MISSIONE AL PERSONALE DIPENDENTE – LIQUIDAZIONE 3° (TERZO) TRIMESTRE 2022 (EURO 123,65) E LIQUIDAZIONE RICHIESTA RIMBORSO TARDIVO DI MAGGIO 2022 </description>
+			<a10:updated>2022-09-29T00:00:00Z</a10:updated>
+		</item>
 		<item>
 			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7342604</guid>
 			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7342604</link>
@@ -781,30 +805,6 @@
 			<category>ORDINANZE ORDINANZA</category>
 			<title>ORDINANZE ORDINANZA</title>
 			<description>ORDINANZA A CARATTERE TEMPORANEO DISCIPLINA DELLA CIRCOLAZIONE STRADALE ED OCCUPAZIONE DI SPAZI ED AREE PUBBLICHE IN VIA TAGLIABUE (PRESSO CANTIERE STRADALE IMPRESA STUCCHI) </description>
-			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297564</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297564</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>AUTORIZZAZIONE AL SINDACO ALLA SOTTOSCRIZIONE DELL’ ACCORDO DI TRANSAZIONE PER DIRIMERE IL CONTENZIOSO PENDENTE DINANZI AL GIUDICE DI PACE DI MONZA – REG- N. 5409/2021 </description>
-			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297562</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297562</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>APPROVAZIONE PROTOCOLLO OPERATIVO PER LA REALIZZAZIONE E LA GESTIONE DELL’OBIETTIVO DEL PIANO DI ZONA 2021-2023 “PROGETTO SPORTELLO SI (SUPPORTO INFORMATICO)” </description>
-			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
-		</item>
-		<item>
-			<guid isPermaLink="true">http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297560</guid>
-			<link>http://desio.trasparenza-valutazione-merito.it/web/albo/albo-pretorio/-/papca/display/7297560</link>
-			<category>DELIBERE DELIBERE DI GIUNTA</category>
-			<title>DELIBERE DELIBERE DI GIUNTA</title>
-			<description>APPROVAZIONE ACCORDO DI PARTENARIATO, PROGETTO E RELATIVI ALLEGATI PER LA PARTECIPAZIONE DEL COMUNE DI DESIO AL BANDO DI REGIONE LOMBARDIA RELATIVO ALLO “SVILUPPO DEI DISTRETTI DEL COMMERCIO 2022-2024” DI CUI ALLA D.G.R. 28 MARZO 2022, N. 6182. </description>
 			<a10:updated>2022-09-05T00:00:00Z</a10:updated>
 		</item>
 	</channel>
